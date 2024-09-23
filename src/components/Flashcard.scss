@@ -75,6 +75,14 @@ button {
     width: 90%; // Ajusta el ancho al 90% de la pantalla
     font-size: 1.2rem; // Reduce el tamaño de fuente en móviles
   }
+  .controls {
+    width: 100%;
+  }
+  .types {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
 }
 
 // Tablets (ancho entre 601px y 900px)
@@ -90,11 +98,5 @@ button {
   .flashcard {
     width: 600px; // Ancho fijo para pantallas grandes
     font-size: 1.5rem;
-  }
-
-  .types {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 8px;
   }
 }
