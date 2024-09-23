@@ -1,0 +1,2002 @@
+[
+  {
+    "word": "doctor",
+    "simple_sentence": "It's important to maintain good doctor.",
+    "complex_sentence": "The practice of maintaining doctor involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 1
+  },
+  {
+    "word": "nurse",
+    "simple_sentence": "It's important to maintain good nurse.",
+    "complex_sentence": "The practice of maintaining nurse involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 2
+  },
+  {
+    "word": "therapist",
+    "simple_sentence": "It's important to maintain good therapist.",
+    "complex_sentence": "The practice of maintaining therapist involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 3
+  },
+  {
+    "word": "surgeon",
+    "simple_sentence": "It's important to maintain good surgeon.",
+    "complex_sentence": "The practice of maintaining surgeon involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 4
+  },
+  {
+    "word": "dentist",
+    "simple_sentence": "It's important to maintain good dentist.",
+    "complex_sentence": "The practice of maintaining dentist involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 5
+  },
+  {
+    "word": "pharmacist",
+    "simple_sentence": "It's important to maintain good pharmacist.",
+    "complex_sentence": "The practice of maintaining pharmacist involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 6
+  },
+  {
+    "word": "paramedic",
+    "simple_sentence": "It's important to maintain good paramedic.",
+    "complex_sentence": "The practice of maintaining paramedic involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 7
+  },
+  {
+    "word": "chiropractor",
+    "simple_sentence": "It's important to maintain good chiropractor.",
+    "complex_sentence": "The practice of maintaining chiropractor involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 8
+  },
+  {
+    "word": "optometrist",
+    "simple_sentence": "It's important to maintain good optometrist.",
+    "complex_sentence": "The practice of maintaining optometrist involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 9
+  },
+  {
+    "word": "dermatologist",
+    "simple_sentence": "It's important to maintain good dermatologist.",
+    "complex_sentence": "The practice of maintaining dermatologist involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 10
+  },
+  {
+    "word": "pediatrician",
+    "simple_sentence": "It's important to maintain good pediatrician.",
+    "complex_sentence": "The practice of maintaining pediatrician involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 11
+  },
+  {
+    "word": "cardiologist",
+    "simple_sentence": "It's important to maintain good cardiologist.",
+    "complex_sentence": "The practice of maintaining cardiologist involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 12
+  },
+  {
+    "word": "neurologist",
+    "simple_sentence": "It's important to maintain good neurologist.",
+    "complex_sentence": "The practice of maintaining neurologist involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 13
+  },
+  {
+    "word": "psychiatrist",
+    "simple_sentence": "It's important to maintain good psychiatrist.",
+    "complex_sentence": "The practice of maintaining psychiatrist involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 14
+  },
+  {
+    "word": "psychologist",
+    "simple_sentence": "It's important to maintain good psychologist.",
+    "complex_sentence": "The practice of maintaining psychologist involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 15
+  },
+  {
+    "word": "nutritionist",
+    "simple_sentence": "It's important to maintain good nutritionist.",
+    "complex_sentence": "The practice of maintaining nutritionist involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 16
+  },
+  {
+    "word": "dietitian",
+    "simple_sentence": "It's important to maintain good dietitian.",
+    "complex_sentence": "The practice of maintaining dietitian involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 17
+  },
+  {
+    "word": "personal trainer",
+    "simple_sentence": "It's important to maintain good personal trainer.",
+    "complex_sentence": "The practice of maintaining personal trainer involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 18
+  },
+  {
+    "word": "physical therapist",
+    "simple_sentence": "It's important to maintain good physical therapist.",
+    "complex_sentence": "The practice of maintaining physical therapist involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 19
+  },
+  {
+    "word": "occupational therapist",
+    "simple_sentence": "It's important to maintain good occupational therapist.",
+    "complex_sentence": "The practice of maintaining occupational therapist involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 20
+  },
+  {
+    "word": "general practitioner",
+    "simple_sentence": "It's important to maintain good general practitioner.",
+    "complex_sentence": "The practice of maintaining general practitioner involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 21
+  },
+  {
+    "word": "emergency room",
+    "simple_sentence": "It's important to maintain good emergency room.",
+    "complex_sentence": "The practice of maintaining emergency room involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 22
+  },
+  {
+    "word": "clinic",
+    "simple_sentence": "It's important to maintain good clinic.",
+    "complex_sentence": "The practice of maintaining clinic involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 23
+  },
+  {
+    "word": "hospital",
+    "simple_sentence": "It's important to maintain good hospital.",
+    "complex_sentence": "The practice of maintaining hospital involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 24
+  },
+  {
+    "word": "pharmacy",
+    "simple_sentence": "It's important to maintain good pharmacy.",
+    "complex_sentence": "The practice of maintaining pharmacy involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 25
+  },
+  {
+    "word": "health center",
+    "simple_sentence": "It's important to maintain good health center.",
+    "complex_sentence": "The practice of maintaining health center involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 26
+  },
+  {
+    "word": "medical office",
+    "simple_sentence": "It's important to maintain good medical office.",
+    "complex_sentence": "The practice of maintaining medical office involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 27
+  },
+  {
+    "word": "urgent care",
+    "simple_sentence": "It's important to maintain good urgent care.",
+    "complex_sentence": "The practice of maintaining urgent care involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 28
+  },
+  {
+    "word": "intensive care unit",
+    "simple_sentence": "It's important to maintain good intensive care unit.",
+    "complex_sentence": "The practice of maintaining intensive care unit involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 29
+  },
+  {
+    "word": "operating room",
+    "simple_sentence": "It's important to maintain good operating room.",
+    "complex_sentence": "The practice of maintaining operating room involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 30
+  },
+  {
+    "word": "recovery room",
+    "simple_sentence": "It's important to maintain good recovery room.",
+    "complex_sentence": "The practice of maintaining recovery room involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 31
+  },
+  {
+    "word": "ward",
+    "simple_sentence": "It's important to maintain good ward.",
+    "complex_sentence": "The practice of maintaining ward involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 32
+  },
+  {
+    "word": "private room",
+    "simple_sentence": "It's important to maintain good private room.",
+    "complex_sentence": "The practice of maintaining private room involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 33
+  },
+  {
+    "word": "waiting room",
+    "simple_sentence": "It's important to maintain good waiting room.",
+    "complex_sentence": "The practice of maintaining waiting room involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 34
+  },
+  {
+    "word": "consultation",
+    "simple_sentence": "It's important to maintain good consultation.",
+    "complex_sentence": "The practice of maintaining consultation involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 35
+  },
+  {
+    "word": "examination",
+    "simple_sentence": "It's important to maintain good examination.",
+    "complex_sentence": "The practice of maintaining examination involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 36
+  },
+  {
+    "word": "checkup",
+    "simple_sentence": "It's important to maintain good checkup.",
+    "complex_sentence": "The practice of maintaining checkup involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 37
+  },
+  {
+    "word": "follow-up",
+    "simple_sentence": "It's important to maintain good follow-up.",
+    "complex_sentence": "The practice of maintaining follow-up involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 38
+  },
+  {
+    "word": "diagnosis",
+    "simple_sentence": "It's important to maintain good diagnosis.",
+    "complex_sentence": "The practice of maintaining diagnosis involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 39
+  },
+  {
+    "word": "treatment",
+    "simple_sentence": "It's important to maintain good treatment.",
+    "complex_sentence": "The practice of maintaining treatment involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 40
+  },
+  {
+    "word": "therapy",
+    "simple_sentence": "It's important to maintain good therapy.",
+    "complex_sentence": "The practice of maintaining therapy involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 41
+  },
+  {
+    "word": "medication",
+    "simple_sentence": "It's important to maintain good medication.",
+    "complex_sentence": "The practice of maintaining medication involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 42
+  },
+  {
+    "word": "prescription",
+    "simple_sentence": "It's important to maintain good prescription.",
+    "complex_sentence": "The practice of maintaining prescription involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 43
+  },
+  {
+    "word": "painkiller",
+    "simple_sentence": "It's important to maintain good painkiller.",
+    "complex_sentence": "The practice of maintaining painkiller involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 44
+  },
+  {
+    "word": "antibiotic",
+    "simple_sentence": "It's important to maintain good antibiotic.",
+    "complex_sentence": "The practice of maintaining antibiotic involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 45
+  },
+  {
+    "word": "antidepressant",
+    "simple_sentence": "It's important to maintain good antidepressant.",
+    "complex_sentence": "The practice of maintaining antidepressant involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 46
+  },
+  {
+    "word": "antihistamine",
+    "simple_sentence": "It's important to maintain good antihistamine.",
+    "complex_sentence": "The practice of maintaining antihistamine involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 47
+  },
+  {
+    "word": "vaccine",
+    "simple_sentence": "It's important to maintain good vaccine.",
+    "complex_sentence": "The practice of maintaining vaccine involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 48
+  },
+  {
+    "word": "injection",
+    "simple_sentence": "It's important to maintain good injection.",
+    "complex_sentence": "The practice of maintaining injection involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 49
+  },
+  {
+    "word": "syringe",
+    "simple_sentence": "It's important to maintain good syringe.",
+    "complex_sentence": "The practice of maintaining syringe involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 50
+  },
+  {
+    "word": "bandage",
+    "simple_sentence": "It's important to maintain good bandage.",
+    "complex_sentence": "The practice of maintaining bandage involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 51
+  },
+  {
+    "word": "gauze",
+    "simple_sentence": "It's important to maintain good gauze.",
+    "complex_sentence": "The practice of maintaining gauze involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 52
+  },
+  {
+    "word": "splint",
+    "simple_sentence": "It's important to maintain good splint.",
+    "complex_sentence": "The practice of maintaining splint involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 53
+  },
+  {
+    "word": "cast",
+    "simple_sentence": "It's important to maintain good cast.",
+    "complex_sentence": "The practice of maintaining cast involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 54
+  },
+  {
+    "word": "crutches",
+    "simple_sentence": "It's important to maintain good crutches.",
+    "complex_sentence": "The practice of maintaining crutches involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 55
+  },
+  {
+    "word": "wheelchair",
+    "simple_sentence": "It's important to maintain good wheelchair.",
+    "complex_sentence": "The practice of maintaining wheelchair involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 56
+  },
+  {
+    "word": "hearing aid",
+    "simple_sentence": "It's important to maintain good hearing aid.",
+    "complex_sentence": "The practice of maintaining hearing aid involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 57
+  },
+  {
+    "word": "prosthetic",
+    "simple_sentence": "It's important to maintain good prosthetic.",
+    "complex_sentence": "The practice of maintaining prosthetic involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 58
+  },
+  {
+    "word": "cane",
+    "simple_sentence": "It's important to maintain good cane.",
+    "complex_sentence": "The practice of maintaining cane involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 59
+  },
+  {
+    "word": "walker",
+    "simple_sentence": "It's important to maintain good walker.",
+    "complex_sentence": "The practice of maintaining walker involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 60
+  },
+  {
+    "word": "stretcher",
+    "simple_sentence": "It's important to maintain good stretcher.",
+    "complex_sentence": "The practice of maintaining stretcher involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 61
+  },
+  {
+    "word": "IV drip",
+    "simple_sentence": "It's important to maintain good IV drip.",
+    "complex_sentence": "The practice of maintaining IV drip involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 62
+  },
+  {
+    "word": "blood pressure",
+    "simple_sentence": "It's important to maintain good blood pressure.",
+    "complex_sentence": "The practice of maintaining blood pressure involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 63
+  },
+  {
+    "word": "pulse",
+    "simple_sentence": "It's important to maintain good pulse.",
+    "complex_sentence": "The practice of maintaining pulse involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 64
+  },
+  {
+    "word": "temperature",
+    "simple_sentence": "It's important to maintain good temperature.",
+    "complex_sentence": "The practice of maintaining temperature involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 65
+  },
+  {
+    "word": "heart rate",
+    "simple_sentence": "It's important to maintain good heart rate.",
+    "complex_sentence": "The practice of maintaining heart rate involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 66
+  },
+  {
+    "word": "respiratory rate",
+    "simple_sentence": "It's important to maintain good respiratory rate.",
+    "complex_sentence": "The practice of maintaining respiratory rate involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 67
+  },
+  {
+    "word": "oxygen saturation",
+    "simple_sentence": "It's important to maintain good oxygen saturation.",
+    "complex_sentence": "The practice of maintaining oxygen saturation involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 68
+  },
+  {
+    "word": "X-ray",
+    "simple_sentence": "It's important to maintain good X-ray.",
+    "complex_sentence": "The practice of maintaining X-ray involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 69
+  },
+  {
+    "word": "MRI",
+    "simple_sentence": "It's important to maintain good MRI.",
+    "complex_sentence": "The practice of maintaining MRI involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 70
+  },
+  {
+    "word": "CT scan",
+    "simple_sentence": "It's important to maintain good CT scan.",
+    "complex_sentence": "The practice of maintaining CT scan involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 71
+  },
+  {
+    "word": "ultrasound",
+    "simple_sentence": "It's important to maintain good ultrasound.",
+    "complex_sentence": "The practice of maintaining ultrasound involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 72
+  },
+  {
+    "word": "ECG",
+    "simple_sentence": "It's important to maintain good ECG.",
+    "complex_sentence": "The practice of maintaining ECG involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 73
+  },
+  {
+    "word": "EKG",
+    "simple_sentence": "It's important to maintain good EKG.",
+    "complex_sentence": "The practice of maintaining EKG involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 74
+  },
+  {
+    "word": "blood test",
+    "simple_sentence": "It's important to maintain good blood test.",
+    "complex_sentence": "The practice of maintaining blood test involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 75
+  },
+  {
+    "word": "urine test",
+    "simple_sentence": "It's important to maintain good urine test.",
+    "complex_sentence": "The practice of maintaining urine test involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 76
+  },
+  {
+    "word": "biopsy",
+    "simple_sentence": "It's important to maintain good biopsy.",
+    "complex_sentence": "The practice of maintaining biopsy involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 77
+  },
+  {
+    "word": "allergy test",
+    "simple_sentence": "It's important to maintain good allergy test.",
+    "complex_sentence": "The practice of maintaining allergy test involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 78
+  },
+  {
+    "word": "vital signs",
+    "simple_sentence": "It's important to maintain good vital signs.",
+    "complex_sentence": "The practice of maintaining vital signs involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 79
+  },
+  {
+    "word": "immune system",
+    "simple_sentence": "It's important to maintain good immune system.",
+    "complex_sentence": "The practice of maintaining immune system involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 80
+  },
+  {
+    "word": "respiratory system",
+    "simple_sentence": "It's important to maintain good respiratory system.",
+    "complex_sentence": "The practice of maintaining respiratory system involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 81
+  },
+  {
+    "word": "cardiovascular system",
+    "simple_sentence": "It's important to maintain good cardiovascular system.",
+    "complex_sentence": "The practice of maintaining cardiovascular system involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 82
+  },
+  {
+    "word": "nervous system",
+    "simple_sentence": "It's important to maintain good nervous system.",
+    "complex_sentence": "The practice of maintaining nervous system involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 83
+  },
+  {
+    "word": "digestive system",
+    "simple_sentence": "It's important to maintain good digestive system.",
+    "complex_sentence": "The practice of maintaining digestive system involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 84
+  },
+  {
+    "word": "musculoskeletal system",
+    "simple_sentence": "It's important to maintain good musculoskeletal system.",
+    "complex_sentence": "The practice of maintaining musculoskeletal system involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 85
+  },
+  {
+    "word": "reproductive system",
+    "simple_sentence": "It's important to maintain good reproductive system.",
+    "complex_sentence": "The practice of maintaining reproductive system involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 86
+  },
+  {
+    "word": "endocrine system",
+    "simple_sentence": "It's important to maintain good endocrine system.",
+    "complex_sentence": "The practice of maintaining endocrine system involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 87
+  },
+  {
+    "word": "circulatory system",
+    "simple_sentence": "It's important to maintain good circulatory system.",
+    "complex_sentence": "The practice of maintaining circulatory system involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 88
+  },
+  {
+    "word": "lymphatic system",
+    "simple_sentence": "It's important to maintain good lymphatic system.",
+    "complex_sentence": "The practice of maintaining lymphatic system involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 89
+  },
+  {
+    "word": "infection",
+    "simple_sentence": "It's important to maintain good infection.",
+    "complex_sentence": "The practice of maintaining infection involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 90
+  },
+  {
+    "word": "virus",
+    "simple_sentence": "It's important to maintain good virus.",
+    "complex_sentence": "The practice of maintaining virus involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 91
+  },
+  {
+    "word": "bacteria",
+    "simple_sentence": "It's important to maintain good bacteria.",
+    "complex_sentence": "The practice of maintaining bacteria involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 92
+  },
+  {
+    "word": "fungus",
+    "simple_sentence": "It's important to maintain good fungus.",
+    "complex_sentence": "The practice of maintaining fungus involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 93
+  },
+  {
+    "word": "inflammation",
+    "simple_sentence": "It's important to maintain good inflammation.",
+    "complex_sentence": "The practice of maintaining inflammation involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 94
+  },
+  {
+    "word": "allergy",
+    "simple_sentence": "It's important to maintain good allergy.",
+    "complex_sentence": "The practice of maintaining allergy involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 95
+  },
+  {
+    "word": "cold",
+    "simple_sentence": "It's important to maintain good cold.",
+    "complex_sentence": "The practice of maintaining cold involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 96
+  },
+  {
+    "word": "flu",
+    "simple_sentence": "It's important to maintain good flu.",
+    "complex_sentence": "The practice of maintaining flu involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 97
+  },
+  {
+    "word": "fever",
+    "simple_sentence": "It's important to maintain good fever.",
+    "complex_sentence": "The practice of maintaining fever involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 98
+  },
+  {
+    "word": "cough",
+    "simple_sentence": "It's important to maintain good cough.",
+    "complex_sentence": "The practice of maintaining cough involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 99
+  },
+  {
+    "word": "sneeze",
+    "simple_sentence": "It's important to maintain good sneeze.",
+    "complex_sentence": "The practice of maintaining sneeze involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 100
+  },
+  {
+    "word": "headache",
+    "simple_sentence": "It's important to maintain good headache.",
+    "complex_sentence": "The practice of maintaining headache involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 101
+  },
+  {
+    "word": "migraine",
+    "simple_sentence": "It's important to maintain good migraine.",
+    "complex_sentence": "The practice of maintaining migraine involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 102
+  },
+  {
+    "word": "back pain",
+    "simple_sentence": "It's important to maintain good back pain.",
+    "complex_sentence": "The practice of maintaining back pain involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 103
+  },
+  {
+    "word": "joint pain",
+    "simple_sentence": "It's important to maintain good joint pain.",
+    "complex_sentence": "The practice of maintaining joint pain involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 104
+  },
+  {
+    "word": "muscle pain",
+    "simple_sentence": "It's important to maintain good muscle pain.",
+    "complex_sentence": "The practice of maintaining muscle pain involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 105
+  },
+  {
+    "word": "sore throat",
+    "simple_sentence": "It's important to maintain good sore throat.",
+    "complex_sentence": "The practice of maintaining sore throat involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 106
+  },
+  {
+    "word": "runny nose",
+    "simple_sentence": "It's important to maintain good runny nose.",
+    "complex_sentence": "The practice of maintaining runny nose involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 107
+  },
+  {
+    "word": "stomach ache",
+    "simple_sentence": "It's important to maintain good stomach ache.",
+    "complex_sentence": "The practice of maintaining stomach ache involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 108
+  },
+  {
+    "word": "nausea",
+    "simple_sentence": "It's important to maintain good nausea.",
+    "complex_sentence": "The practice of maintaining nausea involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 109
+  },
+  {
+    "word": "vomiting",
+    "simple_sentence": "It's important to maintain good vomiting.",
+    "complex_sentence": "The practice of maintaining vomiting involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 110
+  },
+  {
+    "word": "diarrhea",
+    "simple_sentence": "It's important to maintain good diarrhea.",
+    "complex_sentence": "The practice of maintaining diarrhea involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 111
+  },
+  {
+    "word": "constipation",
+    "simple_sentence": "It's important to maintain good constipation.",
+    "complex_sentence": "The practice of maintaining constipation involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 112
+  },
+  {
+    "word": "fatigue",
+    "simple_sentence": "It's important to maintain good fatigue.",
+    "complex_sentence": "The practice of maintaining fatigue involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 113
+  },
+  {
+    "word": "dizziness",
+    "simple_sentence": "It's important to maintain good dizziness.",
+    "complex_sentence": "The practice of maintaining dizziness involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 114
+  },
+  {
+    "word": "fainting",
+    "simple_sentence": "It's important to maintain good fainting.",
+    "complex_sentence": "The practice of maintaining fainting involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 115
+  },
+  {
+    "word": "weakness",
+    "simple_sentence": "It's important to maintain good weakness.",
+    "complex_sentence": "The practice of maintaining weakness involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 116
+  },
+  {
+    "word": "swelling",
+    "simple_sentence": "It's important to maintain good swelling.",
+    "complex_sentence": "The practice of maintaining swelling involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 117
+  },
+  {
+    "word": "rash",
+    "simple_sentence": "It's important to maintain good rash.",
+    "complex_sentence": "The practice of maintaining rash involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 118
+  },
+  {
+    "word": "itching",
+    "simple_sentence": "It's important to maintain good itching.",
+    "complex_sentence": "The practice of maintaining itching involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 119
+  },
+  {
+    "word": "bruising",
+    "simple_sentence": "It's important to maintain good bruising.",
+    "complex_sentence": "The practice of maintaining bruising involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 120
+  },
+  {
+    "word": "bleeding",
+    "simple_sentence": "It's important to maintain good bleeding.",
+    "complex_sentence": "The practice of maintaining bleeding involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 121
+  },
+  {
+    "word": "fracture",
+    "simple_sentence": "It's important to maintain good fracture.",
+    "complex_sentence": "The practice of maintaining fracture involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 122
+  },
+  {
+    "word": "sprain",
+    "simple_sentence": "It's important to maintain good sprain.",
+    "complex_sentence": "The practice of maintaining sprain involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 123
+  },
+  {
+    "word": "strain",
+    "simple_sentence": "It's important to maintain good strain.",
+    "complex_sentence": "The practice of maintaining strain involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 124
+  },
+  {
+    "word": "dislocation",
+    "simple_sentence": "It's important to maintain good dislocation.",
+    "complex_sentence": "The practice of maintaining dislocation involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 125
+  },
+  {
+    "word": "burn",
+    "simple_sentence": "It's important to maintain good burn.",
+    "complex_sentence": "The practice of maintaining burn involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 126
+  },
+  {
+    "word": "cut",
+    "simple_sentence": "It's important to maintain good cut.",
+    "complex_sentence": "The practice of maintaining cut involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 127
+  },
+  {
+    "word": "wound",
+    "simple_sentence": "It's important to maintain good wound.",
+    "complex_sentence": "The practice of maintaining wound involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 128
+  },
+  {
+    "word": "scar",
+    "simple_sentence": "It's important to maintain good scar.",
+    "complex_sentence": "The practice of maintaining scar involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 129
+  },
+  {
+    "word": "cancer",
+    "simple_sentence": "It's important to maintain good cancer.",
+    "complex_sentence": "The practice of maintaining cancer involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 130
+  },
+  {
+    "word": "tumor",
+    "simple_sentence": "It's important to maintain good tumor.",
+    "complex_sentence": "The practice of maintaining tumor involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 131
+  },
+  {
+    "word": "stroke",
+    "simple_sentence": "It's important to maintain good stroke.",
+    "complex_sentence": "The practice of maintaining stroke involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 132
+  },
+  {
+    "word": "heart attack",
+    "simple_sentence": "It's important to maintain good heart attack.",
+    "complex_sentence": "The practice of maintaining heart attack involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 133
+  },
+  {
+    "word": "diabetes",
+    "simple_sentence": "It's important to maintain good diabetes.",
+    "complex_sentence": "The practice of maintaining diabetes involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 134
+  },
+  {
+    "word": "hypertension",
+    "simple_sentence": "It's important to maintain good hypertension.",
+    "complex_sentence": "The practice of maintaining hypertension involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 135
+  },
+  {
+    "word": "cholesterol",
+    "simple_sentence": "It's important to maintain good cholesterol.",
+    "complex_sentence": "The practice of maintaining cholesterol involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 136
+  },
+  {
+    "word": "obesity",
+    "simple_sentence": "It's important to maintain good obesity.",
+    "complex_sentence": "The practice of maintaining obesity involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 137
+  },
+  {
+    "word": "asthma",
+    "simple_sentence": "It's important to maintain good asthma.",
+    "complex_sentence": "The practice of maintaining asthma involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 138
+  },
+  {
+    "word": "allergies",
+    "simple_sentence": "It's important to maintain good allergies.",
+    "complex_sentence": "The practice of maintaining allergies involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 139
+  },
+  {
+    "word": "arthritis",
+    "simple_sentence": "It's important to maintain good arthritis.",
+    "complex_sentence": "The practice of maintaining arthritis involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 140
+  },
+  {
+    "word": "osteoporosis",
+    "simple_sentence": "It's important to maintain good osteoporosis.",
+    "complex_sentence": "The practice of maintaining osteoporosis involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 141
+  },
+  {
+    "word": "depression",
+    "simple_sentence": "It's important to maintain good depression.",
+    "complex_sentence": "The practice of maintaining depression involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 142
+  },
+  {
+    "word": "anxiety",
+    "simple_sentence": "It's important to maintain good anxiety.",
+    "complex_sentence": "The practice of maintaining anxiety involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 143
+  },
+  {
+    "word": "bipolar disorder",
+    "simple_sentence": "It's important to maintain good bipolar disorder.",
+    "complex_sentence": "The practice of maintaining bipolar disorder involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 144
+  },
+  {
+    "word": "schizophrenia",
+    "simple_sentence": "It's important to maintain good schizophrenia.",
+    "complex_sentence": "The practice of maintaining schizophrenia involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 145
+  },
+  {
+    "word": "ADHD",
+    "simple_sentence": "It's important to maintain good ADHD.",
+    "complex_sentence": "The practice of maintaining ADHD involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 146
+  },
+  {
+    "word": "PTSD",
+    "simple_sentence": "It's important to maintain good PTSD.",
+    "complex_sentence": "The practice of maintaining PTSD involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 147
+  },
+  {
+    "word": "insomnia",
+    "simple_sentence": "It's important to maintain good insomnia.",
+    "complex_sentence": "The practice of maintaining insomnia involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 148
+  },
+  {
+    "word": "sleep apnea",
+    "simple_sentence": "It's important to maintain good sleep apnea.",
+    "complex_sentence": "The practice of maintaining sleep apnea involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 149
+  },
+  {
+    "word": "seizures",
+    "simple_sentence": "It's important to maintain good seizures.",
+    "complex_sentence": "The practice of maintaining seizures involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 150
+  },
+  {
+    "word": "epilepsy",
+    "simple_sentence": "It's important to maintain good epilepsy.",
+    "complex_sentence": "The practice of maintaining epilepsy involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 151
+  },
+  {
+    "word": "autism",
+    "simple_sentence": "It's important to maintain good autism.",
+    "complex_sentence": "The practice of maintaining autism involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 152
+  },
+  {
+    "word": "dementia",
+    "simple_sentence": "It's important to maintain good dementia.",
+    "complex_sentence": "The practice of maintaining dementia involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 153
+  },
+  {
+    "word": "Alzheimer's",
+    "simple_sentence": "It's important to maintain good Alzheimer's.",
+    "complex_sentence": "The practice of maintaining Alzheimer's involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 154
+  },
+  {
+    "word": "Parkinson's",
+    "simple_sentence": "It's important to maintain good Parkinson's.",
+    "complex_sentence": "The practice of maintaining Parkinson's involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 155
+  },
+  {
+    "word": "multiple sclerosis",
+    "simple_sentence": "It's important to maintain good multiple sclerosis.",
+    "complex_sentence": "The practice of maintaining multiple sclerosis involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 156
+  },
+  {
+    "word": "fibromyalgia",
+    "simple_sentence": "It's important to maintain good fibromyalgia.",
+    "complex_sentence": "The practice of maintaining fibromyalgia involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 157
+  },
+  {
+    "word": "chronic pain",
+    "simple_sentence": "It's important to maintain good chronic pain.",
+    "complex_sentence": "The practice of maintaining chronic pain involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 158
+  },
+  {
+    "word": "autoimmune disease",
+    "simple_sentence": "It's important to maintain good autoimmune disease.",
+    "complex_sentence": "The practice of maintaining autoimmune disease involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 159
+  },
+  {
+    "word": "HIV",
+    "simple_sentence": "It's important to maintain good HIV.",
+    "complex_sentence": "The practice of maintaining HIV involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 160
+  },
+  {
+    "word": "AIDS",
+    "simple_sentence": "It's important to maintain good AIDS.",
+    "complex_sentence": "The practice of maintaining AIDS involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 161
+  },
+  {
+    "word": "hepatitis",
+    "simple_sentence": "It's important to maintain good hepatitis.",
+    "complex_sentence": "The practice of maintaining hepatitis involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 162
+  },
+  {
+    "word": "tuberculosis",
+    "simple_sentence": "It's important to maintain good tuberculosis.",
+    "complex_sentence": "The practice of maintaining tuberculosis involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 163
+  },
+  {
+    "word": "malaria",
+    "simple_sentence": "It's important to maintain good malaria.",
+    "complex_sentence": "The practice of maintaining malaria involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 164
+  },
+  {
+    "word": "COVID-19",
+    "simple_sentence": "It's important to maintain good COVID-19.",
+    "complex_sentence": "The practice of maintaining COVID-19 involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 165
+  },
+  {
+    "word": "SARS",
+    "simple_sentence": "It's important to maintain good SARS.",
+    "complex_sentence": "The practice of maintaining SARS involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 166
+  },
+  {
+    "word": "Ebola",
+    "simple_sentence": "It's important to maintain good Ebola.",
+    "complex_sentence": "The practice of maintaining Ebola involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 167
+  },
+  {
+    "word": "Zika",
+    "simple_sentence": "It's important to maintain good Zika.",
+    "complex_sentence": "The practice of maintaining Zika involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 168
+  },
+  {
+    "word": "cholera",
+    "simple_sentence": "It's important to maintain good cholera.",
+    "complex_sentence": "The practice of maintaining cholera involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 169
+  },
+  {
+    "word": "dengue",
+    "simple_sentence": "It's important to maintain good dengue.",
+    "complex_sentence": "The practice of maintaining dengue involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 170
+  },
+  {
+    "word": "yellow fever",
+    "simple_sentence": "It's important to maintain good yellow fever.",
+    "complex_sentence": "The practice of maintaining yellow fever involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 171
+  },
+  {
+    "word": "swine flu",
+    "simple_sentence": "It's important to maintain good swine flu.",
+    "complex_sentence": "The practice of maintaining swine flu involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 172
+  },
+  {
+    "word": "bird flu",
+    "simple_sentence": "It's important to maintain good bird flu.",
+    "complex_sentence": "The practice of maintaining bird flu involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 173
+  },
+  {
+    "word": "vaccination",
+    "simple_sentence": "It's important to maintain good vaccination.",
+    "complex_sentence": "The practice of maintaining vaccination involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 174
+  },
+  {
+    "word": "immunization",
+    "simple_sentence": "It's important to maintain good immunization.",
+    "complex_sentence": "The practice of maintaining immunization involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 175
+  },
+  {
+    "word": "screening",
+    "simple_sentence": "It's important to maintain good screening.",
+    "complex_sentence": "The practice of maintaining screening involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 176
+  },
+  {
+    "word": "preventive care",
+    "simple_sentence": "It's important to maintain good preventive care.",
+    "complex_sentence": "The practice of maintaining preventive care involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 177
+  },
+  {
+    "word": "wellness check",
+    "simple_sentence": "It's important to maintain good wellness check.",
+    "complex_sentence": "The practice of maintaining wellness check involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 178
+  },
+  {
+    "word": "physical exam",
+    "simple_sentence": "It's important to maintain good physical exam.",
+    "complex_sentence": "The practice of maintaining physical exam involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 179
+  },
+  {
+    "word": "annual checkup",
+    "simple_sentence": "It's important to maintain good annual checkup.",
+    "complex_sentence": "The practice of maintaining annual checkup involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 180
+  },
+  {
+    "word": "blood work",
+    "simple_sentence": "It's important to maintain good blood work.",
+    "complex_sentence": "The practice of maintaining blood work involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 181
+  },
+  {
+    "word": "mental health",
+    "simple_sentence": "It's important to maintain good mental health.",
+    "complex_sentence": "The practice of maintaining mental health involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 182
+  },
+  {
+    "word": "counseling",
+    "simple_sentence": "It's important to maintain good counseling.",
+    "complex_sentence": "The practice of maintaining counseling involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 183
+  },
+  {
+    "word": "psychotherapy",
+    "simple_sentence": "It's important to maintain good psychotherapy.",
+    "complex_sentence": "The practice of maintaining psychotherapy involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 184
+  },
+  {
+    "word": "cognitive behavioral therapy",
+    "simple_sentence": "It's important to maintain good cognitive behavioral therapy.",
+    "complex_sentence": "The practice of maintaining cognitive behavioral therapy involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 185
+  },
+  {
+    "word": "mindfulness",
+    "simple_sentence": "It's important to maintain good mindfulness.",
+    "complex_sentence": "The practice of maintaining mindfulness involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 186
+  },
+  {
+    "word": "meditation",
+    "simple_sentence": "It's important to maintain good meditation.",
+    "complex_sentence": "The practice of maintaining meditation involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 187
+  },
+  {
+    "word": "yoga",
+    "simple_sentence": "It's important to maintain good yoga.",
+    "complex_sentence": "The practice of maintaining yoga involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 188
+  },
+  {
+    "word": "Pilates",
+    "simple_sentence": "It's important to maintain good Pilates.",
+    "complex_sentence": "The practice of maintaining Pilates involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 189
+  },
+  {
+    "word": "aerobics",
+    "simple_sentence": "It's important to maintain good aerobics.",
+    "complex_sentence": "The practice of maintaining aerobics involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 190
+  },
+  {
+    "word": "strength training",
+    "simple_sentence": "It's important to maintain good strength training.",
+    "complex_sentence": "The practice of maintaining strength training involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 191
+  },
+  {
+    "word": "weightlifting",
+    "simple_sentence": "It's important to maintain good weightlifting.",
+    "complex_sentence": "The practice of maintaining weightlifting involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 192
+  },
+  {
+    "word": "cardio",
+    "simple_sentence": "It's important to maintain good cardio.",
+    "complex_sentence": "The practice of maintaining cardio involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 193
+  },
+  {
+    "word": "cycling",
+    "simple_sentence": "It's important to maintain good cycling.",
+    "complex_sentence": "The practice of maintaining cycling involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 194
+  },
+  {
+    "word": "running",
+    "simple_sentence": "It's important to maintain good running.",
+    "complex_sentence": "The practice of maintaining running involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 195
+  },
+  {
+    "word": "swimming",
+    "simple_sentence": "It's important to maintain good swimming.",
+    "complex_sentence": "The practice of maintaining swimming involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 196
+  },
+  {
+    "word": "walking",
+    "simple_sentence": "It's important to maintain good walking.",
+    "complex_sentence": "The practice of maintaining walking involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 197
+  },
+  {
+    "word": "hiking",
+    "simple_sentence": "It's important to maintain good hiking.",
+    "complex_sentence": "The practice of maintaining hiking involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 198
+  },
+  {
+    "word": "stretching",
+    "simple_sentence": "It's important to maintain good stretching.",
+    "complex_sentence": "The practice of maintaining stretching involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 199
+  },
+  {
+    "word": "relaxation",
+    "simple_sentence": "It's important to maintain good relaxation.",
+    "complex_sentence": "The practice of maintaining relaxation involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 200
+  },
+  {
+    "word": "breathing exercises",
+    "simple_sentence": "It's important to maintain good breathing exercises.",
+    "complex_sentence": "The practice of maintaining breathing exercises involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 201
+  },
+  {
+    "word": "massage",
+    "simple_sentence": "It's important to maintain good massage.",
+    "complex_sentence": "The practice of maintaining massage involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 202
+  },
+  {
+    "word": "acupuncture",
+    "simple_sentence": "It's important to maintain good acupuncture.",
+    "complex_sentence": "The practice of maintaining acupuncture involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 203
+  },
+  {
+    "word": "chiropractic care",
+    "simple_sentence": "It's important to maintain good chiropractic care.",
+    "complex_sentence": "The practice of maintaining chiropractic care involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 204
+  },
+  {
+    "word": "herbal medicine",
+    "simple_sentence": "It's important to maintain good herbal medicine.",
+    "complex_sentence": "The practice of maintaining herbal medicine involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 205
+  },
+  {
+    "word": "holistic medicine",
+    "simple_sentence": "It's important to maintain good holistic medicine.",
+    "complex_sentence": "The practice of maintaining holistic medicine involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 206
+  },
+  {
+    "word": "alternative medicine",
+    "simple_sentence": "It's important to maintain good alternative medicine.",
+    "complex_sentence": "The practice of maintaining alternative medicine involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 207
+  },
+  {
+    "word": "homeopathy",
+    "simple_sentence": "It's important to maintain good homeopathy.",
+    "complex_sentence": "The practice of maintaining homeopathy involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 208
+  },
+  {
+    "word": "naturopathy",
+    "simple_sentence": "It's important to maintain good naturopathy.",
+    "complex_sentence": "The practice of maintaining naturopathy involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 209
+  },
+  {
+    "word": "aromatherapy",
+    "simple_sentence": "It's important to maintain good aromatherapy.",
+    "complex_sentence": "The practice of maintaining aromatherapy involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 210
+  },
+  {
+    "word": "essential oils",
+    "simple_sentence": "It's important to maintain good essential oils.",
+    "complex_sentence": "The practice of maintaining essential oils involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 211
+  },
+  {
+    "word": "nutrition",
+    "simple_sentence": "It's important to maintain good nutrition.",
+    "complex_sentence": "The practice of maintaining nutrition involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 212
+  },
+  {
+    "word": "balanced diet",
+    "simple_sentence": "It's important to maintain good balanced diet.",
+    "complex_sentence": "The practice of maintaining balanced diet involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 213
+  },
+  {
+    "word": "calories",
+    "simple_sentence": "It's important to maintain good calories.",
+    "complex_sentence": "The practice of maintaining calories involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 214
+  },
+  {
+    "word": "protein",
+    "simple_sentence": "It's important to maintain good protein.",
+    "complex_sentence": "The practice of maintaining protein involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 215
+  },
+  {
+    "word": "carbohydrates",
+    "simple_sentence": "It's important to maintain good carbohydrates.",
+    "complex_sentence": "The practice of maintaining carbohydrates involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 216
+  },
+  {
+    "word": "fats",
+    "simple_sentence": "It's important to maintain good fats.",
+    "complex_sentence": "The practice of maintaining fats involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 217
+  },
+  {
+    "word": "fiber",
+    "simple_sentence": "It's important to maintain good fiber.",
+    "complex_sentence": "The practice of maintaining fiber involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 218
+  },
+  {
+    "word": "vitamins",
+    "simple_sentence": "It's important to maintain good vitamins.",
+    "complex_sentence": "The practice of maintaining vitamins involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 219
+  },
+  {
+    "word": "minerals",
+    "simple_sentence": "It's important to maintain good minerals.",
+    "complex_sentence": "The practice of maintaining minerals involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 220
+  },
+  {
+    "word": "hydration",
+    "simple_sentence": "It's important to maintain good hydration.",
+    "complex_sentence": "The practice of maintaining hydration involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 221
+  },
+  {
+    "word": "water intake",
+    "simple_sentence": "It's important to maintain good water intake.",
+    "complex_sentence": "The practice of maintaining water intake involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 222
+  },
+  {
+    "word": "dehydration",
+    "simple_sentence": "It's important to maintain good dehydration.",
+    "complex_sentence": "The practice of maintaining dehydration involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 223
+  },
+  {
+    "word": "electrolytes",
+    "simple_sentence": "It's important to maintain good electrolytes.",
+    "complex_sentence": "The practice of maintaining electrolytes involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 224
+  },
+  {
+    "word": "supplements",
+    "simple_sentence": "It's important to maintain good supplements.",
+    "complex_sentence": "The practice of maintaining supplements involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 225
+  },
+  {
+    "word": "multivitamins",
+    "simple_sentence": "It's important to maintain good multivitamins.",
+    "complex_sentence": "The practice of maintaining multivitamins involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 226
+  },
+  {
+    "word": "probiotics",
+    "simple_sentence": "It's important to maintain good probiotics.",
+    "complex_sentence": "The practice of maintaining probiotics involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 227
+  },
+  {
+    "word": "prebiotics",
+    "simple_sentence": "It's important to maintain good prebiotics.",
+    "complex_sentence": "The practice of maintaining prebiotics involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 228
+  },
+  {
+    "word": "gut health",
+    "simple_sentence": "It's important to maintain good gut health.",
+    "complex_sentence": "The practice of maintaining gut health involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 229
+  },
+  {
+    "word": "immune health",
+    "simple_sentence": "It's important to maintain good immune health.",
+    "complex_sentence": "The practice of maintaining immune health involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 230
+  },
+  {
+    "word": "skin care",
+    "simple_sentence": "It's important to maintain good skin care.",
+    "complex_sentence": "The practice of maintaining skin care involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 231
+  },
+  {
+    "word": "hair care",
+    "simple_sentence": "It's important to maintain good hair care.",
+    "complex_sentence": "The practice of maintaining hair care involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 232
+  },
+  {
+    "word": "oral hygiene",
+    "simple_sentence": "It's important to maintain good oral hygiene.",
+    "complex_sentence": "The practice of maintaining oral hygiene involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 233
+  },
+  {
+    "word": "dental care",
+    "simple_sentence": "It's important to maintain good dental care.",
+    "complex_sentence": "The practice of maintaining dental care involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 234
+  },
+  {
+    "word": "brushing",
+    "simple_sentence": "It's important to maintain good brushing.",
+    "complex_sentence": "The practice of maintaining brushing involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 235
+  },
+  {
+    "word": "flossing",
+    "simple_sentence": "It's important to maintain good flossing.",
+    "complex_sentence": "The practice of maintaining flossing involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 236
+  },
+  {
+    "word": "mouthwash",
+    "simple_sentence": "It's important to maintain good mouthwash.",
+    "complex_sentence": "The practice of maintaining mouthwash involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 237
+  },
+  {
+    "word": "toothpaste",
+    "simple_sentence": "It's important to maintain good toothpaste.",
+    "complex_sentence": "The practice of maintaining toothpaste involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 238
+  },
+  {
+    "word": "toothbrush",
+    "simple_sentence": "It's important to maintain good toothbrush.",
+    "complex_sentence": "The practice of maintaining toothbrush involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 239
+  },
+  {
+    "word": "dental floss",
+    "simple_sentence": "It's important to maintain good dental floss.",
+    "complex_sentence": "The practice of maintaining dental floss involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 240
+  },
+  {
+    "word": "fluoride",
+    "simple_sentence": "It's important to maintain good fluoride.",
+    "complex_sentence": "The practice of maintaining fluoride involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 241
+  },
+  {
+    "word": "cavities",
+    "simple_sentence": "It's important to maintain good cavities.",
+    "complex_sentence": "The practice of maintaining cavities involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 242
+  },
+  {
+    "word": "gingivitis",
+    "simple_sentence": "It's important to maintain good gingivitis.",
+    "complex_sentence": "The practice of maintaining gingivitis involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 243
+  },
+  {
+    "word": "periodontitis",
+    "simple_sentence": "It's important to maintain good periodontitis.",
+    "complex_sentence": "The practice of maintaining periodontitis involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 244
+  },
+  {
+    "word": "dental implant",
+    "simple_sentence": "It's important to maintain good dental implant.",
+    "complex_sentence": "The practice of maintaining dental implant involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 245
+  },
+  {
+    "word": "denture",
+    "simple_sentence": "It's important to maintain good denture.",
+    "complex_sentence": "The practice of maintaining denture involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 246
+  },
+  {
+    "word": "braces",
+    "simple_sentence": "It's important to maintain good braces.",
+    "complex_sentence": "The practice of maintaining braces involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 247
+  },
+  {
+    "word": "retainer",
+    "simple_sentence": "It's important to maintain good retainer.",
+    "complex_sentence": "The practice of maintaining retainer involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 248
+  },
+  {
+    "word": "orthodontics",
+    "simple_sentence": "It's important to maintain good orthodontics.",
+    "complex_sentence": "The practice of maintaining orthodontics involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 249
+  },
+  {
+    "word": "laser eye surgery",
+    "simple_sentence": "It's important to maintain good laser eye surgery.",
+    "complex_sentence": "The practice of maintaining laser eye surgery involves a balanced approach to physical and mental well-being.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 250
+  }
+]

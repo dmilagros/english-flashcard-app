@@ -1,0 +1,1922 @@
+[
+  {
+    "word": "shirt",
+    "simple_sentence": "I love wearing my shirt.",
+    "complex_sentence": "The shirt adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 1
+  },
+  {
+    "word": "t-shirt",
+    "simple_sentence": "I love wearing my t-shirt.",
+    "complex_sentence": "The t-shirt adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 2
+  },
+  {
+    "word": "blouse",
+    "simple_sentence": "I love wearing my blouse.",
+    "complex_sentence": "The blouse adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 3
+  },
+  {
+    "word": "sweater",
+    "simple_sentence": "I love wearing my sweater.",
+    "complex_sentence": "The sweater adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 4
+  },
+  {
+    "word": "hoodie",
+    "simple_sentence": "I love wearing my hoodie.",
+    "complex_sentence": "The hoodie adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 5
+  },
+  {
+    "word": "jacket",
+    "simple_sentence": "I love wearing my jacket.",
+    "complex_sentence": "The jacket adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 6
+  },
+  {
+    "word": "coat",
+    "simple_sentence": "I love wearing my coat.",
+    "complex_sentence": "The coat adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 7
+  },
+  {
+    "word": "raincoat",
+    "simple_sentence": "I love wearing my raincoat.",
+    "complex_sentence": "The raincoat adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 8
+  },
+  {
+    "word": "trench coat",
+    "simple_sentence": "I love wearing my trench coat.",
+    "complex_sentence": "The trench coat adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 9
+  },
+  {
+    "word": "blazer",
+    "simple_sentence": "I love wearing my blazer.",
+    "complex_sentence": "The blazer adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 10
+  },
+  {
+    "word": "vest",
+    "simple_sentence": "I love wearing my vest.",
+    "complex_sentence": "The vest adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 11
+  },
+  {
+    "word": "waistcoat",
+    "simple_sentence": "I love wearing my waistcoat.",
+    "complex_sentence": "The waistcoat adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 12
+  },
+  {
+    "word": "jeans",
+    "simple_sentence": "I love wearing my jeans.",
+    "complex_sentence": "The jeans adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 13
+  },
+  {
+    "word": "pants",
+    "simple_sentence": "I love wearing my pants.",
+    "complex_sentence": "The pants adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 14
+  },
+  {
+    "word": "trousers",
+    "simple_sentence": "I love wearing my trousers.",
+    "complex_sentence": "The trousers adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 15
+  },
+  {
+    "word": "shorts",
+    "simple_sentence": "I love wearing my shorts.",
+    "complex_sentence": "The shorts adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 16
+  },
+  {
+    "word": "skirt",
+    "simple_sentence": "I love wearing my skirt.",
+    "complex_sentence": "The skirt adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 17
+  },
+  {
+    "word": "dress",
+    "simple_sentence": "I love wearing my dress.",
+    "complex_sentence": "The dress adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 18
+  },
+  {
+    "word": "gown",
+    "simple_sentence": "I love wearing my gown.",
+    "complex_sentence": "The gown adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 19
+  },
+  {
+    "word": "tunic",
+    "simple_sentence": "I love wearing my tunic.",
+    "complex_sentence": "The tunic adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 20
+  },
+  {
+    "word": "leggings",
+    "simple_sentence": "I love wearing my leggings.",
+    "complex_sentence": "The leggings adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 21
+  },
+  {
+    "word": "jumpsuit",
+    "simple_sentence": "I love wearing my jumpsuit.",
+    "complex_sentence": "The jumpsuit adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 22
+  },
+  {
+    "word": "romper",
+    "simple_sentence": "I love wearing my romper.",
+    "complex_sentence": "The romper adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 23
+  },
+  {
+    "word": "swimsuit",
+    "simple_sentence": "I love wearing my swimsuit.",
+    "complex_sentence": "The swimsuit adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 24
+  },
+  {
+    "word": "bikini",
+    "simple_sentence": "I love wearing my bikini.",
+    "complex_sentence": "The bikini adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 25
+  },
+  {
+    "word": "bathing suit",
+    "simple_sentence": "I love wearing my bathing suit.",
+    "complex_sentence": "The bathing suit adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 26
+  },
+  {
+    "word": "robe",
+    "simple_sentence": "I love wearing my robe.",
+    "complex_sentence": "The robe adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 27
+  },
+  {
+    "word": "pajamas",
+    "simple_sentence": "I love wearing my pajamas.",
+    "complex_sentence": "The pajamas adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 28
+  },
+  {
+    "word": "nightgown",
+    "simple_sentence": "I love wearing my nightgown.",
+    "complex_sentence": "The nightgown adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 29
+  },
+  {
+    "word": "slippers",
+    "simple_sentence": "I love wearing my slippers.",
+    "complex_sentence": "The slippers adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 30
+  },
+  {
+    "word": "socks",
+    "simple_sentence": "I love wearing my socks.",
+    "complex_sentence": "The socks adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 31
+  },
+  {
+    "word": "tights",
+    "simple_sentence": "I love wearing my tights.",
+    "complex_sentence": "The tights adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 32
+  },
+  {
+    "word": "stockings",
+    "simple_sentence": "I love wearing my stockings.",
+    "complex_sentence": "The stockings adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 33
+  },
+  {
+    "word": "underwear",
+    "simple_sentence": "I love wearing my underwear.",
+    "complex_sentence": "The underwear adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 34
+  },
+  {
+    "word": "boxers",
+    "simple_sentence": "I love wearing my boxers.",
+    "complex_sentence": "The boxers adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 35
+  },
+  {
+    "word": "briefs",
+    "simple_sentence": "I love wearing my briefs.",
+    "complex_sentence": "The briefs adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 36
+  },
+  {
+    "word": "bra",
+    "simple_sentence": "I love wearing my bra.",
+    "complex_sentence": "The bra adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 37
+  },
+  {
+    "word": "panties",
+    "simple_sentence": "I love wearing my panties.",
+    "complex_sentence": "The panties adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 38
+  },
+  {
+    "word": "lingerie",
+    "simple_sentence": "I love wearing my lingerie.",
+    "complex_sentence": "The lingerie adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 39
+  },
+  {
+    "word": "corset",
+    "simple_sentence": "I love wearing my corset.",
+    "complex_sentence": "The corset adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 40
+  },
+  {
+    "word": "belt",
+    "simple_sentence": "I love wearing my belt.",
+    "complex_sentence": "The belt adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 41
+  },
+  {
+    "word": "scarf",
+    "simple_sentence": "I love wearing my scarf.",
+    "complex_sentence": "The scarf adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 42
+  },
+  {
+    "word": "tie",
+    "simple_sentence": "I love wearing my tie.",
+    "complex_sentence": "The tie adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 43
+  },
+  {
+    "word": "bow tie",
+    "simple_sentence": "I love wearing my bow tie.",
+    "complex_sentence": "The bow tie adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 44
+  },
+  {
+    "word": "gloves",
+    "simple_sentence": "I love wearing my gloves.",
+    "complex_sentence": "The gloves adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 45
+  },
+  {
+    "word": "mittens",
+    "simple_sentence": "I love wearing my mittens.",
+    "complex_sentence": "The mittens adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 46
+  },
+  {
+    "word": "hat",
+    "simple_sentence": "I love wearing my hat.",
+    "complex_sentence": "The hat adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 47
+  },
+  {
+    "word": "cap",
+    "simple_sentence": "I love wearing my cap.",
+    "complex_sentence": "The cap adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 48
+  },
+  {
+    "word": "beanie",
+    "simple_sentence": "I love wearing my beanie.",
+    "complex_sentence": "The beanie adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 49
+  },
+  {
+    "word": "beret",
+    "simple_sentence": "I love wearing my beret.",
+    "complex_sentence": "The beret adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 50
+  },
+  {
+    "word": "headband",
+    "simple_sentence": "I love wearing my headband.",
+    "complex_sentence": "The headband adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 51
+  },
+  {
+    "word": "hairband",
+    "simple_sentence": "I love wearing my hairband.",
+    "complex_sentence": "The hairband adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 52
+  },
+  {
+    "word": "scrunchie",
+    "simple_sentence": "I love wearing my scrunchie.",
+    "complex_sentence": "The scrunchie adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 53
+  },
+  {
+    "word": "bandana",
+    "simple_sentence": "I love wearing my bandana.",
+    "complex_sentence": "The bandana adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 54
+  },
+  {
+    "word": "sunglasses",
+    "simple_sentence": "I love wearing my sunglasses.",
+    "complex_sentence": "The sunglasses adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 55
+  },
+  {
+    "word": "eyeglasses",
+    "simple_sentence": "I love wearing my eyeglasses.",
+    "complex_sentence": "The eyeglasses adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 56
+  },
+  {
+    "word": "watch",
+    "simple_sentence": "I love wearing my watch.",
+    "complex_sentence": "The watch adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 57
+  },
+  {
+    "word": "bracelet",
+    "simple_sentence": "I love wearing my bracelet.",
+    "complex_sentence": "The bracelet adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 58
+  },
+  {
+    "word": "necklace",
+    "simple_sentence": "I love wearing my necklace.",
+    "complex_sentence": "The necklace adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 59
+  },
+  {
+    "word": "earrings",
+    "simple_sentence": "I love wearing my earrings.",
+    "complex_sentence": "The earrings adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 60
+  },
+  {
+    "word": "ring",
+    "simple_sentence": "I love wearing my ring.",
+    "complex_sentence": "The ring adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 61
+  },
+  {
+    "word": "brooch",
+    "simple_sentence": "I love wearing my brooch.",
+    "complex_sentence": "The brooch adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 62
+  },
+  {
+    "word": "cufflinks",
+    "simple_sentence": "I love wearing my cufflinks.",
+    "complex_sentence": "The cufflinks adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 63
+  },
+  {
+    "word": "pocket square",
+    "simple_sentence": "I love wearing my pocket square.",
+    "complex_sentence": "The pocket square adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 64
+  },
+  {
+    "word": "handbag",
+    "simple_sentence": "I love wearing my handbag.",
+    "complex_sentence": "The handbag adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 65
+  },
+  {
+    "word": "purse",
+    "simple_sentence": "I love wearing my purse.",
+    "complex_sentence": "The purse adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 66
+  },
+  {
+    "word": "wallet",
+    "simple_sentence": "I love wearing my wallet.",
+    "complex_sentence": "The wallet adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 67
+  },
+  {
+    "word": "backpack",
+    "simple_sentence": "I love wearing my backpack.",
+    "complex_sentence": "The backpack adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 68
+  },
+  {
+    "word": "tote bag",
+    "simple_sentence": "I love wearing my tote bag.",
+    "complex_sentence": "The tote bag adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 69
+  },
+  {
+    "word": "duffel bag",
+    "simple_sentence": "I love wearing my duffel bag.",
+    "complex_sentence": "The duffel bag adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 70
+  },
+  {
+    "word": "suitcase",
+    "simple_sentence": "I love wearing my suitcase.",
+    "complex_sentence": "The suitcase adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 71
+  },
+  {
+    "word": "luggage",
+    "simple_sentence": "I love wearing my luggage.",
+    "complex_sentence": "The luggage adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 72
+  },
+  {
+    "word": "shoes",
+    "simple_sentence": "I love wearing my shoes.",
+    "complex_sentence": "The shoes adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 73
+  },
+  {
+    "word": "boots",
+    "simple_sentence": "I love wearing my boots.",
+    "complex_sentence": "The boots adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 74
+  },
+  {
+    "word": "sandals",
+    "simple_sentence": "I love wearing my sandals.",
+    "complex_sentence": "The sandals adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 75
+  },
+  {
+    "word": "heels",
+    "simple_sentence": "I love wearing my heels.",
+    "complex_sentence": "The heels adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 76
+  },
+  {
+    "word": "flats",
+    "simple_sentence": "I love wearing my flats.",
+    "complex_sentence": "The flats adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 77
+  },
+  {
+    "word": "loafers",
+    "simple_sentence": "I love wearing my loafers.",
+    "complex_sentence": "The loafers adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 78
+  },
+  {
+    "word": "sneakers",
+    "simple_sentence": "I love wearing my sneakers.",
+    "complex_sentence": "The sneakers adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 79
+  },
+  {
+    "word": "slip-ons",
+    "simple_sentence": "I love wearing my slip-ons.",
+    "complex_sentence": "The slip-ons adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 80
+  },
+  {
+    "word": "flip-flops",
+    "simple_sentence": "I love wearing my flip-flops.",
+    "complex_sentence": "The flip-flops adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 81
+  },
+  {
+    "word": "clogs",
+    "simple_sentence": "I love wearing my clogs.",
+    "complex_sentence": "The clogs adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 82
+  },
+  {
+    "word": "oxfords",
+    "simple_sentence": "I love wearing my oxfords.",
+    "complex_sentence": "The oxfords adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 83
+  },
+  {
+    "word": "moccasins",
+    "simple_sentence": "I love wearing my moccasins.",
+    "complex_sentence": "The moccasins adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 84
+  },
+  {
+    "word": "wedges",
+    "simple_sentence": "I love wearing my wedges.",
+    "complex_sentence": "The wedges adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 85
+  },
+  {
+    "word": "platform shoes",
+    "simple_sentence": "I love wearing my platform shoes.",
+    "complex_sentence": "The platform shoes adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 86
+  },
+  {
+    "word": "ankle boots",
+    "simple_sentence": "I love wearing my ankle boots.",
+    "complex_sentence": "The ankle boots adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 87
+  },
+  {
+    "word": "knee-high boots",
+    "simple_sentence": "I love wearing my knee-high boots.",
+    "complex_sentence": "The knee-high boots adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 88
+  },
+  {
+    "word": "cowboy boots",
+    "simple_sentence": "I love wearing my cowboy boots.",
+    "complex_sentence": "The cowboy boots adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 89
+  },
+  {
+    "word": "rain boots",
+    "simple_sentence": "I love wearing my rain boots.",
+    "complex_sentence": "The rain boots adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 90
+  },
+  {
+    "word": "umbrella",
+    "simple_sentence": "I love wearing my umbrella.",
+    "complex_sentence": "The umbrella adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 91
+  },
+  {
+    "word": "belt buckle",
+    "simple_sentence": "I love wearing my belt buckle.",
+    "complex_sentence": "The belt buckle adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 92
+  },
+  {
+    "word": "shoe laces",
+    "simple_sentence": "I love wearing my shoe laces.",
+    "complex_sentence": "The shoe laces adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 93
+  },
+  {
+    "word": "zippers",
+    "simple_sentence": "I love wearing my zippers.",
+    "complex_sentence": "The zippers adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 94
+  },
+  {
+    "word": "buttons",
+    "simple_sentence": "I love wearing my buttons.",
+    "complex_sentence": "The buttons adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 95
+  },
+  {
+    "word": "snap fasteners",
+    "simple_sentence": "I love wearing my snap fasteners.",
+    "complex_sentence": "The snap fasteners adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 96
+  },
+  {
+    "word": "velcro",
+    "simple_sentence": "I love wearing my velcro.",
+    "complex_sentence": "The velcro adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 97
+  },
+  {
+    "word": "buckles",
+    "simple_sentence": "I love wearing my buckles.",
+    "complex_sentence": "The buckles adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 98
+  },
+  {
+    "word": "hooks",
+    "simple_sentence": "I love wearing my hooks.",
+    "complex_sentence": "The hooks adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 99
+  },
+  {
+    "word": "loops",
+    "simple_sentence": "I love wearing my loops.",
+    "complex_sentence": "The loops adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 100
+  },
+  {
+    "word": "shoulder pads",
+    "simple_sentence": "I love wearing my shoulder pads.",
+    "complex_sentence": "The shoulder pads adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 101
+  },
+  {
+    "word": "cuffs",
+    "simple_sentence": "I love wearing my cuffs.",
+    "complex_sentence": "The cuffs adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 102
+  },
+  {
+    "word": "collars",
+    "simple_sentence": "I love wearing my collars.",
+    "complex_sentence": "The collars adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 103
+  },
+  {
+    "word": "hems",
+    "simple_sentence": "I love wearing my hems.",
+    "complex_sentence": "The hems adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 104
+  },
+  {
+    "word": "seams",
+    "simple_sentence": "I love wearing my seams.",
+    "complex_sentence": "The seams adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 105
+  },
+  {
+    "word": "pockets",
+    "simple_sentence": "I love wearing my pockets.",
+    "complex_sentence": "The pockets adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 106
+  },
+  {
+    "word": "patches",
+    "simple_sentence": "I love wearing my patches.",
+    "complex_sentence": "The patches adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 107
+  },
+  {
+    "word": "elbow patches",
+    "simple_sentence": "I love wearing my elbow patches.",
+    "complex_sentence": "The elbow patches adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 108
+  },
+  {
+    "word": "knee patches",
+    "simple_sentence": "I love wearing my knee patches.",
+    "complex_sentence": "The knee patches adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 109
+  },
+  {
+    "word": "embroidery",
+    "simple_sentence": "I love wearing my embroidery.",
+    "complex_sentence": "The embroidery adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 110
+  },
+  {
+    "word": "sequins",
+    "simple_sentence": "I love wearing my sequins.",
+    "complex_sentence": "The sequins adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 111
+  },
+  {
+    "word": "beads",
+    "simple_sentence": "I love wearing my beads.",
+    "complex_sentence": "The beads adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 112
+  },
+  {
+    "word": "fringe",
+    "simple_sentence": "I love wearing my fringe.",
+    "complex_sentence": "The fringe adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 113
+  },
+  {
+    "word": "lace",
+    "simple_sentence": "I love wearing my lace.",
+    "complex_sentence": "The lace adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 114
+  },
+  {
+    "word": "ribbons",
+    "simple_sentence": "I love wearing my ribbons.",
+    "complex_sentence": "The ribbons adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 115
+  },
+  {
+    "word": "bows",
+    "simple_sentence": "I love wearing my bows.",
+    "complex_sentence": "The bows adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 116
+  },
+  {
+    "word": "pearls",
+    "simple_sentence": "I love wearing my pearls.",
+    "complex_sentence": "The pearls adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 117
+  },
+  {
+    "word": "diamonds",
+    "simple_sentence": "I love wearing my diamonds.",
+    "complex_sentence": "The diamonds adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 118
+  },
+  {
+    "word": "gems",
+    "simple_sentence": "I love wearing my gems.",
+    "complex_sentence": "The gems adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 119
+  },
+  {
+    "word": "rubies",
+    "simple_sentence": "I love wearing my rubies.",
+    "complex_sentence": "The rubies adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 120
+  },
+  {
+    "word": "sapphires",
+    "simple_sentence": "I love wearing my sapphires.",
+    "complex_sentence": "The sapphires adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 121
+  },
+  {
+    "word": "emeralds",
+    "simple_sentence": "I love wearing my emeralds.",
+    "complex_sentence": "The emeralds adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 122
+  },
+  {
+    "word": "gold",
+    "simple_sentence": "I love wearing my gold.",
+    "complex_sentence": "The gold adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 123
+  },
+  {
+    "word": "silver",
+    "simple_sentence": "I love wearing my silver.",
+    "complex_sentence": "The silver adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 124
+  },
+  {
+    "word": "platinum",
+    "simple_sentence": "I love wearing my platinum.",
+    "complex_sentence": "The platinum adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 125
+  },
+  {
+    "word": "bronze",
+    "simple_sentence": "I love wearing my bronze.",
+    "complex_sentence": "The bronze adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 126
+  },
+  {
+    "word": "copper",
+    "simple_sentence": "I love wearing my copper.",
+    "complex_sentence": "The copper adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 127
+  },
+  {
+    "word": "leather",
+    "simple_sentence": "I love wearing my leather.",
+    "complex_sentence": "The leather adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 128
+  },
+  {
+    "word": "suede",
+    "simple_sentence": "I love wearing my suede.",
+    "complex_sentence": "The suede adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 129
+  },
+  {
+    "word": "denim",
+    "simple_sentence": "I love wearing my denim.",
+    "complex_sentence": "The denim adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 130
+  },
+  {
+    "word": "cotton",
+    "simple_sentence": "I love wearing my cotton.",
+    "complex_sentence": "The cotton adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 131
+  },
+  {
+    "word": "linen",
+    "simple_sentence": "I love wearing my linen.",
+    "complex_sentence": "The linen adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 132
+  },
+  {
+    "word": "silk",
+    "simple_sentence": "I love wearing my silk.",
+    "complex_sentence": "The silk adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 133
+  },
+  {
+    "word": "wool",
+    "simple_sentence": "I love wearing my wool.",
+    "complex_sentence": "The wool adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 134
+  },
+  {
+    "word": "cashmere",
+    "simple_sentence": "I love wearing my cashmere.",
+    "complex_sentence": "The cashmere adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 135
+  },
+  {
+    "word": "nylon",
+    "simple_sentence": "I love wearing my nylon.",
+    "complex_sentence": "The nylon adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 136
+  },
+  {
+    "word": "polyester",
+    "simple_sentence": "I love wearing my polyester.",
+    "complex_sentence": "The polyester adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 137
+  },
+  {
+    "word": "spandex",
+    "simple_sentence": "I love wearing my spandex.",
+    "complex_sentence": "The spandex adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 138
+  },
+  {
+    "word": "rayon",
+    "simple_sentence": "I love wearing my rayon.",
+    "complex_sentence": "The rayon adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 139
+  },
+  {
+    "word": "viscose",
+    "simple_sentence": "I love wearing my viscose.",
+    "complex_sentence": "The viscose adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 140
+  },
+  {
+    "word": "acrylic",
+    "simple_sentence": "I love wearing my acrylic.",
+    "complex_sentence": "The acrylic adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 141
+  },
+  {
+    "word": "fleece",
+    "simple_sentence": "I love wearing my fleece.",
+    "complex_sentence": "The fleece adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 142
+  },
+  {
+    "word": "canvas",
+    "simple_sentence": "I love wearing my canvas.",
+    "complex_sentence": "The canvas adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 143
+  },
+  {
+    "word": "hemp",
+    "simple_sentence": "I love wearing my hemp.",
+    "complex_sentence": "The hemp adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 144
+  },
+  {
+    "word": "bamboo",
+    "simple_sentence": "I love wearing my bamboo.",
+    "complex_sentence": "The bamboo adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 145
+  },
+  {
+    "word": "alpaca",
+    "simple_sentence": "I love wearing my alpaca.",
+    "complex_sentence": "The alpaca adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 146
+  },
+  {
+    "word": "angora",
+    "simple_sentence": "I love wearing my angora.",
+    "complex_sentence": "The angora adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 147
+  },
+  {
+    "word": "shearling",
+    "simple_sentence": "I love wearing my shearling.",
+    "complex_sentence": "The shearling adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 148
+  },
+  {
+    "word": "tweed",
+    "simple_sentence": "I love wearing my tweed.",
+    "complex_sentence": "The tweed adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 149
+  },
+  {
+    "word": "velvet",
+    "simple_sentence": "I love wearing my velvet.",
+    "complex_sentence": "The velvet adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 150
+  },
+  {
+    "word": "velour",
+    "simple_sentence": "I love wearing my velour.",
+    "complex_sentence": "The velour adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 151
+  },
+  {
+    "word": "satin",
+    "simple_sentence": "I love wearing my satin.",
+    "complex_sentence": "The satin adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 152
+  },
+  {
+    "word": "chiffon",
+    "simple_sentence": "I love wearing my chiffon.",
+    "complex_sentence": "The chiffon adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 153
+  },
+  {
+    "word": "organza",
+    "simple_sentence": "I love wearing my organza.",
+    "complex_sentence": "The organza adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 154
+  },
+  {
+    "word": "tulle",
+    "simple_sentence": "I love wearing my tulle.",
+    "complex_sentence": "The tulle adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 155
+  },
+  {
+    "word": "jacquard",
+    "simple_sentence": "I love wearing my jacquard.",
+    "complex_sentence": "The jacquard adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 156
+  },
+  {
+    "word": "tartan",
+    "simple_sentence": "I love wearing my tartan.",
+    "complex_sentence": "The tartan adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 157
+  },
+  {
+    "word": "gingham",
+    "simple_sentence": "I love wearing my gingham.",
+    "complex_sentence": "The gingham adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 158
+  },
+  {
+    "word": "houndstooth",
+    "simple_sentence": "I love wearing my houndstooth.",
+    "complex_sentence": "The houndstooth adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 159
+  },
+  {
+    "word": "plaid",
+    "simple_sentence": "I love wearing my plaid.",
+    "complex_sentence": "The plaid adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 160
+  },
+  {
+    "word": "argyle",
+    "simple_sentence": "I love wearing my argyle.",
+    "complex_sentence": "The argyle adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 161
+  },
+  {
+    "word": "paisley",
+    "simple_sentence": "I love wearing my paisley.",
+    "complex_sentence": "The paisley adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 162
+  },
+  {
+    "word": "floral",
+    "simple_sentence": "I love wearing my floral.",
+    "complex_sentence": "The floral adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 163
+  },
+  {
+    "word": "polka dots",
+    "simple_sentence": "I love wearing my polka dots.",
+    "complex_sentence": "The polka dots adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 164
+  },
+  {
+    "word": "stripes",
+    "simple_sentence": "I love wearing my stripes.",
+    "complex_sentence": "The stripes adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 165
+  },
+  {
+    "word": "checkered",
+    "simple_sentence": "I love wearing my checkered.",
+    "complex_sentence": "The checkered adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 166
+  },
+  {
+    "word": "solid",
+    "simple_sentence": "I love wearing my solid.",
+    "complex_sentence": "The solid adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 167
+  },
+  {
+    "word": "monochrome",
+    "simple_sentence": "I love wearing my monochrome.",
+    "complex_sentence": "The monochrome adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 168
+  },
+  {
+    "word": "color-block",
+    "simple_sentence": "I love wearing my color-block.",
+    "complex_sentence": "The color-block adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 169
+  },
+  {
+    "word": "gradient",
+    "simple_sentence": "I love wearing my gradient.",
+    "complex_sentence": "The gradient adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 170
+  },
+  {
+    "word": "pastel",
+    "simple_sentence": "I love wearing my pastel.",
+    "complex_sentence": "The pastel adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 171
+  },
+  {
+    "word": "neon",
+    "simple_sentence": "I love wearing my neon.",
+    "complex_sentence": "The neon adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 172
+  },
+  {
+    "word": "metallic",
+    "simple_sentence": "I love wearing my metallic.",
+    "complex_sentence": "The metallic adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 173
+  },
+  {
+    "word": "matte",
+    "simple_sentence": "I love wearing my matte.",
+    "complex_sentence": "The matte adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 174
+  },
+  {
+    "word": "glossy",
+    "simple_sentence": "I love wearing my glossy.",
+    "complex_sentence": "The glossy adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 175
+  },
+  {
+    "word": "opaque",
+    "simple_sentence": "I love wearing my opaque.",
+    "complex_sentence": "The opaque adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 176
+  },
+  {
+    "word": "transparent",
+    "simple_sentence": "I love wearing my transparent.",
+    "complex_sentence": "The transparent adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 177
+  },
+  {
+    "word": "translucent",
+    "simple_sentence": "I love wearing my translucent.",
+    "complex_sentence": "The translucent adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 178
+  },
+  {
+    "word": "sheer",
+    "simple_sentence": "I love wearing my sheer.",
+    "complex_sentence": "The sheer adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 179
+  },
+  {
+    "word": "shiny",
+    "simple_sentence": "I love wearing my shiny.",
+    "complex_sentence": "The shiny adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 180
+  },
+  {
+    "word": "fitted",
+    "simple_sentence": "I love wearing my fitted.",
+    "complex_sentence": "The fitted adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 181
+  },
+  {
+    "word": "loose",
+    "simple_sentence": "I love wearing my loose.",
+    "complex_sentence": "The loose adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 182
+  },
+  {
+    "word": "oversized",
+    "simple_sentence": "I love wearing my oversized.",
+    "complex_sentence": "The oversized adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 183
+  },
+  {
+    "word": "cropped",
+    "simple_sentence": "I love wearing my cropped.",
+    "complex_sentence": "The cropped adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 184
+  },
+  {
+    "word": "high-waisted",
+    "simple_sentence": "I love wearing my high-waisted.",
+    "complex_sentence": "The high-waisted adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 185
+  },
+  {
+    "word": "low-rise",
+    "simple_sentence": "I love wearing my low-rise.",
+    "complex_sentence": "The low-rise adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 186
+  },
+  {
+    "word": "mid-rise",
+    "simple_sentence": "I love wearing my mid-rise.",
+    "complex_sentence": "The mid-rise adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 187
+  },
+  {
+    "word": "skinny",
+    "simple_sentence": "I love wearing my skinny.",
+    "complex_sentence": "The skinny adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 188
+  },
+  {
+    "word": "straight-leg",
+    "simple_sentence": "I love wearing my straight-leg.",
+    "complex_sentence": "The straight-leg adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 189
+  },
+  {
+    "word": "bootcut",
+    "simple_sentence": "I love wearing my bootcut.",
+    "complex_sentence": "The bootcut adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 190
+  },
+  {
+    "word": "flared",
+    "simple_sentence": "I love wearing my flared.",
+    "complex_sentence": "The flared adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 191
+  },
+  {
+    "word": "tapered",
+    "simple_sentence": "I love wearing my tapered.",
+    "complex_sentence": "The tapered adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 192
+  },
+  {
+    "word": "wide-leg",
+    "simple_sentence": "I love wearing my wide-leg.",
+    "complex_sentence": "The wide-leg adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 193
+  },
+  {
+    "word": "relaxed",
+    "simple_sentence": "I love wearing my relaxed.",
+    "complex_sentence": "The relaxed adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 194
+  },
+  {
+    "word": "distressed",
+    "simple_sentence": "I love wearing my distressed.",
+    "complex_sentence": "The distressed adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 195
+  },
+  {
+    "word": "ripped",
+    "simple_sentence": "I love wearing my ripped.",
+    "complex_sentence": "The ripped adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 196
+  },
+  {
+    "word": "acid-wash",
+    "simple_sentence": "I love wearing my acid-wash.",
+    "complex_sentence": "The acid-wash adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 197
+  },
+  {
+    "word": "stonewashed",
+    "simple_sentence": "I love wearing my stonewashed.",
+    "complex_sentence": "The stonewashed adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 198
+  },
+  {
+    "word": "pre-shrunk",
+    "simple_sentence": "I love wearing my pre-shrunk.",
+    "complex_sentence": "The pre-shrunk adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 199
+  },
+  {
+    "word": "shrink-to-fit",
+    "simple_sentence": "I love wearing my shrink-to-fit.",
+    "complex_sentence": "The shrink-to-fit adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 200
+  },
+  {
+    "word": "tailored",
+    "simple_sentence": "I love wearing my tailored.",
+    "complex_sentence": "The tailored adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 201
+  },
+  {
+    "word": "custom-made",
+    "simple_sentence": "I love wearing my custom-made.",
+    "complex_sentence": "The custom-made adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 202
+  },
+  {
+    "word": "bespoke",
+    "simple_sentence": "I love wearing my bespoke.",
+    "complex_sentence": "The bespoke adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 203
+  },
+  {
+    "word": "ready-to-wear",
+    "simple_sentence": "I love wearing my ready-to-wear.",
+    "complex_sentence": "The ready-to-wear adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 204
+  },
+  {
+    "word": "vintage",
+    "simple_sentence": "I love wearing my vintage.",
+    "complex_sentence": "The vintage adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 205
+  },
+  {
+    "word": "retro",
+    "simple_sentence": "I love wearing my retro.",
+    "complex_sentence": "The retro adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 206
+  },
+  {
+    "word": "classic",
+    "simple_sentence": "I love wearing my classic.",
+    "complex_sentence": "The classic adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 207
+  },
+  {
+    "word": "modern",
+    "simple_sentence": "I love wearing my modern.",
+    "complex_sentence": "The modern adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 208
+  },
+  {
+    "word": "contemporary",
+    "simple_sentence": "I love wearing my contemporary.",
+    "complex_sentence": "The contemporary adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 209
+  },
+  {
+    "word": "avant-garde",
+    "simple_sentence": "I love wearing my avant-garde.",
+    "complex_sentence": "The avant-garde adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 210
+  },
+  {
+    "word": "formal",
+    "simple_sentence": "I love wearing my formal.",
+    "complex_sentence": "The formal adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 211
+  },
+  {
+    "word": "casual",
+    "simple_sentence": "I love wearing my casual.",
+    "complex_sentence": "The casual adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 212
+  },
+  {
+    "word": "business casual",
+    "simple_sentence": "I love wearing my business casual.",
+    "complex_sentence": "The business casual adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 213
+  },
+  {
+    "word": "smart casual",
+    "simple_sentence": "I love wearing my smart casual.",
+    "complex_sentence": "The smart casual adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 214
+  },
+  {
+    "word": "athleisure",
+    "simple_sentence": "I love wearing my athleisure.",
+    "complex_sentence": "The athleisure adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 215
+  },
+  {
+    "word": "sportswear",
+    "simple_sentence": "I love wearing my sportswear.",
+    "complex_sentence": "The sportswear adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 216
+  },
+  {
+    "word": "activewear",
+    "simple_sentence": "I love wearing my activewear.",
+    "complex_sentence": "The activewear adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 217
+  },
+  {
+    "word": "loungewear",
+    "simple_sentence": "I love wearing my loungewear.",
+    "complex_sentence": "The loungewear adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 218
+  },
+  {
+    "word": "sleepwear",
+    "simple_sentence": "I love wearing my sleepwear.",
+    "complex_sentence": "The sleepwear adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 219
+  },
+  {
+    "word": "outerwear",
+    "simple_sentence": "I love wearing my outerwear.",
+    "complex_sentence": "The outerwear adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 220
+  },
+  {
+    "word": "swimwear",
+    "simple_sentence": "I love wearing my swimwear.",
+    "complex_sentence": "The swimwear adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 221
+  },
+  {
+    "word": "undergarments",
+    "simple_sentence": "I love wearing my undergarments.",
+    "complex_sentence": "The undergarments adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 222
+  },
+  {
+    "word": "intimates",
+    "simple_sentence": "I love wearing my intimates.",
+    "complex_sentence": "The intimates adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 223
+  },
+  {
+    "word": "hosiery",
+    "simple_sentence": "I love wearing my hosiery.",
+    "complex_sentence": "The hosiery adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 224
+  },
+  {
+    "word": "footwear",
+    "simple_sentence": "I love wearing my footwear.",
+    "complex_sentence": "The footwear adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 225
+  },
+  {
+    "word": "headwear",
+    "simple_sentence": "I love wearing my headwear.",
+    "complex_sentence": "The headwear adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 226
+  },
+  {
+    "word": "eyewear",
+    "simple_sentence": "I love wearing my eyewear.",
+    "complex_sentence": "The eyewear adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 227
+  },
+  {
+    "word": "jewelry",
+    "simple_sentence": "I love wearing my jewelry.",
+    "complex_sentence": "The jewelry adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 228
+  },
+  {
+    "word": "accessories",
+    "simple_sentence": "I love wearing my accessories.",
+    "complex_sentence": "The accessories adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 229
+  },
+  {
+    "word": "apparel",
+    "simple_sentence": "I love wearing my apparel.",
+    "complex_sentence": "The apparel adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 230
+  },
+  {
+    "word": "garments",
+    "simple_sentence": "I love wearing my garments.",
+    "complex_sentence": "The garments adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 231
+  },
+  {
+    "word": "outfits",
+    "simple_sentence": "I love wearing my outfits.",
+    "complex_sentence": "The outfits adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 232
+  },
+  {
+    "word": "ensembles",
+    "simple_sentence": "I love wearing my ensembles.",
+    "complex_sentence": "The ensembles adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 233
+  },
+  {
+    "word": "wardrobe",
+    "simple_sentence": "I love wearing my wardrobe.",
+    "complex_sentence": "The wardrobe adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 234
+  },
+  {
+    "word": "closet",
+    "simple_sentence": "I love wearing my closet.",
+    "complex_sentence": "The closet adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 235
+  },
+  {
+    "word": "clothing rack",
+    "simple_sentence": "I love wearing my clothing rack.",
+    "complex_sentence": "The clothing rack adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 236
+  },
+  {
+    "word": "hanger",
+    "simple_sentence": "I love wearing my hanger.",
+    "complex_sentence": "The hanger adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 237
+  },
+  {
+    "word": "laundry basket",
+    "simple_sentence": "I love wearing my laundry basket.",
+    "complex_sentence": "The laundry basket adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 238
+  },
+  {
+    "word": "ironing board",
+    "simple_sentence": "I love wearing my ironing board.",
+    "complex_sentence": "The ironing board adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 239
+  },
+  {
+    "word": "steam iron",
+    "simple_sentence": "I love wearing my steam iron.",
+    "complex_sentence": "The steam iron adds a touch of style and comfort to my outfit, making it perfect for various occasions.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 240
+  }
+]

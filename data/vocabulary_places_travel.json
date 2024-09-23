@@ -1,0 +1,2154 @@
+[
+  {
+    "word": "airport",
+    "simple_sentence": "I visited the airport during my trip.",
+    "complex_sentence": "The airport is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 1
+  },
+  {
+    "word": "station",
+    "simple_sentence": "I visited the station during my trip.",
+    "complex_sentence": "The station is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 2
+  },
+  {
+    "word": "bus stop",
+    "simple_sentence": "I visited the bus stop during my trip.",
+    "complex_sentence": "The bus stop is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 3
+  },
+  {
+    "word": "train station",
+    "simple_sentence": "I visited the train station during my trip.",
+    "complex_sentence": "The train station is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 4
+  },
+  {
+    "word": "subway",
+    "simple_sentence": "I visited the subway during my trip.",
+    "complex_sentence": "The subway is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 5
+  },
+  {
+    "word": "port",
+    "simple_sentence": "I visited the port during my trip.",
+    "complex_sentence": "The port is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 6
+  },
+  {
+    "word": "harbor",
+    "simple_sentence": "I visited the harbor during my trip.",
+    "complex_sentence": "The harbor is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 7
+  },
+  {
+    "word": "pier",
+    "simple_sentence": "I visited the pier during my trip.",
+    "complex_sentence": "The pier is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 8
+  },
+  {
+    "word": "dock",
+    "simple_sentence": "I visited the dock during my trip.",
+    "complex_sentence": "The dock is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 9
+  },
+  {
+    "word": "runway",
+    "simple_sentence": "I visited the runway during my trip.",
+    "complex_sentence": "The runway is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 10
+  },
+  {
+    "word": "terminal",
+    "simple_sentence": "I visited the terminal during my trip.",
+    "complex_sentence": "The terminal is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 11
+  },
+  {
+    "word": "boarding gate",
+    "simple_sentence": "I visited the boarding gate during my trip.",
+    "complex_sentence": "The boarding gate is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 12
+  },
+  {
+    "word": "lounge",
+    "simple_sentence": "I visited the lounge during my trip.",
+    "complex_sentence": "The lounge is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 13
+  },
+  {
+    "word": "check-in",
+    "simple_sentence": "I visited the check-in during my trip.",
+    "complex_sentence": "The check-in is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 14
+  },
+  {
+    "word": "customs",
+    "simple_sentence": "I visited the customs during my trip.",
+    "complex_sentence": "The customs is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 15
+  },
+  {
+    "word": "security",
+    "simple_sentence": "I visited the security during my trip.",
+    "complex_sentence": "The security is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 16
+  },
+  {
+    "word": "baggage claim",
+    "simple_sentence": "I visited the baggage claim during my trip.",
+    "complex_sentence": "The baggage claim is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 17
+  },
+  {
+    "word": "car rental",
+    "simple_sentence": "I visited the car rental during my trip.",
+    "complex_sentence": "The car rental is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 18
+  },
+  {
+    "word": "parking lot",
+    "simple_sentence": "I visited the parking lot during my trip.",
+    "complex_sentence": "The parking lot is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 19
+  },
+  {
+    "word": "taxi stand",
+    "simple_sentence": "I visited the taxi stand during my trip.",
+    "complex_sentence": "The taxi stand is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 20
+  },
+  {
+    "word": "hotel",
+    "simple_sentence": "I visited the hotel during my trip.",
+    "complex_sentence": "The hotel is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 21
+  },
+  {
+    "word": "motel",
+    "simple_sentence": "I visited the motel during my trip.",
+    "complex_sentence": "The motel is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 22
+  },
+  {
+    "word": "hostel",
+    "simple_sentence": "I visited the hostel during my trip.",
+    "complex_sentence": "The hostel is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 23
+  },
+  {
+    "word": "guesthouse",
+    "simple_sentence": "I visited the guesthouse during my trip.",
+    "complex_sentence": "The guesthouse is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 24
+  },
+  {
+    "word": "resort",
+    "simple_sentence": "I visited the resort during my trip.",
+    "complex_sentence": "The resort is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 25
+  },
+  {
+    "word": "bed and breakfast",
+    "simple_sentence": "I visited the bed and breakfast during my trip.",
+    "complex_sentence": "The bed and breakfast is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 26
+  },
+  {
+    "word": "inn",
+    "simple_sentence": "I visited the inn during my trip.",
+    "complex_sentence": "The inn is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 27
+  },
+  {
+    "word": "campground",
+    "simple_sentence": "I visited the campground during my trip.",
+    "complex_sentence": "The campground is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 28
+  },
+  {
+    "word": "cabin",
+    "simple_sentence": "I visited the cabin during my trip.",
+    "complex_sentence": "The cabin is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 29
+  },
+  {
+    "word": "chalet",
+    "simple_sentence": "I visited the chalet during my trip.",
+    "complex_sentence": "The chalet is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 30
+  },
+  {
+    "word": "villa",
+    "simple_sentence": "I visited the villa during my trip.",
+    "complex_sentence": "The villa is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 31
+  },
+  {
+    "word": "bungalow",
+    "simple_sentence": "I visited the bungalow during my trip.",
+    "complex_sentence": "The bungalow is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 32
+  },
+  {
+    "word": "apartment",
+    "simple_sentence": "I visited the apartment during my trip.",
+    "complex_sentence": "The apartment is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 33
+  },
+  {
+    "word": "condo",
+    "simple_sentence": "I visited the condo during my trip.",
+    "complex_sentence": "The condo is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 34
+  },
+  {
+    "word": "suite",
+    "simple_sentence": "I visited the suite during my trip.",
+    "complex_sentence": "The suite is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 35
+  },
+  {
+    "word": "penthouse",
+    "simple_sentence": "I visited the penthouse during my trip.",
+    "complex_sentence": "The penthouse is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 36
+  },
+  {
+    "word": "room",
+    "simple_sentence": "I visited the room during my trip.",
+    "complex_sentence": "The room is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 37
+  },
+  {
+    "word": "dormitory",
+    "simple_sentence": "I visited the dormitory during my trip.",
+    "complex_sentence": "The dormitory is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 38
+  },
+  {
+    "word": "cottage",
+    "simple_sentence": "I visited the cottage during my trip.",
+    "complex_sentence": "The cottage is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 39
+  },
+  {
+    "word": "manor",
+    "simple_sentence": "I visited the manor during my trip.",
+    "complex_sentence": "The manor is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 40
+  },
+  {
+    "word": "castle",
+    "simple_sentence": "I visited the castle during my trip.",
+    "complex_sentence": "The castle is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 41
+  },
+  {
+    "word": "palace",
+    "simple_sentence": "I visited the palace during my trip.",
+    "complex_sentence": "The palace is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 42
+  },
+  {
+    "word": "mansion",
+    "simple_sentence": "I visited the mansion during my trip.",
+    "complex_sentence": "The mansion is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 43
+  },
+  {
+    "word": "fortress",
+    "simple_sentence": "I visited the fortress during my trip.",
+    "complex_sentence": "The fortress is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 44
+  },
+  {
+    "word": "tower",
+    "simple_sentence": "I visited the tower during my trip.",
+    "complex_sentence": "The tower is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 45
+  },
+  {
+    "word": "lighthouse",
+    "simple_sentence": "I visited the lighthouse during my trip.",
+    "complex_sentence": "The lighthouse is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 46
+  },
+  {
+    "word": "museum",
+    "simple_sentence": "I visited the museum during my trip.",
+    "complex_sentence": "The museum is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 47
+  },
+  {
+    "word": "gallery",
+    "simple_sentence": "I visited the gallery during my trip.",
+    "complex_sentence": "The gallery is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 48
+  },
+  {
+    "word": "monument",
+    "simple_sentence": "I visited the monument during my trip.",
+    "complex_sentence": "The monument is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 49
+  },
+  {
+    "word": "statue",
+    "simple_sentence": "I visited the statue during my trip.",
+    "complex_sentence": "The statue is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 50
+  },
+  {
+    "word": "fountain",
+    "simple_sentence": "I visited the fountain during my trip.",
+    "complex_sentence": "The fountain is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 51
+  },
+  {
+    "word": "plaza",
+    "simple_sentence": "I visited the plaza during my trip.",
+    "complex_sentence": "The plaza is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 52
+  },
+  {
+    "word": "square",
+    "simple_sentence": "I visited the square during my trip.",
+    "complex_sentence": "The square is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 53
+  },
+  {
+    "word": "park",
+    "simple_sentence": "I visited the park during my trip.",
+    "complex_sentence": "The park is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 54
+  },
+  {
+    "word": "garden",
+    "simple_sentence": "I visited the garden during my trip.",
+    "complex_sentence": "The garden is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 55
+  },
+  {
+    "word": "botanical garden",
+    "simple_sentence": "I visited the botanical garden during my trip.",
+    "complex_sentence": "The botanical garden is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 56
+  },
+  {
+    "word": "zoo",
+    "simple_sentence": "I visited the zoo during my trip.",
+    "complex_sentence": "The zoo is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 57
+  },
+  {
+    "word": "aquarium",
+    "simple_sentence": "I visited the aquarium during my trip.",
+    "complex_sentence": "The aquarium is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 58
+  },
+  {
+    "word": "sanctuary",
+    "simple_sentence": "I visited the sanctuary during my trip.",
+    "complex_sentence": "The sanctuary is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 59
+  },
+  {
+    "word": "wildlife reserve",
+    "simple_sentence": "I visited the wildlife reserve during my trip.",
+    "complex_sentence": "The wildlife reserve is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 60
+  },
+  {
+    "word": "forest",
+    "simple_sentence": "I visited the forest during my trip.",
+    "complex_sentence": "The forest is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 61
+  },
+  {
+    "word": "jungle",
+    "simple_sentence": "I visited the jungle during my trip.",
+    "complex_sentence": "The jungle is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 62
+  },
+  {
+    "word": "rainforest",
+    "simple_sentence": "I visited the rainforest during my trip.",
+    "complex_sentence": "The rainforest is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 63
+  },
+  {
+    "word": "desert",
+    "simple_sentence": "I visited the desert during my trip.",
+    "complex_sentence": "The desert is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 64
+  },
+  {
+    "word": "savanna",
+    "simple_sentence": "I visited the savanna during my trip.",
+    "complex_sentence": "The savanna is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 65
+  },
+  {
+    "word": "prairie",
+    "simple_sentence": "I visited the prairie during my trip.",
+    "complex_sentence": "The prairie is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 66
+  },
+  {
+    "word": "mountain",
+    "simple_sentence": "I visited the mountain during my trip.",
+    "complex_sentence": "The mountain is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 67
+  },
+  {
+    "word": "hill",
+    "simple_sentence": "I visited the hill during my trip.",
+    "complex_sentence": "The hill is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 68
+  },
+  {
+    "word": "volcano",
+    "simple_sentence": "I visited the volcano during my trip.",
+    "complex_sentence": "The volcano is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 69
+  },
+  {
+    "word": "canyon",
+    "simple_sentence": "I visited the canyon during my trip.",
+    "complex_sentence": "The canyon is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 70
+  },
+  {
+    "word": "valley",
+    "simple_sentence": "I visited the valley during my trip.",
+    "complex_sentence": "The valley is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 71
+  },
+  {
+    "word": "river",
+    "simple_sentence": "I visited the river during my trip.",
+    "complex_sentence": "The river is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 72
+  },
+  {
+    "word": "lake",
+    "simple_sentence": "I visited the lake during my trip.",
+    "complex_sentence": "The lake is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 73
+  },
+  {
+    "word": "pond",
+    "simple_sentence": "I visited the pond during my trip.",
+    "complex_sentence": "The pond is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 74
+  },
+  {
+    "word": "ocean",
+    "simple_sentence": "I visited the ocean during my trip.",
+    "complex_sentence": "The ocean is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 75
+  },
+  {
+    "word": "sea",
+    "simple_sentence": "I visited the sea during my trip.",
+    "complex_sentence": "The sea is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 76
+  },
+  {
+    "word": "beach",
+    "simple_sentence": "I visited the beach during my trip.",
+    "complex_sentence": "The beach is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 77
+  },
+  {
+    "word": "shore",
+    "simple_sentence": "I visited the shore during my trip.",
+    "complex_sentence": "The shore is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 78
+  },
+  {
+    "word": "coast",
+    "simple_sentence": "I visited the coast during my trip.",
+    "complex_sentence": "The coast is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 79
+  },
+  {
+    "word": "island",
+    "simple_sentence": "I visited the island during my trip.",
+    "complex_sentence": "The island is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 80
+  },
+  {
+    "word": "peninsula",
+    "simple_sentence": "I visited the peninsula during my trip.",
+    "complex_sentence": "The peninsula is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 81
+  },
+  {
+    "word": "bay",
+    "simple_sentence": "I visited the bay during my trip.",
+    "complex_sentence": "The bay is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 82
+  },
+  {
+    "word": "cove",
+    "simple_sentence": "I visited the cove during my trip.",
+    "complex_sentence": "The cove is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 83
+  },
+  {
+    "word": "reef",
+    "simple_sentence": "I visited the reef during my trip.",
+    "complex_sentence": "The reef is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 84
+  },
+  {
+    "word": "lagoon",
+    "simple_sentence": "I visited the lagoon during my trip.",
+    "complex_sentence": "The lagoon is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 85
+  },
+  {
+    "word": "waterfall",
+    "simple_sentence": "I visited the waterfall during my trip.",
+    "complex_sentence": "The waterfall is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 86
+  },
+  {
+    "word": "glacier",
+    "simple_sentence": "I visited the glacier during my trip.",
+    "complex_sentence": "The glacier is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 87
+  },
+  {
+    "word": "iceberg",
+    "simple_sentence": "I visited the iceberg during my trip.",
+    "complex_sentence": "The iceberg is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 88
+  },
+  {
+    "word": "tundra",
+    "simple_sentence": "I visited the tundra during my trip.",
+    "complex_sentence": "The tundra is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 89
+  },
+  {
+    "word": "plateau",
+    "simple_sentence": "I visited the plateau during my trip.",
+    "complex_sentence": "The plateau is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 90
+  },
+  {
+    "word": "cliff",
+    "simple_sentence": "I visited the cliff during my trip.",
+    "complex_sentence": "The cliff is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 91
+  },
+  {
+    "word": "peak",
+    "simple_sentence": "I visited the peak during my trip.",
+    "complex_sentence": "The peak is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 92
+  },
+  {
+    "word": "summit",
+    "simple_sentence": "I visited the summit during my trip.",
+    "complex_sentence": "The summit is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 93
+  },
+  {
+    "word": "ridge",
+    "simple_sentence": "I visited the ridge during my trip.",
+    "complex_sentence": "The ridge is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 94
+  },
+  {
+    "word": "slope",
+    "simple_sentence": "I visited the slope during my trip.",
+    "complex_sentence": "The slope is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 95
+  },
+  {
+    "word": "trail",
+    "simple_sentence": "I visited the trail during my trip.",
+    "complex_sentence": "The trail is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 96
+  },
+  {
+    "word": "path",
+    "simple_sentence": "I visited the path during my trip.",
+    "complex_sentence": "The path is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 97
+  },
+  {
+    "word": "road",
+    "simple_sentence": "I visited the road during my trip.",
+    "complex_sentence": "The road is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 98
+  },
+  {
+    "word": "highway",
+    "simple_sentence": "I visited the highway during my trip.",
+    "complex_sentence": "The highway is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 99
+  },
+  {
+    "word": "freeway",
+    "simple_sentence": "I visited the freeway during my trip.",
+    "complex_sentence": "The freeway is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 100
+  },
+  {
+    "word": "boulevard",
+    "simple_sentence": "I visited the boulevard during my trip.",
+    "complex_sentence": "The boulevard is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 101
+  },
+  {
+    "word": "avenue",
+    "simple_sentence": "I visited the avenue during my trip.",
+    "complex_sentence": "The avenue is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 102
+  },
+  {
+    "word": "street",
+    "simple_sentence": "I visited the street during my trip.",
+    "complex_sentence": "The street is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 103
+  },
+  {
+    "word": "lane",
+    "simple_sentence": "I visited the lane during my trip.",
+    "complex_sentence": "The lane is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 104
+  },
+  {
+    "word": "alley",
+    "simple_sentence": "I visited the alley during my trip.",
+    "complex_sentence": "The alley is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 105
+  },
+  {
+    "word": "intersection",
+    "simple_sentence": "I visited the intersection during my trip.",
+    "complex_sentence": "The intersection is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 106
+  },
+  {
+    "word": "crosswalk",
+    "simple_sentence": "I visited the crosswalk during my trip.",
+    "complex_sentence": "The crosswalk is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 107
+  },
+  {
+    "word": "bridge",
+    "simple_sentence": "I visited the bridge during my trip.",
+    "complex_sentence": "The bridge is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 108
+  },
+  {
+    "word": "tunnel",
+    "simple_sentence": "I visited the tunnel during my trip.",
+    "complex_sentence": "The tunnel is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 109
+  },
+  {
+    "word": "overpass",
+    "simple_sentence": "I visited the overpass during my trip.",
+    "complex_sentence": "The overpass is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 110
+  },
+  {
+    "word": "underpass",
+    "simple_sentence": "I visited the underpass during my trip.",
+    "complex_sentence": "The underpass is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 111
+  },
+  {
+    "word": "traffic light",
+    "simple_sentence": "I visited the traffic light during my trip.",
+    "complex_sentence": "The traffic light is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 112
+  },
+  {
+    "word": "roundabout",
+    "simple_sentence": "I visited the roundabout during my trip.",
+    "complex_sentence": "The roundabout is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 113
+  },
+  {
+    "word": "signpost",
+    "simple_sentence": "I visited the signpost during my trip.",
+    "complex_sentence": "The signpost is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 114
+  },
+  {
+    "word": "landmark",
+    "simple_sentence": "I visited the landmark during my trip.",
+    "complex_sentence": "The landmark is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 115
+  },
+  {
+    "word": "attraction",
+    "simple_sentence": "I visited the attraction during my trip.",
+    "complex_sentence": "The attraction is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 116
+  },
+  {
+    "word": "sight",
+    "simple_sentence": "I visited the sight during my trip.",
+    "complex_sentence": "The sight is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 117
+  },
+  {
+    "word": "tourist spot",
+    "simple_sentence": "I visited the tourist spot during my trip.",
+    "complex_sentence": "The tourist spot is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 118
+  },
+  {
+    "word": "vacation spot",
+    "simple_sentence": "I visited the vacation spot during my trip.",
+    "complex_sentence": "The vacation spot is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 119
+  },
+  {
+    "word": "destination",
+    "simple_sentence": "I visited the destination during my trip.",
+    "complex_sentence": "The destination is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 120
+  },
+  {
+    "word": "itinerary",
+    "simple_sentence": "I visited the itinerary during my trip.",
+    "complex_sentence": "The itinerary is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 121
+  },
+  {
+    "word": "map",
+    "simple_sentence": "I visited the map during my trip.",
+    "complex_sentence": "The map is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 122
+  },
+  {
+    "word": "globe",
+    "simple_sentence": "I visited the globe during my trip.",
+    "complex_sentence": "The globe is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 123
+  },
+  {
+    "word": "atlas",
+    "simple_sentence": "I visited the atlas during my trip.",
+    "complex_sentence": "The atlas is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 124
+  },
+  {
+    "word": "passport",
+    "simple_sentence": "I visited the passport during my trip.",
+    "complex_sentence": "The passport is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 125
+  },
+  {
+    "word": "visa",
+    "simple_sentence": "I visited the visa during my trip.",
+    "complex_sentence": "The visa is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 126
+  },
+  {
+    "word": "ticket",
+    "simple_sentence": "I visited the ticket during my trip.",
+    "complex_sentence": "The ticket is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 127
+  },
+  {
+    "word": "boarding pass",
+    "simple_sentence": "I visited the boarding pass during my trip.",
+    "complex_sentence": "The boarding pass is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 128
+  },
+  {
+    "word": "luggage",
+    "simple_sentence": "I visited the luggage during my trip.",
+    "complex_sentence": "The luggage is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 129
+  },
+  {
+    "word": "suitcase",
+    "simple_sentence": "I visited the suitcase during my trip.",
+    "complex_sentence": "The suitcase is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 130
+  },
+  {
+    "word": "backpack",
+    "simple_sentence": "I visited the backpack during my trip.",
+    "complex_sentence": "The backpack is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 131
+  },
+  {
+    "word": "daypack",
+    "simple_sentence": "I visited the daypack during my trip.",
+    "complex_sentence": "The daypack is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 132
+  },
+  {
+    "word": "carry-on",
+    "simple_sentence": "I visited the carry-on during my trip.",
+    "complex_sentence": "The carry-on is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 133
+  },
+  {
+    "word": "bag",
+    "simple_sentence": "I visited the bag during my trip.",
+    "complex_sentence": "The bag is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 134
+  },
+  {
+    "word": "purse",
+    "simple_sentence": "I visited the purse during my trip.",
+    "complex_sentence": "The purse is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 135
+  },
+  {
+    "word": "wallet",
+    "simple_sentence": "I visited the wallet during my trip.",
+    "complex_sentence": "The wallet is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 136
+  },
+  {
+    "word": "fanny pack",
+    "simple_sentence": "I visited the fanny pack during my trip.",
+    "complex_sentence": "The fanny pack is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 137
+  },
+  {
+    "word": "camera",
+    "simple_sentence": "I visited the camera during my trip.",
+    "complex_sentence": "The camera is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 138
+  },
+  {
+    "word": "guidebook",
+    "simple_sentence": "I visited the guidebook during my trip.",
+    "complex_sentence": "The guidebook is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 139
+  },
+  {
+    "word": "brochure",
+    "simple_sentence": "I visited the brochure during my trip.",
+    "complex_sentence": "The brochure is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 140
+  },
+  {
+    "word": "tour",
+    "simple_sentence": "I visited the tour during my trip.",
+    "complex_sentence": "The tour is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 141
+  },
+  {
+    "word": "sightseeing",
+    "simple_sentence": "I visited the sightseeing during my trip.",
+    "complex_sentence": "The sightseeing is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 142
+  },
+  {
+    "word": "excursion",
+    "simple_sentence": "I visited the excursion during my trip.",
+    "complex_sentence": "The excursion is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 143
+  },
+  {
+    "word": "adventure",
+    "simple_sentence": "I visited the adventure during my trip.",
+    "complex_sentence": "The adventure is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 144
+  },
+  {
+    "word": "expedition",
+    "simple_sentence": "I visited the expedition during my trip.",
+    "complex_sentence": "The expedition is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 145
+  },
+  {
+    "word": "journey",
+    "simple_sentence": "I visited the journey during my trip.",
+    "complex_sentence": "The journey is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 146
+  },
+  {
+    "word": "trip",
+    "simple_sentence": "I visited the trip during my trip.",
+    "complex_sentence": "The trip is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 147
+  },
+  {
+    "word": "holiday",
+    "simple_sentence": "I visited the holiday during my trip.",
+    "complex_sentence": "The holiday is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 148
+  },
+  {
+    "word": "vacation",
+    "simple_sentence": "I visited the vacation during my trip.",
+    "complex_sentence": "The vacation is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 149
+  },
+  {
+    "word": "road trip",
+    "simple_sentence": "I visited the road trip during my trip.",
+    "complex_sentence": "The road trip is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 150
+  },
+  {
+    "word": "cruise",
+    "simple_sentence": "I visited the cruise during my trip.",
+    "complex_sentence": "The cruise is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 151
+  },
+  {
+    "word": "flight",
+    "simple_sentence": "I visited the flight during my trip.",
+    "complex_sentence": "The flight is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 152
+  },
+  {
+    "word": "train ride",
+    "simple_sentence": "I visited the train ride during my trip.",
+    "complex_sentence": "The train ride is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 153
+  },
+  {
+    "word": "bus ride",
+    "simple_sentence": "I visited the bus ride during my trip.",
+    "complex_sentence": "The bus ride is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 154
+  },
+  {
+    "word": "car ride",
+    "simple_sentence": "I visited the car ride during my trip.",
+    "complex_sentence": "The car ride is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 155
+  },
+  {
+    "word": "ferry",
+    "simple_sentence": "I visited the ferry during my trip.",
+    "complex_sentence": "The ferry is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 156
+  },
+  {
+    "word": "boat ride",
+    "simple_sentence": "I visited the boat ride during my trip.",
+    "complex_sentence": "The boat ride is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 157
+  },
+  {
+    "word": "bike ride",
+    "simple_sentence": "I visited the bike ride during my trip.",
+    "complex_sentence": "The bike ride is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 158
+  },
+  {
+    "word": "hike",
+    "simple_sentence": "I visited the hike during my trip.",
+    "complex_sentence": "The hike is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 159
+  },
+  {
+    "word": "trek",
+    "simple_sentence": "I visited the trek during my trip.",
+    "complex_sentence": "The trek is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 160
+  },
+  {
+    "word": "camping",
+    "simple_sentence": "I visited the camping during my trip.",
+    "complex_sentence": "The camping is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 161
+  },
+  {
+    "word": "glamping",
+    "simple_sentence": "I visited the glamping during my trip.",
+    "complex_sentence": "The glamping is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 162
+  },
+  {
+    "word": "safari",
+    "simple_sentence": "I visited the safari during my trip.",
+    "complex_sentence": "The safari is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 163
+  },
+  {
+    "word": "backpacking",
+    "simple_sentence": "I visited the backpacking during my trip.",
+    "complex_sentence": "The backpacking is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 164
+  },
+  {
+    "word": "hitchhiking",
+    "simple_sentence": "I visited the hitchhiking during my trip.",
+    "complex_sentence": "The hitchhiking is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 165
+  },
+  {
+    "word": "island hopping",
+    "simple_sentence": "I visited the island hopping during my trip.",
+    "complex_sentence": "The island hopping is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 166
+  },
+  {
+    "word": "city tour",
+    "simple_sentence": "I visited the city tour during my trip.",
+    "complex_sentence": "The city tour is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 167
+  },
+  {
+    "word": "nature walk",
+    "simple_sentence": "I visited the nature walk during my trip.",
+    "complex_sentence": "The nature walk is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 168
+  },
+  {
+    "word": "wine tour",
+    "simple_sentence": "I visited the wine tour during my trip.",
+    "complex_sentence": "The wine tour is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 169
+  },
+  {
+    "word": "culinary tour",
+    "simple_sentence": "I visited the culinary tour during my trip.",
+    "complex_sentence": "The culinary tour is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 170
+  },
+  {
+    "word": "art tour",
+    "simple_sentence": "I visited the art tour during my trip.",
+    "complex_sentence": "The art tour is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 171
+  },
+  {
+    "word": "historical tour",
+    "simple_sentence": "I visited the historical tour during my trip.",
+    "complex_sentence": "The historical tour is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 172
+  },
+  {
+    "word": "cultural tour",
+    "simple_sentence": "I visited the cultural tour during my trip.",
+    "complex_sentence": "The cultural tour is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 173
+  },
+  {
+    "word": "beach holiday",
+    "simple_sentence": "I visited the beach holiday during my trip.",
+    "complex_sentence": "The beach holiday is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 174
+  },
+  {
+    "word": "ski trip",
+    "simple_sentence": "I visited the ski trip during my trip.",
+    "complex_sentence": "The ski trip is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 175
+  },
+  {
+    "word": "mountain climbing",
+    "simple_sentence": "I visited the mountain climbing during my trip.",
+    "complex_sentence": "The mountain climbing is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 176
+  },
+  {
+    "word": "surfing",
+    "simple_sentence": "I visited the surfing during my trip.",
+    "complex_sentence": "The surfing is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 177
+  },
+  {
+    "word": "snorkeling",
+    "simple_sentence": "I visited the snorkeling during my trip.",
+    "complex_sentence": "The snorkeling is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 178
+  },
+  {
+    "word": "diving",
+    "simple_sentence": "I visited the diving during my trip.",
+    "complex_sentence": "The diving is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 179
+  },
+  {
+    "word": "kayaking",
+    "simple_sentence": "I visited the kayaking during my trip.",
+    "complex_sentence": "The kayaking is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 180
+  },
+  {
+    "word": "canoeing",
+    "simple_sentence": "I visited the canoeing during my trip.",
+    "complex_sentence": "The canoeing is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 181
+  },
+  {
+    "word": "rafting",
+    "simple_sentence": "I visited the rafting during my trip.",
+    "complex_sentence": "The rafting is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 182
+  },
+  {
+    "word": "paragliding",
+    "simple_sentence": "I visited the paragliding during my trip.",
+    "complex_sentence": "The paragliding is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 183
+  },
+  {
+    "word": "skydiving",
+    "simple_sentence": "I visited the skydiving during my trip.",
+    "complex_sentence": "The skydiving is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 184
+  },
+  {
+    "word": "hot air ballooning",
+    "simple_sentence": "I visited the hot air ballooning during my trip.",
+    "complex_sentence": "The hot air ballooning is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 185
+  },
+  {
+    "word": "bungee jumping",
+    "simple_sentence": "I visited the bungee jumping during my trip.",
+    "complex_sentence": "The bungee jumping is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 186
+  },
+  {
+    "word": "zip-lining",
+    "simple_sentence": "I visited the zip-lining during my trip.",
+    "complex_sentence": "The zip-lining is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 187
+  },
+  {
+    "word": "rock climbing",
+    "simple_sentence": "I visited the rock climbing during my trip.",
+    "complex_sentence": "The rock climbing is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 188
+  },
+  {
+    "word": "caving",
+    "simple_sentence": "I visited the caving during my trip.",
+    "complex_sentence": "The caving is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 189
+  },
+  {
+    "word": "scuba diving",
+    "simple_sentence": "I visited the scuba diving during my trip.",
+    "complex_sentence": "The scuba diving is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 190
+  },
+  {
+    "word": "sailing",
+    "simple_sentence": "I visited the sailing during my trip.",
+    "complex_sentence": "The sailing is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 191
+  },
+  {
+    "word": "windsurfing",
+    "simple_sentence": "I visited the windsurfing during my trip.",
+    "complex_sentence": "The windsurfing is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 192
+  },
+  {
+    "word": "kite surfing",
+    "simple_sentence": "I visited the kite surfing during my trip.",
+    "complex_sentence": "The kite surfing is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 193
+  },
+  {
+    "word": "jet skiing",
+    "simple_sentence": "I visited the jet skiing during my trip.",
+    "complex_sentence": "The jet skiing is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 194
+  },
+  {
+    "word": "snowboarding",
+    "simple_sentence": "I visited the snowboarding during my trip.",
+    "complex_sentence": "The snowboarding is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 195
+  },
+  {
+    "word": "skiing",
+    "simple_sentence": "I visited the skiing during my trip.",
+    "complex_sentence": "The skiing is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 196
+  },
+  {
+    "word": "snowmobiling",
+    "simple_sentence": "I visited the snowmobiling during my trip.",
+    "complex_sentence": "The snowmobiling is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 197
+  },
+  {
+    "word": "dog sledding",
+    "simple_sentence": "I visited the dog sledding during my trip.",
+    "complex_sentence": "The dog sledding is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 198
+  },
+  {
+    "word": "ice skating",
+    "simple_sentence": "I visited the ice skating during my trip.",
+    "complex_sentence": "The ice skating is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 199
+  },
+  {
+    "word": "roller skating",
+    "simple_sentence": "I visited the roller skating during my trip.",
+    "complex_sentence": "The roller skating is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 200
+  },
+  {
+    "word": "rollerblading",
+    "simple_sentence": "I visited the rollerblading during my trip.",
+    "complex_sentence": "The rollerblading is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 201
+  },
+  {
+    "word": "skateboarding",
+    "simple_sentence": "I visited the skateboarding during my trip.",
+    "complex_sentence": "The skateboarding is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 202
+  },
+  {
+    "word": "cycling",
+    "simple_sentence": "I visited the cycling during my trip.",
+    "complex_sentence": "The cycling is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 203
+  },
+  {
+    "word": "mountain biking",
+    "simple_sentence": "I visited the mountain biking during my trip.",
+    "complex_sentence": "The mountain biking is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 204
+  },
+  {
+    "word": "horseback riding",
+    "simple_sentence": "I visited the horseback riding during my trip.",
+    "complex_sentence": "The horseback riding is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 205
+  },
+  {
+    "word": "camel riding",
+    "simple_sentence": "I visited the camel riding during my trip.",
+    "complex_sentence": "The camel riding is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 206
+  },
+  {
+    "word": "elephant riding",
+    "simple_sentence": "I visited the elephant riding during my trip.",
+    "complex_sentence": "The elephant riding is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 207
+  },
+  {
+    "word": "helicopter tour",
+    "simple_sentence": "I visited the helicopter tour during my trip.",
+    "complex_sentence": "The helicopter tour is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 208
+  },
+  {
+    "word": "private jet",
+    "simple_sentence": "I visited the private jet during my trip.",
+    "complex_sentence": "The private jet is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 209
+  },
+  {
+    "word": "yacht",
+    "simple_sentence": "I visited the yacht during my trip.",
+    "complex_sentence": "The yacht is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 210
+  },
+  {
+    "word": "sailboat",
+    "simple_sentence": "I visited the sailboat during my trip.",
+    "complex_sentence": "The sailboat is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 211
+  },
+  {
+    "word": "catamaran",
+    "simple_sentence": "I visited the catamaran during my trip.",
+    "complex_sentence": "The catamaran is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 212
+  },
+  {
+    "word": "speedboat",
+    "simple_sentence": "I visited the speedboat during my trip.",
+    "complex_sentence": "The speedboat is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 213
+  },
+  {
+    "word": "submarine",
+    "simple_sentence": "I visited the submarine during my trip.",
+    "complex_sentence": "The submarine is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 214
+  },
+  {
+    "word": "gondola",
+    "simple_sentence": "I visited the gondola during my trip.",
+    "complex_sentence": "The gondola is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 215
+  },
+  {
+    "word": "rickshaw",
+    "simple_sentence": "I visited the rickshaw during my trip.",
+    "complex_sentence": "The rickshaw is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 216
+  },
+  {
+    "word": "tram",
+    "simple_sentence": "I visited the tram during my trip.",
+    "complex_sentence": "The tram is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 217
+  },
+  {
+    "word": "trolley",
+    "simple_sentence": "I visited the trolley during my trip.",
+    "complex_sentence": "The trolley is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 218
+  },
+  {
+    "word": "funicular",
+    "simple_sentence": "I visited the funicular during my trip.",
+    "complex_sentence": "The funicular is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 219
+  },
+  {
+    "word": "cable car",
+    "simple_sentence": "I visited the cable car during my trip.",
+    "complex_sentence": "The cable car is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 220
+  },
+  {
+    "word": "monorail",
+    "simple_sentence": "I visited the monorail during my trip.",
+    "complex_sentence": "The monorail is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 221
+  },
+  {
+    "word": "bullet train",
+    "simple_sentence": "I visited the bullet train during my trip.",
+    "complex_sentence": "The bullet train is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 222
+  },
+  {
+    "word": "luxury train",
+    "simple_sentence": "I visited the luxury train during my trip.",
+    "complex_sentence": "The luxury train is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 223
+  },
+  {
+    "word": "sleeper train",
+    "simple_sentence": "I visited the sleeper train during my trip.",
+    "complex_sentence": "The sleeper train is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 224
+  },
+  {
+    "word": "express train",
+    "simple_sentence": "I visited the express train during my trip.",
+    "complex_sentence": "The express train is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 225
+  },
+  {
+    "word": "commuter train",
+    "simple_sentence": "I visited the commuter train during my trip.",
+    "complex_sentence": "The commuter train is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 226
+  },
+  {
+    "word": "ferry ride",
+    "simple_sentence": "I visited the ferry ride during my trip.",
+    "complex_sentence": "The ferry ride is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 227
+  },
+  {
+    "word": "cruise ship",
+    "simple_sentence": "I visited the cruise ship during my trip.",
+    "complex_sentence": "The cruise ship is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 228
+  },
+  {
+    "word": "yacht charter",
+    "simple_sentence": "I visited the yacht charter during my trip.",
+    "complex_sentence": "The yacht charter is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 229
+  },
+  {
+    "word": "business class",
+    "simple_sentence": "I visited the business class during my trip.",
+    "complex_sentence": "The business class is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 230
+  },
+  {
+    "word": "first class",
+    "simple_sentence": "I visited the first class during my trip.",
+    "complex_sentence": "The first class is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 231
+  },
+  {
+    "word": "economy class",
+    "simple_sentence": "I visited the economy class during my trip.",
+    "complex_sentence": "The economy class is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 232
+  },
+  {
+    "word": "budget airline",
+    "simple_sentence": "I visited the budget airline during my trip.",
+    "complex_sentence": "The budget airline is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 233
+  },
+  {
+    "word": "low-cost airline",
+    "simple_sentence": "I visited the low-cost airline during my trip.",
+    "complex_sentence": "The low-cost airline is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 234
+  },
+  {
+    "word": "frequent flyer",
+    "simple_sentence": "I visited the frequent flyer during my trip.",
+    "complex_sentence": "The frequent flyer is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 235
+  },
+  {
+    "word": "travel agency",
+    "simple_sentence": "I visited the travel agency during my trip.",
+    "complex_sentence": "The travel agency is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 236
+  },
+  {
+    "word": "tour guide",
+    "simple_sentence": "I visited the tour guide during my trip.",
+    "complex_sentence": "The tour guide is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 237
+  },
+  {
+    "word": "group tour",
+    "simple_sentence": "I visited the group tour during my trip.",
+    "complex_sentence": "The group tour is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 238
+  },
+  {
+    "word": "private tour",
+    "simple_sentence": "I visited the private tour during my trip.",
+    "complex_sentence": "The private tour is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 239
+  },
+  {
+    "word": "backpacker hostel",
+    "simple_sentence": "I visited the backpacker hostel during my trip.",
+    "complex_sentence": "The backpacker hostel is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 240
+  },
+  {
+    "word": "boutique hotel",
+    "simple_sentence": "I visited the boutique hotel during my trip.",
+    "complex_sentence": "The boutique hotel is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 241
+  },
+  {
+    "word": "eco-lodge",
+    "simple_sentence": "I visited the eco-lodge during my trip.",
+    "complex_sentence": "The eco-lodge is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 242
+  },
+  {
+    "word": "guest suite",
+    "simple_sentence": "I visited the guest suite during my trip.",
+    "complex_sentence": "The guest suite is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 243
+  },
+  {
+    "word": "luxury hotel",
+    "simple_sentence": "I visited the luxury hotel during my trip.",
+    "complex_sentence": "The luxury hotel is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 244
+  },
+  {
+    "word": "family-friendly hotel",
+    "simple_sentence": "I visited the family-friendly hotel during my trip.",
+    "complex_sentence": "The family-friendly hotel is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 245
+  },
+  {
+    "word": "pet-friendly hotel",
+    "simple_sentence": "I visited the pet-friendly hotel during my trip.",
+    "complex_sentence": "The pet-friendly hotel is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 246
+  },
+  {
+    "word": "spa resort",
+    "simple_sentence": "I visited the spa resort during my trip.",
+    "complex_sentence": "The spa resort is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 247
+  },
+  {
+    "word": "all-inclusive resort",
+    "simple_sentence": "I visited the all-inclusive resort during my trip.",
+    "complex_sentence": "The all-inclusive resort is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 248
+  },
+  {
+    "word": "adults-only resort",
+    "simple_sentence": "I visited the adults-only resort during my trip.",
+    "complex_sentence": "The adults-only resort is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 249
+  },
+  {
+    "word": "water park",
+    "simple_sentence": "I visited the water park during my trip.",
+    "complex_sentence": "The water park is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 250
+  },
+  {
+    "word": "theme park",
+    "simple_sentence": "I visited the theme park during my trip.",
+    "complex_sentence": "The theme park is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 251
+  },
+  {
+    "word": "amusement park",
+    "simple_sentence": "I visited the amusement park during my trip.",
+    "complex_sentence": "The amusement park is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 252
+  },
+  {
+    "word": "national park",
+    "simple_sentence": "I visited the national park during my trip.",
+    "complex_sentence": "The national park is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 253
+  },
+  {
+    "word": "state park",
+    "simple_sentence": "I visited the state park during my trip.",
+    "complex_sentence": "The state park is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 254
+  },
+  {
+    "word": "beach resort",
+    "simple_sentence": "I visited the beach resort during my trip.",
+    "complex_sentence": "The beach resort is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 255
+  },
+  {
+    "word": "mountain resort",
+    "simple_sentence": "I visited the mountain resort during my trip.",
+    "complex_sentence": "The mountain resort is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 256
+  },
+  {
+    "word": "ski resort",
+    "simple_sentence": "I visited the ski resort during my trip.",
+    "complex_sentence": "The ski resort is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 257
+  },
+  {
+    "word": "golf resort",
+    "simple_sentence": "I visited the golf resort during my trip.",
+    "complex_sentence": "The golf resort is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 258
+  },
+  {
+    "word": "wellness retreat",
+    "simple_sentence": "I visited the wellness retreat during my trip.",
+    "complex_sentence": "The wellness retreat is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 259
+  },
+  {
+    "word": "cultural festival",
+    "simple_sentence": "I visited the cultural festival during my trip.",
+    "complex_sentence": "The cultural festival is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 260
+  },
+  {
+    "word": "music festival",
+    "simple_sentence": "I visited the music festival during my trip.",
+    "complex_sentence": "The music festival is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 261
+  },
+  {
+    "word": "food festival",
+    "simple_sentence": "I visited the food festival during my trip.",
+    "complex_sentence": "The food festival is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 262
+  },
+  {
+    "word": "wine festival",
+    "simple_sentence": "I visited the wine festival during my trip.",
+    "complex_sentence": "The wine festival is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 263
+  },
+  {
+    "word": "film festival",
+    "simple_sentence": "I visited the film festival during my trip.",
+    "complex_sentence": "The film festival is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 264
+  },
+  {
+    "word": "art festival",
+    "simple_sentence": "I visited the art festival during my trip.",
+    "complex_sentence": "The art festival is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 265
+  },
+  {
+    "word": "fashion show",
+    "simple_sentence": "I visited the fashion show during my trip.",
+    "complex_sentence": "The fashion show is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 266
+  },
+  {
+    "word": "trade show",
+    "simple_sentence": "I visited the trade show during my trip.",
+    "complex_sentence": "The trade show is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 267
+  },
+  {
+    "word": "conference",
+    "simple_sentence": "I visited the conference during my trip.",
+    "complex_sentence": "The conference is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 268
+  },
+  {
+    "word": "convention",
+    "simple_sentence": "I visited the convention during my trip.",
+    "complex_sentence": "The convention is a popular destination known for its breathtaking views and cultural significance.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 269
+  }
+]

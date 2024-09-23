@@ -1,0 +1,245 @@
+[
+  {
+    "word": "eat",
+    "tense": "Present Simple",
+    "simple_sentence": "I eat breakfast every day.",
+    "complex_sentence": "The Present Simple of the verb 'eat' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Yo como",
+    "id": 1
+  },
+  {
+    "word": "go",
+    "tense": "Present Simple",
+    "simple_sentence": "She goes to school on weekdays.",
+    "complex_sentence": "The Present Simple of the verb 'go' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Ella va",
+    "id": 2
+  },
+  {
+    "word": "run",
+    "tense": "Present Simple",
+    "simple_sentence": "He runs in the park every morning.",
+    "complex_sentence": "The Present Simple of the verb 'run' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Él corre",
+    "id": 3
+  },
+  {
+    "word": "ate",
+    "tense": "Past Simple",
+    "simple_sentence": "I ate dinner last night.",
+    "complex_sentence": "The Past Simple of the verb 'ate' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Yo comí",
+    "id": 4
+  },
+  {
+    "word": "went",
+    "tense": "Past Simple",
+    "simple_sentence": "She went to the store yesterday.",
+    "complex_sentence": "The Past Simple of the verb 'went' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Ella fue",
+    "id": 5
+  },
+  {
+    "word": "ran",
+    "tense": "Past Simple",
+    "simple_sentence": "He ran a marathon last year.",
+    "complex_sentence": "The Past Simple of the verb 'ran' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Él corrió",
+    "id": 6
+  },
+  {
+    "word": "will eat",
+    "tense": "Future Simple",
+    "simple_sentence": "I will eat pizza tomorrow.",
+    "complex_sentence": "The Future Simple of the verb 'will eat' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Yo comeré",
+    "id": 7
+  },
+  {
+    "word": "will go",
+    "tense": "Future Simple",
+    "simple_sentence": "She will go to the party next week.",
+    "complex_sentence": "The Future Simple of the verb 'will go' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Ella irá",
+    "id": 8
+  },
+  {
+    "word": "will run",
+    "tense": "Future Simple",
+    "simple_sentence": "He will run in the race next month.",
+    "complex_sentence": "The Future Simple of the verb 'will run' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Él correrá",
+    "id": 9
+  },
+  {
+    "word": "am eating",
+    "tense": "Present Continuous",
+    "simple_sentence": "I am eating lunch right now.",
+    "complex_sentence": "The Present Continuous of the verb 'am eating' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Estoy comiendo",
+    "id": 10
+  },
+  {
+    "word": "is going",
+    "tense": "Present Continuous",
+    "simple_sentence": "She is going to the gym.",
+    "complex_sentence": "The Present Continuous of the verb 'is going' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Ella está yendo",
+    "id": 11
+  },
+  {
+    "word": "is running",
+    "tense": "Present Continuous",
+    "simple_sentence": "He is running in the park.",
+    "complex_sentence": "The Present Continuous of the verb 'is running' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Él está corriendo",
+    "id": 12
+  },
+  {
+    "word": "was eating",
+    "tense": "Past Continuous",
+    "simple_sentence": "I was eating when you called.",
+    "complex_sentence": "The Past Continuous of the verb 'was eating' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Yo estaba comiendo",
+    "id": 13
+  },
+  {
+    "word": "was going",
+    "tense": "Past Continuous",
+    "simple_sentence": "She was going home when it started to rain.",
+    "complex_sentence": "The Past Continuous of the verb 'was going' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Ella estaba yendo",
+    "id": 14
+  },
+  {
+    "word": "was running",
+    "tense": "Past Continuous",
+    "simple_sentence": "He was running when he fell.",
+    "complex_sentence": "The Past Continuous of the verb 'was running' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Él estaba corriendo",
+    "id": 15
+  },
+  {
+    "word": "will be eating",
+    "tense": "Future Continuous",
+    "simple_sentence": "I will be eating at 7 PM.",
+    "complex_sentence": "The Future Continuous of the verb 'will be eating' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Yo estaré comiendo",
+    "id": 16
+  },
+  {
+    "word": "will be going",
+    "tense": "Future Continuous",
+    "simple_sentence": "She will be going to the meeting at 3 PM.",
+    "complex_sentence": "The Future Continuous of the verb 'will be going' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Ella estará yendo",
+    "id": 17
+  },
+  {
+    "word": "will be running",
+    "tense": "Future Continuous",
+    "simple_sentence": "He will be running in the marathon next year.",
+    "complex_sentence": "The Future Continuous of the verb 'will be running' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Él estará corriendo",
+    "id": 18
+  },
+  {
+    "word": "have eaten",
+    "tense": "Present Perfect",
+    "simple_sentence": "I have eaten sushi before.",
+    "complex_sentence": "The Present Perfect of the verb 'have eaten' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Yo he comido",
+    "id": 19
+  },
+  {
+    "word": "has gone",
+    "tense": "Present Perfect",
+    "simple_sentence": "She has gone to Paris three times.",
+    "complex_sentence": "The Present Perfect of the verb 'has gone' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Ella ha ido",
+    "id": 20
+  },
+  {
+    "word": "has run",
+    "tense": "Present Perfect",
+    "simple_sentence": "He has run five miles today.",
+    "complex_sentence": "The Present Perfect of the verb 'has run' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Él ha corrido",
+    "id": 21
+  },
+  {
+    "word": "had eaten",
+    "tense": "Past Perfect",
+    "simple_sentence": "I had eaten dinner before the movie.",
+    "complex_sentence": "The Past Perfect of the verb 'had eaten' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Yo había comido",
+    "id": 22
+  },
+  {
+    "word": "had gone",
+    "tense": "Past Perfect",
+    "simple_sentence": "She had gone to bed when the phone rang.",
+    "complex_sentence": "The Past Perfect of the verb 'had gone' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Ella había ido",
+    "id": 23
+  },
+  {
+    "word": "had run",
+    "tense": "Past Perfect",
+    "simple_sentence": "He had run a marathon before.",
+    "complex_sentence": "The Past Perfect of the verb 'had run' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Él había corrido",
+    "id": 24
+  },
+  {
+    "word": "will have eaten",
+    "tense": "Future Perfect",
+    "simple_sentence": "I will have eaten by the time you arrive.",
+    "complex_sentence": "The Future Perfect of the verb 'will have eaten' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Yo habré comido",
+    "id": 25
+  },
+  {
+    "word": "will have gone",
+    "tense": "Future Perfect",
+    "simple_sentence": "She will have gone to work before noon.",
+    "complex_sentence": "The Future Perfect of the verb 'will have gone' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Ella habrá ido",
+    "id": 26
+  },
+  {
+    "word": "will have run",
+    "tense": "Future Perfect",
+    "simple_sentence": "He will have run ten miles by tomorrow.",
+    "complex_sentence": "The Future Perfect of the verb 'will have run' is used to indicate actions happening in the specified time.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "Él habrá corrido",
+    "id": 27
+  }
+]

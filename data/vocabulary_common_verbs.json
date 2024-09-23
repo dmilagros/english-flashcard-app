@@ -1,0 +1,1546 @@
+[
+  {
+    "word": "run",
+    "simple_sentence": "I love to run.",
+    "complex_sentence": "When I run, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 1
+  },
+  {
+    "word": "jump",
+    "simple_sentence": "I love to jump.",
+    "complex_sentence": "When I jump, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 2
+  },
+  {
+    "word": "swim",
+    "simple_sentence": "I love to swim.",
+    "complex_sentence": "When I swim, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 3
+  },
+  {
+    "word": "read",
+    "simple_sentence": "I love to read.",
+    "complex_sentence": "When I read, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 4
+  },
+  {
+    "word": "write",
+    "simple_sentence": "I love to write.",
+    "complex_sentence": "When I write, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 5
+  },
+  {
+    "word": "sing",
+    "simple_sentence": "I love to sing.",
+    "complex_sentence": "When I sing, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 6
+  },
+  {
+    "word": "dance",
+    "simple_sentence": "I love to dance.",
+    "complex_sentence": "When I dance, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 7
+  },
+  {
+    "word": "talk",
+    "simple_sentence": "I love to talk.",
+    "complex_sentence": "When I talk, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 8
+  },
+  {
+    "word": "listen",
+    "simple_sentence": "I love to listen.",
+    "complex_sentence": "When I listen, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 9
+  },
+  {
+    "word": "watch",
+    "simple_sentence": "I love to watch.",
+    "complex_sentence": "When I watch, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 10
+  },
+  {
+    "word": "eat",
+    "simple_sentence": "I love to eat.",
+    "complex_sentence": "When I eat, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 11
+  },
+  {
+    "word": "drink",
+    "simple_sentence": "I love to drink.",
+    "complex_sentence": "When I drink, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 12
+  },
+  {
+    "word": "cook",
+    "simple_sentence": "I love to cook.",
+    "complex_sentence": "When I cook, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 13
+  },
+  {
+    "word": "bake",
+    "simple_sentence": "I love to bake.",
+    "complex_sentence": "When I bake, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 14
+  },
+  {
+    "word": "drive",
+    "simple_sentence": "I love to drive.",
+    "complex_sentence": "When I drive, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 15
+  },
+  {
+    "word": "walk",
+    "simple_sentence": "I love to walk.",
+    "complex_sentence": "When I walk, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 16
+  },
+  {
+    "word": "hike",
+    "simple_sentence": "I love to hike.",
+    "complex_sentence": "When I hike, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 17
+  },
+  {
+    "word": "jog",
+    "simple_sentence": "I love to jog.",
+    "complex_sentence": "When I jog, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 18
+  },
+  {
+    "word": "play",
+    "simple_sentence": "I love to play.",
+    "complex_sentence": "When I play, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 19
+  },
+  {
+    "word": "study",
+    "simple_sentence": "I love to study.",
+    "complex_sentence": "When I study, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 20
+  },
+  {
+    "word": "work",
+    "simple_sentence": "I love to work.",
+    "complex_sentence": "When I work, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 21
+  },
+  {
+    "word": "sleep",
+    "simple_sentence": "I love to sleep.",
+    "complex_sentence": "When I sleep, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 22
+  },
+  {
+    "word": "wake",
+    "simple_sentence": "I love to wake.",
+    "complex_sentence": "When I wake, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 23
+  },
+  {
+    "word": "clean",
+    "simple_sentence": "I love to clean.",
+    "complex_sentence": "When I clean, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 24
+  },
+  {
+    "word": "wash",
+    "simple_sentence": "I love to wash.",
+    "complex_sentence": "When I wash, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 25
+  },
+  {
+    "word": "build",
+    "simple_sentence": "I love to build.",
+    "complex_sentence": "When I build, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 26
+  },
+  {
+    "word": "fix",
+    "simple_sentence": "I love to fix.",
+    "complex_sentence": "When I fix, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 27
+  },
+  {
+    "word": "repair",
+    "simple_sentence": "I love to repair.",
+    "complex_sentence": "When I repair, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 28
+  },
+  {
+    "word": "open",
+    "simple_sentence": "I love to open.",
+    "complex_sentence": "When I open, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 29
+  },
+  {
+    "word": "close",
+    "simple_sentence": "I love to close.",
+    "complex_sentence": "When I close, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 30
+  },
+  {
+    "word": "cut",
+    "simple_sentence": "I love to cut.",
+    "complex_sentence": "When I cut, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 31
+  },
+  {
+    "word": "paint",
+    "simple_sentence": "I love to paint.",
+    "complex_sentence": "When I paint, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 32
+  },
+  {
+    "word": "draw",
+    "simple_sentence": "I love to draw.",
+    "complex_sentence": "When I draw, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 33
+  },
+  {
+    "word": "carry",
+    "simple_sentence": "I love to carry.",
+    "complex_sentence": "When I carry, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 34
+  },
+  {
+    "word": "move",
+    "simple_sentence": "I love to move.",
+    "complex_sentence": "When I move, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 35
+  },
+  {
+    "word": "push",
+    "simple_sentence": "I love to push.",
+    "complex_sentence": "When I push, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 36
+  },
+  {
+    "word": "pull",
+    "simple_sentence": "I love to pull.",
+    "complex_sentence": "When I pull, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 37
+  },
+  {
+    "word": "lift",
+    "simple_sentence": "I love to lift.",
+    "complex_sentence": "When I lift, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 38
+  },
+  {
+    "word": "throw",
+    "simple_sentence": "I love to throw.",
+    "complex_sentence": "When I throw, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 39
+  },
+  {
+    "word": "catch",
+    "simple_sentence": "I love to catch.",
+    "complex_sentence": "When I catch, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 40
+  },
+  {
+    "word": "kick",
+    "simple_sentence": "I love to kick.",
+    "complex_sentence": "When I kick, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 41
+  },
+  {
+    "word": "hold",
+    "simple_sentence": "I love to hold.",
+    "complex_sentence": "When I hold, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 42
+  },
+  {
+    "word": "hug",
+    "simple_sentence": "I love to hug.",
+    "complex_sentence": "When I hug, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 43
+  },
+  {
+    "word": "kiss",
+    "simple_sentence": "I love to kiss.",
+    "complex_sentence": "When I kiss, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 44
+  },
+  {
+    "word": "speak",
+    "simple_sentence": "I love to speak.",
+    "complex_sentence": "When I speak, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 45
+  },
+  {
+    "word": "shout",
+    "simple_sentence": "I love to shout.",
+    "complex_sentence": "When I shout, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 46
+  },
+  {
+    "word": "whisper",
+    "simple_sentence": "I love to whisper.",
+    "complex_sentence": "When I whisper, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 47
+  },
+  {
+    "word": "fly",
+    "simple_sentence": "I love to fly.",
+    "complex_sentence": "When I fly, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 48
+  },
+  {
+    "word": "laugh",
+    "simple_sentence": "I love to laugh.",
+    "complex_sentence": "When I laugh, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 49
+  },
+  {
+    "word": "smile",
+    "simple_sentence": "I love to smile.",
+    "complex_sentence": "When I smile, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 50
+  },
+  {
+    "word": "cry",
+    "simple_sentence": "I love to cry.",
+    "complex_sentence": "When I cry, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 51
+  },
+  {
+    "word": "call",
+    "simple_sentence": "I love to call.",
+    "complex_sentence": "When I call, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 52
+  },
+  {
+    "word": "text",
+    "simple_sentence": "I love to text.",
+    "complex_sentence": "When I text, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 53
+  },
+  {
+    "word": "message",
+    "simple_sentence": "I love to message.",
+    "complex_sentence": "When I message, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 54
+  },
+  {
+    "word": "email",
+    "simple_sentence": "I love to email.",
+    "complex_sentence": "When I email, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 55
+  },
+  {
+    "word": "meet",
+    "simple_sentence": "I love to meet.",
+    "complex_sentence": "When I meet, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 56
+  },
+  {
+    "word": "greet",
+    "simple_sentence": "I love to greet.",
+    "complex_sentence": "When I greet, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 57
+  },
+  {
+    "word": "shop",
+    "simple_sentence": "I love to shop.",
+    "complex_sentence": "When I shop, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 58
+  },
+  {
+    "word": "buy",
+    "simple_sentence": "I love to buy.",
+    "complex_sentence": "When I buy, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 59
+  },
+  {
+    "word": "sell",
+    "simple_sentence": "I love to sell.",
+    "complex_sentence": "When I sell, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 60
+  },
+  {
+    "word": "pay",
+    "simple_sentence": "I love to pay.",
+    "complex_sentence": "When I pay, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 61
+  },
+  {
+    "word": "give",
+    "simple_sentence": "I love to give.",
+    "complex_sentence": "When I give, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 62
+  },
+  {
+    "word": "receive",
+    "simple_sentence": "I love to receive.",
+    "complex_sentence": "When I receive, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 63
+  },
+  {
+    "word": "send",
+    "simple_sentence": "I love to send.",
+    "complex_sentence": "When I send, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 64
+  },
+  {
+    "word": "borrow",
+    "simple_sentence": "I love to borrow.",
+    "complex_sentence": "When I borrow, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 65
+  },
+  {
+    "word": "lend",
+    "simple_sentence": "I love to lend.",
+    "complex_sentence": "When I lend, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 66
+  },
+  {
+    "word": "help",
+    "simple_sentence": "I love to help.",
+    "complex_sentence": "When I help, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 67
+  },
+  {
+    "word": "guide",
+    "simple_sentence": "I love to guide.",
+    "complex_sentence": "When I guide, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 68
+  },
+  {
+    "word": "teach",
+    "simple_sentence": "I love to teach.",
+    "complex_sentence": "When I teach, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 69
+  },
+  {
+    "word": "learn",
+    "simple_sentence": "I love to learn.",
+    "complex_sentence": "When I learn, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 70
+  },
+  {
+    "word": "train",
+    "simple_sentence": "I love to train.",
+    "complex_sentence": "When I train, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 71
+  },
+  {
+    "word": "coach",
+    "simple_sentence": "I love to coach.",
+    "complex_sentence": "When I coach, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 72
+  },
+  {
+    "word": "practice",
+    "simple_sentence": "I love to practice.",
+    "complex_sentence": "When I practice, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 73
+  },
+  {
+    "word": "exercise",
+    "simple_sentence": "I love to exercise.",
+    "complex_sentence": "When I exercise, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 74
+  },
+  {
+    "word": "stretch",
+    "simple_sentence": "I love to stretch.",
+    "complex_sentence": "When I stretch, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 75
+  },
+  {
+    "word": "relax",
+    "simple_sentence": "I love to relax.",
+    "complex_sentence": "When I relax, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 76
+  },
+  {
+    "word": "rest",
+    "simple_sentence": "I love to rest.",
+    "complex_sentence": "When I rest, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 77
+  },
+  {
+    "word": "plan",
+    "simple_sentence": "I love to plan.",
+    "complex_sentence": "When I plan, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 78
+  },
+  {
+    "word": "organize",
+    "simple_sentence": "I love to organize.",
+    "complex_sentence": "When I organize, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 79
+  },
+  {
+    "word": "decorate",
+    "simple_sentence": "I love to decorate.",
+    "complex_sentence": "When I decorate, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 80
+  },
+  {
+    "word": "design",
+    "simple_sentence": "I love to design.",
+    "complex_sentence": "When I design, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 81
+  },
+  {
+    "word": "create",
+    "simple_sentence": "I love to create.",
+    "complex_sentence": "When I create, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 82
+  },
+  {
+    "word": "make",
+    "simple_sentence": "I love to make.",
+    "complex_sentence": "When I make, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 83
+  },
+  {
+    "word": "fry",
+    "simple_sentence": "I love to fry.",
+    "complex_sentence": "When I fry, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 84
+  },
+  {
+    "word": "boil",
+    "simple_sentence": "I love to boil.",
+    "complex_sentence": "When I boil, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 85
+  },
+  {
+    "word": "grill",
+    "simple_sentence": "I love to grill.",
+    "complex_sentence": "When I grill, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 86
+  },
+  {
+    "word": "roast",
+    "simple_sentence": "I love to roast.",
+    "complex_sentence": "When I roast, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 87
+  },
+  {
+    "word": "steam",
+    "simple_sentence": "I love to steam.",
+    "complex_sentence": "When I steam, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 88
+  },
+  {
+    "word": "chop",
+    "simple_sentence": "I love to chop.",
+    "complex_sentence": "When I chop, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 89
+  },
+  {
+    "word": "slice",
+    "simple_sentence": "I love to slice.",
+    "complex_sentence": "When I slice, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 90
+  },
+  {
+    "word": "dice",
+    "simple_sentence": "I love to dice.",
+    "complex_sentence": "When I dice, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 91
+  },
+  {
+    "word": "peel",
+    "simple_sentence": "I love to peel.",
+    "complex_sentence": "When I peel, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 92
+  },
+  {
+    "word": "mix",
+    "simple_sentence": "I love to mix.",
+    "complex_sentence": "When I mix, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 93
+  },
+  {
+    "word": "stir",
+    "simple_sentence": "I love to stir.",
+    "complex_sentence": "When I stir, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 94
+  },
+  {
+    "word": "shake",
+    "simple_sentence": "I love to shake.",
+    "complex_sentence": "When I shake, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 95
+  },
+  {
+    "word": "blend",
+    "simple_sentence": "I love to blend.",
+    "complex_sentence": "When I blend, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 96
+  },
+  {
+    "word": "whisk",
+    "simple_sentence": "I love to whisk.",
+    "complex_sentence": "When I whisk, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 97
+  },
+  {
+    "word": "fold",
+    "simple_sentence": "I love to fold.",
+    "complex_sentence": "When I fold, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 98
+  },
+  {
+    "word": "measure",
+    "simple_sentence": "I love to measure.",
+    "complex_sentence": "When I measure, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 99
+  },
+  {
+    "word": "pour",
+    "simple_sentence": "I love to pour.",
+    "complex_sentence": "When I pour, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 100
+  },
+  {
+    "word": "spread",
+    "simple_sentence": "I love to spread.",
+    "complex_sentence": "When I spread, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 101
+  },
+  {
+    "word": "taste",
+    "simple_sentence": "I love to taste.",
+    "complex_sentence": "When I taste, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 102
+  },
+  {
+    "word": "smell",
+    "simple_sentence": "I love to smell.",
+    "complex_sentence": "When I smell, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 103
+  },
+  {
+    "word": "heat",
+    "simple_sentence": "I love to heat.",
+    "complex_sentence": "When I heat, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 104
+  },
+  {
+    "word": "cool",
+    "simple_sentence": "I love to cool.",
+    "complex_sentence": "When I cool, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 105
+  },
+  {
+    "word": "freeze",
+    "simple_sentence": "I love to freeze.",
+    "complex_sentence": "When I freeze, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 106
+  },
+  {
+    "word": "melt",
+    "simple_sentence": "I love to melt.",
+    "complex_sentence": "When I melt, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 107
+  },
+  {
+    "word": "toast",
+    "simple_sentence": "I love to toast.",
+    "complex_sentence": "When I toast, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 108
+  },
+  {
+    "word": "grate",
+    "simple_sentence": "I love to grate.",
+    "complex_sentence": "When I grate, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 109
+  },
+  {
+    "word": "knead",
+    "simple_sentence": "I love to knead.",
+    "complex_sentence": "When I knead, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 110
+  },
+  {
+    "word": "roll",
+    "simple_sentence": "I love to roll.",
+    "complex_sentence": "When I roll, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 111
+  },
+  {
+    "word": "flip",
+    "simple_sentence": "I love to flip.",
+    "complex_sentence": "When I flip, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 112
+  },
+  {
+    "word": "serve",
+    "simple_sentence": "I love to serve.",
+    "complex_sentence": "When I serve, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 113
+  },
+  {
+    "word": "chew",
+    "simple_sentence": "I love to chew.",
+    "complex_sentence": "When I chew, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 114
+  },
+  {
+    "word": "swallow",
+    "simple_sentence": "I love to swallow.",
+    "complex_sentence": "When I swallow, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 115
+  },
+  {
+    "word": "bite",
+    "simple_sentence": "I love to bite.",
+    "complex_sentence": "When I bite, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 116
+  },
+  {
+    "word": "sip",
+    "simple_sentence": "I love to sip.",
+    "complex_sentence": "When I sip, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 117
+  },
+  {
+    "word": "lick",
+    "simple_sentence": "I love to lick.",
+    "complex_sentence": "When I lick, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 118
+  },
+  {
+    "word": "spill",
+    "simple_sentence": "I love to spill.",
+    "complex_sentence": "When I spill, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 119
+  },
+  {
+    "word": "drop",
+    "simple_sentence": "I love to drop.",
+    "complex_sentence": "When I drop, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 120
+  },
+  {
+    "word": "break",
+    "simple_sentence": "I love to break.",
+    "complex_sentence": "When I break, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 121
+  },
+  {
+    "word": "replace",
+    "simple_sentence": "I love to replace.",
+    "complex_sentence": "When I replace, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 122
+  },
+  {
+    "word": "destroy",
+    "simple_sentence": "I love to destroy.",
+    "complex_sentence": "When I destroy, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 123
+  },
+  {
+    "word": "assemble",
+    "simple_sentence": "I love to assemble.",
+    "complex_sentence": "When I assemble, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 124
+  },
+  {
+    "word": "disassemble",
+    "simple_sentence": "I love to disassemble.",
+    "complex_sentence": "When I disassemble, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 125
+  },
+  {
+    "word": "pack",
+    "simple_sentence": "I love to pack.",
+    "complex_sentence": "When I pack, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 126
+  },
+  {
+    "word": "unpack",
+    "simple_sentence": "I love to unpack.",
+    "complex_sentence": "When I unpack, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 127
+  },
+  {
+    "word": "wrap",
+    "simple_sentence": "I love to wrap.",
+    "complex_sentence": "When I wrap, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 128
+  },
+  {
+    "word": "unwrap",
+    "simple_sentence": "I love to unwrap.",
+    "complex_sentence": "When I unwrap, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 129
+  },
+  {
+    "word": "tie",
+    "simple_sentence": "I love to tie.",
+    "complex_sentence": "When I tie, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 130
+  },
+  {
+    "word": "untie",
+    "simple_sentence": "I love to untie.",
+    "complex_sentence": "When I untie, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 131
+  },
+  {
+    "word": "lock",
+    "simple_sentence": "I love to lock.",
+    "complex_sentence": "When I lock, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 132
+  },
+  {
+    "word": "unlock",
+    "simple_sentence": "I love to unlock.",
+    "complex_sentence": "When I unlock, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 133
+  },
+  {
+    "word": "start",
+    "simple_sentence": "I love to start.",
+    "complex_sentence": "When I start, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 134
+  },
+  {
+    "word": "stop",
+    "simple_sentence": "I love to stop.",
+    "complex_sentence": "When I stop, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 135
+  },
+  {
+    "word": "begin",
+    "simple_sentence": "I love to begin.",
+    "complex_sentence": "When I begin, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 136
+  },
+  {
+    "word": "end",
+    "simple_sentence": "I love to end.",
+    "complex_sentence": "When I end, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 137
+  },
+  {
+    "word": "finish",
+    "simple_sentence": "I love to finish.",
+    "complex_sentence": "When I finish, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 138
+  },
+  {
+    "word": "continue",
+    "simple_sentence": "I love to continue.",
+    "complex_sentence": "When I continue, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 139
+  },
+  {
+    "word": "pause",
+    "simple_sentence": "I love to pause.",
+    "complex_sentence": "When I pause, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 140
+  },
+  {
+    "word": "wait",
+    "simple_sentence": "I love to wait.",
+    "complex_sentence": "When I wait, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 141
+  },
+  {
+    "word": "hurry",
+    "simple_sentence": "I love to hurry.",
+    "complex_sentence": "When I hurry, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 142
+  },
+  {
+    "word": "ride",
+    "simple_sentence": "I love to ride.",
+    "complex_sentence": "When I ride, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 143
+  },
+  {
+    "word": "sail",
+    "simple_sentence": "I love to sail.",
+    "complex_sentence": "When I sail, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 144
+  },
+  {
+    "word": "navigate",
+    "simple_sentence": "I love to navigate.",
+    "complex_sentence": "When I navigate, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 145
+  },
+  {
+    "word": "turn",
+    "simple_sentence": "I love to turn.",
+    "complex_sentence": "When I turn, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 146
+  },
+  {
+    "word": "accelerate",
+    "simple_sentence": "I love to accelerate.",
+    "complex_sentence": "When I accelerate, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 147
+  },
+  {
+    "word": "brake",
+    "simple_sentence": "I love to brake.",
+    "complex_sentence": "When I brake, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 148
+  },
+  {
+    "word": "reverse",
+    "simple_sentence": "I love to reverse.",
+    "complex_sentence": "When I reverse, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 149
+  },
+  {
+    "word": "park",
+    "simple_sentence": "I love to park.",
+    "complex_sentence": "When I park, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 150
+  },
+  {
+    "word": "signal",
+    "simple_sentence": "I love to signal.",
+    "complex_sentence": "When I signal, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 151
+  },
+  {
+    "word": "arrive",
+    "simple_sentence": "I love to arrive.",
+    "complex_sentence": "When I arrive, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 152
+  },
+  {
+    "word": "depart",
+    "simple_sentence": "I love to depart.",
+    "complex_sentence": "When I depart, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 153
+  },
+  {
+    "word": "enter",
+    "simple_sentence": "I love to enter.",
+    "complex_sentence": "When I enter, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 154
+  },
+  {
+    "word": "exit",
+    "simple_sentence": "I love to exit.",
+    "complex_sentence": "When I exit, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 155
+  },
+  {
+    "word": "board",
+    "simple_sentence": "I love to board.",
+    "complex_sentence": "When I board, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 156
+  },
+  {
+    "word": "land",
+    "simple_sentence": "I love to land.",
+    "complex_sentence": "When I land, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 157
+  },
+  {
+    "word": "take off",
+    "simple_sentence": "I love to take off.",
+    "complex_sentence": "When I take off, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 158
+  },
+  {
+    "word": "bounce",
+    "simple_sentence": "I love to bounce.",
+    "complex_sentence": "When I bounce, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 159
+  },
+  {
+    "word": "pass",
+    "simple_sentence": "I love to pass.",
+    "complex_sentence": "When I pass, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 160
+  },
+  {
+    "word": "score",
+    "simple_sentence": "I love to score.",
+    "complex_sentence": "When I score, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 161
+  },
+  {
+    "word": "win",
+    "simple_sentence": "I love to win.",
+    "complex_sentence": "When I win, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 162
+  },
+  {
+    "word": "lose",
+    "simple_sentence": "I love to lose.",
+    "complex_sentence": "When I lose, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 163
+  },
+  {
+    "word": "compete",
+    "simple_sentence": "I love to compete.",
+    "complex_sentence": "When I compete, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 164
+  },
+  {
+    "word": "race",
+    "simple_sentence": "I love to race.",
+    "complex_sentence": "When I race, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 165
+  },
+  {
+    "word": "meditate",
+    "simple_sentence": "I love to meditate.",
+    "complex_sentence": "When I meditate, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 166
+  },
+  {
+    "word": "breathe",
+    "simple_sentence": "I love to breathe.",
+    "complex_sentence": "When I breathe, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 167
+  },
+  {
+    "word": "focus",
+    "simple_sentence": "I love to focus.",
+    "complex_sentence": "When I focus, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 168
+  },
+  {
+    "word": "concentrate",
+    "simple_sentence": "I love to concentrate.",
+    "complex_sentence": "When I concentrate, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 169
+  },
+  {
+    "word": "daydream",
+    "simple_sentence": "I love to daydream.",
+    "complex_sentence": "When I daydream, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 170
+  },
+  {
+    "word": "imagine",
+    "simple_sentence": "I love to imagine.",
+    "complex_sentence": "When I imagine, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 171
+  },
+  {
+    "word": "think",
+    "simple_sentence": "I love to think.",
+    "complex_sentence": "When I think, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 172
+  },
+  {
+    "word": "ponder",
+    "simple_sentence": "I love to ponder.",
+    "complex_sentence": "When I ponder, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 173
+  },
+  {
+    "word": "wonder",
+    "simple_sentence": "I love to wonder.",
+    "complex_sentence": "When I wonder, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 174
+  },
+  {
+    "word": "question",
+    "simple_sentence": "I love to question.",
+    "complex_sentence": "When I question, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 175
+  },
+  {
+    "word": "answer",
+    "simple_sentence": "I love to answer.",
+    "complex_sentence": "When I answer, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 176
+  },
+  {
+    "word": "explain",
+    "simple_sentence": "I love to explain.",
+    "complex_sentence": "When I explain, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 177
+  },
+  {
+    "word": "describe",
+    "simple_sentence": "I love to describe.",
+    "complex_sentence": "When I describe, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 178
+  },
+  {
+    "word": "tell",
+    "simple_sentence": "I love to tell.",
+    "complex_sentence": "When I tell, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 179
+  },
+  {
+    "word": "narrate",
+    "simple_sentence": "I love to narrate.",
+    "complex_sentence": "When I narrate, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 180
+  },
+  {
+    "word": "murmur",
+    "simple_sentence": "I love to murmur.",
+    "complex_sentence": "When I murmur, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 181
+  },
+  {
+    "word": "scream",
+    "simple_sentence": "I love to scream.",
+    "complex_sentence": "When I scream, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 182
+  },
+  {
+    "word": "yell",
+    "simple_sentence": "I love to yell.",
+    "complex_sentence": "When I yell, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 183
+  },
+  {
+    "word": "hum",
+    "simple_sentence": "I love to hum.",
+    "complex_sentence": "When I hum, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 184
+  },
+  {
+    "word": "frown",
+    "simple_sentence": "I love to frown.",
+    "complex_sentence": "When I frown, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 185
+  },
+  {
+    "word": "weep",
+    "simple_sentence": "I love to weep.",
+    "complex_sentence": "When I weep, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 186
+  },
+  {
+    "word": "sob",
+    "simple_sentence": "I love to sob.",
+    "complex_sentence": "When I sob, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 187
+  },
+  {
+    "word": "shake hands",
+    "simple_sentence": "I love to shake hands.",
+    "complex_sentence": "When I shake hands, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 188
+  },
+  {
+    "word": "wave",
+    "simple_sentence": "I love to wave.",
+    "complex_sentence": "When I wave, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 189
+  },
+  {
+    "word": "bow",
+    "simple_sentence": "I love to bow.",
+    "complex_sentence": "When I bow, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 190
+  },
+  {
+    "word": "nod",
+    "simple_sentence": "I love to nod.",
+    "complex_sentence": "When I nod, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 191
+  },
+  {
+    "word": "point",
+    "simple_sentence": "I love to point.",
+    "complex_sentence": "When I point, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 192
+  },
+  {
+    "word": "gesture",
+    "simple_sentence": "I love to gesture.",
+    "complex_sentence": "When I gesture, I feel energized and ready to face the day.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 193
+  }
+]

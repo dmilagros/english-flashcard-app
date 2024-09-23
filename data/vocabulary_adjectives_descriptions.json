@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "word": "happy",
+    "simple_sentence": "She is very happy today.",
+    "complex_sentence": "The happy nature of the child makes her stand out in different situations.",
+    "pronunciation": "/ˈhæp.i/",
+    "spanish": "feliz"
+  },
+  {
+    "id": 2,
+    "word": "sad",
+    "simple_sentence": "He looks sad after the news.",
+    "complex_sentence": "The sad expression on his face reflects his emotional state after hearing the news.",
+    "pronunciation": "/sæd/",
+    "spanish": "triste"
+  },
+  {
+    "id": 3,
+    "word": "angry",
+    "simple_sentence": "She was angry about the delay.",
+    "complex_sentence": "The angry tone in her voice made it clear she was upset about the delay.",
+    "pronunciation": "/ˈæŋ.ɡri/",
+    "spanish": "enojado"
+  },
+  {
+    "id": 4,
+    "word": "excited",
+    "simple_sentence": "The kids are excited about the trip.",
+    "complex_sentence": "The excited children couldn’t stop talking about the upcoming trip to the amusement park.",
+    "pronunciation": "/ɪkˈsaɪ.tɪd/",
+    "spanish": "emocionado"
+  },
+  {
+    "id": 5,
+    "word": "tired",
+    "simple_sentence": "He feels very tired after work.",
+    "complex_sentence": "The tired expression on his face showed how exhausting his day at work had been.",
+    "pronunciation": "/ˈtaɪəd/",
+    "spanish": "cansado"
+  },
+  {
+    "id": 6,
+    "word": "brave",
+    "simple_sentence": "The firefighter was very brave.",
+    "complex_sentence": "The brave actions of the firefighter saved many lives during the rescue operation.",
+    "pronunciation": "/breɪv/",
+    "spanish": "valiente"
+  },
+  {
+    "id": 7,
+    "word": "strong",
+    "simple_sentence": "He is very strong after years of training.",
+    "complex_sentence": "The strong physique he developed through years of training allows him to lift heavy weights with ease.",
+    "pronunciation": "/strɒŋ/",
+    "spanish": "fuerte"
+  },
+  {
+    "id": 8,
+    "word": "weak",
+    "simple_sentence": "She felt weak after the illness.",
+    "complex_sentence": "The weak state of her body after recovering from the illness made it difficult for her to return to her usual activities.",
+    "pronunciation": "/wiːk/",
+    "spanish": "débil"
+  },
+  {
+    "id": 9,
+    "word": "smart",
+    "simple_sentence": "He is very smart in mathematics.",
+    "complex_sentence": "The smart strategies he applied in mathematics earned him the highest grades in his class.",
+    "pronunciation": "/smɑːrt/",
+    "spanish": "inteligente"
+  },
+  {
+    "id": 10,
+    "word": "dumb",
+    "simple_sentence": "He made a dumb mistake during the test.",
+    "complex_sentence": "The dumb decision he made during the test caused him to lose several points unnecessarily.",
+    "pronunciation": "/dʌm/",
+    "spanish": "tonto"
+  },
+  {
+    "id": 11,
+    "word": "quick",
+    "simple_sentence": "The cheetah is very quick.",
+    "complex_sentence": "The quick reflexes of the cheetah make it one of the fastest animals on land.",
+    "pronunciation": "/kwɪk/",
+    "spanish": "rápido"
+  },
+  {
+    "id": 12,
+    "word": "slow",
+    "simple_sentence": "The turtle is very slow.",
+    "complex_sentence": "The slow pace of the turtle helps it conserve energy over long distances.",
+    "pronunciation": "/sloʊ/",
+    "spanish": "lento"
+  },
+  {
+    "id": 13,
+    "word": "beautiful",
+    "simple_sentence": "The painting is very beautiful.",
+    "complex_sentence": "The beautiful colors of the painting draw admiration from everyone who sees it.",
+    "pronunciation": "/ˈbjuː.tɪ.fəl/",
+    "spanish": "hermoso"
+  },
+  {
+    "id": 14,
+    "word": "ugly",
+    "simple_sentence": "The building is very ugly.",
+    "complex_sentence": "The ugly architecture of the building contrasts sharply with the surrounding structures.",
+    "pronunciation": "/ˈʌɡ.li/",
+    "spanish": "feo"
+  },
+  {
+    "id": 15,
+    "word": "funny",
+    "simple_sentence": "The comedian is very funny.",
+    "complex_sentence": "The funny jokes told by the comedian had the entire audience laughing uncontrollably.",
+    "pronunciation": "/ˈfʌn.i/",
+    "spanish": "divertido"
+  },
+  {
+    "id": 16,
+    "word": "serious",
+    "simple_sentence": "The teacher is very serious.",
+    "complex_sentence": "The serious tone of the teacher ensured that the students paid attention during the lesson.",
+    "pronunciation": "/ˈsɪər.i.əs/",
+    "spanish": "serio"
+  },
+  {
+    "id": 17,
+    "word": "friendly",
+    "simple_sentence": "The dog is very friendly.",
+    "complex_sentence": "The friendly behavior of the dog makes it a favorite among the neighborhood children.",
+    "pronunciation": "/ˈfrɛnd.li/",
+    "spanish": "amigable"
+  },
+  {
+    "id": 18,
+    "word": "mean",
+    "simple_sentence": "The bully is very mean.",
+    "complex_sentence": "The mean attitude of the bully caused a lot of tension among the other kids at school.",
+    "pronunciation": "/miːn/",
+    "spanish": "malo"
+  },
+  {
+    "id": 19,
+    "word": "polite",
+    "simple_sentence": "The waiter is very polite.",
+    "complex_sentence": "The polite service of the waiter made the dining experience enjoyable for the guests.",
+    "pronunciation": "/pəˈlaɪt/",
+    "spanish": "educado"
+  },
+  {
+    "id": 20,
+    "word": "rude",
+    "simple_sentence": "The customer was very rude.",
+    "complex_sentence": "The rude behavior of the customer disrupted the pleasant atmosphere in the store.",
+    "pronunciation": "/ruːd/",
+    "spanish": "grosero"
+  },
+  {
+    "id": 21,
+    "word": "short",
+    "simple_sentence": "The pencil is very short.",
+    "complex_sentence": "The short length of the pencil made it difficult to use during the exam.",
+    "pronunciation": "/ʃɔːrt/",
+    "spanish": "corto"
+  },
+  {
+    "id": 22,
+    "word": "tall",
+    "simple_sentence": "The building is very tall.",
+    "complex_sentence": "The tall structure of the building makes it visible from far away.",
+    "pronunciation": "/tɔːl/",
+    "spanish": "alto"
+  },
+  {
+    "id": 23,
+    "word": "large",
+    "simple_sentence": "The box is very large.",
+    "complex_sentence": "The large size of the box makes it difficult to carry.",
+    "pronunciation": "/lɑːrdʒ/",
+    "spanish": "grande"
+  },
+  {
+    "id": 24,
+    "word": "small",
+    "simple_sentence": "The phone is very small.",
+    "complex_sentence": "The small design of the phone makes it easy to fit in a pocket.",
+    "pronunciation": "/smɔːl/",
+    "spanish": "pequeño"
+  },
+  {
+    "id": 25,
+    "word": "thin",
+    "simple_sentence": "The book is very thin.",
+    "complex_sentence": "The thin pages of the book are delicate and easy to tear.",
+    "pronunciation": "/θɪn/",
+    "spanish": "delgado"
+  },
+  {
+    "id": 26,
+    "word": "thick",
+    "simple_sentence": "The blanket is very thick.",
+    "complex_sentence": "The thick fabric of the blanket keeps you warm during the winter.",
+    "pronunciation": "/θɪk/",
+    "spanish": "grueso"
+  },
+  {
+    "id": 27,
+    "word": "light",
+    "simple_sentence": "The bag is very light.",
+    "complex_sentence": "The light material of the bag makes it easy to carry.",
+    "pronunciation": "/laɪt/",
+    "spanish": "ligero"
+  },
+  {
+    "id": 28,
+    "word": "heavy",
+    "simple_sentence": "The suitcase is very heavy.",
+    "complex_sentence": "The heavy weight of the suitcase made it difficult to lift onto the train.",
+    "pronunciation": "/ˈhɛv.i/",
+    "spanish": "pesado"
+  },
+  {
+    "id": 29,
+    "word": "bright",
+    "simple_sentence": "The room is very bright.",
+    "complex_sentence": "The bright light from the windows fills the room with sunshine.",
+    "pronunciation": "/braɪt/",
+    "spanish": "brillante"
+  },
+  {
+    "id": 30,
+    "word": "dark",
+    "simple_sentence": "The alley is very dark.",
+    "complex_sentence": "The dark atmosphere of the alley makes it feel mysterious at night.",
+    "pronunciation": "/dɑːrk/",
+    "spanish": "oscuro"
+  },
+  {
+    "id": 31,
+    "word": "loud",
+    "simple_sentence": "The music is very loud.",
+    "complex_sentence": "The loud sound of the music filled the entire room, making it impossible to have a conversation.",
+    "pronunciation": "/laʊd/",
+    "spanish": "fuerte"
+  },
+  {
+    "id": 32,
+    "word": "quiet",
+    "simple_sentence": "The library is very quiet.",
+    "complex_sentence": "The quiet atmosphere of the library makes it the perfect place to study.",
+    "pronunciation": "/ˈkwaɪ.ɪt/",
+    "spanish": "silencioso"
+  },
+  {
+    "id": 33,
+    "word": "calm",
+    "simple_sentence": "The ocean is very calm today.",
+    "complex_sentence": "The calm waves of the ocean create a peaceful environment for a relaxing day on the beach.",
+    "pronunciation": "/kɑːm/",
+    "spanish": "tranquilo"
+  },
+  {
+    "id": 34,
+    "word": "nervous",
+    "simple_sentence": "She felt very nervous before the interview.",
+    "complex_sentence": "The nervous look on her face showed how anxious she was about the upcoming interview.",
+    "pronunciation": "/ˈnɜː.vəs/",
+    "spanish": "nervioso"
+  },
+  {
+    "id": 35,
+    "word": "rich",
+    "simple_sentence": "He is very rich.",
+    "complex_sentence": "The rich businessman made a fortune by investing in real estate.",
+    "pronunciation": "/rɪtʃ/",
+    "spanish": "rico"
+  },
+  {
+    "id": 36,
+    "word": "poor",
+    "simple_sentence": "The family is very poor.",
+    "complex_sentence": "The poor family struggled to afford basic necessities like food and clothing.",
+    "pronunciation": "/pɔːr/",
+    "spanish": "pobre"
+  },
+  {
+    "id": 37,
+    "word": "healthy",
+    "simple_sentence": "She is very healthy.",
+    "complex_sentence": "The healthy diet she follows, combined with regular exercise, keeps her in great shape.",
+    "pronunciation": "/ˈhɛl.θi/",
+    "spanish": "saludable"
+  },
+  {
+    "id": 38,
+    "word": "sick",
+    "simple_sentence": "He is very sick today.",
+    "complex_sentence": "The sick feeling he experienced made it impossible for him to attend work.",
+    "pronunciation": "/sɪk/",
+    "spanish": "enfermo"
+  },
+  {
+    "id": 39,
+    "word": "clean",
+    "simple_sentence": "The house is very clean.",
+    "complex_sentence": "The clean environment of the house made it feel comfortable and welcoming to guests.",
+    "pronunciation": "/kliːn/",
+    "spanish": "limpio"
+  },
+  {
+    "id": 40,
+    "word": "dirty",
+    "simple_sentence": "The car is very dirty.",
+    "complex_sentence": "The dirty exterior of the car was covered in mud after driving through the countryside.",
+    "pronunciation": "/ˈdɜː.ti/",
+    "spanish": "sucio"
+  },
+  {
+    "id": 41,
+    "word": "soft",
+    "simple_sentence": "The pillow is very soft.",
+    "complex_sentence": "The soft texture of the pillow makes it comfortable to sleep on.",
+    "pronunciation": "/sɒft/",
+    "spanish": "suave"
+  },
+  {
+    "id": 42,
+    "word": "hard",
+    "simple_sentence": "The rock is very hard.",
+    "complex_sentence": "The hard surface of the rock makes it difficult to break.",
+    "pronunciation": "/hɑːrd/",
+    "spanish": "duro"
+  },
+  {
+    "id": 43,
+    "word": "warm",
+    "simple_sentence": "The room is very warm.",
+    "complex_sentence": "The warm temperature in the room creates a cozy atmosphere.",
+    "pronunciation": "/wɔːrm/",
+    "spanish": "cálido"
+  },
+  {
+    "id": 44,
+    "word": "cold",
+    "simple_sentence": "The water is very cold.",
+    "complex_sentence": "The cold temperature of the water makes it uncomfortable to swim in.",
+    "pronunciation": "/koʊld/",
+    "spanish": "frío"
+  },
+  {
+    "id": 45,
+    "word": "fast",
+    "simple_sentence": "The car is very fast.",
+    "complex_sentence": "The fast speed of the car makes it ideal for long-distance travel.",
+    "pronunciation": "/fæst/",
+    "spanish": "rápido"
+  },
+  {
+    "id": 46,
+    "word": "wet",
+    "simple_sentence": "The ground is very wet.",
+    "complex_sentence": "The wet grass makes it slippery to walk on after the rain.",
+    "pronunciation": "/wɛt/",
+    "spanish": "mojado"
+  },
+  {
+    "id": 47,
+    "word": "dry",
+    "simple_sentence": "The clothes are very dry.",
+    "complex_sentence": "The dry clothes were ready to be folded after spending an hour in the dryer.",
+    "pronunciation": "/draɪ/",
+    "spanish": "seco"
+  },
+  {
+    "id": 48,
+    "word": "smooth",
+    "simple_sentence": "The table is very smooth.",
+    "complex_sentence": "The smooth surface of the table makes it easy to clean.",
+    "pronunciation": "/smuːð/",
+    "spanish": "liso"
+  },
+  {
+    "id": 49,
+    "word": "rough",
+    "simple_sentence": "The wall is very rough.",
+    "complex_sentence": "The rough texture of the wall makes it difficult to paint evenly.",
+    "pronunciation": "/rʌf/",
+    "spanish": "áspero"
+  },
+  {
+    "id": 50,
+    "word": "easy",
+    "simple_sentence": "The task is very easy.",
+    "complex_sentence": "The easy nature of the task allowed everyone to complete it quickly.",
+    "pronunciation": "/ˈiː.zi/",
+    "spanish": "fácil"
+  },
+  {
+    "id": 51,
+    "word": "difficult",
+    "simple_sentence": "The exam is very difficult.",
+    "complex_sentence": "The difficult questions on the exam challenged even the best students.",
+    "pronunciation": "/ˈdɪf.ɪ.kəlt/",
+    "spanish": "difícil"
+  },
+  {
+    "id": 52,
+    "word": "simple",
+    "simple_sentence": "The instructions are very simple.",
+    "complex_sentence": "The simple instructions made it easy for everyone to follow the process.",
+    "pronunciation": "/ˈsɪm.pəl/",
+    "spanish": "simple"
+  },
+  {
+    "id": 53,
+    "word": "complex",
+    "simple_sentence": "The problem is very complex.",
+    "complex_sentence": "The complex nature of the problem required a team of experts to solve.",
+    "pronunciation": "/ˈkɒm.plɛks/",
+    "spanish": "complejo"
+  },
+  {
+    "id": 54,
+    "word": "new",
+    "simple_sentence": "The phone is very new.",
+    "complex_sentence": "The new technology in the phone makes it faster and more efficient than older models.",
+    "pronunciation": "/njuː/",
+    "spanish": "nuevo"
+  },
+  {
+    "id": 55,
+    "word": "old",
+    "simple_sentence": "The book is very old.",
+    "complex_sentence": "The old pages of the book are fragile, but the story it tells is timeless.",
+    "pronunciation": "/oʊld/",
+    "spanish": "viejo"
+  },
+  {
+    "id": 56,
+    "word": "modern",
+    "simple_sentence": "The building is very modern.",
+    "complex_sentence": "The modern architecture of the building attracts many tourists to the city.",
+    "pronunciation": "/ˈmɒd.ən/",
+    "spanish": "moderno"
+  },
+  {
+    "id": 57,
+    "word": "ancient",
+    "simple_sentence": "The ruins are very ancient.",
+    "complex_sentence": "The ancient ruins tell the story of a civilization that existed thousands of years ago.",
+    "pronunciation": "/ˈeɪn.ʃənt/",
+    "spanish": "antiguo"
+  },
+  {
+    "id": 58,
+    "word": "safe",
+    "simple_sentence": "The neighborhood is very safe.",
+    "complex_sentence": "The safe environment of the neighborhood makes it ideal for families with children.",
+    "pronunciation": "/seɪf/",
+    "spanish": "seguro"
+  },
+  {
+    "id": 59,
+    "word": "dangerous",
+    "simple_sentence": "The road is very dangerous.",
+    "complex_sentence": "The dangerous curves on the road make it risky to drive at high speeds.",
+    "pronunciation": "/ˈdeɪn.dʒər.əs/",
+    "spanish": "peligroso"
+  },
+  {
+    "id": 60,
+    "word": "cowardly",
+    "simple_sentence": "The soldier was not cowardly in battle.",
+    "complex_sentence": "The cowardly behavior of the soldier caused him to hesitate during critical moments in the battle.",
+    "pronunciation": "/ˈkaʊ.əd.li/",
+    "spanish": "cobarde"
+  },
+  {
+    "id": 61,
+    "word": "hostile",
+    "simple_sentence": "The crowd was very hostile.",
+    "complex_sentence": "The hostile attitude of the crowd created a tense atmosphere during the protest.",
+    "pronunciation": "/ˈhɒs.taɪl/",
+    "spanish": "hostil"
+  },
+  {
+    "id": 62,
+    "word": "honest",
+    "simple_sentence": "The student was very honest.",
+    "complex_sentence": "The honest confession of the student about the mistake earned the respect of the teacher.",
+    "pronunciation": "/ˈɒn.ɪst/",
+    "spanish": "honesto"
+  },
+  {
+    "id": 63,
+    "word": "dishonest",
+    "simple_sentence": "The employee was very dishonest.",
+    "complex_sentence": "The dishonest actions of the employee led to a loss of trust in the company.",
+    "pronunciation": "/dɪsˈɒn.ɪst/",
+    "spanish": "deshonesto"
+  },
+  {
+    "id": 64,
+    "word": "loyal",
+    "simple_sentence": "The dog is very loyal.",
+    "complex_sentence": "The loyal nature of the dog made it a beloved companion to its owner.",
+    "pronunciation": "/ˈlɔɪ.əl/",
+    "spanish": "leal"
+  },
+  {
+    "id": 65,
+    "word": "disloyal",
+    "simple_sentence": "The friend was very disloyal.",
+    "complex_sentence": "The disloyal behavior of the friend created tension in their relationship.",
+    "pronunciation": "/dɪsˈlɔɪ.əl/",
+    "spanish": "desleal"
+  },
+  {
+    "id": 66,
+    "word": "fun",
+    "simple_sentence": "The party was very fun.",
+    "complex_sentence": "The fun activities at the party kept everyone entertained throughout the night.",
+    "pronunciation": "/fʌn/",
+    "spanish": "divertido"
+  },
+  {
+    "id": 67,
+    "word": "boring",
+    "simple_sentence": "The lecture was very boring.",
+    "complex_sentence": "The boring content of the lecture made it hard for students to stay focused.",
+    "pronunciation": "/ˈbɔː.rɪŋ/",
+    "spanish": "aburrido"
+  },
+  {
+    "id": 68,
+    "word": "interesting",
+    "simple_sentence": "The documentary was very interesting.",
+    "complex_sentence": "The interesting facts presented in the documentary kept the audience engaged from start to finish.",
+    "pronunciation": "/ˈɪn.trə.stɪŋ/",
+    "spanish": "interesante"
+  },
+  {
+    "id": 69,
+    "word": "dull",
+    "simple_sentence": "The knife is very dull.",
+    "complex_sentence": "The dull blade of the knife made it difficult to cut through the meat.",
+    "pronunciation": "/dʌl/",
+    "spanish": "desafilado"
+  },
+  {
+    "id": 70,
+    "word": "colorful",
+    "simple_sentence": "The painting is very colorful.",
+    "complex_sentence": "The colorful patterns in the painting made it a focal point in the gallery.",
+    "pronunciation": "/ˈkʌl.ə.fəl/",
+    "spanish": "colorido"
+  },
+  {
+    "id": 71,
+    "word": "bland",
+    "simple_sentence": "The food is very bland.",
+    "complex_sentence": "The bland taste of the food left everyone disappointed, as it lacked flavor.",
+    "pronunciation": "/blænd/",
+    "spanish": "insípido"
+  },
+  {
+    "id": 72,
+    "word": "spicy",
+    "simple_sentence": "The sauce is very spicy.",
+    "complex_sentence": "The spicy flavor of the sauce added an exciting kick to the dish.",
+    "pronunciation": "/ˈspaɪ.si/",
+    "spanish": "picante"
+  },
+  {
+    "id": 73,
+    "word": "sweet",
+    "simple_sentence": "The dessert is very sweet.",
+    "complex_sentence": "The sweet taste of the dessert was perfect for those with a love for sugary treats.",
+    "pronunciation": "/swiːt/",
+    "spanish": "dulce"
+  },
+  {
+    "id": 74,
+    "word": "salty",
+    "simple_sentence": "The soup is very salty.",
+    "complex_sentence": "The salty taste of the soup was too strong, making it difficult to enjoy.",
+    "pronunciation": "/ˈsɔːlti/",
+    "spanish": "salado"
+  },
+  {
+    "id": 75,
+    "word": "bitter",
+    "simple_sentence": "The coffee is very bitter.",
+    "complex_sentence": "The bitter flavor of the coffee required a little sugar to balance it out.",
+    "pronunciation": "/ˈbɪtər/",
+    "spanish": "amargo"
+  },
+  {
+    "id": 76,
+    "word": "sour",
+    "simple_sentence": "The lemon is very sour.",
+    "complex_sentence": "The sourness of the lemon made my mouth pucker instantly.",
+    "pronunciation": "/ˈsaʊər/",
+    "spanish": "agrio"
+  },
+  {
+    "id": 77,
+    "word": "delicious",
+    "simple_sentence": "The cake is very delicious.",
+    "complex_sentence": "The delicious combination of flavors in the cake made it a favorite at the party.",
+    "pronunciation": "/dɪˈlɪʃəs/",
+    "spanish": "delicioso"
+  },
+  {
+    "id": 78,
+    "word": "disgusting",
+    "simple_sentence": "The smell is very disgusting.",
+    "complex_sentence": "The disgusting odor from the garbage made the entire room unbearable to stay in.",
+    "pronunciation": "/dɪsˈɡʌstɪŋ/",
+    "spanish": "asqueroso"
+  },
+  {
+    "id": 79,
+    "word": "fragrant",
+    "simple_sentence": "The flowers are very fragrant.",
+    "complex_sentence": "The fragrant scent of the flowers filled the garden with a sweet aroma.",
+    "pronunciation": "/ˈfreɪɡrənt/",
+    "spanish": "fragante"
+  },
+  {
+    "id": 80,
+    "word": "smelly",
+    "simple_sentence": "The trash is very smelly.",
+    "complex_sentence": "The smelly garbage needed to be taken out immediately to avoid attracting pests.",
+    "pronunciation": "/ˈsmɛli/",
+    "spanish": "maloliente"
+  },
+  {
+    "id": 81,
+    "word": "noisy",
+    "simple_sentence": "The street is very noisy.",
+    "complex_sentence": "The noisy traffic on the street made it hard to concentrate on my work.",
+    "pronunciation": "/ˈnɔɪzi/",
+    "spanish": "ruidoso"
+  },
+  {
+    "id": 82,
+    "word": "silent",
+    "simple_sentence": "The library is very silent.",
+    "complex_sentence": "The silent atmosphere of the library is perfect for reading and studying.",
+    "pronunciation": "/ˈsaɪlənt/",
+    "spanish": "silencioso"
+  },
+  {
+    "id": 83,
+    "word": "talkative",
+    "simple_sentence": "The child is very talkative.",
+    "complex_sentence": "The talkative nature of the child kept everyone entertained during the long car ride.",
+    "pronunciation": "/ˈtɔːkətɪv/",
+    "spanish": "hablador"
+  },
+  {
+    "id": 84,
+    "word": "shy",
+    "simple_sentence": "This object is very shy.",
+    "complex_sentence": "The shy nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 85,
+    "word": "outgoing",
+    "simple_sentence": "This object is very outgoing.",
+    "complex_sentence": "The outgoing nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 86,
+    "word": "creative",
+    "simple_sentence": "This object is very creative.",
+    "complex_sentence": "The creative nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 87,
+    "word": "uncreative",
+    "simple_sentence": "This object is very uncreative.",
+    "complex_sentence": "The uncreative nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 88,
+    "word": "energetic",
+    "simple_sentence": "This object is very energetic.",
+    "complex_sentence": "The energetic nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 89,
+    "word": "lazy",
+    "simple_sentence": "This object is very lazy.",
+    "complex_sentence": "The lazy nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 90,
+    "word": "motivated",
+    "simple_sentence": "This object is very motivated.",
+    "complex_sentence": "The motivated nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 91,
+    "word": "unmotivated",
+    "simple_sentence": "This object is very unmotivated.",
+    "complex_sentence": "The unmotivated nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 92,
+    "word": "optimistic",
+    "simple_sentence": "This object is very optimistic.",
+    "complex_sentence": "The optimistic nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 93,
+    "word": "pessimistic",
+    "simple_sentence": "This object is very pessimistic.",
+    "complex_sentence": "The pessimistic nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 94,
+    "word": "realistic",
+    "simple_sentence": "This object is very realistic.",
+    "complex_sentence": "The realistic nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 95,
+    "word": "idealistic",
+    "simple_sentence": "This object is very idealistic.",
+    "complex_sentence": "The idealistic nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 96,
+    "word": "logical",
+    "simple_sentence": "This object is very logical.",
+    "complex_sentence": "The logical nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 97,
+    "word": "illogical",
+    "simple_sentence": "This object is very illogical.",
+    "complex_sentence": "The illogical nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 98,
+    "word": "open-minded",
+    "simple_sentence": "This object is very open-minded.",
+    "complex_sentence": "The open-minded nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 99,
+    "word": "close-minded",
+    "simple_sentence": "This object is very close-minded.",
+    "complex_sentence": "The close-minded nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 100,
+    "word": "curious",
+    "simple_sentence": "This object is very curious.",
+    "complex_sentence": "The curious nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 101,
+    "word": "disinterested",
+    "simple_sentence": "This object is very disinterested.",
+    "complex_sentence": "The disinterested nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 102,
+    "word": "passionate",
+    "simple_sentence": "This object is very passionate.",
+    "complex_sentence": "The passionate nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 103,
+    "word": "apathetic",
+    "simple_sentence": "This object is very apathetic.",
+    "complex_sentence": "The apathetic nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 104,
+    "word": "empathetic",
+    "simple_sentence": "This object is very empathetic.",
+    "complex_sentence": "The empathetic nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 105,
+    "word": "selfish",
+    "simple_sentence": "This object is very selfish.",
+    "complex_sentence": "The selfish nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 106,
+    "word": "generous",
+    "simple_sentence": "This object is very generous.",
+    "complex_sentence": "The generous nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 107,
+    "word": "stingy",
+    "simple_sentence": "This object is very stingy.",
+    "complex_sentence": "The stingy nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 108,
+    "word": "caring",
+    "simple_sentence": "This object is very caring.",
+    "complex_sentence": "The caring nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 109,
+    "word": "careless",
+    "simple_sentence": "This object is very careless.",
+    "complex_sentence": "The careless nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 110,
+    "word": "organized",
+    "simple_sentence": "This object is very organized.",
+    "complex_sentence": "The organized nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 111,
+    "word": "disorganized",
+    "simple_sentence": "This object is very disorganized.",
+    "complex_sentence": "The disorganized nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 112,
+    "word": "focused",
+    "simple_sentence": "This object is very focused.",
+    "complex_sentence": "The focused nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 113,
+    "word": "distracted",
+    "simple_sentence": "This object is very distracted.",
+    "complex_sentence": "The distracted nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 114,
+    "word": "patient",
+    "simple_sentence": "This object is very patient.",
+    "complex_sentence": "The patient nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 115,
+    "word": "impatient",
+    "simple_sentence": "This object is very impatient.",
+    "complex_sentence": "The impatient nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 116,
+    "word": "anxious",
+    "simple_sentence": "This object is very anxious.",
+    "complex_sentence": "The anxious nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 117,
+    "word": "confident",
+    "simple_sentence": "This object is very confident.",
+    "complex_sentence": "The confident nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 118,
+    "word": "insecure",
+    "simple_sentence": "This object is very insecure.",
+    "complex_sentence": "The insecure nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 119,
+    "word": "bold",
+    "simple_sentence": "This object is very bold.",
+    "complex_sentence": "The bold nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 120,
+    "word": "timid",
+    "simple_sentence": "This object is very timid.",
+    "complex_sentence": "The timid nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 121,
+    "word": "brilliant",
+    "simple_sentence": "This object is very brilliant.",
+    "complex_sentence": "The brilliant nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 122,
+    "word": "foolish",
+    "simple_sentence": "This object is very foolish.",
+    "complex_sentence": "The foolish nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 123,
+    "word": "powerful",
+    "simple_sentence": "This object is very powerful.",
+    "complex_sentence": "The powerful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 124,
+    "word": "mighty",
+    "simple_sentence": "This object is very mighty.",
+    "complex_sentence": "The mighty nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 125,
+    "word": "fragile",
+    "simple_sentence": "This object is very fragile.",
+    "complex_sentence": "The fragile nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 126,
+    "word": "successful",
+    "simple_sentence": "This object is very successful.",
+    "complex_sentence": "The successful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 127,
+    "word": "unsuccessful",
+    "simple_sentence": "This object is very unsuccessful.",
+    "complex_sentence": "The unsuccessful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 128,
+    "word": "independent",
+    "simple_sentence": "This object is very independent.",
+    "complex_sentence": "The independent nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 129,
+    "word": "dependent",
+    "simple_sentence": "This object is very dependent.",
+    "complex_sentence": "The dependent nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 130,
+    "word": "responsible",
+    "simple_sentence": "This object is very responsible.",
+    "complex_sentence": "The responsible nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 131,
+    "word": "irresponsible",
+    "simple_sentence": "This object is very irresponsible.",
+    "complex_sentence": "The irresponsible nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 132,
+    "word": "adventurous",
+    "simple_sentence": "This object is very adventurous.",
+    "complex_sentence": "The adventurous nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 133,
+    "word": "cautious",
+    "simple_sentence": "This object is very cautious.",
+    "complex_sentence": "The cautious nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 134,
+    "word": "daring",
+    "simple_sentence": "This object is very daring.",
+    "complex_sentence": "The daring nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 135,
+    "word": "fearful",
+    "simple_sentence": "This object is very fearful.",
+    "complex_sentence": "The fearful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 136,
+    "word": "innovative",
+    "simple_sentence": "This object is very innovative.",
+    "complex_sentence": "The innovative nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 137,
+    "word": "traditional",
+    "simple_sentence": "This object is very traditional.",
+    "complex_sentence": "The traditional nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 138,
+    "word": "conservative",
+    "simple_sentence": "This object is very conservative.",
+    "complex_sentence": "The conservative nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 139,
+    "word": "liberal",
+    "simple_sentence": "This object is very liberal.",
+    "complex_sentence": "The liberal nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 140,
+    "word": "progressive",
+    "simple_sentence": "This object is very progressive.",
+    "complex_sentence": "The progressive nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 141,
+    "word": "pragmatic",
+    "simple_sentence": "This object is very pragmatic.",
+    "complex_sentence": "The pragmatic nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 142,
+    "word": "artistic",
+    "simple_sentence": "This object is very artistic.",
+    "complex_sentence": "The artistic nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 143,
+    "word": "scientific",
+    "simple_sentence": "This object is very scientific.",
+    "complex_sentence": "The scientific nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 144,
+    "word": "philosophical",
+    "simple_sentence": "This object is very philosophical.",
+    "complex_sentence": "The philosophical nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 145,
+    "word": "spiritual",
+    "simple_sentence": "This object is very spiritual.",
+    "complex_sentence": "The spiritual nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 146,
+    "word": "religious",
+    "simple_sentence": "This object is very religious.",
+    "complex_sentence": "The religious nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 147,
+    "word": "atheistic",
+    "simple_sentence": "This object is very atheistic.",
+    "complex_sentence": "The atheistic nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 148,
+    "word": "wealthy",
+    "simple_sentence": "This object is very wealthy.",
+    "complex_sentence": "The wealthy nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 149,
+    "word": "charitable",
+    "simple_sentence": "This object is very charitable.",
+    "complex_sentence": "The charitable nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 150,
+    "word": "greedy",
+    "simple_sentence": "This object is very greedy.",
+    "complex_sentence": "The greedy nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 151,
+    "word": "environmentally conscious",
+    "simple_sentence": "This object is very environmentally conscious.",
+    "complex_sentence": "The environmentally conscious nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 152,
+    "word": "wasteful",
+    "simple_sentence": "This object is very wasteful.",
+    "complex_sentence": "The wasteful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 153,
+    "word": "economical",
+    "simple_sentence": "This object is very economical.",
+    "complex_sentence": "The economical nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 154,
+    "word": "extravagant",
+    "simple_sentence": "This object is very extravagant.",
+    "complex_sentence": "The extravagant nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 155,
+    "word": "minimalist",
+    "simple_sentence": "This object is very minimalist.",
+    "complex_sentence": "The minimalist nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 156,
+    "word": "materialistic",
+    "simple_sentence": "This object is very materialistic.",
+    "complex_sentence": "The materialistic nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 157,
+    "word": "self-sufficient",
+    "simple_sentence": "This object is very self-sufficient.",
+    "complex_sentence": "The self-sufficient nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 158,
+    "word": "content",
+    "simple_sentence": "This object is very content.",
+    "complex_sentence": "The content nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 159,
+    "word": "joyful",
+    "simple_sentence": "This object is very joyful.",
+    "complex_sentence": "The joyful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 160,
+    "word": "depressed",
+    "simple_sentence": "This object is very depressed.",
+    "complex_sentence": "The depressed nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 161,
+    "word": "melancholic",
+    "simple_sentence": "This object is very melancholic.",
+    "complex_sentence": "The melancholic nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 162,
+    "word": "cheerful",
+    "simple_sentence": "This object is very cheerful.",
+    "complex_sentence": "The cheerful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 163,
+    "word": "miserable",
+    "simple_sentence": "This object is very miserable.",
+    "complex_sentence": "The miserable nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 164,
+    "word": "enthusiastic",
+    "simple_sentence": "This object is very enthusiastic.",
+    "complex_sentence": "The enthusiastic nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 165,
+    "word": "interested",
+    "simple_sentence": "This object is very interested.",
+    "complex_sentence": "The interested nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 166,
+    "word": "bored",
+    "simple_sentence": "This object is very bored.",
+    "complex_sentence": "The bored nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 167,
+    "word": "indifferent",
+    "simple_sentence": "This object is very indifferent.",
+    "complex_sentence": "The indifferent nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 168,
+    "word": "grateful",
+    "simple_sentence": "This object is very grateful.",
+    "complex_sentence": "The grateful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 169,
+    "word": "ungrateful",
+    "simple_sentence": "This object is very ungrateful.",
+    "complex_sentence": "The ungrateful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 170,
+    "word": "thankful",
+    "simple_sentence": "This object is very thankful.",
+    "complex_sentence": "The thankful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 171,
+    "word": "unappreciative",
+    "simple_sentence": "This object is very unappreciative.",
+    "complex_sentence": "The unappreciative nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 172,
+    "word": "hopeful",
+    "simple_sentence": "This object is very hopeful.",
+    "complex_sentence": "The hopeful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 173,
+    "word": "hopeless",
+    "simple_sentence": "This object is very hopeless.",
+    "complex_sentence": "The hopeless nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 174,
+    "word": "ambitious",
+    "simple_sentence": "This object is very ambitious.",
+    "complex_sentence": "The ambitious nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 175,
+    "word": "diligent",
+    "simple_sentence": "This object is very diligent.",
+    "complex_sentence": "The diligent nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 176,
+    "word": "industrious",
+    "simple_sentence": "This object is very industrious.",
+    "complex_sentence": "The industrious nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 177,
+    "word": "hardworking",
+    "simple_sentence": "This object is very hardworking.",
+    "complex_sentence": "The hardworking nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 178,
+    "word": "unreliable",
+    "simple_sentence": "This object is very unreliable.",
+    "complex_sentence": "The unreliable nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 179,
+    "word": "reliable",
+    "simple_sentence": "This object is very reliable.",
+    "complex_sentence": "The reliable nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 180,
+    "word": "dependable",
+    "simple_sentence": "This object is very dependable.",
+    "complex_sentence": "The dependable nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 181,
+    "word": "trustworthy",
+    "simple_sentence": "This object is very trustworthy.",
+    "complex_sentence": "The trustworthy nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 182,
+    "word": "untrustworthy",
+    "simple_sentence": "This object is very untrustworthy.",
+    "complex_sentence": "The untrustworthy nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 183,
+    "word": "sincere",
+    "simple_sentence": "This object is very sincere.",
+    "complex_sentence": "The sincere nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 184,
+    "word": "insincere",
+    "simple_sentence": "This object is very insincere.",
+    "complex_sentence": "The insincere nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 185,
+    "word": "faithful",
+    "simple_sentence": "This object is very faithful.",
+    "complex_sentence": "The faithful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 186,
+    "word": "unfaithful",
+    "simple_sentence": "This object is very unfaithful.",
+    "complex_sentence": "The unfaithful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 187,
+    "word": "compassionate",
+    "simple_sentence": "This object is very compassionate.",
+    "complex_sentence": "The compassionate nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 188,
+    "word": "helpful",
+    "simple_sentence": "This object is very helpful.",
+    "complex_sentence": "The helpful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 189,
+    "word": "unhelpful",
+    "simple_sentence": "This object is very unhelpful.",
+    "complex_sentence": "The unhelpful nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 190,
+    "word": "self-reliant",
+    "simple_sentence": "This object is very self-reliant.",
+    "complex_sentence": "The self-reliant nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 191,
+    "word": "needy",
+    "simple_sentence": "This object is very needy.",
+    "complex_sentence": "The needy nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 192,
+    "word": "strong-willed",
+    "simple_sentence": "This object is very strong-willed.",
+    "complex_sentence": "The strong-willed nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 193,
+    "word": "weak-willed",
+    "simple_sentence": "This object is very weak-willed.",
+    "complex_sentence": "The weak-willed nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 194,
+    "word": "determined",
+    "simple_sentence": "This object is very determined.",
+    "complex_sentence": "The determined nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 195,
+    "word": "undecided",
+    "simple_sentence": "This object is very undecided.",
+    "complex_sentence": "The undecided nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 196,
+    "word": "flexible",
+    "simple_sentence": "This object is very flexible.",
+    "complex_sentence": "The flexible nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 197,
+    "word": "rigid",
+    "simple_sentence": "This object is very rigid.",
+    "complex_sentence": "The rigid nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 198,
+    "word": "adaptable",
+    "simple_sentence": "This object is very adaptable.",
+    "complex_sentence": "The adaptable nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 199,
+    "word": "stubborn",
+    "simple_sentence": "This object is very stubborn.",
+    "complex_sentence": "The stubborn nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  },
+  {
+    "id": 200,
+    "word": "persistent",
+    "simple_sentence": "This object is very persistent.",
+    "complex_sentence": "The persistent nature of the subject makes it stand out in different situations.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traduccion"
+  }
+]

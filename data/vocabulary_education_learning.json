@@ -1,0 +1,1890 @@
+[
+  {
+    "word": "school",
+    "simple_sentence": "I study school at school.",
+    "complex_sentence": "The school plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 1
+  },
+  {
+    "word": "university",
+    "simple_sentence": "I study university at school.",
+    "complex_sentence": "The university plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 2
+  },
+  {
+    "word": "college",
+    "simple_sentence": "I study college at school.",
+    "complex_sentence": "The college plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 3
+  },
+  {
+    "word": "classroom",
+    "simple_sentence": "I study classroom at school.",
+    "complex_sentence": "The classroom plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 4
+  },
+  {
+    "word": "lecture hall",
+    "simple_sentence": "I study lecture hall at school.",
+    "complex_sentence": "The lecture hall plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 5
+  },
+  {
+    "word": "library",
+    "simple_sentence": "I study library at school.",
+    "complex_sentence": "The library plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 6
+  },
+  {
+    "word": "lab",
+    "simple_sentence": "I study lab at school.",
+    "complex_sentence": "The lab plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 7
+  },
+  {
+    "word": "campus",
+    "simple_sentence": "I study campus at school.",
+    "complex_sentence": "The campus plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 8
+  },
+  {
+    "word": "dormitory",
+    "simple_sentence": "I study dormitory at school.",
+    "complex_sentence": "The dormitory plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 9
+  },
+  {
+    "word": "cafeteria",
+    "simple_sentence": "I study cafeteria at school.",
+    "complex_sentence": "The cafeteria plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 10
+  },
+  {
+    "word": "teacher",
+    "simple_sentence": "I study teacher at school.",
+    "complex_sentence": "The teacher plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 11
+  },
+  {
+    "word": "professor",
+    "simple_sentence": "I study professor at school.",
+    "complex_sentence": "The professor plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 12
+  },
+  {
+    "word": "instructor",
+    "simple_sentence": "I study instructor at school.",
+    "complex_sentence": "The instructor plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 13
+  },
+  {
+    "word": "tutor",
+    "simple_sentence": "I study tutor at school.",
+    "complex_sentence": "The tutor plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 14
+  },
+  {
+    "word": "student",
+    "simple_sentence": "I study student at school.",
+    "complex_sentence": "The student plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 15
+  },
+  {
+    "word": "classmate",
+    "simple_sentence": "I study classmate at school.",
+    "complex_sentence": "The classmate plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 16
+  },
+  {
+    "word": "principal",
+    "simple_sentence": "I study principal at school.",
+    "complex_sentence": "The principal plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 17
+  },
+  {
+    "word": "dean",
+    "simple_sentence": "I study dean at school.",
+    "complex_sentence": "The dean plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 18
+  },
+  {
+    "word": "counselor",
+    "simple_sentence": "I study counselor at school.",
+    "complex_sentence": "The counselor plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 19
+  },
+  {
+    "word": "advisor",
+    "simple_sentence": "I study advisor at school.",
+    "complex_sentence": "The advisor plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 20
+  },
+  {
+    "word": "lesson",
+    "simple_sentence": "I study lesson at school.",
+    "complex_sentence": "The lesson plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 21
+  },
+  {
+    "word": "lecture",
+    "simple_sentence": "I study lecture at school.",
+    "complex_sentence": "The lecture plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 22
+  },
+  {
+    "word": "seminar",
+    "simple_sentence": "I study seminar at school.",
+    "complex_sentence": "The seminar plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 23
+  },
+  {
+    "word": "workshop",
+    "simple_sentence": "I study workshop at school.",
+    "complex_sentence": "The workshop plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 24
+  },
+  {
+    "word": "course",
+    "simple_sentence": "I study course at school.",
+    "complex_sentence": "The course plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 25
+  },
+  {
+    "word": "curriculum",
+    "simple_sentence": "I study curriculum at school.",
+    "complex_sentence": "The curriculum plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 26
+  },
+  {
+    "word": "syllabus",
+    "simple_sentence": "I study syllabus at school.",
+    "complex_sentence": "The syllabus plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 27
+  },
+  {
+    "word": "assignment",
+    "simple_sentence": "I study assignment at school.",
+    "complex_sentence": "The assignment plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 28
+  },
+  {
+    "word": "homework",
+    "simple_sentence": "I study homework at school.",
+    "complex_sentence": "The homework plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 29
+  },
+  {
+    "word": "project",
+    "simple_sentence": "I study project at school.",
+    "complex_sentence": "The project plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 30
+  },
+  {
+    "word": "exam",
+    "simple_sentence": "I study exam at school.",
+    "complex_sentence": "The exam plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 31
+  },
+  {
+    "word": "test",
+    "simple_sentence": "I study test at school.",
+    "complex_sentence": "The test plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 32
+  },
+  {
+    "word": "quiz",
+    "simple_sentence": "I study quiz at school.",
+    "complex_sentence": "The quiz plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 33
+  },
+  {
+    "word": "assessment",
+    "simple_sentence": "I study assessment at school.",
+    "complex_sentence": "The assessment plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 34
+  },
+  {
+    "word": "grade",
+    "simple_sentence": "I study grade at school.",
+    "complex_sentence": "The grade plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 35
+  },
+  {
+    "word": "report card",
+    "simple_sentence": "I study report card at school.",
+    "complex_sentence": "The report card plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 36
+  },
+  {
+    "word": "transcript",
+    "simple_sentence": "I study transcript at school.",
+    "complex_sentence": "The transcript plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 37
+  },
+  {
+    "word": "diploma",
+    "simple_sentence": "I study diploma at school.",
+    "complex_sentence": "The diploma plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 38
+  },
+  {
+    "word": "degree",
+    "simple_sentence": "I study degree at school.",
+    "complex_sentence": "The degree plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 39
+  },
+  {
+    "word": "certificate",
+    "simple_sentence": "I study certificate at school.",
+    "complex_sentence": "The certificate plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 40
+  },
+  {
+    "word": "bachelor's degree",
+    "simple_sentence": "I study bachelor's degree at school.",
+    "complex_sentence": "The bachelor's degree plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 41
+  },
+  {
+    "word": "master's degree",
+    "simple_sentence": "I study master's degree at school.",
+    "complex_sentence": "The master's degree plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 42
+  },
+  {
+    "word": "PhD",
+    "simple_sentence": "I study PhD at school.",
+    "complex_sentence": "The PhD plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 43
+  },
+  {
+    "word": "doctorate",
+    "simple_sentence": "I study doctorate at school.",
+    "complex_sentence": "The doctorate plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 44
+  },
+  {
+    "word": "scholarship",
+    "simple_sentence": "I study scholarship at school.",
+    "complex_sentence": "The scholarship plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 45
+  },
+  {
+    "word": "grant",
+    "simple_sentence": "I study grant at school.",
+    "complex_sentence": "The grant plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 46
+  },
+  {
+    "word": "financial aid",
+    "simple_sentence": "I study financial aid at school.",
+    "complex_sentence": "The financial aid plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 47
+  },
+  {
+    "word": "loan",
+    "simple_sentence": "I study loan at school.",
+    "complex_sentence": "The loan plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 48
+  },
+  {
+    "word": "tuition",
+    "simple_sentence": "I study tuition at school.",
+    "complex_sentence": "The tuition plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 49
+  },
+  {
+    "word": "fees",
+    "simple_sentence": "I study fees at school.",
+    "complex_sentence": "The fees plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 50
+  },
+  {
+    "word": "admission",
+    "simple_sentence": "I study admission at school.",
+    "complex_sentence": "The admission plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 51
+  },
+  {
+    "word": "enrollment",
+    "simple_sentence": "I study enrollment at school.",
+    "complex_sentence": "The enrollment plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 52
+  },
+  {
+    "word": "registration",
+    "simple_sentence": "I study registration at school.",
+    "complex_sentence": "The registration plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 53
+  },
+  {
+    "word": "dropout",
+    "simple_sentence": "I study dropout at school.",
+    "complex_sentence": "The dropout plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 54
+  },
+  {
+    "word": "graduation",
+    "simple_sentence": "I study graduation at school.",
+    "complex_sentence": "The graduation plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 55
+  },
+  {
+    "word": "commencement",
+    "simple_sentence": "I study commencement at school.",
+    "complex_sentence": "The commencement plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 56
+  },
+  {
+    "word": "valedictorian",
+    "simple_sentence": "I study valedictorian at school.",
+    "complex_sentence": "The valedictorian plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 57
+  },
+  {
+    "word": "study",
+    "simple_sentence": "I study study at school.",
+    "complex_sentence": "The study plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 58
+  },
+  {
+    "word": "research",
+    "simple_sentence": "I study research at school.",
+    "complex_sentence": "The research plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 59
+  },
+  {
+    "word": "experiment",
+    "simple_sentence": "I study experiment at school.",
+    "complex_sentence": "The experiment plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 60
+  },
+  {
+    "word": "data",
+    "simple_sentence": "I study data at school.",
+    "complex_sentence": "The data plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 61
+  },
+  {
+    "word": "hypothesis",
+    "simple_sentence": "I study hypothesis at school.",
+    "complex_sentence": "The hypothesis plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 62
+  },
+  {
+    "word": "thesis",
+    "simple_sentence": "I study thesis at school.",
+    "complex_sentence": "The thesis plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 63
+  },
+  {
+    "word": "dissertation",
+    "simple_sentence": "I study dissertation at school.",
+    "complex_sentence": "The dissertation plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 64
+  },
+  {
+    "word": "paper",
+    "simple_sentence": "I study paper at school.",
+    "complex_sentence": "The paper plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 65
+  },
+  {
+    "word": "presentation",
+    "simple_sentence": "I study presentation at school.",
+    "complex_sentence": "The presentation plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 66
+  },
+  {
+    "word": "lecture notes",
+    "simple_sentence": "I study lecture notes at school.",
+    "complex_sentence": "The lecture notes plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 67
+  },
+  {
+    "word": "textbook",
+    "simple_sentence": "I study textbook at school.",
+    "complex_sentence": "The textbook plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 68
+  },
+  {
+    "word": "notebook",
+    "simple_sentence": "I study notebook at school.",
+    "complex_sentence": "The notebook plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 69
+  },
+  {
+    "word": "journal",
+    "simple_sentence": "I study journal at school.",
+    "complex_sentence": "The journal plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 70
+  },
+  {
+    "word": "article",
+    "simple_sentence": "I study article at school.",
+    "complex_sentence": "The article plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 71
+  },
+  {
+    "word": "chapter",
+    "simple_sentence": "I study chapter at school.",
+    "complex_sentence": "The chapter plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 72
+  },
+  {
+    "word": "paragraph",
+    "simple_sentence": "I study paragraph at school.",
+    "complex_sentence": "The paragraph plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 73
+  },
+  {
+    "word": "sentence",
+    "simple_sentence": "I study sentence at school.",
+    "complex_sentence": "The sentence plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 74
+  },
+  {
+    "word": "word",
+    "simple_sentence": "I study word at school.",
+    "complex_sentence": "The word plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 75
+  },
+  {
+    "word": "definition",
+    "simple_sentence": "I study definition at school.",
+    "complex_sentence": "The definition plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 76
+  },
+  {
+    "word": "term",
+    "simple_sentence": "I study term at school.",
+    "complex_sentence": "The term plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 77
+  },
+  {
+    "word": "concept",
+    "simple_sentence": "I study concept at school.",
+    "complex_sentence": "The concept plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 78
+  },
+  {
+    "word": "idea",
+    "simple_sentence": "I study idea at school.",
+    "complex_sentence": "The idea plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 79
+  },
+  {
+    "word": "theory",
+    "simple_sentence": "I study theory at school.",
+    "complex_sentence": "The theory plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 80
+  },
+  {
+    "word": "principle",
+    "simple_sentence": "I study principle at school.",
+    "complex_sentence": "The principle plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 81
+  },
+  {
+    "word": "formula",
+    "simple_sentence": "I study formula at school.",
+    "complex_sentence": "The formula plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 82
+  },
+  {
+    "word": "equation",
+    "simple_sentence": "I study equation at school.",
+    "complex_sentence": "The equation plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 83
+  },
+  {
+    "word": "diagram",
+    "simple_sentence": "I study diagram at school.",
+    "complex_sentence": "The diagram plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 84
+  },
+  {
+    "word": "chart",
+    "simple_sentence": "I study chart at school.",
+    "complex_sentence": "The chart plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 85
+  },
+  {
+    "word": "graph",
+    "simple_sentence": "I study graph at school.",
+    "complex_sentence": "The graph plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 86
+  },
+  {
+    "word": "map",
+    "simple_sentence": "I study map at school.",
+    "complex_sentence": "The map plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 87
+  },
+  {
+    "word": "visual aid",
+    "simple_sentence": "I study visual aid at school.",
+    "complex_sentence": "The visual aid plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 88
+  },
+  {
+    "word": "powerpoint",
+    "simple_sentence": "I study powerpoint at school.",
+    "complex_sentence": "The powerpoint plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 89
+  },
+  {
+    "word": "whiteboard",
+    "simple_sentence": "I study whiteboard at school.",
+    "complex_sentence": "The whiteboard plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 90
+  },
+  {
+    "word": "blackboard",
+    "simple_sentence": "I study blackboard at school.",
+    "complex_sentence": "The blackboard plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 91
+  },
+  {
+    "word": "marker",
+    "simple_sentence": "I study marker at school.",
+    "complex_sentence": "The marker plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 92
+  },
+  {
+    "word": "chalk",
+    "simple_sentence": "I study chalk at school.",
+    "complex_sentence": "The chalk plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 93
+  },
+  {
+    "word": "eraser",
+    "simple_sentence": "I study eraser at school.",
+    "complex_sentence": "The eraser plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 94
+  },
+  {
+    "word": "pen",
+    "simple_sentence": "I study pen at school.",
+    "complex_sentence": "The pen plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 95
+  },
+  {
+    "word": "pencil",
+    "simple_sentence": "I study pencil at school.",
+    "complex_sentence": "The pencil plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 96
+  },
+  {
+    "word": "highlighter",
+    "simple_sentence": "I study highlighter at school.",
+    "complex_sentence": "The highlighter plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 97
+  },
+  {
+    "word": "ruler",
+    "simple_sentence": "I study ruler at school.",
+    "complex_sentence": "The ruler plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 98
+  },
+  {
+    "word": "compass",
+    "simple_sentence": "I study compass at school.",
+    "complex_sentence": "The compass plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 99
+  },
+  {
+    "word": "protractor",
+    "simple_sentence": "I study protractor at school.",
+    "complex_sentence": "The protractor plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 100
+  },
+  {
+    "word": "calculator",
+    "simple_sentence": "I study calculator at school.",
+    "complex_sentence": "The calculator plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 101
+  },
+  {
+    "word": "laptop",
+    "simple_sentence": "I study laptop at school.",
+    "complex_sentence": "The laptop plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 102
+  },
+  {
+    "word": "tablet",
+    "simple_sentence": "I study tablet at school.",
+    "complex_sentence": "The tablet plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 103
+  },
+  {
+    "word": "smartboard",
+    "simple_sentence": "I study smartboard at school.",
+    "complex_sentence": "The smartboard plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 104
+  },
+  {
+    "word": "projector",
+    "simple_sentence": "I study projector at school.",
+    "complex_sentence": "The projector plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 105
+  },
+  {
+    "word": "headphones",
+    "simple_sentence": "I study headphones at school.",
+    "complex_sentence": "The headphones plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 106
+  },
+  {
+    "word": "microphone",
+    "simple_sentence": "I study microphone at school.",
+    "complex_sentence": "The microphone plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 107
+  },
+  {
+    "word": "midterm",
+    "simple_sentence": "I study midterm at school.",
+    "complex_sentence": "The midterm plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 108
+  },
+  {
+    "word": "final exam",
+    "simple_sentence": "I study final exam at school.",
+    "complex_sentence": "The final exam plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 109
+  },
+  {
+    "word": "study guide",
+    "simple_sentence": "I study study guide at school.",
+    "complex_sentence": "The study guide plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 110
+  },
+  {
+    "word": "revision",
+    "simple_sentence": "I study revision at school.",
+    "complex_sentence": "The revision plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 111
+  },
+  {
+    "word": "practice",
+    "simple_sentence": "I study practice at school.",
+    "complex_sentence": "The practice plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 112
+  },
+  {
+    "word": "group study",
+    "simple_sentence": "I study group study at school.",
+    "complex_sentence": "The group study plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 113
+  },
+  {
+    "word": "tutoring",
+    "simple_sentence": "I study tutoring at school.",
+    "complex_sentence": "The tutoring plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 114
+  },
+  {
+    "word": "mentoring",
+    "simple_sentence": "I study mentoring at school.",
+    "complex_sentence": "The mentoring plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 115
+  },
+  {
+    "word": "debate",
+    "simple_sentence": "I study debate at school.",
+    "complex_sentence": "The debate plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 116
+  },
+  {
+    "word": "discussion",
+    "simple_sentence": "I study discussion at school.",
+    "complex_sentence": "The discussion plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 117
+  },
+  {
+    "word": "brainstorming",
+    "simple_sentence": "I study brainstorming at school.",
+    "complex_sentence": "The brainstorming plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 118
+  },
+  {
+    "word": "critical thinking",
+    "simple_sentence": "I study critical thinking at school.",
+    "complex_sentence": "The critical thinking plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 119
+  },
+  {
+    "word": "problem-solving",
+    "simple_sentence": "I study problem-solving at school.",
+    "complex_sentence": "The problem-solving plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 120
+  },
+  {
+    "word": "memorization",
+    "simple_sentence": "I study memorization at school.",
+    "complex_sentence": "The memorization plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 121
+  },
+  {
+    "word": "note-taking",
+    "simple_sentence": "I study note-taking at school.",
+    "complex_sentence": "The note-taking plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 122
+  },
+  {
+    "word": "time management",
+    "simple_sentence": "I study time management at school.",
+    "complex_sentence": "The time management plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 123
+  },
+  {
+    "word": "goal-setting",
+    "simple_sentence": "I study goal-setting at school.",
+    "complex_sentence": "The goal-setting plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 124
+  },
+  {
+    "word": "prioritization",
+    "simple_sentence": "I study prioritization at school.",
+    "complex_sentence": "The prioritization plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 125
+  },
+  {
+    "word": "motivation",
+    "simple_sentence": "I study motivation at school.",
+    "complex_sentence": "The motivation plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 126
+  },
+  {
+    "word": "focus",
+    "simple_sentence": "I study focus at school.",
+    "complex_sentence": "The focus plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 127
+  },
+  {
+    "word": "concentration",
+    "simple_sentence": "I study concentration at school.",
+    "complex_sentence": "The concentration plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 128
+  },
+  {
+    "word": "creativity",
+    "simple_sentence": "I study creativity at school.",
+    "complex_sentence": "The creativity plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 129
+  },
+  {
+    "word": "innovation",
+    "simple_sentence": "I study innovation at school.",
+    "complex_sentence": "The innovation plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 130
+  },
+  {
+    "word": "collaboration",
+    "simple_sentence": "I study collaboration at school.",
+    "complex_sentence": "The collaboration plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 131
+  },
+  {
+    "word": "teamwork",
+    "simple_sentence": "I study teamwork at school.",
+    "complex_sentence": "The teamwork plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 132
+  },
+  {
+    "word": "leadership",
+    "simple_sentence": "I study leadership at school.",
+    "complex_sentence": "The leadership plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 133
+  },
+  {
+    "word": "communication",
+    "simple_sentence": "I study communication at school.",
+    "complex_sentence": "The communication plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 134
+  },
+  {
+    "word": "public speaking",
+    "simple_sentence": "I study public speaking at school.",
+    "complex_sentence": "The public speaking plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 135
+  },
+  {
+    "word": "writing skills",
+    "simple_sentence": "I study writing skills at school.",
+    "complex_sentence": "The writing skills plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 136
+  },
+  {
+    "word": "reading skills",
+    "simple_sentence": "I study reading skills at school.",
+    "complex_sentence": "The reading skills plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 137
+  },
+  {
+    "word": "math skills",
+    "simple_sentence": "I study math skills at school.",
+    "complex_sentence": "The math skills plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 138
+  },
+  {
+    "word": "science skills",
+    "simple_sentence": "I study science skills at school.",
+    "complex_sentence": "The science skills plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 139
+  },
+  {
+    "word": "technology skills",
+    "simple_sentence": "I study technology skills at school.",
+    "complex_sentence": "The technology skills plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 140
+  },
+  {
+    "word": "research skills",
+    "simple_sentence": "I study research skills at school.",
+    "complex_sentence": "The research skills plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 141
+  },
+  {
+    "word": "analytical skills",
+    "simple_sentence": "I study analytical skills at school.",
+    "complex_sentence": "The analytical skills plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 142
+  },
+  {
+    "word": "logical reasoning",
+    "simple_sentence": "I study logical reasoning at school.",
+    "complex_sentence": "The logical reasoning plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 143
+  },
+  {
+    "word": "decision-making",
+    "simple_sentence": "I study decision-making at school.",
+    "complex_sentence": "The decision-making plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 144
+  },
+  {
+    "word": "evaluation",
+    "simple_sentence": "I study evaluation at school.",
+    "complex_sentence": "The evaluation plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 145
+  },
+  {
+    "word": "self-assessment",
+    "simple_sentence": "I study self-assessment at school.",
+    "complex_sentence": "The self-assessment plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 146
+  },
+  {
+    "word": "reflection",
+    "simple_sentence": "I study reflection at school.",
+    "complex_sentence": "The reflection plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 147
+  },
+  {
+    "word": "feedback",
+    "simple_sentence": "I study feedback at school.",
+    "complex_sentence": "The feedback plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 148
+  },
+  {
+    "word": "peer review",
+    "simple_sentence": "I study peer review at school.",
+    "complex_sentence": "The peer review plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 149
+  },
+  {
+    "word": "editing",
+    "simple_sentence": "I study editing at school.",
+    "complex_sentence": "The editing plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 150
+  },
+  {
+    "word": "proofreading",
+    "simple_sentence": "I study proofreading at school.",
+    "complex_sentence": "The proofreading plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 151
+  },
+  {
+    "word": "rewriting",
+    "simple_sentence": "I study rewriting at school.",
+    "complex_sentence": "The rewriting plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 152
+  },
+  {
+    "word": "presentation skills",
+    "simple_sentence": "I study presentation skills at school.",
+    "complex_sentence": "The presentation skills plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 153
+  },
+  {
+    "word": "argumentation",
+    "simple_sentence": "I study argumentation at school.",
+    "complex_sentence": "The argumentation plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 154
+  },
+  {
+    "word": "persuasion",
+    "simple_sentence": "I study persuasion at school.",
+    "complex_sentence": "The persuasion plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 155
+  },
+  {
+    "word": "questioning",
+    "simple_sentence": "I study questioning at school.",
+    "complex_sentence": "The questioning plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 156
+  },
+  {
+    "word": "listening",
+    "simple_sentence": "I study listening at school.",
+    "complex_sentence": "The listening plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 157
+  },
+  {
+    "word": "comprehension",
+    "simple_sentence": "I study comprehension at school.",
+    "complex_sentence": "The comprehension plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 158
+  },
+  {
+    "word": "vocabulary",
+    "simple_sentence": "I study vocabulary at school.",
+    "complex_sentence": "The vocabulary plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 159
+  },
+  {
+    "word": "grammar",
+    "simple_sentence": "I study grammar at school.",
+    "complex_sentence": "The grammar plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 160
+  },
+  {
+    "word": "syntax",
+    "simple_sentence": "I study syntax at school.",
+    "complex_sentence": "The syntax plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 161
+  },
+  {
+    "word": "punctuation",
+    "simple_sentence": "I study punctuation at school.",
+    "complex_sentence": "The punctuation plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 162
+  },
+  {
+    "word": "spelling",
+    "simple_sentence": "I study spelling at school.",
+    "complex_sentence": "The spelling plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 163
+  },
+  {
+    "word": "literature",
+    "simple_sentence": "I study literature at school.",
+    "complex_sentence": "The literature plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 164
+  },
+  {
+    "word": "fiction",
+    "simple_sentence": "I study fiction at school.",
+    "complex_sentence": "The fiction plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 165
+  },
+  {
+    "word": "non-fiction",
+    "simple_sentence": "I study non-fiction at school.",
+    "complex_sentence": "The non-fiction plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 166
+  },
+  {
+    "word": "poetry",
+    "simple_sentence": "I study poetry at school.",
+    "complex_sentence": "The poetry plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 167
+  },
+  {
+    "word": "prose",
+    "simple_sentence": "I study prose at school.",
+    "complex_sentence": "The prose plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 168
+  },
+  {
+    "word": "drama",
+    "simple_sentence": "I study drama at school.",
+    "complex_sentence": "The drama plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 169
+  },
+  {
+    "word": "history",
+    "simple_sentence": "I study history at school.",
+    "complex_sentence": "The history plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 170
+  },
+  {
+    "word": "geography",
+    "simple_sentence": "I study geography at school.",
+    "complex_sentence": "The geography plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 171
+  },
+  {
+    "word": "social studies",
+    "simple_sentence": "I study social studies at school.",
+    "complex_sentence": "The social studies plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 172
+  },
+  {
+    "word": "civics",
+    "simple_sentence": "I study civics at school.",
+    "complex_sentence": "The civics plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 173
+  },
+  {
+    "word": "government",
+    "simple_sentence": "I study government at school.",
+    "complex_sentence": "The government plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 174
+  },
+  {
+    "word": "economics",
+    "simple_sentence": "I study economics at school.",
+    "complex_sentence": "The economics plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 175
+  },
+  {
+    "word": "political science",
+    "simple_sentence": "I study political science at school.",
+    "complex_sentence": "The political science plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 176
+  },
+  {
+    "word": "philosophy",
+    "simple_sentence": "I study philosophy at school.",
+    "complex_sentence": "The philosophy plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 177
+  },
+  {
+    "word": "psychology",
+    "simple_sentence": "I study psychology at school.",
+    "complex_sentence": "The psychology plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 178
+  },
+  {
+    "word": "sociology",
+    "simple_sentence": "I study sociology at school.",
+    "complex_sentence": "The sociology plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 179
+  },
+  {
+    "word": "anthropology",
+    "simple_sentence": "I study anthropology at school.",
+    "complex_sentence": "The anthropology plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 180
+  },
+  {
+    "word": "archaeology",
+    "simple_sentence": "I study archaeology at school.",
+    "complex_sentence": "The archaeology plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 181
+  },
+  {
+    "word": "biology",
+    "simple_sentence": "I study biology at school.",
+    "complex_sentence": "The biology plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 182
+  },
+  {
+    "word": "chemistry",
+    "simple_sentence": "I study chemistry at school.",
+    "complex_sentence": "The chemistry plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 183
+  },
+  {
+    "word": "physics",
+    "simple_sentence": "I study physics at school.",
+    "complex_sentence": "The physics plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 184
+  },
+  {
+    "word": "mathematics",
+    "simple_sentence": "I study mathematics at school.",
+    "complex_sentence": "The mathematics plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 185
+  },
+  {
+    "word": "algebra",
+    "simple_sentence": "I study algebra at school.",
+    "complex_sentence": "The algebra plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 186
+  },
+  {
+    "word": "geometry",
+    "simple_sentence": "I study geometry at school.",
+    "complex_sentence": "The geometry plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 187
+  },
+  {
+    "word": "trigonometry",
+    "simple_sentence": "I study trigonometry at school.",
+    "complex_sentence": "The trigonometry plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 188
+  },
+  {
+    "word": "calculus",
+    "simple_sentence": "I study calculus at school.",
+    "complex_sentence": "The calculus plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 189
+  },
+  {
+    "word": "statistics",
+    "simple_sentence": "I study statistics at school.",
+    "complex_sentence": "The statistics plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 190
+  },
+  {
+    "word": "computer science",
+    "simple_sentence": "I study computer science at school.",
+    "complex_sentence": "The computer science plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 191
+  },
+  {
+    "word": "information technology",
+    "simple_sentence": "I study information technology at school.",
+    "complex_sentence": "The information technology plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 192
+  },
+  {
+    "word": "programming",
+    "simple_sentence": "I study programming at school.",
+    "complex_sentence": "The programming plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 193
+  },
+  {
+    "word": "coding",
+    "simple_sentence": "I study coding at school.",
+    "complex_sentence": "The coding plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 194
+  },
+  {
+    "word": "engineering",
+    "simple_sentence": "I study engineering at school.",
+    "complex_sentence": "The engineering plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 195
+  },
+  {
+    "word": "architecture",
+    "simple_sentence": "I study architecture at school.",
+    "complex_sentence": "The architecture plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 196
+  },
+  {
+    "word": "medicine",
+    "simple_sentence": "I study medicine at school.",
+    "complex_sentence": "The medicine plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 197
+  },
+  {
+    "word": "nursing",
+    "simple_sentence": "I study nursing at school.",
+    "complex_sentence": "The nursing plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 198
+  },
+  {
+    "word": "law",
+    "simple_sentence": "I study law at school.",
+    "complex_sentence": "The law plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 199
+  },
+  {
+    "word": "business",
+    "simple_sentence": "I study business at school.",
+    "complex_sentence": "The business plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 200
+  },
+  {
+    "word": "accounting",
+    "simple_sentence": "I study accounting at school.",
+    "complex_sentence": "The accounting plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 201
+  },
+  {
+    "word": "finance",
+    "simple_sentence": "I study finance at school.",
+    "complex_sentence": "The finance plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 202
+  },
+  {
+    "word": "marketing",
+    "simple_sentence": "I study marketing at school.",
+    "complex_sentence": "The marketing plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 203
+  },
+  {
+    "word": "management",
+    "simple_sentence": "I study management at school.",
+    "complex_sentence": "The management plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 204
+  },
+  {
+    "word": "entrepreneurship",
+    "simple_sentence": "I study entrepreneurship at school.",
+    "complex_sentence": "The entrepreneurship plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 205
+  },
+  {
+    "word": "ethics",
+    "simple_sentence": "I study ethics at school.",
+    "complex_sentence": "The ethics plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 206
+  },
+  {
+    "word": "environmental science",
+    "simple_sentence": "I study environmental science at school.",
+    "complex_sentence": "The environmental science plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 207
+  },
+  {
+    "word": "sustainability",
+    "simple_sentence": "I study sustainability at school.",
+    "complex_sentence": "The sustainability plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 208
+  },
+  {
+    "word": "foreign languages",
+    "simple_sentence": "I study foreign languages at school.",
+    "complex_sentence": "The foreign languages plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 209
+  },
+  {
+    "word": "translation",
+    "simple_sentence": "I study translation at school.",
+    "complex_sentence": "The translation plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 210
+  },
+  {
+    "word": "interpretation",
+    "simple_sentence": "I study interpretation at school.",
+    "complex_sentence": "The interpretation plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 211
+  },
+  {
+    "word": "linguistics",
+    "simple_sentence": "I study linguistics at school.",
+    "complex_sentence": "The linguistics plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 212
+  },
+  {
+    "word": "semantics",
+    "simple_sentence": "I study semantics at school.",
+    "complex_sentence": "The semantics plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 213
+  },
+  {
+    "word": "phonetics",
+    "simple_sentence": "I study phonetics at school.",
+    "complex_sentence": "The phonetics plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 214
+  },
+  {
+    "word": "phonology",
+    "simple_sentence": "I study phonology at school.",
+    "complex_sentence": "The phonology plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 215
+  },
+  {
+    "word": "morphology",
+    "simple_sentence": "I study morphology at school.",
+    "complex_sentence": "The morphology plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 216
+  },
+  {
+    "word": "sociolinguistics",
+    "simple_sentence": "I study sociolinguistics at school.",
+    "complex_sentence": "The sociolinguistics plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 217
+  },
+  {
+    "word": "psycholinguistics",
+    "simple_sentence": "I study psycholinguistics at school.",
+    "complex_sentence": "The psycholinguistics plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 218
+  },
+  {
+    "word": "language acquisition",
+    "simple_sentence": "I study language acquisition at school.",
+    "complex_sentence": "The language acquisition plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 219
+  },
+  {
+    "word": "second language",
+    "simple_sentence": "I study second language at school.",
+    "complex_sentence": "The second language plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 220
+  },
+  {
+    "word": "bilingualism",
+    "simple_sentence": "I study bilingualism at school.",
+    "complex_sentence": "The bilingualism plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 221
+  },
+  {
+    "word": "multilingualism",
+    "simple_sentence": "I study multilingualism at school.",
+    "complex_sentence": "The multilingualism plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 222
+  },
+  {
+    "word": "cultural studies",
+    "simple_sentence": "I study cultural studies at school.",
+    "complex_sentence": "The cultural studies plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 223
+  },
+  {
+    "word": "intercultural communication",
+    "simple_sentence": "I study intercultural communication at school.",
+    "complex_sentence": "The intercultural communication plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 224
+  },
+  {
+    "word": "globalization",
+    "simple_sentence": "I study globalization at school.",
+    "complex_sentence": "The globalization plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 225
+  },
+  {
+    "word": "diversity",
+    "simple_sentence": "I study diversity at school.",
+    "complex_sentence": "The diversity plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 226
+  },
+  {
+    "word": "inclusion",
+    "simple_sentence": "I study inclusion at school.",
+    "complex_sentence": "The inclusion plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 227
+  },
+  {
+    "word": "equity",
+    "simple_sentence": "I study equity at school.",
+    "complex_sentence": "The equity plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 228
+  },
+  {
+    "word": "accessibility",
+    "simple_sentence": "I study accessibility at school.",
+    "complex_sentence": "The accessibility plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 229
+  },
+  {
+    "word": "special education",
+    "simple_sentence": "I study special education at school.",
+    "complex_sentence": "The special education plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 230
+  },
+  {
+    "word": "learning disabilities",
+    "simple_sentence": "I study learning disabilities at school.",
+    "complex_sentence": "The learning disabilities plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 231
+  },
+  {
+    "word": "ADHD",
+    "simple_sentence": "I study ADHD at school.",
+    "complex_sentence": "The ADHD plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 232
+  },
+  {
+    "word": "dyslexia",
+    "simple_sentence": "I study dyslexia at school.",
+    "complex_sentence": "The dyslexia plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 233
+  },
+  {
+    "word": "autism",
+    "simple_sentence": "I study autism at school.",
+    "complex_sentence": "The autism plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 234
+  },
+  {
+    "word": "gifted education",
+    "simple_sentence": "I study gifted education at school.",
+    "complex_sentence": "The gifted education plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 235
+  },
+  {
+    "word": "individualized education program",
+    "simple_sentence": "I study individualized education program at school.",
+    "complex_sentence": "The individualized education program plays a fundamental role in the process of acquiring new knowledge and skills.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 236
+  }
+]
