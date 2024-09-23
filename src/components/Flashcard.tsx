@@ -1,57 +1,8 @@
-/* import React, { useState, useEffect } from "react";
-import "./Flashcard.scss";
-
-interface FlashcardProps {
-  cards: string[];
-}
-
-const Flashcard: React.FC<FlashcardProps> = ({ cards }) => {
-  const [currentIndex, setCurrentIndex] = useState(0);
-
-  const handleNext = () => {
-    setCurrentIndex((prevIndex) => (prevIndex + 1) % cards.length);
-  };
-
-  const handlePrev = () => {
-    setCurrentIndex((prevIndex) =>
-      prevIndex === 0 ? cards.length - 1 : prevIndex - 1
-    );
-  };
-
-  const handleKeyDown = (event: KeyboardEvent) => {
-    if (event.key === "ArrowRight") {
-      handleNext();
-    } else if (event.key === "ArrowLeft") {
-      handlePrev();
-    }
-  };
-
-  useEffect(() => {
-    window.addEventListener("keydown", handleKeyDown);
-    return () => {
-      window.removeEventListener("keydown", handleKeyDown);
-    };
-  }, []);
-
-  return (
-    <div className="flashcard-container">
-      <div className="flashcard">
-        <p>{cards[currentIndex]}</p>
-      </div>
-      <div className="controls">
-        <button onClick={handlePrev}>Anterior</button>
-        <button onClick={handleNext}>Siguiente</button>
-      </div>
-    </div>
-  );
-};
-
-export default Flashcard; */
-
 import React, { useState, useEffect } from "react";
 import "./Flashcard.scss";
 
 interface FlashcardData {
+  id: string | number;
   word: string;
   simple_sentence: string;
   complex_sentence: string;
@@ -75,7 +26,6 @@ const Flashcard: React.FC = () => {
 			//removeDuplicatesFromFile()
 			const data = await response.json();
 			setCards(data);
-			console.log(data);
 		} catch (error) {
 			console.error("Error al cargar los datos:", error);
 		}
@@ -162,15 +112,15 @@ const Flashcard: React.FC = () => {
         <button onClick={() => setType("vocabulary_verb_tenses")}>Tiempos verbales</button>
       </div>
       <div className="flashcard">
-        <p>
-          {currentIndex + 1}.- {cards[currentIndex].word}
+        <p className="word">
+          {cards[currentIndex].id}. {cards[currentIndex].word}
         </p>
+        <p className="spanish">{cards[currentIndex].spanish}</p>
         <p className="pronunciation">{cards[currentIndex].pronunciation}</p>
         <p className="simple-sentence">{cards[currentIndex].simple_sentence}</p>
         <p className="complex-sentence">
           {cards[currentIndex].complex_sentence}
         </p>
-        <p className="spanish">{cards[currentIndex].spanish}</p>
       </div>
       <div className="controls">
         <button onClick={handlePrev}>Anterior</button>

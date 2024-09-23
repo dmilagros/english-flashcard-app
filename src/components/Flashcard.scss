@@ -6,6 +6,13 @@
   height: 100vh;
   background-color: #f5f5f5;
   padding: 20px;
+  gap: 16px;
+}
+
+.types {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
 }
 
 .flashcard {
@@ -19,13 +26,13 @@
   margin-bottom: 20px;
 
   // Estilos generales (por defecto para escritorio grande)
-  width: 600px;  // Ancho de escritorio grande
+  width: 600px; // Ancho de escritorio grande
 }
 
 .controls {
   display: flex;
   justify-content: space-between;
-  width: 150px;
+  gap: 16px;
 }
 
 button {
@@ -36,10 +43,28 @@ button {
   border-radius: 4px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  font-size: 16px;
 
   &:hover {
     background-color: #0056b3;
   }
+}
+
+.word {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.spanish {
+  font-size: 20px;
+  margin-top: 0;
+  color: #ccc;
+}
+
+.pronunciation {
+  font-size: 20px;
+  color: #007bff;
 }
 
 // Media queries para hacer el diseño responsive
@@ -47,23 +72,23 @@ button {
 // Móviles pequeños (ancho máximo de 600px)
 @media (max-width: 600px) {
   .flashcard {
-    width: 90%;  // Ajusta el ancho al 90% de la pantalla
-    font-size: 1.2rem;  // Reduce el tamaño de fuente en móviles
+    width: 90%; // Ajusta el ancho al 90% de la pantalla
+    font-size: 1.2rem; // Reduce el tamaño de fuente en móviles
   }
 }
 
 // Tablets (ancho entre 601px y 900px)
 @media (min-width: 601px) and (max-width: 900px) {
   .flashcard {
-    width: 80%;  // Ajusta el ancho al 80% de la pantalla
-    font-size: 1.4rem;  // Ajusta el tamaño de fuente para tablets
+    width: 80%; // Ajusta el ancho al 80% de la pantalla
+    font-size: 1.4rem; // Ajusta el tamaño de fuente para tablets
   }
 }
 
 // Escritorio pequeño a grande (más de 900px)
 @media (min-width: 901px) {
   .flashcard {
-    width: 600px;  // Ancho fijo para pantallas grandes
+    width: 600px; // Ancho fijo para pantallas grandes
     font-size: 1.5rem;
   }
 }
