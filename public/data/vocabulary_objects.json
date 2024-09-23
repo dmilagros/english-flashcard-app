@@ -1,0 +1,2650 @@
+[
+  {
+    "word": "table",
+    "simple_sentence": "This is a table.",
+    "complex_sentence": "The table is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 1
+  },
+  {
+    "word": "chair",
+    "simple_sentence": "This is a chair.",
+    "complex_sentence": "The chair is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 2
+  },
+  {
+    "word": "car",
+    "simple_sentence": "This is a car.",
+    "complex_sentence": "The car is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 3
+  },
+  {
+    "word": "phone",
+    "simple_sentence": "This is a phone.",
+    "complex_sentence": "The phone is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 4
+  },
+  {
+    "word": "book",
+    "simple_sentence": "This is a book.",
+    "complex_sentence": "The book is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 5
+  },
+  {
+    "word": "pen",
+    "simple_sentence": "This is a pen.",
+    "complex_sentence": "The pen is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 6
+  },
+  {
+    "word": "lamp",
+    "simple_sentence": "This is a lamp.",
+    "complex_sentence": "The lamp is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 7
+  },
+  {
+    "word": "door",
+    "simple_sentence": "This is a door.",
+    "complex_sentence": "The door is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 8
+  },
+  {
+    "word": "window",
+    "simple_sentence": "This is a window.",
+    "complex_sentence": "The window is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 9
+  },
+  {
+    "word": "bottle",
+    "simple_sentence": "This is a bottle.",
+    "complex_sentence": "The bottle is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 10
+  },
+  {
+    "word": "computer",
+    "simple_sentence": "This is a computer.",
+    "complex_sentence": "The computer is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 11
+  },
+  {
+    "word": "laptop",
+    "simple_sentence": "This is a laptop.",
+    "complex_sentence": "The laptop is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 12
+  },
+  {
+    "word": "desk",
+    "simple_sentence": "This is a desk.",
+    "complex_sentence": "The desk is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 13
+  },
+  {
+    "word": "sofa",
+    "simple_sentence": "This is a sofa.",
+    "complex_sentence": "The sofa is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 14
+  },
+  {
+    "word": "bed",
+    "simple_sentence": "This is a bed.",
+    "complex_sentence": "The bed is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 15
+  },
+  {
+    "word": "pillow",
+    "simple_sentence": "This is a pillow.",
+    "complex_sentence": "The pillow is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 16
+  },
+  {
+    "word": "cup",
+    "simple_sentence": "This is a cup.",
+    "complex_sentence": "The cup is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 17
+  },
+  {
+    "word": "plate",
+    "simple_sentence": "This is a plate.",
+    "complex_sentence": "The plate is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 18
+  },
+  {
+    "word": "fork",
+    "simple_sentence": "This is a fork.",
+    "complex_sentence": "The fork is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 19
+  },
+  {
+    "word": "spoon",
+    "simple_sentence": "This is a spoon.",
+    "complex_sentence": "The spoon is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 20
+  },
+  {
+    "word": "knife",
+    "simple_sentence": "This is a knife.",
+    "complex_sentence": "The knife is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 21
+  },
+  {
+    "word": "mirror",
+    "simple_sentence": "This is a mirror.",
+    "complex_sentence": "The mirror is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 22
+  },
+  {
+    "word": "clock",
+    "simple_sentence": "This is a clock.",
+    "complex_sentence": "The clock is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 23
+  },
+  {
+    "word": "bag",
+    "simple_sentence": "This is a bag.",
+    "complex_sentence": "The bag is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 24
+  },
+  {
+    "word": "key",
+    "simple_sentence": "This is a key.",
+    "complex_sentence": "The key is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 25
+  },
+  {
+    "word": "wallet",
+    "simple_sentence": "This is a wallet.",
+    "complex_sentence": "The wallet is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 26
+  },
+  {
+    "word": "shoe",
+    "simple_sentence": "This is a shoe.",
+    "complex_sentence": "The shoe is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 27
+  },
+  {
+    "word": "shirt",
+    "simple_sentence": "This is a shirt.",
+    "complex_sentence": "The shirt is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 28
+  },
+  {
+    "word": "jacket",
+    "simple_sentence": "This is a jacket.",
+    "complex_sentence": "The jacket is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 29
+  },
+  {
+    "word": "hat",
+    "simple_sentence": "This is a hat.",
+    "complex_sentence": "The hat is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 30
+  },
+  {
+    "word": "umbrella",
+    "simple_sentence": "This is a umbrella.",
+    "complex_sentence": "The umbrella is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 31
+  },
+  {
+    "word": "glasses",
+    "simple_sentence": "This is a glasses.",
+    "complex_sentence": "The glasses is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 32
+  },
+  {
+    "word": "watch",
+    "simple_sentence": "This is a watch.",
+    "complex_sentence": "The watch is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 33
+  },
+  {
+    "word": "backpack",
+    "simple_sentence": "This is a backpack.",
+    "complex_sentence": "The backpack is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 34
+  },
+  {
+    "word": "television",
+    "simple_sentence": "This is a television.",
+    "complex_sentence": "The television is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 35
+  },
+  {
+    "word": "remote",
+    "simple_sentence": "This is a remote.",
+    "complex_sentence": "The remote is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 36
+  },
+  {
+    "word": "fan",
+    "simple_sentence": "This is a fan.",
+    "complex_sentence": "The fan is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 37
+  },
+  {
+    "word": "radio",
+    "simple_sentence": "This is a radio.",
+    "complex_sentence": "The radio is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 38
+  },
+  {
+    "word": "printer",
+    "simple_sentence": "This is a printer.",
+    "complex_sentence": "The printer is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 39
+  },
+  {
+    "word": "camera",
+    "simple_sentence": "This is a camera.",
+    "complex_sentence": "The camera is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 40
+  },
+  {
+    "word": "microwave",
+    "simple_sentence": "This is a microwave.",
+    "complex_sentence": "The microwave is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 41
+  },
+  {
+    "word": "fridge",
+    "simple_sentence": "This is a fridge.",
+    "complex_sentence": "The fridge is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 42
+  },
+  {
+    "word": "stove",
+    "simple_sentence": "This is a stove.",
+    "complex_sentence": "The stove is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 43
+  },
+  {
+    "word": "oven",
+    "simple_sentence": "This is a oven.",
+    "complex_sentence": "The oven is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 44
+  },
+  {
+    "word": "blender",
+    "simple_sentence": "This is a blender.",
+    "complex_sentence": "The blender is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 45
+  },
+  {
+    "word": "toaster",
+    "simple_sentence": "This is a toaster.",
+    "complex_sentence": "The toaster is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 46
+  },
+  {
+    "word": "kettle",
+    "simple_sentence": "This is a kettle.",
+    "complex_sentence": "The kettle is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 47
+  },
+  {
+    "word": "vacuum",
+    "simple_sentence": "This is a vacuum.",
+    "complex_sentence": "The vacuum is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 48
+  },
+  {
+    "word": "broom",
+    "simple_sentence": "This is a broom.",
+    "complex_sentence": "The broom is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 49
+  },
+  {
+    "word": "towel",
+    "simple_sentence": "This is a towel.",
+    "complex_sentence": "The towel is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 50
+  },
+  {
+    "word": "soap",
+    "simple_sentence": "This is a soap.",
+    "complex_sentence": "The soap is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 51
+  },
+  {
+    "word": "toothbrush",
+    "simple_sentence": "This is a toothbrush.",
+    "complex_sentence": "The toothbrush is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 52
+  },
+  {
+    "word": "shampoo",
+    "simple_sentence": "This is a shampoo.",
+    "complex_sentence": "The shampoo is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 53
+  },
+  {
+    "word": "conditioner",
+    "simple_sentence": "This is a conditioner.",
+    "complex_sentence": "The conditioner is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 54
+  },
+  {
+    "word": "comb",
+    "simple_sentence": "This is a comb.",
+    "complex_sentence": "The comb is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 55
+  },
+  {
+    "word": "brush",
+    "simple_sentence": "This is a brush.",
+    "complex_sentence": "The brush is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 56
+  },
+  {
+    "word": "scissors",
+    "simple_sentence": "This is a scissors.",
+    "complex_sentence": "The scissors is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 57
+  },
+  {
+    "word": "tape",
+    "simple_sentence": "This is a tape.",
+    "complex_sentence": "The tape is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 58
+  },
+  {
+    "word": "glue",
+    "simple_sentence": "This is a glue.",
+    "complex_sentence": "The glue is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 59
+  },
+  {
+    "word": "paper",
+    "simple_sentence": "This is a paper.",
+    "complex_sentence": "The paper is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 60
+  },
+  {
+    "word": "notebook",
+    "simple_sentence": "This is a notebook.",
+    "complex_sentence": "The notebook is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 61
+  },
+  {
+    "word": "calendar",
+    "simple_sentence": "This is a calendar.",
+    "complex_sentence": "The calendar is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 62
+  },
+  {
+    "word": "pencil",
+    "simple_sentence": "This is a pencil.",
+    "complex_sentence": "The pencil is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 63
+  },
+  {
+    "word": "carpet",
+    "simple_sentence": "This is a carpet.",
+    "complex_sentence": "The carpet is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 64
+  },
+  {
+    "word": "curtain",
+    "simple_sentence": "This is a curtain.",
+    "complex_sentence": "The curtain is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 65
+  },
+  {
+    "word": "light",
+    "simple_sentence": "This is a light.",
+    "complex_sentence": "The light is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 66
+  },
+  {
+    "word": "charger",
+    "simple_sentence": "This is a charger.",
+    "complex_sentence": "The charger is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 67
+  },
+  {
+    "word": "headphones",
+    "simple_sentence": "This is a headphones.",
+    "complex_sentence": "The headphones is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 68
+  },
+  {
+    "word": "screen",
+    "simple_sentence": "This is a screen.",
+    "complex_sentence": "The screen is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 69
+  },
+  {
+    "word": "mouse",
+    "simple_sentence": "This is a mouse.",
+    "complex_sentence": "The mouse is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 70
+  },
+  {
+    "word": "keyboard",
+    "simple_sentence": "This is a keyboard.",
+    "complex_sentence": "The keyboard is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 71
+  },
+  {
+    "word": "bookcase",
+    "simple_sentence": "This is a bookcase.",
+    "complex_sentence": "The bookcase is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 72
+  },
+  {
+    "word": "couch",
+    "simple_sentence": "This is a couch.",
+    "complex_sentence": "The couch is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 73
+  },
+  {
+    "word": "dishwasher",
+    "simple_sentence": "This is a dishwasher.",
+    "complex_sentence": "The dishwasher is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 74
+  },
+  {
+    "word": "cupboard",
+    "simple_sentence": "This is a cupboard.",
+    "complex_sentence": "The cupboard is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 75
+  },
+  {
+    "word": "sink",
+    "simple_sentence": "This is a sink.",
+    "complex_sentence": "The sink is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 76
+  },
+  {
+    "word": "shower",
+    "simple_sentence": "This is a shower.",
+    "complex_sentence": "The shower is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 77
+  },
+  {
+    "word": "toilet",
+    "simple_sentence": "This is a toilet.",
+    "complex_sentence": "The toilet is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 78
+  },
+  {
+    "word": "bathtub",
+    "simple_sentence": "This is a bathtub.",
+    "complex_sentence": "The bathtub is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 79
+  },
+  {
+    "word": "razor",
+    "simple_sentence": "This is a razor.",
+    "complex_sentence": "The razor is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 80
+  },
+  {
+    "word": "dryer",
+    "simple_sentence": "This is a dryer.",
+    "complex_sentence": "The dryer is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 81
+  },
+  {
+    "word": "washer",
+    "simple_sentence": "This is a washer.",
+    "complex_sentence": "The washer is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 82
+  },
+  {
+    "word": "pan",
+    "simple_sentence": "This is a pan.",
+    "complex_sentence": "The pan is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 83
+  },
+  {
+    "word": "pot",
+    "simple_sentence": "This is a pot.",
+    "complex_sentence": "The pot is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 84
+  },
+  {
+    "word": "bowl",
+    "simple_sentence": "This is a bowl.",
+    "complex_sentence": "The bowl is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 85
+  },
+  {
+    "word": "whisk",
+    "simple_sentence": "This is a whisk.",
+    "complex_sentence": "The whisk is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 86
+  },
+  {
+    "word": "spatula",
+    "simple_sentence": "This is a spatula.",
+    "complex_sentence": "The spatula is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 87
+  },
+  {
+    "word": "cutting board",
+    "simple_sentence": "This is a cutting board.",
+    "complex_sentence": "The cutting board is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 88
+  },
+  {
+    "word": "kitchen",
+    "simple_sentence": "This is a kitchen.",
+    "complex_sentence": "The kitchen is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 89
+  },
+  {
+    "word": "knife set",
+    "simple_sentence": "This is a knife set.",
+    "complex_sentence": "The knife set is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 90
+  },
+  {
+    "word": "sponge",
+    "simple_sentence": "This is a sponge.",
+    "complex_sentence": "The sponge is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 91
+  },
+  {
+    "word": "dish",
+    "simple_sentence": "This is a dish.",
+    "complex_sentence": "The dish is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 92
+  },
+  {
+    "word": "tray",
+    "simple_sentence": "This is a tray.",
+    "complex_sentence": "The tray is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 93
+  },
+  {
+    "word": "glass",
+    "simple_sentence": "This is a glass.",
+    "complex_sentence": "The glass is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 94
+  },
+  {
+    "word": "mug",
+    "simple_sentence": "This is a mug.",
+    "complex_sentence": "The mug is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 95
+  },
+  {
+    "word": "pitcher",
+    "simple_sentence": "This is a pitcher.",
+    "complex_sentence": "The pitcher is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 96
+  },
+  {
+    "word": "jar",
+    "simple_sentence": "This is a jar.",
+    "complex_sentence": "The jar is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 97
+  },
+  {
+    "word": "straw",
+    "simple_sentence": "This is a straw.",
+    "complex_sentence": "The straw is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 98
+  },
+  {
+    "word": "refrigerator",
+    "simple_sentence": "This is a refrigerator.",
+    "complex_sentence": "The refrigerator is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 99
+  },
+  {
+    "word": "freezer",
+    "simple_sentence": "This is a freezer.",
+    "complex_sentence": "The freezer is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 100
+  },
+  {
+    "word": "frying pan",
+    "simple_sentence": "This is a frying pan.",
+    "complex_sentence": "The frying pan is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 101
+  },
+  {
+    "word": "saucepan",
+    "simple_sentence": "This is a saucepan.",
+    "complex_sentence": "The saucepan is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 102
+  },
+  {
+    "word": "toaster oven",
+    "simple_sentence": "This is a toaster oven.",
+    "complex_sentence": "The toaster oven is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 103
+  },
+  {
+    "word": "coffee maker",
+    "simple_sentence": "This is a coffee maker.",
+    "complex_sentence": "The coffee maker is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 104
+  },
+  {
+    "word": "mixer",
+    "simple_sentence": "This is a mixer.",
+    "complex_sentence": "The mixer is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 105
+  },
+  {
+    "word": "grill",
+    "simple_sentence": "This is a grill.",
+    "complex_sentence": "The grill is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 106
+  },
+  {
+    "word": "scale",
+    "simple_sentence": "This is a scale.",
+    "complex_sentence": "The scale is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 107
+  },
+  {
+    "word": "thermometer",
+    "simple_sentence": "This is a thermometer.",
+    "complex_sentence": "The thermometer is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 108
+  },
+  {
+    "word": "colander",
+    "simple_sentence": "This is a colander.",
+    "complex_sentence": "The colander is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 109
+  },
+  {
+    "word": "rolling pin",
+    "simple_sentence": "This is a rolling pin.",
+    "complex_sentence": "The rolling pin is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 110
+  },
+  {
+    "word": "measuring cup",
+    "simple_sentence": "This is a measuring cup.",
+    "complex_sentence": "The measuring cup is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 111
+  },
+  {
+    "word": "ladle",
+    "simple_sentence": "This is a ladle.",
+    "complex_sentence": "The ladle is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 112
+  },
+  {
+    "word": "ice tray",
+    "simple_sentence": "This is a ice tray.",
+    "complex_sentence": "The ice tray is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 113
+  },
+  {
+    "word": "water bottle",
+    "simple_sentence": "This is a water bottle.",
+    "complex_sentence": "The water bottle is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 114
+  },
+  {
+    "word": "trash can",
+    "simple_sentence": "This is a trash can.",
+    "complex_sentence": "The trash can is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 115
+  },
+  {
+    "word": "lawnmower",
+    "simple_sentence": "This is a lawnmower.",
+    "complex_sentence": "The lawnmower is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 116
+  },
+  {
+    "word": "rake",
+    "simple_sentence": "This is a rake.",
+    "complex_sentence": "The rake is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 117
+  },
+  {
+    "word": "shovel",
+    "simple_sentence": "This is a shovel.",
+    "complex_sentence": "The shovel is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 118
+  },
+  {
+    "word": "hose",
+    "simple_sentence": "This is a hose.",
+    "complex_sentence": "The hose is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 119
+  },
+  {
+    "word": "garden shears",
+    "simple_sentence": "This is a garden shears.",
+    "complex_sentence": "The garden shears is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 120
+  },
+  {
+    "word": "bucket",
+    "simple_sentence": "This is a bucket.",
+    "complex_sentence": "The bucket is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 121
+  },
+  {
+    "word": "toolbox",
+    "simple_sentence": "This is a toolbox.",
+    "complex_sentence": "The toolbox is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 122
+  },
+  {
+    "word": "hammer",
+    "simple_sentence": "This is a hammer.",
+    "complex_sentence": "The hammer is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 123
+  },
+  {
+    "word": "screwdriver",
+    "simple_sentence": "This is a screwdriver.",
+    "complex_sentence": "The screwdriver is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 124
+  },
+  {
+    "word": "wrench",
+    "simple_sentence": "This is a wrench.",
+    "complex_sentence": "The wrench is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 125
+  },
+  {
+    "word": "drill",
+    "simple_sentence": "This is a drill.",
+    "complex_sentence": "The drill is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 126
+  },
+  {
+    "word": "saw",
+    "simple_sentence": "This is a saw.",
+    "complex_sentence": "The saw is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 127
+  },
+  {
+    "word": "ladder",
+    "simple_sentence": "This is a ladder.",
+    "complex_sentence": "The ladder is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 128
+  },
+  {
+    "word": "light bulb",
+    "simple_sentence": "This is a light bulb.",
+    "complex_sentence": "The light bulb is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 129
+  },
+  {
+    "word": "extension cord",
+    "simple_sentence": "This is a extension cord.",
+    "complex_sentence": "The extension cord is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 130
+  },
+  {
+    "word": "power strip",
+    "simple_sentence": "This is a power strip.",
+    "complex_sentence": "The power strip is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 131
+  },
+  {
+    "word": "vacuum cleaner",
+    "simple_sentence": "This is a vacuum cleaner.",
+    "complex_sentence": "The vacuum cleaner is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 132
+  },
+  {
+    "word": "plunger",
+    "simple_sentence": "This is a plunger.",
+    "complex_sentence": "The plunger is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 133
+  },
+  {
+    "word": "dustpan",
+    "simple_sentence": "This is a dustpan.",
+    "complex_sentence": "The dustpan is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 134
+  },
+  {
+    "word": "mop",
+    "simple_sentence": "This is a mop.",
+    "complex_sentence": "The mop is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 135
+  },
+  {
+    "word": "iron",
+    "simple_sentence": "This is a iron.",
+    "complex_sentence": "The iron is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 136
+  },
+  {
+    "word": "ironing board",
+    "simple_sentence": "This is a ironing board.",
+    "complex_sentence": "The ironing board is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 137
+  },
+  {
+    "word": "laundry basket",
+    "simple_sentence": "This is a laundry basket.",
+    "complex_sentence": "The laundry basket is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 138
+  },
+  {
+    "word": "hanger",
+    "simple_sentence": "This is a hanger.",
+    "complex_sentence": "The hanger is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 139
+  },
+  {
+    "word": "safety pin",
+    "simple_sentence": "This is a safety pin.",
+    "complex_sentence": "The safety pin is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 140
+  },
+  {
+    "word": "sewing kit",
+    "simple_sentence": "This is a sewing kit.",
+    "complex_sentence": "The sewing kit is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 141
+  },
+  {
+    "word": "needle",
+    "simple_sentence": "This is a needle.",
+    "complex_sentence": "The needle is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 142
+  },
+  {
+    "word": "thread",
+    "simple_sentence": "This is a thread.",
+    "complex_sentence": "The thread is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 143
+  },
+  {
+    "word": "fabric",
+    "simple_sentence": "This is a fabric.",
+    "complex_sentence": "The fabric is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 144
+  },
+  {
+    "word": "velcro",
+    "simple_sentence": "This is a velcro.",
+    "complex_sentence": "The velcro is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 145
+  },
+  {
+    "word": "zipper",
+    "simple_sentence": "This is a zipper.",
+    "complex_sentence": "The zipper is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 146
+  },
+  {
+    "word": "button",
+    "simple_sentence": "This is a button.",
+    "complex_sentence": "The button is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 147
+  },
+  {
+    "word": "ribbon",
+    "simple_sentence": "This is a ribbon.",
+    "complex_sentence": "The ribbon is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 148
+  },
+  {
+    "word": "measuring tape",
+    "simple_sentence": "This is a measuring tape.",
+    "complex_sentence": "The measuring tape is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 149
+  },
+  {
+    "word": "alarm clock",
+    "simple_sentence": "This is a alarm clock.",
+    "complex_sentence": "The alarm clock is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 150
+  },
+  {
+    "word": "flashlight",
+    "simple_sentence": "This is a flashlight.",
+    "complex_sentence": "The flashlight is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 151
+  },
+  {
+    "word": "battery",
+    "simple_sentence": "This is a battery.",
+    "complex_sentence": "The battery is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 152
+  },
+  {
+    "word": "USB cable",
+    "simple_sentence": "This is a USB cable.",
+    "complex_sentence": "The USB cable is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 153
+  },
+  {
+    "word": "phone charger",
+    "simple_sentence": "This is a phone charger.",
+    "complex_sentence": "The phone charger is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 154
+  },
+  {
+    "word": "earbuds",
+    "simple_sentence": "This is a earbuds.",
+    "complex_sentence": "The earbuds is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 155
+  },
+  {
+    "word": "tablet",
+    "simple_sentence": "This is a tablet.",
+    "complex_sentence": "The tablet is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 156
+  },
+  {
+    "word": "mousepad",
+    "simple_sentence": "This is a mousepad.",
+    "complex_sentence": "The mousepad is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 157
+  },
+  {
+    "word": "router",
+    "simple_sentence": "This is a router.",
+    "complex_sentence": "The router is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 158
+  },
+  {
+    "word": "modem",
+    "simple_sentence": "This is a modem.",
+    "complex_sentence": "The modem is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 159
+  },
+  {
+    "word": "speakers",
+    "simple_sentence": "This is a speakers.",
+    "complex_sentence": "The speakers is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 160
+  },
+  {
+    "word": "projector",
+    "simple_sentence": "This is a projector.",
+    "complex_sentence": "The projector is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 161
+  },
+  {
+    "word": "whiteboard",
+    "simple_sentence": "This is a whiteboard.",
+    "complex_sentence": "The whiteboard is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 162
+  },
+  {
+    "word": "notepad",
+    "simple_sentence": "This is a notepad.",
+    "complex_sentence": "The notepad is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 163
+  },
+  {
+    "word": "sticky notes",
+    "simple_sentence": "This is a sticky notes.",
+    "complex_sentence": "The sticky notes is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 164
+  },
+  {
+    "word": "envelope",
+    "simple_sentence": "This is a envelope.",
+    "complex_sentence": "The envelope is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 165
+  },
+  {
+    "word": "stamps",
+    "simple_sentence": "This is a stamps.",
+    "complex_sentence": "The stamps is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 166
+  },
+  {
+    "word": "tape dispenser",
+    "simple_sentence": "This is a tape dispenser.",
+    "complex_sentence": "The tape dispenser is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 167
+  },
+  {
+    "word": "paper clips",
+    "simple_sentence": "This is a paper clips.",
+    "complex_sentence": "The paper clips is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 168
+  },
+  {
+    "word": "stapler",
+    "simple_sentence": "This is a stapler.",
+    "complex_sentence": "The stapler is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 169
+  },
+  {
+    "word": "pencil sharpener",
+    "simple_sentence": "This is a pencil sharpener.",
+    "complex_sentence": "The pencil sharpener is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 170
+  },
+  {
+    "word": "ruler",
+    "simple_sentence": "This is a ruler.",
+    "complex_sentence": "The ruler is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 171
+  },
+  {
+    "word": "calculator",
+    "simple_sentence": "This is a calculator.",
+    "complex_sentence": "The calculator is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 172
+  },
+  {
+    "word": "protractor",
+    "simple_sentence": "This is a protractor.",
+    "complex_sentence": "The protractor is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 173
+  },
+  {
+    "word": "compass",
+    "simple_sentence": "This is a compass.",
+    "complex_sentence": "The compass is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 174
+  },
+  {
+    "word": "drawing board",
+    "simple_sentence": "This is a drawing board.",
+    "complex_sentence": "The drawing board is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 175
+  },
+  {
+    "word": "paintbrush",
+    "simple_sentence": "This is a paintbrush.",
+    "complex_sentence": "The paintbrush is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 176
+  },
+  {
+    "word": "palette",
+    "simple_sentence": "This is a palette.",
+    "complex_sentence": "The palette is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 177
+  },
+  {
+    "word": "canvas",
+    "simple_sentence": "This is a canvas.",
+    "complex_sentence": "The canvas is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 178
+  },
+  {
+    "word": "easel",
+    "simple_sentence": "This is a easel.",
+    "complex_sentence": "The easel is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 179
+  },
+  {
+    "word": "marker",
+    "simple_sentence": "This is a marker.",
+    "complex_sentence": "The marker is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 180
+  },
+  {
+    "word": "highlighter",
+    "simple_sentence": "This is a highlighter.",
+    "complex_sentence": "The highlighter is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 181
+  },
+  {
+    "word": "chalk",
+    "simple_sentence": "This is a chalk.",
+    "complex_sentence": "The chalk is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 182
+  },
+  {
+    "word": "eraser",
+    "simple_sentence": "This is a eraser.",
+    "complex_sentence": "The eraser is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 183
+  },
+  {
+    "word": "glue stick",
+    "simple_sentence": "This is a glue stick.",
+    "complex_sentence": "The glue stick is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 184
+  },
+  {
+    "word": "poster board",
+    "simple_sentence": "This is a poster board.",
+    "complex_sentence": "The poster board is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 185
+  },
+  {
+    "word": "clay",
+    "simple_sentence": "This is a clay.",
+    "complex_sentence": "The clay is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 186
+  },
+  {
+    "word": "sculpture",
+    "simple_sentence": "This is a sculpture.",
+    "complex_sentence": "The sculpture is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 187
+  },
+  {
+    "word": "tripod",
+    "simple_sentence": "This is a tripod.",
+    "complex_sentence": "The tripod is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 188
+  },
+  {
+    "word": "telescope",
+    "simple_sentence": "This is a telescope.",
+    "complex_sentence": "The telescope is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 189
+  },
+  {
+    "word": "binoculars",
+    "simple_sentence": "This is a binoculars.",
+    "complex_sentence": "The binoculars is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 190
+  },
+  {
+    "word": "magnifying glass",
+    "simple_sentence": "This is a magnifying glass.",
+    "complex_sentence": "The magnifying glass is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 191
+  },
+  {
+    "word": "microscope",
+    "simple_sentence": "This is a microscope.",
+    "complex_sentence": "The microscope is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 192
+  },
+  {
+    "word": "test tubes",
+    "simple_sentence": "This is a test tubes.",
+    "complex_sentence": "The test tubes is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 193
+  },
+  {
+    "word": "beakers",
+    "simple_sentence": "This is a beakers.",
+    "complex_sentence": "The beakers is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 194
+  },
+  {
+    "word": "flask",
+    "simple_sentence": "This is a flask.",
+    "complex_sentence": "The flask is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 195
+  },
+  {
+    "word": "petri dish",
+    "simple_sentence": "This is a petri dish.",
+    "complex_sentence": "The petri dish is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 196
+  },
+  {
+    "word": "scalpel",
+    "simple_sentence": "This is a scalpel.",
+    "complex_sentence": "The scalpel is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 197
+  },
+  {
+    "word": "tweezers",
+    "simple_sentence": "This is a tweezers.",
+    "complex_sentence": "The tweezers is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 198
+  },
+  {
+    "word": "stethoscope",
+    "simple_sentence": "This is a stethoscope.",
+    "complex_sentence": "The stethoscope is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 199
+  },
+  {
+    "word": "syringe",
+    "simple_sentence": "This is a syringe.",
+    "complex_sentence": "The syringe is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 200
+  },
+  {
+    "word": "band-aid",
+    "simple_sentence": "This is a band-aid.",
+    "complex_sentence": "The band-aid is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 201
+  },
+  {
+    "word": "crutch",
+    "simple_sentence": "This is a crutch.",
+    "complex_sentence": "The crutch is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 202
+  },
+  {
+    "word": "wheelchair",
+    "simple_sentence": "This is a wheelchair.",
+    "complex_sentence": "The wheelchair is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 203
+  },
+  {
+    "word": "oxygen mask",
+    "simple_sentence": "This is a oxygen mask.",
+    "complex_sentence": "The oxygen mask is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 204
+  },
+  {
+    "word": "surgical mask",
+    "simple_sentence": "This is a surgical mask.",
+    "complex_sentence": "The surgical mask is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 205
+  },
+  {
+    "word": "goggles",
+    "simple_sentence": "This is a goggles.",
+    "complex_sentence": "The goggles is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 206
+  },
+  {
+    "word": "lab coat",
+    "simple_sentence": "This is a lab coat.",
+    "complex_sentence": "The lab coat is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 207
+  },
+  {
+    "word": "gloves",
+    "simple_sentence": "This is a gloves.",
+    "complex_sentence": "The gloves is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 208
+  },
+  {
+    "word": "disinfectant",
+    "simple_sentence": "This is a disinfectant.",
+    "complex_sentence": "The disinfectant is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 209
+  },
+  {
+    "word": "hand sanitizer",
+    "simple_sentence": "This is a hand sanitizer.",
+    "complex_sentence": "The hand sanitizer is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 210
+  },
+  {
+    "word": "fire extinguisher",
+    "simple_sentence": "This is a fire extinguisher.",
+    "complex_sentence": "The fire extinguisher is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 211
+  },
+  {
+    "word": "smoke detector",
+    "simple_sentence": "This is a smoke detector.",
+    "complex_sentence": "The smoke detector is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 212
+  },
+  {
+    "word": "alarm",
+    "simple_sentence": "This is a alarm.",
+    "complex_sentence": "The alarm is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 213
+  },
+  {
+    "word": "keycard",
+    "simple_sentence": "This is a keycard.",
+    "complex_sentence": "The keycard is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 214
+  },
+  {
+    "word": "lock",
+    "simple_sentence": "This is a lock.",
+    "complex_sentence": "The lock is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 215
+  },
+  {
+    "word": "doorknob",
+    "simple_sentence": "This is a doorknob.",
+    "complex_sentence": "The doorknob is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 216
+  },
+  {
+    "word": "fence",
+    "simple_sentence": "This is a fence.",
+    "complex_sentence": "The fence is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 217
+  },
+  {
+    "word": "gate",
+    "simple_sentence": "This is a gate.",
+    "complex_sentence": "The gate is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 218
+  },
+  {
+    "word": "mailbox",
+    "simple_sentence": "This is a mailbox.",
+    "complex_sentence": "The mailbox is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 219
+  },
+  {
+    "word": "letter",
+    "simple_sentence": "This is a letter.",
+    "complex_sentence": "The letter is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 220
+  },
+  {
+    "word": "postcard",
+    "simple_sentence": "This is a postcard.",
+    "complex_sentence": "The postcard is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 221
+  },
+  {
+    "word": "newspaper",
+    "simple_sentence": "This is a newspaper.",
+    "complex_sentence": "The newspaper is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 222
+  },
+  {
+    "word": "magazine",
+    "simple_sentence": "This is a magazine.",
+    "complex_sentence": "The magazine is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 223
+  },
+  {
+    "word": "catalog",
+    "simple_sentence": "This is a catalog.",
+    "complex_sentence": "The catalog is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 224
+  },
+  {
+    "word": "brochure",
+    "simple_sentence": "This is a brochure.",
+    "complex_sentence": "The brochure is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 225
+  },
+  {
+    "word": "newsletter",
+    "simple_sentence": "This is a newsletter.",
+    "complex_sentence": "The newsletter is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 226
+  },
+  {
+    "word": "advertisement",
+    "simple_sentence": "This is a advertisement.",
+    "complex_sentence": "The advertisement is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 227
+  },
+  {
+    "word": "poster",
+    "simple_sentence": "This is a poster.",
+    "complex_sentence": "The poster is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 228
+  },
+  {
+    "word": "pamphlet",
+    "simple_sentence": "This is a pamphlet.",
+    "complex_sentence": "The pamphlet is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 229
+  },
+  {
+    "word": "manual",
+    "simple_sentence": "This is a manual.",
+    "complex_sentence": "The manual is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 230
+  },
+  {
+    "word": "handbook",
+    "simple_sentence": "This is a handbook.",
+    "complex_sentence": "The handbook is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 231
+  },
+  {
+    "word": "document",
+    "simple_sentence": "This is a document.",
+    "complex_sentence": "The document is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 232
+  },
+  {
+    "word": "contract",
+    "simple_sentence": "This is a contract.",
+    "complex_sentence": "The contract is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 233
+  },
+  {
+    "word": "resume",
+    "simple_sentence": "This is a resume.",
+    "complex_sentence": "The resume is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 234
+  },
+  {
+    "word": "application",
+    "simple_sentence": "This is a application.",
+    "complex_sentence": "The application is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 235
+  },
+  {
+    "word": "file",
+    "simple_sentence": "This is a file.",
+    "complex_sentence": "The file is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 236
+  },
+  {
+    "word": "folder",
+    "simple_sentence": "This is a folder.",
+    "complex_sentence": "The folder is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 237
+  },
+  {
+    "word": "binder",
+    "simple_sentence": "This is a binder.",
+    "complex_sentence": "The binder is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 238
+  },
+  {
+    "word": "clipboard",
+    "simple_sentence": "This is a clipboard.",
+    "complex_sentence": "The clipboard is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 239
+  },
+  {
+    "word": "scanner",
+    "simple_sentence": "This is a scanner.",
+    "complex_sentence": "The scanner is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 240
+  },
+  {
+    "word": "fax machine",
+    "simple_sentence": "This is a fax machine.",
+    "complex_sentence": "The fax machine is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 241
+  },
+  {
+    "word": "photocopier",
+    "simple_sentence": "This is a photocopier.",
+    "complex_sentence": "The photocopier is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 242
+  },
+  {
+    "word": "shredder",
+    "simple_sentence": "This is a shredder.",
+    "complex_sentence": "The shredder is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 243
+  },
+  {
+    "word": "laminator",
+    "simple_sentence": "This is a laminator.",
+    "complex_sentence": "The laminator is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 244
+  },
+  {
+    "word": "chalkboard",
+    "simple_sentence": "This is a chalkboard.",
+    "complex_sentence": "The chalkboard is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 245
+  },
+  {
+    "word": "podium",
+    "simple_sentence": "This is a podium.",
+    "complex_sentence": "The podium is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 246
+  },
+  {
+    "word": "microphone",
+    "simple_sentence": "This is a microphone.",
+    "complex_sentence": "The microphone is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 247
+  },
+  {
+    "word": "speaker",
+    "simple_sentence": "This is a speaker.",
+    "complex_sentence": "The speaker is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 248
+  },
+  {
+    "word": "headset",
+    "simple_sentence": "This is a headset.",
+    "complex_sentence": "The headset is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 249
+  },
+  {
+    "word": "remote control",
+    "simple_sentence": "This is a remote control.",
+    "complex_sentence": "The remote control is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 250
+  },
+  {
+    "word": "game console",
+    "simple_sentence": "This is a game console.",
+    "complex_sentence": "The game console is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 251
+  },
+  {
+    "word": "joystick",
+    "simple_sentence": "This is a joystick.",
+    "complex_sentence": "The joystick is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 252
+  },
+  {
+    "word": "controller",
+    "simple_sentence": "This is a controller.",
+    "complex_sentence": "The controller is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 253
+  },
+  {
+    "word": "video game",
+    "simple_sentence": "This is a video game.",
+    "complex_sentence": "The video game is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 254
+  },
+  {
+    "word": "virtual reality headset",
+    "simple_sentence": "This is a virtual reality headset.",
+    "complex_sentence": "The virtual reality headset is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 255
+  },
+  {
+    "word": "fitness tracker",
+    "simple_sentence": "This is a fitness tracker.",
+    "complex_sentence": "The fitness tracker is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 256
+  },
+  {
+    "word": "smartwatch",
+    "simple_sentence": "This is a smartwatch.",
+    "complex_sentence": "The smartwatch is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 257
+  },
+  {
+    "word": "drone",
+    "simple_sentence": "This is a drone.",
+    "complex_sentence": "The drone is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 258
+  },
+  {
+    "word": "camera lens",
+    "simple_sentence": "This is a camera lens.",
+    "complex_sentence": "The camera lens is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 259
+  },
+  {
+    "word": "photo album",
+    "simple_sentence": "This is a photo album.",
+    "complex_sentence": "The photo album is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 260
+  },
+  {
+    "word": "film roll",
+    "simple_sentence": "This is a film roll.",
+    "complex_sentence": "The film roll is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 261
+  },
+  {
+    "word": "memory card",
+    "simple_sentence": "This is a memory card.",
+    "complex_sentence": "The memory card is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 262
+  },
+  {
+    "word": "flash drive",
+    "simple_sentence": "This is a flash drive.",
+    "complex_sentence": "The flash drive is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 263
+  },
+  {
+    "word": "external hard drive",
+    "simple_sentence": "This is a external hard drive.",
+    "complex_sentence": "The external hard drive is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 264
+  },
+  {
+    "word": "laptop stand",
+    "simple_sentence": "This is a laptop stand.",
+    "complex_sentence": "The laptop stand is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 265
+  },
+  {
+    "word": "keyboard cover",
+    "simple_sentence": "This is a keyboard cover.",
+    "complex_sentence": "The keyboard cover is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 266
+  },
+  {
+    "word": "duffle bag",
+    "simple_sentence": "This is a duffle bag.",
+    "complex_sentence": "The duffle bag is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 267
+  },
+  {
+    "word": "suitcase",
+    "simple_sentence": "This is a suitcase.",
+    "complex_sentence": "The suitcase is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 268
+  },
+  {
+    "word": "briefcase",
+    "simple_sentence": "This is a briefcase.",
+    "complex_sentence": "The briefcase is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 269
+  },
+  {
+    "word": "handbag",
+    "simple_sentence": "This is a handbag.",
+    "complex_sentence": "The handbag is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 270
+  },
+  {
+    "word": "purse",
+    "simple_sentence": "This is a purse.",
+    "complex_sentence": "The purse is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 271
+  },
+  {
+    "word": "belt",
+    "simple_sentence": "This is a belt.",
+    "complex_sentence": "The belt is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 272
+  },
+  {
+    "word": "scarf",
+    "simple_sentence": "This is a scarf.",
+    "complex_sentence": "The scarf is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 273
+  },
+  {
+    "word": "mittens",
+    "simple_sentence": "This is a mittens.",
+    "complex_sentence": "The mittens is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 274
+  },
+  {
+    "word": "earmuffs",
+    "simple_sentence": "This is a earmuffs.",
+    "complex_sentence": "The earmuffs is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 275
+  },
+  {
+    "word": "cap",
+    "simple_sentence": "This is a cap.",
+    "complex_sentence": "The cap is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 276
+  },
+  {
+    "word": "sunglasses",
+    "simple_sentence": "This is a sunglasses.",
+    "complex_sentence": "The sunglasses is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 277
+  },
+  {
+    "word": "bracelet",
+    "simple_sentence": "This is a bracelet.",
+    "complex_sentence": "The bracelet is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 278
+  },
+  {
+    "word": "necklace",
+    "simple_sentence": "This is a necklace.",
+    "complex_sentence": "The necklace is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 279
+  },
+  {
+    "word": "earrings",
+    "simple_sentence": "This is a earrings.",
+    "complex_sentence": "The earrings is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 280
+  },
+  {
+    "word": "ring",
+    "simple_sentence": "This is a ring.",
+    "complex_sentence": "The ring is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 281
+  },
+  {
+    "word": "cufflinks",
+    "simple_sentence": "This is a cufflinks.",
+    "complex_sentence": "The cufflinks is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 282
+  },
+  {
+    "word": "brooch",
+    "simple_sentence": "This is a brooch.",
+    "complex_sentence": "The brooch is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 283
+  },
+  {
+    "word": "hair tie",
+    "simple_sentence": "This is a hair tie.",
+    "complex_sentence": "The hair tie is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 284
+  },
+  {
+    "word": "hair clip",
+    "simple_sentence": "This is a hair clip.",
+    "complex_sentence": "The hair clip is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 285
+  },
+  {
+    "word": "hairdryer",
+    "simple_sentence": "This is a hairdryer.",
+    "complex_sentence": "The hairdryer is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 286
+  },
+  {
+    "word": "straightener",
+    "simple_sentence": "This is a straightener.",
+    "complex_sentence": "The straightener is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 287
+  },
+  {
+    "word": "curling iron",
+    "simple_sentence": "This is a curling iron.",
+    "complex_sentence": "The curling iron is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 288
+  },
+  {
+    "word": "shaving cream",
+    "simple_sentence": "This is a shaving cream.",
+    "complex_sentence": "The shaving cream is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 289
+  },
+  {
+    "word": "aftershave",
+    "simple_sentence": "This is a aftershave.",
+    "complex_sentence": "The aftershave is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 290
+  },
+  {
+    "word": "body wash",
+    "simple_sentence": "This is a body wash.",
+    "complex_sentence": "The body wash is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 291
+  },
+  {
+    "word": "lotion",
+    "simple_sentence": "This is a lotion.",
+    "complex_sentence": "The lotion is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 292
+  },
+  {
+    "word": "perfume",
+    "simple_sentence": "This is a perfume.",
+    "complex_sentence": "The perfume is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 293
+  },
+  {
+    "word": "deodorant",
+    "simple_sentence": "This is a deodorant.",
+    "complex_sentence": "The deodorant is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 294
+  },
+  {
+    "word": "toothpaste",
+    "simple_sentence": "This is a toothpaste.",
+    "complex_sentence": "The toothpaste is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 295
+  },
+  {
+    "word": "floss",
+    "simple_sentence": "This is a floss.",
+    "complex_sentence": "The floss is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 296
+  },
+  {
+    "word": "mouthwash",
+    "simple_sentence": "This is a mouthwash.",
+    "complex_sentence": "The mouthwash is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 297
+  },
+  {
+    "word": "nail clippers",
+    "simple_sentence": "This is a nail clippers.",
+    "complex_sentence": "The nail clippers is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 298
+  },
+  {
+    "word": "nail file",
+    "simple_sentence": "This is a nail file.",
+    "complex_sentence": "The nail file is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 299
+  },
+  {
+    "word": "nail polish",
+    "simple_sentence": "This is a nail polish.",
+    "complex_sentence": "The nail polish is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 300
+  },
+  {
+    "word": "makeup",
+    "simple_sentence": "This is a makeup.",
+    "complex_sentence": "The makeup is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 301
+  },
+  {
+    "word": "foundation",
+    "simple_sentence": "This is a foundation.",
+    "complex_sentence": "The foundation is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 302
+  },
+  {
+    "word": "concealer",
+    "simple_sentence": "This is a concealer.",
+    "complex_sentence": "The concealer is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 303
+  },
+  {
+    "word": "blush",
+    "simple_sentence": "This is a blush.",
+    "complex_sentence": "The blush is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 304
+  },
+  {
+    "word": "mascara",
+    "simple_sentence": "This is a mascara.",
+    "complex_sentence": "The mascara is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 305
+  },
+  {
+    "word": "eyeliner",
+    "simple_sentence": "This is a eyeliner.",
+    "complex_sentence": "The eyeliner is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 306
+  },
+  {
+    "word": "eyeshadow",
+    "simple_sentence": "This is a eyeshadow.",
+    "complex_sentence": "The eyeshadow is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 307
+  },
+  {
+    "word": "lipstick",
+    "simple_sentence": "This is a lipstick.",
+    "complex_sentence": "The lipstick is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 308
+  },
+  {
+    "word": "lip balm",
+    "simple_sentence": "This is a lip balm.",
+    "complex_sentence": "The lip balm is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 309
+  },
+  {
+    "word": "makeup brush",
+    "simple_sentence": "This is a makeup brush.",
+    "complex_sentence": "The makeup brush is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 310
+  },
+  {
+    "word": "cotton swabs",
+    "simple_sentence": "This is a cotton swabs.",
+    "complex_sentence": "The cotton swabs is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 311
+  },
+  {
+    "word": "q-tips",
+    "simple_sentence": "This is a q-tips.",
+    "complex_sentence": "The q-tips is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 312
+  },
+  {
+    "word": "tissues",
+    "simple_sentence": "This is a tissues.",
+    "complex_sentence": "The tissues is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 313
+  },
+  {
+    "word": "toilet paper",
+    "simple_sentence": "This is a toilet paper.",
+    "complex_sentence": "The toilet paper is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 314
+  },
+  {
+    "word": "paper towels",
+    "simple_sentence": "This is a paper towels.",
+    "complex_sentence": "The paper towels is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 315
+  },
+  {
+    "word": "sponges",
+    "simple_sentence": "This is a sponges.",
+    "complex_sentence": "The sponges is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 316
+  },
+  {
+    "word": "cleaning cloths",
+    "simple_sentence": "This is a cleaning cloths.",
+    "complex_sentence": "The cleaning cloths is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 317
+  },
+  {
+    "word": "bleach",
+    "simple_sentence": "This is a bleach.",
+    "complex_sentence": "The bleach is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 318
+  },
+  {
+    "word": "detergent",
+    "simple_sentence": "This is a detergent.",
+    "complex_sentence": "The detergent is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 319
+  },
+  {
+    "word": "fabric softener",
+    "simple_sentence": "This is a fabric softener.",
+    "complex_sentence": "The fabric softener is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 320
+  },
+  {
+    "word": "stain remover",
+    "simple_sentence": "This is a stain remover.",
+    "complex_sentence": "The stain remover is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 321
+  },
+  {
+    "word": "dish soap",
+    "simple_sentence": "This is a dish soap.",
+    "complex_sentence": "The dish soap is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 322
+  },
+  {
+    "word": "window cleaner",
+    "simple_sentence": "This is a window cleaner.",
+    "complex_sentence": "The window cleaner is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 323
+  },
+  {
+    "word": "clothes hanger",
+    "simple_sentence": "This is a clothes hanger.",
+    "complex_sentence": "The clothes hanger is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 324
+  },
+  {
+    "word": "clothesline",
+    "simple_sentence": "This is a clothesline.",
+    "complex_sentence": "The clothesline is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 325
+  },
+  {
+    "word": "safety pins",
+    "simple_sentence": "This is a safety pins.",
+    "complex_sentence": "The safety pins is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 326
+  },
+  {
+    "word": "needles",
+    "simple_sentence": "This is a needles.",
+    "complex_sentence": "The needles is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 327
+  },
+  {
+    "word": "buttons",
+    "simple_sentence": "This is a buttons.",
+    "complex_sentence": "The buttons is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 328
+  },
+  {
+    "word": "zippers",
+    "simple_sentence": "This is a zippers.",
+    "complex_sentence": "The zippers is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 329
+  },
+  {
+    "word": "ribbons",
+    "simple_sentence": "This is a ribbons.",
+    "complex_sentence": "The ribbons is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 330
+  },
+  {
+    "word": "beads",
+    "simple_sentence": "This is a beads.",
+    "complex_sentence": "The beads is an essential item in many households and is used for various purposes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 331
+  }
+]

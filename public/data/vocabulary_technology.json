@@ -1,0 +1,2138 @@
+[
+  {
+    "word": "computer",
+    "simple_sentence": "This is a computer.",
+    "complex_sentence": "The computer plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 1
+  },
+  {
+    "word": "laptop",
+    "simple_sentence": "This is a laptop.",
+    "complex_sentence": "The laptop plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 2
+  },
+  {
+    "word": "smartphone",
+    "simple_sentence": "This is a smartphone.",
+    "complex_sentence": "The smartphone plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 3
+  },
+  {
+    "word": "tablet",
+    "simple_sentence": "This is a tablet.",
+    "complex_sentence": "The tablet plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 4
+  },
+  {
+    "word": "keyboard",
+    "simple_sentence": "This is a keyboard.",
+    "complex_sentence": "The keyboard plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 5
+  },
+  {
+    "word": "mouse",
+    "simple_sentence": "This is a mouse.",
+    "complex_sentence": "The mouse plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 6
+  },
+  {
+    "word": "monitor",
+    "simple_sentence": "This is a monitor.",
+    "complex_sentence": "The monitor plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 7
+  },
+  {
+    "word": "printer",
+    "simple_sentence": "This is a printer.",
+    "complex_sentence": "The printer plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 8
+  },
+  {
+    "word": "scanner",
+    "simple_sentence": "This is a scanner.",
+    "complex_sentence": "The scanner plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 9
+  },
+  {
+    "word": "router",
+    "simple_sentence": "This is a router.",
+    "complex_sentence": "The router plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 10
+  },
+  {
+    "word": "modem",
+    "simple_sentence": "This is a modem.",
+    "complex_sentence": "The modem plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 11
+  },
+  {
+    "word": "server",
+    "simple_sentence": "This is a server.",
+    "complex_sentence": "The server plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 12
+  },
+  {
+    "word": "database",
+    "simple_sentence": "This is a database.",
+    "complex_sentence": "The database plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 13
+  },
+  {
+    "word": "cloud",
+    "simple_sentence": "This is a cloud.",
+    "complex_sentence": "The cloud plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 14
+  },
+  {
+    "word": "software",
+    "simple_sentence": "This is a software.",
+    "complex_sentence": "The software plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 15
+  },
+  {
+    "word": "hardware",
+    "simple_sentence": "This is a hardware.",
+    "complex_sentence": "The hardware plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 16
+  },
+  {
+    "word": "program",
+    "simple_sentence": "This is a program.",
+    "complex_sentence": "The program plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 17
+  },
+  {
+    "word": "application",
+    "simple_sentence": "This is a application.",
+    "complex_sentence": "The application plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 18
+  },
+  {
+    "word": "operating system",
+    "simple_sentence": "This is a operating system.",
+    "complex_sentence": "The operating system plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 19
+  },
+  {
+    "word": "network",
+    "simple_sentence": "This is a network.",
+    "complex_sentence": "The network plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 20
+  },
+  {
+    "word": "wifi",
+    "simple_sentence": "This is a wifi.",
+    "complex_sentence": "The wifi plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 21
+  },
+  {
+    "word": "bluetooth",
+    "simple_sentence": "This is a bluetooth.",
+    "complex_sentence": "The bluetooth plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 22
+  },
+  {
+    "word": "USB",
+    "simple_sentence": "This is a USB.",
+    "complex_sentence": "The USB plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 23
+  },
+  {
+    "word": "cable",
+    "simple_sentence": "This is a cable.",
+    "complex_sentence": "The cable plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 24
+  },
+  {
+    "word": "charger",
+    "simple_sentence": "This is a charger.",
+    "complex_sentence": "The charger plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 25
+  },
+  {
+    "word": "battery",
+    "simple_sentence": "This is a battery.",
+    "complex_sentence": "The battery plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 26
+  },
+  {
+    "word": "processor",
+    "simple_sentence": "This is a processor.",
+    "complex_sentence": "The processor plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 27
+  },
+  {
+    "word": "memory",
+    "simple_sentence": "This is a memory.",
+    "complex_sentence": "The memory plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 28
+  },
+  {
+    "word": "RAM",
+    "simple_sentence": "This is a RAM.",
+    "complex_sentence": "The RAM plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 29
+  },
+  {
+    "word": "hard drive",
+    "simple_sentence": "This is a hard drive.",
+    "complex_sentence": "The hard drive plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 30
+  },
+  {
+    "word": "SSD",
+    "simple_sentence": "This is a SSD.",
+    "complex_sentence": "The SSD plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 31
+  },
+  {
+    "word": "GPU",
+    "simple_sentence": "This is a GPU.",
+    "complex_sentence": "The GPU plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 32
+  },
+  {
+    "word": "motherboard",
+    "simple_sentence": "This is a motherboard.",
+    "complex_sentence": "The motherboard plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 33
+  },
+  {
+    "word": "chip",
+    "simple_sentence": "This is a chip.",
+    "complex_sentence": "The chip plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 34
+  },
+  {
+    "word": "circuit",
+    "simple_sentence": "This is a circuit.",
+    "complex_sentence": "The circuit plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 35
+  },
+  {
+    "word": "power supply",
+    "simple_sentence": "This is a power supply.",
+    "complex_sentence": "The power supply plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 36
+  },
+  {
+    "word": "fan",
+    "simple_sentence": "This is a fan.",
+    "complex_sentence": "The fan plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 37
+  },
+  {
+    "word": "cooling system",
+    "simple_sentence": "This is a cooling system.",
+    "complex_sentence": "The cooling system plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 38
+  },
+  {
+    "word": "graphics card",
+    "simple_sentence": "This is a graphics card.",
+    "complex_sentence": "The graphics card plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 39
+  },
+  {
+    "word": "sound card",
+    "simple_sentence": "This is a sound card.",
+    "complex_sentence": "The sound card plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 40
+  },
+  {
+    "word": "webcam",
+    "simple_sentence": "This is a webcam.",
+    "complex_sentence": "The webcam plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 41
+  },
+  {
+    "word": "microphone",
+    "simple_sentence": "This is a microphone.",
+    "complex_sentence": "The microphone plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 42
+  },
+  {
+    "word": "headphones",
+    "simple_sentence": "This is a headphones.",
+    "complex_sentence": "The headphones plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 43
+  },
+  {
+    "word": "speaker",
+    "simple_sentence": "This is a speaker.",
+    "complex_sentence": "The speaker plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 44
+  },
+  {
+    "word": "projector",
+    "simple_sentence": "This is a projector.",
+    "complex_sentence": "The projector plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 45
+  },
+  {
+    "word": "VR headset",
+    "simple_sentence": "This is a VR headset.",
+    "complex_sentence": "The VR headset plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 46
+  },
+  {
+    "word": "AR",
+    "simple_sentence": "This is a AR.",
+    "complex_sentence": "The AR plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 47
+  },
+  {
+    "word": "virtual reality",
+    "simple_sentence": "This is a virtual reality.",
+    "complex_sentence": "The virtual reality plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 48
+  },
+  {
+    "word": "artificial intelligence",
+    "simple_sentence": "This is a artificial intelligence.",
+    "complex_sentence": "The artificial intelligence plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 49
+  },
+  {
+    "word": "machine learning",
+    "simple_sentence": "This is a machine learning.",
+    "complex_sentence": "The machine learning plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 50
+  },
+  {
+    "word": "robotics",
+    "simple_sentence": "This is a robotics.",
+    "complex_sentence": "The robotics plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 51
+  },
+  {
+    "word": "automation",
+    "simple_sentence": "This is a automation.",
+    "complex_sentence": "The automation plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 52
+  },
+  {
+    "word": "algorithm",
+    "simple_sentence": "This is a algorithm.",
+    "complex_sentence": "The algorithm plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 53
+  },
+  {
+    "word": "data",
+    "simple_sentence": "This is a data.",
+    "complex_sentence": "The data plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 54
+  },
+  {
+    "word": "big data",
+    "simple_sentence": "This is a big data.",
+    "complex_sentence": "The big data plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 55
+  },
+  {
+    "word": "analytics",
+    "simple_sentence": "This is a analytics.",
+    "complex_sentence": "The analytics plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 56
+  },
+  {
+    "word": "cybersecurity",
+    "simple_sentence": "This is a cybersecurity.",
+    "complex_sentence": "The cybersecurity plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 57
+  },
+  {
+    "word": "encryption",
+    "simple_sentence": "This is a encryption.",
+    "complex_sentence": "The encryption plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 58
+  },
+  {
+    "word": "firewall",
+    "simple_sentence": "This is a firewall.",
+    "complex_sentence": "The firewall plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 59
+  },
+  {
+    "word": "antivirus",
+    "simple_sentence": "This is a antivirus.",
+    "complex_sentence": "The antivirus plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 60
+  },
+  {
+    "word": "malware",
+    "simple_sentence": "This is a malware.",
+    "complex_sentence": "The malware plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 61
+  },
+  {
+    "word": "virus",
+    "simple_sentence": "This is a virus.",
+    "complex_sentence": "The virus plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 62
+  },
+  {
+    "word": "spyware",
+    "simple_sentence": "This is a spyware.",
+    "complex_sentence": "The spyware plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 63
+  },
+  {
+    "word": "phishing",
+    "simple_sentence": "This is a phishing.",
+    "complex_sentence": "The phishing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 64
+  },
+  {
+    "word": "hacking",
+    "simple_sentence": "This is a hacking.",
+    "complex_sentence": "The hacking plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 65
+  },
+  {
+    "word": "ethical hacking",
+    "simple_sentence": "This is a ethical hacking.",
+    "complex_sentence": "The ethical hacking plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 66
+  },
+  {
+    "word": "blockchain",
+    "simple_sentence": "This is a blockchain.",
+    "complex_sentence": "The blockchain plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 67
+  },
+  {
+    "word": "cryptocurrency",
+    "simple_sentence": "This is a cryptocurrency.",
+    "complex_sentence": "The cryptocurrency plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 68
+  },
+  {
+    "word": "bitcoin",
+    "simple_sentence": "This is a bitcoin.",
+    "complex_sentence": "The bitcoin plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 69
+  },
+  {
+    "word": "Ethereum",
+    "simple_sentence": "This is a Ethereum.",
+    "complex_sentence": "The Ethereum plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 70
+  },
+  {
+    "word": "NFT",
+    "simple_sentence": "This is a NFT.",
+    "complex_sentence": "The NFT plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 71
+  },
+  {
+    "word": "smart contract",
+    "simple_sentence": "This is a smart contract.",
+    "complex_sentence": "The smart contract plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 72
+  },
+  {
+    "word": "quantum computing",
+    "simple_sentence": "This is a quantum computing.",
+    "complex_sentence": "The quantum computing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 73
+  },
+  {
+    "word": "quantum mechanics",
+    "simple_sentence": "This is a quantum mechanics.",
+    "complex_sentence": "The quantum mechanics plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 74
+  },
+  {
+    "word": "nanotechnology",
+    "simple_sentence": "This is a nanotechnology.",
+    "complex_sentence": "The nanotechnology plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 75
+  },
+  {
+    "word": "biotechnology",
+    "simple_sentence": "This is a biotechnology.",
+    "complex_sentence": "The biotechnology plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 76
+  },
+  {
+    "word": "3D printing",
+    "simple_sentence": "This is a 3D printing.",
+    "complex_sentence": "The 3D printing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 77
+  },
+  {
+    "word": "laser",
+    "simple_sentence": "This is a laser.",
+    "complex_sentence": "The laser plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 78
+  },
+  {
+    "word": "GPS",
+    "simple_sentence": "This is a GPS.",
+    "complex_sentence": "The GPS plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 79
+  },
+  {
+    "word": "satellite",
+    "simple_sentence": "This is a satellite.",
+    "complex_sentence": "The satellite plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 80
+  },
+  {
+    "word": "spacecraft",
+    "simple_sentence": "This is a spacecraft.",
+    "complex_sentence": "The spacecraft plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 81
+  },
+  {
+    "word": "rocket",
+    "simple_sentence": "This is a rocket.",
+    "complex_sentence": "The rocket plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 82
+  },
+  {
+    "word": "drone",
+    "simple_sentence": "This is a drone.",
+    "complex_sentence": "The drone plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 83
+  },
+  {
+    "word": "autonomous vehicle",
+    "simple_sentence": "This is a autonomous vehicle.",
+    "complex_sentence": "The autonomous vehicle plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 84
+  },
+  {
+    "word": "electric car",
+    "simple_sentence": "This is a electric car.",
+    "complex_sentence": "The electric car plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 85
+  },
+  {
+    "word": "hybrid car",
+    "simple_sentence": "This is a hybrid car.",
+    "complex_sentence": "The hybrid car plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 86
+  },
+  {
+    "word": "solar panel",
+    "simple_sentence": "This is a solar panel.",
+    "complex_sentence": "The solar panel plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 87
+  },
+  {
+    "word": "wind turbine",
+    "simple_sentence": "This is a wind turbine.",
+    "complex_sentence": "The wind turbine plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 88
+  },
+  {
+    "word": "battery storage",
+    "simple_sentence": "This is a battery storage.",
+    "complex_sentence": "The battery storage plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 89
+  },
+  {
+    "word": "smart grid",
+    "simple_sentence": "This is a smart grid.",
+    "complex_sentence": "The smart grid plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 90
+  },
+  {
+    "word": "IoT",
+    "simple_sentence": "This is a IoT.",
+    "complex_sentence": "The IoT plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 91
+  },
+  {
+    "word": "internet of things",
+    "simple_sentence": "This is a internet of things.",
+    "complex_sentence": "The internet of things plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 92
+  },
+  {
+    "word": "wearable technology",
+    "simple_sentence": "This is a wearable technology.",
+    "complex_sentence": "The wearable technology plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 93
+  },
+  {
+    "word": "fitness tracker",
+    "simple_sentence": "This is a fitness tracker.",
+    "complex_sentence": "The fitness tracker plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 94
+  },
+  {
+    "word": "smartwatch",
+    "simple_sentence": "This is a smartwatch.",
+    "complex_sentence": "The smartwatch plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 95
+  },
+  {
+    "word": "smart home",
+    "simple_sentence": "This is a smart home.",
+    "complex_sentence": "The smart home plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 96
+  },
+  {
+    "word": "smart speaker",
+    "simple_sentence": "This is a smart speaker.",
+    "complex_sentence": "The smart speaker plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 97
+  },
+  {
+    "word": "voice assistant",
+    "simple_sentence": "This is a voice assistant.",
+    "complex_sentence": "The voice assistant plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 98
+  },
+  {
+    "word": "Alexa",
+    "simple_sentence": "This is a Alexa.",
+    "complex_sentence": "The Alexa plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 99
+  },
+  {
+    "word": "Google Assistant",
+    "simple_sentence": "This is a Google Assistant.",
+    "complex_sentence": "The Google Assistant plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 100
+  },
+  {
+    "word": "Siri",
+    "simple_sentence": "This is a Siri.",
+    "complex_sentence": "The Siri plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 101
+  },
+  {
+    "word": "Face ID",
+    "simple_sentence": "This is a Face ID.",
+    "complex_sentence": "The Face ID plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 102
+  },
+  {
+    "word": "fingerprint scanner",
+    "simple_sentence": "This is a fingerprint scanner.",
+    "complex_sentence": "The fingerprint scanner plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 103
+  },
+  {
+    "word": "biometrics",
+    "simple_sentence": "This is a biometrics.",
+    "complex_sentence": "The biometrics plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 104
+  },
+  {
+    "word": "DNA sequencing",
+    "simple_sentence": "This is a DNA sequencing.",
+    "complex_sentence": "The DNA sequencing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 105
+  },
+  {
+    "word": "genome",
+    "simple_sentence": "This is a genome.",
+    "complex_sentence": "The genome plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 106
+  },
+  {
+    "word": "CRISPR",
+    "simple_sentence": "This is a CRISPR.",
+    "complex_sentence": "The CRISPR plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 107
+  },
+  {
+    "word": "gene editing",
+    "simple_sentence": "This is a gene editing.",
+    "complex_sentence": "The gene editing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 108
+  },
+  {
+    "word": "digital twin",
+    "simple_sentence": "This is a digital twin.",
+    "complex_sentence": "The digital twin plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 109
+  },
+  {
+    "word": "cloud computing",
+    "simple_sentence": "This is a cloud computing.",
+    "complex_sentence": "The cloud computing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 110
+  },
+  {
+    "word": "edge computing",
+    "simple_sentence": "This is a edge computing.",
+    "complex_sentence": "The edge computing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 111
+  },
+  {
+    "word": "virtualization",
+    "simple_sentence": "This is a virtualization.",
+    "complex_sentence": "The virtualization plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 112
+  },
+  {
+    "word": "containerization",
+    "simple_sentence": "This is a containerization.",
+    "complex_sentence": "The containerization plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 113
+  },
+  {
+    "word": "Docker",
+    "simple_sentence": "This is a Docker.",
+    "complex_sentence": "The Docker plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 114
+  },
+  {
+    "word": "Kubernetes",
+    "simple_sentence": "This is a Kubernetes.",
+    "complex_sentence": "The Kubernetes plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 115
+  },
+  {
+    "word": "DevOps",
+    "simple_sentence": "This is a DevOps.",
+    "complex_sentence": "The DevOps plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 116
+  },
+  {
+    "word": "CI/CD",
+    "simple_sentence": "This is a CI/CD.",
+    "complex_sentence": "The CI/CD plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 117
+  },
+  {
+    "word": "version control",
+    "simple_sentence": "This is a version control.",
+    "complex_sentence": "The version control plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 118
+  },
+  {
+    "word": "Git",
+    "simple_sentence": "This is a Git.",
+    "complex_sentence": "The Git plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 119
+  },
+  {
+    "word": "GitHub",
+    "simple_sentence": "This is a GitHub.",
+    "complex_sentence": "The GitHub plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 120
+  },
+  {
+    "word": "GitLab",
+    "simple_sentence": "This is a GitLab.",
+    "complex_sentence": "The GitLab plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 121
+  },
+  {
+    "word": "Bitbucket",
+    "simple_sentence": "This is a Bitbucket.",
+    "complex_sentence": "The Bitbucket plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 122
+  },
+  {
+    "word": "API",
+    "simple_sentence": "This is a API.",
+    "complex_sentence": "The API plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 123
+  },
+  {
+    "word": "REST",
+    "simple_sentence": "This is a REST.",
+    "complex_sentence": "The REST plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 124
+  },
+  {
+    "word": "GraphQL",
+    "simple_sentence": "This is a GraphQL.",
+    "complex_sentence": "The GraphQL plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 125
+  },
+  {
+    "word": "web development",
+    "simple_sentence": "This is a web development.",
+    "complex_sentence": "The web development plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 126
+  },
+  {
+    "word": "frontend",
+    "simple_sentence": "This is a frontend.",
+    "complex_sentence": "The frontend plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 127
+  },
+  {
+    "word": "backend",
+    "simple_sentence": "This is a backend.",
+    "complex_sentence": "The backend plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 128
+  },
+  {
+    "word": "full stack",
+    "simple_sentence": "This is a full stack.",
+    "complex_sentence": "The full stack plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 129
+  },
+  {
+    "word": "JavaScript",
+    "simple_sentence": "This is a JavaScript.",
+    "complex_sentence": "The JavaScript plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 130
+  },
+  {
+    "word": "Python",
+    "simple_sentence": "This is a Python.",
+    "complex_sentence": "The Python plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 131
+  },
+  {
+    "word": "Java",
+    "simple_sentence": "This is a Java.",
+    "complex_sentence": "The Java plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 132
+  },
+  {
+    "word": "C++",
+    "simple_sentence": "This is a C++.",
+    "complex_sentence": "The C++ plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 133
+  },
+  {
+    "word": "PHP",
+    "simple_sentence": "This is a PHP.",
+    "complex_sentence": "The PHP plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 134
+  },
+  {
+    "word": "Ruby",
+    "simple_sentence": "This is a Ruby.",
+    "complex_sentence": "The Ruby plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 135
+  },
+  {
+    "word": "Node.js",
+    "simple_sentence": "This is a Node.js.",
+    "complex_sentence": "The Node.js plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 136
+  },
+  {
+    "word": "React",
+    "simple_sentence": "This is a React.",
+    "complex_sentence": "The React plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 137
+  },
+  {
+    "word": "Angular",
+    "simple_sentence": "This is a Angular.",
+    "complex_sentence": "The Angular plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 138
+  },
+  {
+    "word": "Vue.js",
+    "simple_sentence": "This is a Vue.js.",
+    "complex_sentence": "The Vue.js plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 139
+  },
+  {
+    "word": "Svelte",
+    "simple_sentence": "This is a Svelte.",
+    "complex_sentence": "The Svelte plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 140
+  },
+  {
+    "word": "HTML",
+    "simple_sentence": "This is a HTML.",
+    "complex_sentence": "The HTML plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 141
+  },
+  {
+    "word": "CSS",
+    "simple_sentence": "This is a CSS.",
+    "complex_sentence": "The CSS plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 142
+  },
+  {
+    "word": "SQL",
+    "simple_sentence": "This is a SQL.",
+    "complex_sentence": "The SQL plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 143
+  },
+  {
+    "word": "NoSQL",
+    "simple_sentence": "This is a NoSQL.",
+    "complex_sentence": "The NoSQL plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 144
+  },
+  {
+    "word": "MongoDB",
+    "simple_sentence": "This is a MongoDB.",
+    "complex_sentence": "The MongoDB plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 145
+  },
+  {
+    "word": "PostgreSQL",
+    "simple_sentence": "This is a PostgreSQL.",
+    "complex_sentence": "The PostgreSQL plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 146
+  },
+  {
+    "word": "MySQL",
+    "simple_sentence": "This is a MySQL.",
+    "complex_sentence": "The MySQL plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 147
+  },
+  {
+    "word": "SQLite",
+    "simple_sentence": "This is a SQLite.",
+    "complex_sentence": "The SQLite plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 148
+  },
+  {
+    "word": "Firebase",
+    "simple_sentence": "This is a Firebase.",
+    "complex_sentence": "The Firebase plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 149
+  },
+  {
+    "word": "cloud storage",
+    "simple_sentence": "This is a cloud storage.",
+    "complex_sentence": "The cloud storage plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 150
+  },
+  {
+    "word": "AWS",
+    "simple_sentence": "This is a AWS.",
+    "complex_sentence": "The AWS plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 151
+  },
+  {
+    "word": "Google Cloud",
+    "simple_sentence": "This is a Google Cloud.",
+    "complex_sentence": "The Google Cloud plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 152
+  },
+  {
+    "word": "Microsoft Azure",
+    "simple_sentence": "This is a Microsoft Azure.",
+    "complex_sentence": "The Microsoft Azure plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 153
+  },
+  {
+    "word": "IBM Cloud",
+    "simple_sentence": "This is a IBM Cloud.",
+    "complex_sentence": "The IBM Cloud plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 154
+  },
+  {
+    "word": "Oracle Cloud",
+    "simple_sentence": "This is a Oracle Cloud.",
+    "complex_sentence": "The Oracle Cloud plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 155
+  },
+  {
+    "word": "cloud services",
+    "simple_sentence": "This is a cloud services.",
+    "complex_sentence": "The cloud services plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 156
+  },
+  {
+    "word": "SaaS",
+    "simple_sentence": "This is a SaaS.",
+    "complex_sentence": "The SaaS plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 157
+  },
+  {
+    "word": "PaaS",
+    "simple_sentence": "This is a PaaS.",
+    "complex_sentence": "The PaaS plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 158
+  },
+  {
+    "word": "IaaS",
+    "simple_sentence": "This is a IaaS.",
+    "complex_sentence": "The IaaS plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 159
+  },
+  {
+    "word": "serverless",
+    "simple_sentence": "This is a serverless.",
+    "complex_sentence": "The serverless plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 160
+  },
+  {
+    "word": "microservices",
+    "simple_sentence": "This is a microservices.",
+    "complex_sentence": "The microservices plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 161
+  },
+  {
+    "word": "containers",
+    "simple_sentence": "This is a containers.",
+    "complex_sentence": "The containers plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 162
+  },
+  {
+    "word": "VM",
+    "simple_sentence": "This is a VM.",
+    "complex_sentence": "The VM plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 163
+  },
+  {
+    "word": "virtual machine",
+    "simple_sentence": "This is a virtual machine.",
+    "complex_sentence": "The virtual machine plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 164
+  },
+  {
+    "word": "augmented reality",
+    "simple_sentence": "This is a augmented reality.",
+    "complex_sentence": "The augmented reality plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 165
+  },
+  {
+    "word": "mixed reality",
+    "simple_sentence": "This is a mixed reality.",
+    "complex_sentence": "The mixed reality plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 166
+  },
+  {
+    "word": "cryptography",
+    "simple_sentence": "This is a cryptography.",
+    "complex_sentence": "The cryptography plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 167
+  },
+  {
+    "word": "hashing",
+    "simple_sentence": "This is a hashing.",
+    "complex_sentence": "The hashing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 168
+  },
+  {
+    "word": "tokenization",
+    "simple_sentence": "This is a tokenization.",
+    "complex_sentence": "The tokenization plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 169
+  },
+  {
+    "word": "digital currency",
+    "simple_sentence": "This is a digital currency.",
+    "complex_sentence": "The digital currency plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 170
+  },
+  {
+    "word": "fintech",
+    "simple_sentence": "This is a fintech.",
+    "complex_sentence": "The fintech plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 171
+  },
+  {
+    "word": "e-commerce",
+    "simple_sentence": "This is a e-commerce.",
+    "complex_sentence": "The e-commerce plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 172
+  },
+  {
+    "word": "social media",
+    "simple_sentence": "This is a social media.",
+    "complex_sentence": "The social media plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 173
+  },
+  {
+    "word": "streaming",
+    "simple_sentence": "This is a streaming.",
+    "complex_sentence": "The streaming plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 174
+  },
+  {
+    "word": "virtual meeting",
+    "simple_sentence": "This is a virtual meeting.",
+    "complex_sentence": "The virtual meeting plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 175
+  },
+  {
+    "word": "video conferencing",
+    "simple_sentence": "This is a video conferencing.",
+    "complex_sentence": "The video conferencing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 176
+  },
+  {
+    "word": "Zoom",
+    "simple_sentence": "This is a Zoom.",
+    "complex_sentence": "The Zoom plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 177
+  },
+  {
+    "word": "Microsoft Teams",
+    "simple_sentence": "This is a Microsoft Teams.",
+    "complex_sentence": "The Microsoft Teams plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 178
+  },
+  {
+    "word": "Slack",
+    "simple_sentence": "This is a Slack.",
+    "complex_sentence": "The Slack plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 179
+  },
+  {
+    "word": "Trello",
+    "simple_sentence": "This is a Trello.",
+    "complex_sentence": "The Trello plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 180
+  },
+  {
+    "word": "Jira",
+    "simple_sentence": "This is a Jira.",
+    "complex_sentence": "The Jira plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 181
+  },
+  {
+    "word": "Confluence",
+    "simple_sentence": "This is a Confluence.",
+    "complex_sentence": "The Confluence plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 182
+  },
+  {
+    "word": "scripting",
+    "simple_sentence": "This is a scripting.",
+    "complex_sentence": "The scripting plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 183
+  },
+  {
+    "word": "command line",
+    "simple_sentence": "This is a command line.",
+    "complex_sentence": "The command line plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 184
+  },
+  {
+    "word": "terminal",
+    "simple_sentence": "This is a terminal.",
+    "complex_sentence": "The terminal plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 185
+  },
+  {
+    "word": "shell",
+    "simple_sentence": "This is a shell.",
+    "complex_sentence": "The shell plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 186
+  },
+  {
+    "word": "Bash",
+    "simple_sentence": "This is a Bash.",
+    "complex_sentence": "The Bash plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 187
+  },
+  {
+    "word": "PowerShell",
+    "simple_sentence": "This is a PowerShell.",
+    "complex_sentence": "The PowerShell plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 188
+  },
+  {
+    "word": "Zsh",
+    "simple_sentence": "This is a Zsh.",
+    "complex_sentence": "The Zsh plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 189
+  },
+  {
+    "word": "CLI",
+    "simple_sentence": "This is a CLI.",
+    "complex_sentence": "The CLI plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 190
+  },
+  {
+    "word": "GUI",
+    "simple_sentence": "This is a GUI.",
+    "complex_sentence": "The GUI plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 191
+  },
+  {
+    "word": "IDE",
+    "simple_sentence": "This is a IDE.",
+    "complex_sentence": "The IDE plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 192
+  },
+  {
+    "word": "integrated development environment",
+    "simple_sentence": "This is a integrated development environment.",
+    "complex_sentence": "The integrated development environment plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 193
+  },
+  {
+    "word": "text editor",
+    "simple_sentence": "This is a text editor.",
+    "complex_sentence": "The text editor plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 194
+  },
+  {
+    "word": "Sublime Text",
+    "simple_sentence": "This is a Sublime Text.",
+    "complex_sentence": "The Sublime Text plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 195
+  },
+  {
+    "word": "VS Code",
+    "simple_sentence": "This is a VS Code.",
+    "complex_sentence": "The VS Code plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 196
+  },
+  {
+    "word": "Notepad++",
+    "simple_sentence": "This is a Notepad++.",
+    "complex_sentence": "The Notepad++ plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 197
+  },
+  {
+    "word": "Android",
+    "simple_sentence": "This is a Android.",
+    "complex_sentence": "The Android plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 198
+  },
+  {
+    "word": "iOS",
+    "simple_sentence": "This is a iOS.",
+    "complex_sentence": "The iOS plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 199
+  },
+  {
+    "word": "mobile app",
+    "simple_sentence": "This is a mobile app.",
+    "complex_sentence": "The mobile app plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 200
+  },
+  {
+    "word": "responsive design",
+    "simple_sentence": "This is a responsive design.",
+    "complex_sentence": "The responsive design plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 201
+  },
+  {
+    "word": "cross-platform",
+    "simple_sentence": "This is a cross-platform.",
+    "complex_sentence": "The cross-platform plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 202
+  },
+  {
+    "word": "SDK",
+    "simple_sentence": "This is a SDK.",
+    "complex_sentence": "The SDK plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 203
+  },
+  {
+    "word": "framework",
+    "simple_sentence": "This is a framework.",
+    "complex_sentence": "The framework plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 204
+  },
+  {
+    "word": "library",
+    "simple_sentence": "This is a library.",
+    "complex_sentence": "The library plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 205
+  },
+  {
+    "word": "plugin",
+    "simple_sentence": "This is a plugin.",
+    "complex_sentence": "The plugin plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 206
+  },
+  {
+    "word": "extension",
+    "simple_sentence": "This is a extension.",
+    "complex_sentence": "The extension plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 207
+  },
+  {
+    "word": "module",
+    "simple_sentence": "This is a module.",
+    "complex_sentence": "The module plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 208
+  },
+  {
+    "word": "package manager",
+    "simple_sentence": "This is a package manager.",
+    "complex_sentence": "The package manager plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 209
+  },
+  {
+    "word": "NPM",
+    "simple_sentence": "This is a NPM.",
+    "complex_sentence": "The NPM plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 210
+  },
+  {
+    "word": "Yarn",
+    "simple_sentence": "This is a Yarn.",
+    "complex_sentence": "The Yarn plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 211
+  },
+  {
+    "word": "pip",
+    "simple_sentence": "This is a pip.",
+    "complex_sentence": "The pip plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 212
+  },
+  {
+    "word": "CI/CD pipeline",
+    "simple_sentence": "This is a CI/CD pipeline.",
+    "complex_sentence": "The CI/CD pipeline plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 213
+  },
+  {
+    "word": "testing",
+    "simple_sentence": "This is a testing.",
+    "complex_sentence": "The testing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 214
+  },
+  {
+    "word": "unit test",
+    "simple_sentence": "This is a unit test.",
+    "complex_sentence": "The unit test plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 215
+  },
+  {
+    "word": "integration test",
+    "simple_sentence": "This is a integration test.",
+    "complex_sentence": "The integration test plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 216
+  },
+  {
+    "word": "end-to-end test",
+    "simple_sentence": "This is a end-to-end test.",
+    "complex_sentence": "The end-to-end test plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 217
+  },
+  {
+    "word": "load testing",
+    "simple_sentence": "This is a load testing.",
+    "complex_sentence": "The load testing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 218
+  },
+  {
+    "word": "performance testing",
+    "simple_sentence": "This is a performance testing.",
+    "complex_sentence": "The performance testing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 219
+  },
+  {
+    "word": "security testing",
+    "simple_sentence": "This is a security testing.",
+    "complex_sentence": "The security testing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 220
+  },
+  {
+    "word": "QA",
+    "simple_sentence": "This is a QA.",
+    "complex_sentence": "The QA plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 221
+  },
+  {
+    "word": "quality assurance",
+    "simple_sentence": "This is a quality assurance.",
+    "complex_sentence": "The quality assurance plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 222
+  },
+  {
+    "word": "continuous integration",
+    "simple_sentence": "This is a continuous integration.",
+    "complex_sentence": "The continuous integration plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 223
+  },
+  {
+    "word": "continuous delivery",
+    "simple_sentence": "This is a continuous delivery.",
+    "complex_sentence": "The continuous delivery plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 224
+  },
+  {
+    "word": "automation testing",
+    "simple_sentence": "This is a automation testing.",
+    "complex_sentence": "The automation testing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 225
+  },
+  {
+    "word": "Selenium",
+    "simple_sentence": "This is a Selenium.",
+    "complex_sentence": "The Selenium plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 226
+  },
+  {
+    "word": "Cypress",
+    "simple_sentence": "This is a Cypress.",
+    "complex_sentence": "The Cypress plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 227
+  },
+  {
+    "word": "Jenkins",
+    "simple_sentence": "This is a Jenkins.",
+    "complex_sentence": "The Jenkins plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 228
+  },
+  {
+    "word": "CircleCI",
+    "simple_sentence": "This is a CircleCI.",
+    "complex_sentence": "The CircleCI plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 229
+  },
+  {
+    "word": "Travis CI",
+    "simple_sentence": "This is a Travis CI.",
+    "complex_sentence": "The Travis CI plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 230
+  },
+  {
+    "word": "monitoring",
+    "simple_sentence": "This is a monitoring.",
+    "complex_sentence": "The monitoring plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 231
+  },
+  {
+    "word": "logging",
+    "simple_sentence": "This is a logging.",
+    "complex_sentence": "The logging plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 232
+  },
+  {
+    "word": "observability",
+    "simple_sentence": "This is a observability.",
+    "complex_sentence": "The observability plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 233
+  },
+  {
+    "word": "alerting",
+    "simple_sentence": "This is a alerting.",
+    "complex_sentence": "The alerting plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 234
+  },
+  {
+    "word": "Grafana",
+    "simple_sentence": "This is a Grafana.",
+    "complex_sentence": "The Grafana plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 235
+  },
+  {
+    "word": "Prometheus",
+    "simple_sentence": "This is a Prometheus.",
+    "complex_sentence": "The Prometheus plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 236
+  },
+  {
+    "word": "ElasticSearch",
+    "simple_sentence": "This is a ElasticSearch.",
+    "complex_sentence": "The ElasticSearch plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 237
+  },
+  {
+    "word": "Kibana",
+    "simple_sentence": "This is a Kibana.",
+    "complex_sentence": "The Kibana plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 238
+  },
+  {
+    "word": "Splunk",
+    "simple_sentence": "This is a Splunk.",
+    "complex_sentence": "The Splunk plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 239
+  },
+  {
+    "word": "Logstash",
+    "simple_sentence": "This is a Logstash.",
+    "complex_sentence": "The Logstash plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 240
+  },
+  {
+    "word": "Ansible",
+    "simple_sentence": "This is a Ansible.",
+    "complex_sentence": "The Ansible plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 241
+  },
+  {
+    "word": "Terraform",
+    "simple_sentence": "This is a Terraform.",
+    "complex_sentence": "The Terraform plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 242
+  },
+  {
+    "word": "Puppet",
+    "simple_sentence": "This is a Puppet.",
+    "complex_sentence": "The Puppet plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 243
+  },
+  {
+    "word": "Chef",
+    "simple_sentence": "This is a Chef.",
+    "complex_sentence": "The Chef plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 244
+  },
+  {
+    "word": "infrastructure as code",
+    "simple_sentence": "This is a infrastructure as code.",
+    "complex_sentence": "The infrastructure as code plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 245
+  },
+  {
+    "word": "CI pipeline",
+    "simple_sentence": "This is a CI pipeline.",
+    "complex_sentence": "The CI pipeline plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 246
+  },
+  {
+    "word": "deployment",
+    "simple_sentence": "This is a deployment.",
+    "complex_sentence": "The deployment plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 247
+  },
+  {
+    "word": "production",
+    "simple_sentence": "This is a production.",
+    "complex_sentence": "The production plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 248
+  },
+  {
+    "word": "staging",
+    "simple_sentence": "This is a staging.",
+    "complex_sentence": "The staging plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 249
+  },
+  {
+    "word": "development environment",
+    "simple_sentence": "This is a development environment.",
+    "complex_sentence": "The development environment plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 250
+  },
+  {
+    "word": "test environment",
+    "simple_sentence": "This is a test environment.",
+    "complex_sentence": "The test environment plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 251
+  },
+  {
+    "word": "live environment",
+    "simple_sentence": "This is a live environment.",
+    "complex_sentence": "The live environment plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 252
+  },
+  {
+    "word": "bare metal",
+    "simple_sentence": "This is a bare metal.",
+    "complex_sentence": "The bare metal plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 253
+  },
+  {
+    "word": "cloud native",
+    "simple_sentence": "This is a cloud native.",
+    "complex_sentence": "The cloud native plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 254
+  },
+  {
+    "word": "hybrid cloud",
+    "simple_sentence": "This is a hybrid cloud.",
+    "complex_sentence": "The hybrid cloud plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 255
+  },
+  {
+    "word": "on-premise",
+    "simple_sentence": "This is a on-premise.",
+    "complex_sentence": "The on-premise plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 256
+  },
+  {
+    "word": "data center",
+    "simple_sentence": "This is a data center.",
+    "complex_sentence": "The data center plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 257
+  },
+  {
+    "word": "colocation",
+    "simple_sentence": "This is a colocation.",
+    "complex_sentence": "The colocation plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 258
+  },
+  {
+    "word": "container orchestration",
+    "simple_sentence": "This is a container orchestration.",
+    "complex_sentence": "The container orchestration plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 259
+  },
+  {
+    "word": "Kubernetes cluster",
+    "simple_sentence": "This is a Kubernetes cluster.",
+    "complex_sentence": "The Kubernetes cluster plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 260
+  },
+  {
+    "word": "Docker container",
+    "simple_sentence": "This is a Docker container.",
+    "complex_sentence": "The Docker container plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 261
+  },
+  {
+    "word": "multi-cloud",
+    "simple_sentence": "This is a multi-cloud.",
+    "complex_sentence": "The multi-cloud plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 262
+  },
+  {
+    "word": "single cloud",
+    "simple_sentence": "This is a single cloud.",
+    "complex_sentence": "The single cloud plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 263
+  },
+  {
+    "word": "serverless computing",
+    "simple_sentence": "This is a serverless computing.",
+    "complex_sentence": "The serverless computing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 264
+  },
+  {
+    "word": "Lambda",
+    "simple_sentence": "This is a Lambda.",
+    "complex_sentence": "The Lambda plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 265
+  },
+  {
+    "word": "functions",
+    "simple_sentence": "This is a functions.",
+    "complex_sentence": "The functions plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 266
+  },
+  {
+    "word": "fog computing",
+    "simple_sentence": "This is a fog computing.",
+    "complex_sentence": "The fog computing plays a critical role in modern technological advancements and innovation.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 267
+  }
+]

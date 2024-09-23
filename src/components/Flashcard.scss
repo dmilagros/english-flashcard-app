@@ -1,0 +1,69 @@
+.flashcard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+.flashcard {
+  background-color: white;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+
+  // Estilos generales (por defecto para escritorio grande)
+  width: 600px;  // Ancho de escritorio grande
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  width: 150px;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: #0056b3;
+  }
+}
+
+// Media queries para hacer el diseño responsive
+
+// Móviles pequeños (ancho máximo de 600px)
+@media (max-width: 600px) {
+  .flashcard {
+    width: 90%;  // Ajusta el ancho al 90% de la pantalla
+    font-size: 1.2rem;  // Reduce el tamaño de fuente en móviles
+  }
+}
+
+// Tablets (ancho entre 601px y 900px)
+@media (min-width: 601px) and (max-width: 900px) {
+  .flashcard {
+    width: 80%;  // Ajusta el ancho al 80% de la pantalla
+    font-size: 1.4rem;  // Ajusta el tamaño de fuente para tablets
+  }
+}
+
+// Escritorio pequeño a grande (más de 900px)
+@media (min-width: 901px) {
+  .flashcard {
+    width: 600px;  // Ancho fijo para pantallas grandes
+    font-size: 1.5rem;
+  }
+}

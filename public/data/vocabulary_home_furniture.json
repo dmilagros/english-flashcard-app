@@ -1,0 +1,1882 @@
+[
+  {
+    "word": "house",
+    "simple_sentence": "The house is an essential part of my home.",
+    "complex_sentence": "The house not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 1
+  },
+  {
+    "word": "apartment",
+    "simple_sentence": "The apartment is an essential part of my home.",
+    "complex_sentence": "The apartment not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 2
+  },
+  {
+    "word": "condominium",
+    "simple_sentence": "The condominium is an essential part of my home.",
+    "complex_sentence": "The condominium not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 3
+  },
+  {
+    "word": "cottage",
+    "simple_sentence": "The cottage is an essential part of my home.",
+    "complex_sentence": "The cottage not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 4
+  },
+  {
+    "word": "villa",
+    "simple_sentence": "The villa is an essential part of my home.",
+    "complex_sentence": "The villa not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 5
+  },
+  {
+    "word": "mansion",
+    "simple_sentence": "The mansion is an essential part of my home.",
+    "complex_sentence": "The mansion not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 6
+  },
+  {
+    "word": "bungalow",
+    "simple_sentence": "The bungalow is an essential part of my home.",
+    "complex_sentence": "The bungalow not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 7
+  },
+  {
+    "word": "duplex",
+    "simple_sentence": "The duplex is an essential part of my home.",
+    "complex_sentence": "The duplex not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 8
+  },
+  {
+    "word": "townhouse",
+    "simple_sentence": "The townhouse is an essential part of my home.",
+    "complex_sentence": "The townhouse not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 9
+  },
+  {
+    "word": "cabin",
+    "simple_sentence": "The cabin is an essential part of my home.",
+    "complex_sentence": "The cabin not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 10
+  },
+  {
+    "word": "kitchen",
+    "simple_sentence": "The kitchen is an essential part of my home.",
+    "complex_sentence": "The kitchen not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 11
+  },
+  {
+    "word": "bedroom",
+    "simple_sentence": "The bedroom is an essential part of my home.",
+    "complex_sentence": "The bedroom not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 12
+  },
+  {
+    "word": "living room",
+    "simple_sentence": "The living room is an essential part of my home.",
+    "complex_sentence": "The living room not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 13
+  },
+  {
+    "word": "dining room",
+    "simple_sentence": "The dining room is an essential part of my home.",
+    "complex_sentence": "The dining room not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 14
+  },
+  {
+    "word": "bathroom",
+    "simple_sentence": "The bathroom is an essential part of my home.",
+    "complex_sentence": "The bathroom not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 15
+  },
+  {
+    "word": "laundry room",
+    "simple_sentence": "The laundry room is an essential part of my home.",
+    "complex_sentence": "The laundry room not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 16
+  },
+  {
+    "word": "garage",
+    "simple_sentence": "The garage is an essential part of my home.",
+    "complex_sentence": "The garage not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 17
+  },
+  {
+    "word": "attic",
+    "simple_sentence": "The attic is an essential part of my home.",
+    "complex_sentence": "The attic not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 18
+  },
+  {
+    "word": "basement",
+    "simple_sentence": "The basement is an essential part of my home.",
+    "complex_sentence": "The basement not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 19
+  },
+  {
+    "word": "hallway",
+    "simple_sentence": "The hallway is an essential part of my home.",
+    "complex_sentence": "The hallway not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 20
+  },
+  {
+    "word": "balcony",
+    "simple_sentence": "The balcony is an essential part of my home.",
+    "complex_sentence": "The balcony not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 21
+  },
+  {
+    "word": "porch",
+    "simple_sentence": "The porch is an essential part of my home.",
+    "complex_sentence": "The porch not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 22
+  },
+  {
+    "word": "patio",
+    "simple_sentence": "The patio is an essential part of my home.",
+    "complex_sentence": "The patio not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 23
+  },
+  {
+    "word": "garden",
+    "simple_sentence": "The garden is an essential part of my home.",
+    "complex_sentence": "The garden not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 24
+  },
+  {
+    "word": "yard",
+    "simple_sentence": "The yard is an essential part of my home.",
+    "complex_sentence": "The yard not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 25
+  },
+  {
+    "word": "fence",
+    "simple_sentence": "The fence is an essential part of my home.",
+    "complex_sentence": "The fence not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 26
+  },
+  {
+    "word": "gate",
+    "simple_sentence": "The gate is an essential part of my home.",
+    "complex_sentence": "The gate not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 27
+  },
+  {
+    "word": "roof",
+    "simple_sentence": "The roof is an essential part of my home.",
+    "complex_sentence": "The roof not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 28
+  },
+  {
+    "word": "chimney",
+    "simple_sentence": "The chimney is an essential part of my home.",
+    "complex_sentence": "The chimney not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 29
+  },
+  {
+    "word": "driveway",
+    "simple_sentence": "The driveway is an essential part of my home.",
+    "complex_sentence": "The driveway not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 30
+  },
+  {
+    "word": "floor",
+    "simple_sentence": "The floor is an essential part of my home.",
+    "complex_sentence": "The floor not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 31
+  },
+  {
+    "word": "wall",
+    "simple_sentence": "The wall is an essential part of my home.",
+    "complex_sentence": "The wall not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 32
+  },
+  {
+    "word": "ceiling",
+    "simple_sentence": "The ceiling is an essential part of my home.",
+    "complex_sentence": "The ceiling not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 33
+  },
+  {
+    "word": "window",
+    "simple_sentence": "The window is an essential part of my home.",
+    "complex_sentence": "The window not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 34
+  },
+  {
+    "word": "door",
+    "simple_sentence": "The door is an essential part of my home.",
+    "complex_sentence": "The door not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 35
+  },
+  {
+    "word": "stairs",
+    "simple_sentence": "The stairs is an essential part of my home.",
+    "complex_sentence": "The stairs not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 36
+  },
+  {
+    "word": "railing",
+    "simple_sentence": "The railing is an essential part of my home.",
+    "complex_sentence": "The railing not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 37
+  },
+  {
+    "word": "banister",
+    "simple_sentence": "The banister is an essential part of my home.",
+    "complex_sentence": "The banister not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 38
+  },
+  {
+    "word": "closet",
+    "simple_sentence": "The closet is an essential part of my home.",
+    "complex_sentence": "The closet not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 39
+  },
+  {
+    "word": "pantry",
+    "simple_sentence": "The pantry is an essential part of my home.",
+    "complex_sentence": "The pantry not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 40
+  },
+  {
+    "word": "shelf",
+    "simple_sentence": "The shelf is an essential part of my home.",
+    "complex_sentence": "The shelf not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 41
+  },
+  {
+    "word": "cupboard",
+    "simple_sentence": "The cupboard is an essential part of my home.",
+    "complex_sentence": "The cupboard not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 42
+  },
+  {
+    "word": "drawer",
+    "simple_sentence": "The drawer is an essential part of my home.",
+    "complex_sentence": "The drawer not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 43
+  },
+  {
+    "word": "cabinet",
+    "simple_sentence": "The cabinet is an essential part of my home.",
+    "complex_sentence": "The cabinet not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 44
+  },
+  {
+    "word": "countertop",
+    "simple_sentence": "The countertop is an essential part of my home.",
+    "complex_sentence": "The countertop not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 45
+  },
+  {
+    "word": "island",
+    "simple_sentence": "The island is an essential part of my home.",
+    "complex_sentence": "The island not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 46
+  },
+  {
+    "word": "sink",
+    "simple_sentence": "The sink is an essential part of my home.",
+    "complex_sentence": "The sink not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 47
+  },
+  {
+    "word": "faucet",
+    "simple_sentence": "The faucet is an essential part of my home.",
+    "complex_sentence": "The faucet not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 48
+  },
+  {
+    "word": "shower",
+    "simple_sentence": "The shower is an essential part of my home.",
+    "complex_sentence": "The shower not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 49
+  },
+  {
+    "word": "bathtub",
+    "simple_sentence": "The bathtub is an essential part of my home.",
+    "complex_sentence": "The bathtub not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 50
+  },
+  {
+    "word": "toilet",
+    "simple_sentence": "The toilet is an essential part of my home.",
+    "complex_sentence": "The toilet not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 51
+  },
+  {
+    "word": "mirror",
+    "simple_sentence": "The mirror is an essential part of my home.",
+    "complex_sentence": "The mirror not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 52
+  },
+  {
+    "word": "towel rack",
+    "simple_sentence": "The towel rack is an essential part of my home.",
+    "complex_sentence": "The towel rack not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 53
+  },
+  {
+    "word": "soap dispenser",
+    "simple_sentence": "The soap dispenser is an essential part of my home.",
+    "complex_sentence": "The soap dispenser not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 54
+  },
+  {
+    "word": "toothbrush holder",
+    "simple_sentence": "The toothbrush holder is an essential part of my home.",
+    "complex_sentence": "The toothbrush holder not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 55
+  },
+  {
+    "word": "bath mat",
+    "simple_sentence": "The bath mat is an essential part of my home.",
+    "complex_sentence": "The bath mat not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 56
+  },
+  {
+    "word": "shower curtain",
+    "simple_sentence": "The shower curtain is an essential part of my home.",
+    "complex_sentence": "The shower curtain not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 57
+  },
+  {
+    "word": "medicine cabinet",
+    "simple_sentence": "The medicine cabinet is an essential part of my home.",
+    "complex_sentence": "The medicine cabinet not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 58
+  },
+  {
+    "word": "shaving kit",
+    "simple_sentence": "The shaving kit is an essential part of my home.",
+    "complex_sentence": "The shaving kit not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 59
+  },
+  {
+    "word": "hairdryer",
+    "simple_sentence": "The hairdryer is an essential part of my home.",
+    "complex_sentence": "The hairdryer not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 60
+  },
+  {
+    "word": "bed",
+    "simple_sentence": "The bed is an essential part of my home.",
+    "complex_sentence": "The bed not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 61
+  },
+  {
+    "word": "mattress",
+    "simple_sentence": "The mattress is an essential part of my home.",
+    "complex_sentence": "The mattress not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 62
+  },
+  {
+    "word": "pillow",
+    "simple_sentence": "The pillow is an essential part of my home.",
+    "complex_sentence": "The pillow not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 63
+  },
+  {
+    "word": "blanket",
+    "simple_sentence": "The blanket is an essential part of my home.",
+    "complex_sentence": "The blanket not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 64
+  },
+  {
+    "word": "duvet",
+    "simple_sentence": "The duvet is an essential part of my home.",
+    "complex_sentence": "The duvet not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 65
+  },
+  {
+    "word": "comforter",
+    "simple_sentence": "The comforter is an essential part of my home.",
+    "complex_sentence": "The comforter not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 66
+  },
+  {
+    "word": "bedspread",
+    "simple_sentence": "The bedspread is an essential part of my home.",
+    "complex_sentence": "The bedspread not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 67
+  },
+  {
+    "word": "sheet",
+    "simple_sentence": "The sheet is an essential part of my home.",
+    "complex_sentence": "The sheet not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 68
+  },
+  {
+    "word": "pillowcase",
+    "simple_sentence": "The pillowcase is an essential part of my home.",
+    "complex_sentence": "The pillowcase not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 69
+  },
+  {
+    "word": "bedside table",
+    "simple_sentence": "The bedside table is an essential part of my home.",
+    "complex_sentence": "The bedside table not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 70
+  },
+  {
+    "word": "dresser",
+    "simple_sentence": "The dresser is an essential part of my home.",
+    "complex_sentence": "The dresser not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 71
+  },
+  {
+    "word": "wardrobe",
+    "simple_sentence": "The wardrobe is an essential part of my home.",
+    "complex_sentence": "The wardrobe not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 72
+  },
+  {
+    "word": "hangers",
+    "simple_sentence": "The hangers is an essential part of my home.",
+    "complex_sentence": "The hangers not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 73
+  },
+  {
+    "word": "laundry basket",
+    "simple_sentence": "The laundry basket is an essential part of my home.",
+    "complex_sentence": "The laundry basket not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 74
+  },
+  {
+    "word": "hamper",
+    "simple_sentence": "The hamper is an essential part of my home.",
+    "complex_sentence": "The hamper not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 75
+  },
+  {
+    "word": "ironing board",
+    "simple_sentence": "The ironing board is an essential part of my home.",
+    "complex_sentence": "The ironing board not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 76
+  },
+  {
+    "word": "iron",
+    "simple_sentence": "The iron is an essential part of my home.",
+    "complex_sentence": "The iron not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 77
+  },
+  {
+    "word": "lamp",
+    "simple_sentence": "The lamp is an essential part of my home.",
+    "complex_sentence": "The lamp not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 78
+  },
+  {
+    "word": "ceiling fan",
+    "simple_sentence": "The ceiling fan is an essential part of my home.",
+    "complex_sentence": "The ceiling fan not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 79
+  },
+  {
+    "word": "light bulb",
+    "simple_sentence": "The light bulb is an essential part of my home.",
+    "complex_sentence": "The light bulb not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 80
+  },
+  {
+    "word": "chandelier",
+    "simple_sentence": "The chandelier is an essential part of my home.",
+    "complex_sentence": "The chandelier not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 81
+  },
+  {
+    "word": "sconce",
+    "simple_sentence": "The sconce is an essential part of my home.",
+    "complex_sentence": "The sconce not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 82
+  },
+  {
+    "word": "table lamp",
+    "simple_sentence": "The table lamp is an essential part of my home.",
+    "complex_sentence": "The table lamp not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 83
+  },
+  {
+    "word": "floor lamp",
+    "simple_sentence": "The floor lamp is an essential part of my home.",
+    "complex_sentence": "The floor lamp not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 84
+  },
+  {
+    "word": "curtains",
+    "simple_sentence": "The curtains is an essential part of my home.",
+    "complex_sentence": "The curtains not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 85
+  },
+  {
+    "word": "blinds",
+    "simple_sentence": "The blinds is an essential part of my home.",
+    "complex_sentence": "The blinds not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 86
+  },
+  {
+    "word": "shutters",
+    "simple_sentence": "The shutters is an essential part of my home.",
+    "complex_sentence": "The shutters not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 87
+  },
+  {
+    "word": "carpet",
+    "simple_sentence": "The carpet is an essential part of my home.",
+    "complex_sentence": "The carpet not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 88
+  },
+  {
+    "word": "rug",
+    "simple_sentence": "The rug is an essential part of my home.",
+    "complex_sentence": "The rug not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 89
+  },
+  {
+    "word": "couch",
+    "simple_sentence": "The couch is an essential part of my home.",
+    "complex_sentence": "The couch not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 90
+  },
+  {
+    "word": "sofa",
+    "simple_sentence": "The sofa is an essential part of my home.",
+    "complex_sentence": "The sofa not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 91
+  },
+  {
+    "word": "armchair",
+    "simple_sentence": "The armchair is an essential part of my home.",
+    "complex_sentence": "The armchair not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 92
+  },
+  {
+    "word": "recliner",
+    "simple_sentence": "The recliner is an essential part of my home.",
+    "complex_sentence": "The recliner not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 93
+  },
+  {
+    "word": "loveseat",
+    "simple_sentence": "The loveseat is an essential part of my home.",
+    "complex_sentence": "The loveseat not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 94
+  },
+  {
+    "word": "ottoman",
+    "simple_sentence": "The ottoman is an essential part of my home.",
+    "complex_sentence": "The ottoman not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 95
+  },
+  {
+    "word": "coffee table",
+    "simple_sentence": "The coffee table is an essential part of my home.",
+    "complex_sentence": "The coffee table not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 96
+  },
+  {
+    "word": "side table",
+    "simple_sentence": "The side table is an essential part of my home.",
+    "complex_sentence": "The side table not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 97
+  },
+  {
+    "word": "bookshelf",
+    "simple_sentence": "The bookshelf is an essential part of my home.",
+    "complex_sentence": "The bookshelf not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 98
+  },
+  {
+    "word": "TV stand",
+    "simple_sentence": "The TV stand is an essential part of my home.",
+    "complex_sentence": "The TV stand not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 99
+  },
+  {
+    "word": "television",
+    "simple_sentence": "The television is an essential part of my home.",
+    "complex_sentence": "The television not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 100
+  },
+  {
+    "word": "remote control",
+    "simple_sentence": "The remote control is an essential part of my home.",
+    "complex_sentence": "The remote control not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 101
+  },
+  {
+    "word": "stereo",
+    "simple_sentence": "The stereo is an essential part of my home.",
+    "complex_sentence": "The stereo not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 102
+  },
+  {
+    "word": "speakers",
+    "simple_sentence": "The speakers is an essential part of my home.",
+    "complex_sentence": "The speakers not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 103
+  },
+  {
+    "word": "soundbar",
+    "simple_sentence": "The soundbar is an essential part of my home.",
+    "complex_sentence": "The soundbar not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 104
+  },
+  {
+    "word": "fireplace",
+    "simple_sentence": "The fireplace is an essential part of my home.",
+    "complex_sentence": "The fireplace not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 105
+  },
+  {
+    "word": "mantel",
+    "simple_sentence": "The mantel is an essential part of my home.",
+    "complex_sentence": "The mantel not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 106
+  },
+  {
+    "word": "firewood",
+    "simple_sentence": "The firewood is an essential part of my home.",
+    "complex_sentence": "The firewood not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 107
+  },
+  {
+    "word": "fireplace tools",
+    "simple_sentence": "The fireplace tools is an essential part of my home.",
+    "complex_sentence": "The fireplace tools not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 108
+  },
+  {
+    "word": "fire screen",
+    "simple_sentence": "The fire screen is an essential part of my home.",
+    "complex_sentence": "The fire screen not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 109
+  },
+  {
+    "word": "clock",
+    "simple_sentence": "The clock is an essential part of my home.",
+    "complex_sentence": "The clock not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 110
+  },
+  {
+    "word": "picture frame",
+    "simple_sentence": "The picture frame is an essential part of my home.",
+    "complex_sentence": "The picture frame not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 111
+  },
+  {
+    "word": "painting",
+    "simple_sentence": "The painting is an essential part of my home.",
+    "complex_sentence": "The painting not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 112
+  },
+  {
+    "word": "poster",
+    "simple_sentence": "The poster is an essential part of my home.",
+    "complex_sentence": "The poster not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 113
+  },
+  {
+    "word": "artwork",
+    "simple_sentence": "The artwork is an essential part of my home.",
+    "complex_sentence": "The artwork not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 114
+  },
+  {
+    "word": "vase",
+    "simple_sentence": "The vase is an essential part of my home.",
+    "complex_sentence": "The vase not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 115
+  },
+  {
+    "word": "flowers",
+    "simple_sentence": "The flowers is an essential part of my home.",
+    "complex_sentence": "The flowers not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 116
+  },
+  {
+    "word": "plant",
+    "simple_sentence": "The plant is an essential part of my home.",
+    "complex_sentence": "The plant not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 117
+  },
+  {
+    "word": "pot",
+    "simple_sentence": "The pot is an essential part of my home.",
+    "complex_sentence": "The pot not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 118
+  },
+  {
+    "word": "decorations",
+    "simple_sentence": "The decorations is an essential part of my home.",
+    "complex_sentence": "The decorations not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 119
+  },
+  {
+    "word": "cushions",
+    "simple_sentence": "The cushions is an essential part of my home.",
+    "complex_sentence": "The cushions not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 120
+  },
+  {
+    "word": "throw pillows",
+    "simple_sentence": "The throw pillows is an essential part of my home.",
+    "complex_sentence": "The throw pillows not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 121
+  },
+  {
+    "word": "quilt",
+    "simple_sentence": "The quilt is an essential part of my home.",
+    "complex_sentence": "The quilt not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 122
+  },
+  {
+    "word": "photo album",
+    "simple_sentence": "The photo album is an essential part of my home.",
+    "complex_sentence": "The photo album not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 123
+  },
+  {
+    "word": "candles",
+    "simple_sentence": "The candles is an essential part of my home.",
+    "complex_sentence": "The candles not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 124
+  },
+  {
+    "word": "diffuser",
+    "simple_sentence": "The diffuser is an essential part of my home.",
+    "complex_sentence": "The diffuser not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 125
+  },
+  {
+    "word": "humidifier",
+    "simple_sentence": "The humidifier is an essential part of my home.",
+    "complex_sentence": "The humidifier not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 126
+  },
+  {
+    "word": "air purifier",
+    "simple_sentence": "The air purifier is an essential part of my home.",
+    "complex_sentence": "The air purifier not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 127
+  },
+  {
+    "word": "heater",
+    "simple_sentence": "The heater is an essential part of my home.",
+    "complex_sentence": "The heater not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 128
+  },
+  {
+    "word": "fan",
+    "simple_sentence": "The fan is an essential part of my home.",
+    "complex_sentence": "The fan not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 129
+  },
+  {
+    "word": "air conditioner",
+    "simple_sentence": "The air conditioner is an essential part of my home.",
+    "complex_sentence": "The air conditioner not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 130
+  },
+  {
+    "word": "vacuum cleaner",
+    "simple_sentence": "The vacuum cleaner is an essential part of my home.",
+    "complex_sentence": "The vacuum cleaner not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 131
+  },
+  {
+    "word": "broom",
+    "simple_sentence": "The broom is an essential part of my home.",
+    "complex_sentence": "The broom not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 132
+  },
+  {
+    "word": "dustpan",
+    "simple_sentence": "The dustpan is an essential part of my home.",
+    "complex_sentence": "The dustpan not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 133
+  },
+  {
+    "word": "mop",
+    "simple_sentence": "The mop is an essential part of my home.",
+    "complex_sentence": "The mop not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 134
+  },
+  {
+    "word": "bucket",
+    "simple_sentence": "The bucket is an essential part of my home.",
+    "complex_sentence": "The bucket not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 135
+  },
+  {
+    "word": "trash can",
+    "simple_sentence": "The trash can is an essential part of my home.",
+    "complex_sentence": "The trash can not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 136
+  },
+  {
+    "word": "recycling bin",
+    "simple_sentence": "The recycling bin is an essential part of my home.",
+    "complex_sentence": "The recycling bin not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 137
+  },
+  {
+    "word": "cleaning supplies",
+    "simple_sentence": "The cleaning supplies is an essential part of my home.",
+    "complex_sentence": "The cleaning supplies not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 138
+  },
+  {
+    "word": "dish soap",
+    "simple_sentence": "The dish soap is an essential part of my home.",
+    "complex_sentence": "The dish soap not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 139
+  },
+  {
+    "word": "laundry detergent",
+    "simple_sentence": "The laundry detergent is an essential part of my home.",
+    "complex_sentence": "The laundry detergent not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 140
+  },
+  {
+    "word": "bleach",
+    "simple_sentence": "The bleach is an essential part of my home.",
+    "complex_sentence": "The bleach not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 141
+  },
+  {
+    "word": "fabric softener",
+    "simple_sentence": "The fabric softener is an essential part of my home.",
+    "complex_sentence": "The fabric softener not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 142
+  },
+  {
+    "word": "sponges",
+    "simple_sentence": "The sponges is an essential part of my home.",
+    "complex_sentence": "The sponges not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 143
+  },
+  {
+    "word": "scrub brush",
+    "simple_sentence": "The scrub brush is an essential part of my home.",
+    "complex_sentence": "The scrub brush not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 144
+  },
+  {
+    "word": "squeegee",
+    "simple_sentence": "The squeegee is an essential part of my home.",
+    "complex_sentence": "The squeegee not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 145
+  },
+  {
+    "word": "plunger",
+    "simple_sentence": "The plunger is an essential part of my home.",
+    "complex_sentence": "The plunger not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 146
+  },
+  {
+    "word": "toolbox",
+    "simple_sentence": "The toolbox is an essential part of my home.",
+    "complex_sentence": "The toolbox not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 147
+  },
+  {
+    "word": "hammer",
+    "simple_sentence": "The hammer is an essential part of my home.",
+    "complex_sentence": "The hammer not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 148
+  },
+  {
+    "word": "screwdriver",
+    "simple_sentence": "The screwdriver is an essential part of my home.",
+    "complex_sentence": "The screwdriver not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 149
+  },
+  {
+    "word": "wrench",
+    "simple_sentence": "The wrench is an essential part of my home.",
+    "complex_sentence": "The wrench not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 150
+  },
+  {
+    "word": "drill",
+    "simple_sentence": "The drill is an essential part of my home.",
+    "complex_sentence": "The drill not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 151
+  },
+  {
+    "word": "tape measure",
+    "simple_sentence": "The tape measure is an essential part of my home.",
+    "complex_sentence": "The tape measure not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 152
+  },
+  {
+    "word": "level",
+    "simple_sentence": "The level is an essential part of my home.",
+    "complex_sentence": "The level not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 153
+  },
+  {
+    "word": "pliers",
+    "simple_sentence": "The pliers is an essential part of my home.",
+    "complex_sentence": "The pliers not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 154
+  },
+  {
+    "word": "nails",
+    "simple_sentence": "The nails is an essential part of my home.",
+    "complex_sentence": "The nails not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 155
+  },
+  {
+    "word": "screws",
+    "simple_sentence": "The screws is an essential part of my home.",
+    "complex_sentence": "The screws not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 156
+  },
+  {
+    "word": "hooks",
+    "simple_sentence": "The hooks is an essential part of my home.",
+    "complex_sentence": "The hooks not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 157
+  },
+  {
+    "word": "anchors",
+    "simple_sentence": "The anchors is an essential part of my home.",
+    "complex_sentence": "The anchors not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 158
+  },
+  {
+    "word": "paint",
+    "simple_sentence": "The paint is an essential part of my home.",
+    "complex_sentence": "The paint not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 159
+  },
+  {
+    "word": "paintbrush",
+    "simple_sentence": "The paintbrush is an essential part of my home.",
+    "complex_sentence": "The paintbrush not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 160
+  },
+  {
+    "word": "roller",
+    "simple_sentence": "The roller is an essential part of my home.",
+    "complex_sentence": "The roller not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 161
+  },
+  {
+    "word": "drop cloth",
+    "simple_sentence": "The drop cloth is an essential part of my home.",
+    "complex_sentence": "The drop cloth not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 162
+  },
+  {
+    "word": "masking tape",
+    "simple_sentence": "The masking tape is an essential part of my home.",
+    "complex_sentence": "The masking tape not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 163
+  },
+  {
+    "word": "ladder",
+    "simple_sentence": "The ladder is an essential part of my home.",
+    "complex_sentence": "The ladder not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 164
+  },
+  {
+    "word": "step stool",
+    "simple_sentence": "The step stool is an essential part of my home.",
+    "complex_sentence": "The step stool not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 165
+  },
+  {
+    "word": "extension cord",
+    "simple_sentence": "The extension cord is an essential part of my home.",
+    "complex_sentence": "The extension cord not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 166
+  },
+  {
+    "word": "power strip",
+    "simple_sentence": "The power strip is an essential part of my home.",
+    "complex_sentence": "The power strip not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 167
+  },
+  {
+    "word": "surge protector",
+    "simple_sentence": "The surge protector is an essential part of my home.",
+    "complex_sentence": "The surge protector not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 168
+  },
+  {
+    "word": "thermostat",
+    "simple_sentence": "The thermostat is an essential part of my home.",
+    "complex_sentence": "The thermostat not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 169
+  },
+  {
+    "word": "smoke detector",
+    "simple_sentence": "The smoke detector is an essential part of my home.",
+    "complex_sentence": "The smoke detector not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 170
+  },
+  {
+    "word": "carbon monoxide detector",
+    "simple_sentence": "The carbon monoxide detector is an essential part of my home.",
+    "complex_sentence": "The carbon monoxide detector not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 171
+  },
+  {
+    "word": "security camera",
+    "simple_sentence": "The security camera is an essential part of my home.",
+    "complex_sentence": "The security camera not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 172
+  },
+  {
+    "word": "doorbell",
+    "simple_sentence": "The doorbell is an essential part of my home.",
+    "complex_sentence": "The doorbell not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 173
+  },
+  {
+    "word": "intercom",
+    "simple_sentence": "The intercom is an essential part of my home.",
+    "complex_sentence": "The intercom not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 174
+  },
+  {
+    "word": "alarm system",
+    "simple_sentence": "The alarm system is an essential part of my home.",
+    "complex_sentence": "The alarm system not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 175
+  },
+  {
+    "word": "motion sensor",
+    "simple_sentence": "The motion sensor is an essential part of my home.",
+    "complex_sentence": "The motion sensor not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 176
+  },
+  {
+    "word": "smart lock",
+    "simple_sentence": "The smart lock is an essential part of my home.",
+    "complex_sentence": "The smart lock not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 177
+  },
+  {
+    "word": "garage door opener",
+    "simple_sentence": "The garage door opener is an essential part of my home.",
+    "complex_sentence": "The garage door opener not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 178
+  },
+  {
+    "word": "dishwasher",
+    "simple_sentence": "The dishwasher is an essential part of my home.",
+    "complex_sentence": "The dishwasher not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 179
+  },
+  {
+    "word": "washing machine",
+    "simple_sentence": "The washing machine is an essential part of my home.",
+    "complex_sentence": "The washing machine not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 180
+  },
+  {
+    "word": "dryer",
+    "simple_sentence": "The dryer is an essential part of my home.",
+    "complex_sentence": "The dryer not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 181
+  },
+  {
+    "word": "stove",
+    "simple_sentence": "The stove is an essential part of my home.",
+    "complex_sentence": "The stove not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 182
+  },
+  {
+    "word": "oven",
+    "simple_sentence": "The oven is an essential part of my home.",
+    "complex_sentence": "The oven not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 183
+  },
+  {
+    "word": "microwave",
+    "simple_sentence": "The microwave is an essential part of my home.",
+    "complex_sentence": "The microwave not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 184
+  },
+  {
+    "word": "toaster",
+    "simple_sentence": "The toaster is an essential part of my home.",
+    "complex_sentence": "The toaster not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 185
+  },
+  {
+    "word": "coffee maker",
+    "simple_sentence": "The coffee maker is an essential part of my home.",
+    "complex_sentence": "The coffee maker not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 186
+  },
+  {
+    "word": "blender",
+    "simple_sentence": "The blender is an essential part of my home.",
+    "complex_sentence": "The blender not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 187
+  },
+  {
+    "word": "mixer",
+    "simple_sentence": "The mixer is an essential part of my home.",
+    "complex_sentence": "The mixer not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 188
+  },
+  {
+    "word": "food processor",
+    "simple_sentence": "The food processor is an essential part of my home.",
+    "complex_sentence": "The food processor not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 189
+  },
+  {
+    "word": "slow cooker",
+    "simple_sentence": "The slow cooker is an essential part of my home.",
+    "complex_sentence": "The slow cooker not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 190
+  },
+  {
+    "word": "pressure cooker",
+    "simple_sentence": "The pressure cooker is an essential part of my home.",
+    "complex_sentence": "The pressure cooker not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 191
+  },
+  {
+    "word": "air fryer",
+    "simple_sentence": "The air fryer is an essential part of my home.",
+    "complex_sentence": "The air fryer not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 192
+  },
+  {
+    "word": "rice cooker",
+    "simple_sentence": "The rice cooker is an essential part of my home.",
+    "complex_sentence": "The rice cooker not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 193
+  },
+  {
+    "word": "kettle",
+    "simple_sentence": "The kettle is an essential part of my home.",
+    "complex_sentence": "The kettle not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 194
+  },
+  {
+    "word": "juicer",
+    "simple_sentence": "The juicer is an essential part of my home.",
+    "complex_sentence": "The juicer not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 195
+  },
+  {
+    "word": "grill",
+    "simple_sentence": "The grill is an essential part of my home.",
+    "complex_sentence": "The grill not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 196
+  },
+  {
+    "word": "barbecue",
+    "simple_sentence": "The barbecue is an essential part of my home.",
+    "complex_sentence": "The barbecue not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 197
+  },
+  {
+    "word": "refrigerator",
+    "simple_sentence": "The refrigerator is an essential part of my home.",
+    "complex_sentence": "The refrigerator not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 198
+  },
+  {
+    "word": "freezer",
+    "simple_sentence": "The freezer is an essential part of my home.",
+    "complex_sentence": "The freezer not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 199
+  },
+  {
+    "word": "spice rack",
+    "simple_sentence": "The spice rack is an essential part of my home.",
+    "complex_sentence": "The spice rack not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 200
+  },
+  {
+    "word": "cutting board",
+    "simple_sentence": "The cutting board is an essential part of my home.",
+    "complex_sentence": "The cutting board not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 201
+  },
+  {
+    "word": "knives",
+    "simple_sentence": "The knives is an essential part of my home.",
+    "complex_sentence": "The knives not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 202
+  },
+  {
+    "word": "pots",
+    "simple_sentence": "The pots is an essential part of my home.",
+    "complex_sentence": "The pots not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 203
+  },
+  {
+    "word": "pans",
+    "simple_sentence": "The pans is an essential part of my home.",
+    "complex_sentence": "The pans not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 204
+  },
+  {
+    "word": "skillets",
+    "simple_sentence": "The skillets is an essential part of my home.",
+    "complex_sentence": "The skillets not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 205
+  },
+  {
+    "word": "baking sheet",
+    "simple_sentence": "The baking sheet is an essential part of my home.",
+    "complex_sentence": "The baking sheet not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 206
+  },
+  {
+    "word": "mixing bowls",
+    "simple_sentence": "The mixing bowls is an essential part of my home.",
+    "complex_sentence": "The mixing bowls not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 207
+  },
+  {
+    "word": "measuring cups",
+    "simple_sentence": "The measuring cups is an essential part of my home.",
+    "complex_sentence": "The measuring cups not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 208
+  },
+  {
+    "word": "measuring spoons",
+    "simple_sentence": "The measuring spoons is an essential part of my home.",
+    "complex_sentence": "The measuring spoons not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 209
+  },
+  {
+    "word": "whisk",
+    "simple_sentence": "The whisk is an essential part of my home.",
+    "complex_sentence": "The whisk not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 210
+  },
+  {
+    "word": "spatula",
+    "simple_sentence": "The spatula is an essential part of my home.",
+    "complex_sentence": "The spatula not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 211
+  },
+  {
+    "word": "ladle",
+    "simple_sentence": "The ladle is an essential part of my home.",
+    "complex_sentence": "The ladle not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 212
+  },
+  {
+    "word": "tongs",
+    "simple_sentence": "The tongs is an essential part of my home.",
+    "complex_sentence": "The tongs not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 213
+  },
+  {
+    "word": "colander",
+    "simple_sentence": "The colander is an essential part of my home.",
+    "complex_sentence": "The colander not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 214
+  },
+  {
+    "word": "grater",
+    "simple_sentence": "The grater is an essential part of my home.",
+    "complex_sentence": "The grater not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 215
+  },
+  {
+    "word": "peeler",
+    "simple_sentence": "The peeler is an essential part of my home.",
+    "complex_sentence": "The peeler not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 216
+  },
+  {
+    "word": "can opener",
+    "simple_sentence": "The can opener is an essential part of my home.",
+    "complex_sentence": "The can opener not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 217
+  },
+  {
+    "word": "corkscrew",
+    "simple_sentence": "The corkscrew is an essential part of my home.",
+    "complex_sentence": "The corkscrew not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 218
+  },
+  {
+    "word": "wine glasses",
+    "simple_sentence": "The wine glasses is an essential part of my home.",
+    "complex_sentence": "The wine glasses not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 219
+  },
+  {
+    "word": "mugs",
+    "simple_sentence": "The mugs is an essential part of my home.",
+    "complex_sentence": "The mugs not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 220
+  },
+  {
+    "word": "cups",
+    "simple_sentence": "The cups is an essential part of my home.",
+    "complex_sentence": "The cups not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 221
+  },
+  {
+    "word": "plates",
+    "simple_sentence": "The plates is an essential part of my home.",
+    "complex_sentence": "The plates not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 222
+  },
+  {
+    "word": "bowls",
+    "simple_sentence": "The bowls is an essential part of my home.",
+    "complex_sentence": "The bowls not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 223
+  },
+  {
+    "word": "utensils",
+    "simple_sentence": "The utensils is an essential part of my home.",
+    "complex_sentence": "The utensils not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 224
+  },
+  {
+    "word": "forks",
+    "simple_sentence": "The forks is an essential part of my home.",
+    "complex_sentence": "The forks not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 225
+  },
+  {
+    "word": "spoons",
+    "simple_sentence": "The spoons is an essential part of my home.",
+    "complex_sentence": "The spoons not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 226
+  },
+  {
+    "word": "napkins",
+    "simple_sentence": "The napkins is an essential part of my home.",
+    "complex_sentence": "The napkins not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 227
+  },
+  {
+    "word": "placemats",
+    "simple_sentence": "The placemats is an essential part of my home.",
+    "complex_sentence": "The placemats not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 228
+  },
+  {
+    "word": "tablecloth",
+    "simple_sentence": "The tablecloth is an essential part of my home.",
+    "complex_sentence": "The tablecloth not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 229
+  },
+  {
+    "word": "serving tray",
+    "simple_sentence": "The serving tray is an essential part of my home.",
+    "complex_sentence": "The serving tray not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 230
+  },
+  {
+    "word": "pitcher",
+    "simple_sentence": "The pitcher is an essential part of my home.",
+    "complex_sentence": "The pitcher not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 231
+  },
+  {
+    "word": "decanter",
+    "simple_sentence": "The decanter is an essential part of my home.",
+    "complex_sentence": "The decanter not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 232
+  },
+  {
+    "word": "ice bucket",
+    "simple_sentence": "The ice bucket is an essential part of my home.",
+    "complex_sentence": "The ice bucket not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 233
+  },
+  {
+    "word": "cooler",
+    "simple_sentence": "The cooler is an essential part of my home.",
+    "complex_sentence": "The cooler not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 234
+  },
+  {
+    "word": "bar cart",
+    "simple_sentence": "The bar cart is an essential part of my home.",
+    "complex_sentence": "The bar cart not only serves a functional purpose but also adds aesthetic value to the space.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 235
+  }
+]

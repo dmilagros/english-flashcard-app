@@ -1,0 +1,1962 @@
+[
+  {
+    "word": "apple",
+    "simple_sentence": "I love to eat apple.",
+    "complex_sentence": "The apple is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 1
+  },
+  {
+    "word": "banana",
+    "simple_sentence": "I love to eat banana.",
+    "complex_sentence": "The banana is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 2
+  },
+  {
+    "word": "orange",
+    "simple_sentence": "I love to eat orange.",
+    "complex_sentence": "The orange is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 3
+  },
+  {
+    "word": "grape",
+    "simple_sentence": "I love to eat grape.",
+    "complex_sentence": "The grape is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 4
+  },
+  {
+    "word": "pear",
+    "simple_sentence": "I love to eat pear.",
+    "complex_sentence": "The pear is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 5
+  },
+  {
+    "word": "peach",
+    "simple_sentence": "I love to eat peach.",
+    "complex_sentence": "The peach is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 6
+  },
+  {
+    "word": "plum",
+    "simple_sentence": "I love to eat plum.",
+    "complex_sentence": "The plum is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 7
+  },
+  {
+    "word": "strawberry",
+    "simple_sentence": "I love to eat strawberry.",
+    "complex_sentence": "The strawberry is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 8
+  },
+  {
+    "word": "blueberry",
+    "simple_sentence": "I love to eat blueberry.",
+    "complex_sentence": "The blueberry is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 9
+  },
+  {
+    "word": "raspberry",
+    "simple_sentence": "I love to eat raspberry.",
+    "complex_sentence": "The raspberry is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 10
+  },
+  {
+    "word": "cherry",
+    "simple_sentence": "I love to eat cherry.",
+    "complex_sentence": "The cherry is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 11
+  },
+  {
+    "word": "mango",
+    "simple_sentence": "I love to eat mango.",
+    "complex_sentence": "The mango is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 12
+  },
+  {
+    "word": "pineapple",
+    "simple_sentence": "I love to eat pineapple.",
+    "complex_sentence": "The pineapple is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 13
+  },
+  {
+    "word": "watermelon",
+    "simple_sentence": "I love to eat watermelon.",
+    "complex_sentence": "The watermelon is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 14
+  },
+  {
+    "word": "melon",
+    "simple_sentence": "I love to eat melon.",
+    "complex_sentence": "The melon is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 15
+  },
+  {
+    "word": "lemon",
+    "simple_sentence": "I love to eat lemon.",
+    "complex_sentence": "The lemon is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 16
+  },
+  {
+    "word": "lime",
+    "simple_sentence": "I love to eat lime.",
+    "complex_sentence": "The lime is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 17
+  },
+  {
+    "word": "grapefruit",
+    "simple_sentence": "I love to eat grapefruit.",
+    "complex_sentence": "The grapefruit is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 18
+  },
+  {
+    "word": "kiwi",
+    "simple_sentence": "I love to eat kiwi.",
+    "complex_sentence": "The kiwi is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 19
+  },
+  {
+    "word": "avocado",
+    "simple_sentence": "I love to eat avocado.",
+    "complex_sentence": "The avocado is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 20
+  },
+  {
+    "word": "tomato",
+    "simple_sentence": "I love to eat tomato.",
+    "complex_sentence": "The tomato is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 21
+  },
+  {
+    "word": "potato",
+    "simple_sentence": "I love to eat potato.",
+    "complex_sentence": "The potato is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 22
+  },
+  {
+    "word": "carrot",
+    "simple_sentence": "I love to eat carrot.",
+    "complex_sentence": "The carrot is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 23
+  },
+  {
+    "word": "cucumber",
+    "simple_sentence": "I love to eat cucumber.",
+    "complex_sentence": "The cucumber is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 24
+  },
+  {
+    "word": "lettuce",
+    "simple_sentence": "I love to eat lettuce.",
+    "complex_sentence": "The lettuce is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 25
+  },
+  {
+    "word": "spinach",
+    "simple_sentence": "I love to eat spinach.",
+    "complex_sentence": "The spinach is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 26
+  },
+  {
+    "word": "broccoli",
+    "simple_sentence": "I love to eat broccoli.",
+    "complex_sentence": "The broccoli is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 27
+  },
+  {
+    "word": "cauliflower",
+    "simple_sentence": "I love to eat cauliflower.",
+    "complex_sentence": "The cauliflower is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 28
+  },
+  {
+    "word": "zucchini",
+    "simple_sentence": "I love to eat zucchini.",
+    "complex_sentence": "The zucchini is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 29
+  },
+  {
+    "word": "eggplant",
+    "simple_sentence": "I love to eat eggplant.",
+    "complex_sentence": "The eggplant is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 30
+  },
+  {
+    "word": "pepper",
+    "simple_sentence": "I love to eat pepper.",
+    "complex_sentence": "The pepper is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 31
+  },
+  {
+    "word": "onion",
+    "simple_sentence": "I love to eat onion.",
+    "complex_sentence": "The onion is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 32
+  },
+  {
+    "word": "garlic",
+    "simple_sentence": "I love to eat garlic.",
+    "complex_sentence": "The garlic is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 33
+  },
+  {
+    "word": "ginger",
+    "simple_sentence": "I love to eat ginger.",
+    "complex_sentence": "The ginger is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 34
+  },
+  {
+    "word": "chili",
+    "simple_sentence": "I love to eat chili.",
+    "complex_sentence": "The chili is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 35
+  },
+  {
+    "word": "mushroom",
+    "simple_sentence": "I love to eat mushroom.",
+    "complex_sentence": "The mushroom is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 36
+  },
+  {
+    "word": "corn",
+    "simple_sentence": "I love to eat corn.",
+    "complex_sentence": "The corn is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 37
+  },
+  {
+    "word": "pea",
+    "simple_sentence": "I love to eat pea.",
+    "complex_sentence": "The pea is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 38
+  },
+  {
+    "word": "bean",
+    "simple_sentence": "I love to eat bean.",
+    "complex_sentence": "The bean is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 39
+  },
+  {
+    "word": "lentil",
+    "simple_sentence": "I love to eat lentil.",
+    "complex_sentence": "The lentil is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 40
+  },
+  {
+    "word": "rice",
+    "simple_sentence": "I love to eat rice.",
+    "complex_sentence": "The rice is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 41
+  },
+  {
+    "word": "pasta",
+    "simple_sentence": "I love to eat pasta.",
+    "complex_sentence": "The pasta is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 42
+  },
+  {
+    "word": "bread",
+    "simple_sentence": "I love to eat bread.",
+    "complex_sentence": "The bread is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 43
+  },
+  {
+    "word": "flour",
+    "simple_sentence": "I love to eat flour.",
+    "complex_sentence": "The flour is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 44
+  },
+  {
+    "word": "oats",
+    "simple_sentence": "I love to eat oats.",
+    "complex_sentence": "The oats is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 45
+  },
+  {
+    "word": "barley",
+    "simple_sentence": "I love to eat barley.",
+    "complex_sentence": "The barley is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 46
+  },
+  {
+    "word": "quinoa",
+    "simple_sentence": "I love to eat quinoa.",
+    "complex_sentence": "The quinoa is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 47
+  },
+  {
+    "word": "millet",
+    "simple_sentence": "I love to eat millet.",
+    "complex_sentence": "The millet is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 48
+  },
+  {
+    "word": "rye",
+    "simple_sentence": "I love to eat rye.",
+    "complex_sentence": "The rye is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 49
+  },
+  {
+    "word": "wheat",
+    "simple_sentence": "I love to eat wheat.",
+    "complex_sentence": "The wheat is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 50
+  },
+  {
+    "word": "chicken",
+    "simple_sentence": "I love to eat chicken.",
+    "complex_sentence": "The chicken is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 51
+  },
+  {
+    "word": "beef",
+    "simple_sentence": "I love to eat beef.",
+    "complex_sentence": "The beef is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 52
+  },
+  {
+    "word": "pork",
+    "simple_sentence": "I love to eat pork.",
+    "complex_sentence": "The pork is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 53
+  },
+  {
+    "word": "lamb",
+    "simple_sentence": "I love to eat lamb.",
+    "complex_sentence": "The lamb is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 54
+  },
+  {
+    "word": "duck",
+    "simple_sentence": "I love to eat duck.",
+    "complex_sentence": "The duck is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 55
+  },
+  {
+    "word": "turkey",
+    "simple_sentence": "I love to eat turkey.",
+    "complex_sentence": "The turkey is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 56
+  },
+  {
+    "word": "fish",
+    "simple_sentence": "I love to eat fish.",
+    "complex_sentence": "The fish is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 57
+  },
+  {
+    "word": "shrimp",
+    "simple_sentence": "I love to eat shrimp.",
+    "complex_sentence": "The shrimp is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 58
+  },
+  {
+    "word": "lobster",
+    "simple_sentence": "I love to eat lobster.",
+    "complex_sentence": "The lobster is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 59
+  },
+  {
+    "word": "crab",
+    "simple_sentence": "I love to eat crab.",
+    "complex_sentence": "The crab is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 60
+  },
+  {
+    "word": "salmon",
+    "simple_sentence": "I love to eat salmon.",
+    "complex_sentence": "The salmon is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 61
+  },
+  {
+    "word": "tuna",
+    "simple_sentence": "I love to eat tuna.",
+    "complex_sentence": "The tuna is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 62
+  },
+  {
+    "word": "cod",
+    "simple_sentence": "I love to eat cod.",
+    "complex_sentence": "The cod is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 63
+  },
+  {
+    "word": "sardine",
+    "simple_sentence": "I love to eat sardine.",
+    "complex_sentence": "The sardine is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 64
+  },
+  {
+    "word": "mackerel",
+    "simple_sentence": "I love to eat mackerel.",
+    "complex_sentence": "The mackerel is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 65
+  },
+  {
+    "word": "oyster",
+    "simple_sentence": "I love to eat oyster.",
+    "complex_sentence": "The oyster is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 66
+  },
+  {
+    "word": "scallop",
+    "simple_sentence": "I love to eat scallop.",
+    "complex_sentence": "The scallop is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 67
+  },
+  {
+    "word": "clams",
+    "simple_sentence": "I love to eat clams.",
+    "complex_sentence": "The clams is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 68
+  },
+  {
+    "word": "squid",
+    "simple_sentence": "I love to eat squid.",
+    "complex_sentence": "The squid is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 69
+  },
+  {
+    "word": "octopus",
+    "simple_sentence": "I love to eat octopus.",
+    "complex_sentence": "The octopus is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 70
+  },
+  {
+    "word": "butter",
+    "simple_sentence": "I love to eat butter.",
+    "complex_sentence": "The butter is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 71
+  },
+  {
+    "word": "cheese",
+    "simple_sentence": "I love to eat cheese.",
+    "complex_sentence": "The cheese is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 72
+  },
+  {
+    "word": "milk",
+    "simple_sentence": "I love to eat milk.",
+    "complex_sentence": "The milk is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 73
+  },
+  {
+    "word": "cream",
+    "simple_sentence": "I love to eat cream.",
+    "complex_sentence": "The cream is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 74
+  },
+  {
+    "word": "yogurt",
+    "simple_sentence": "I love to eat yogurt.",
+    "complex_sentence": "The yogurt is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 75
+  },
+  {
+    "word": "ice cream",
+    "simple_sentence": "I love to eat ice cream.",
+    "complex_sentence": "The ice cream is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 76
+  },
+  {
+    "word": "egg",
+    "simple_sentence": "I love to eat egg.",
+    "complex_sentence": "The egg is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 77
+  },
+  {
+    "word": "mayonnaise",
+    "simple_sentence": "I love to eat mayonnaise.",
+    "complex_sentence": "The mayonnaise is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 78
+  },
+  {
+    "word": "oil",
+    "simple_sentence": "I love to eat oil.",
+    "complex_sentence": "The oil is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 79
+  },
+  {
+    "word": "vinegar",
+    "simple_sentence": "I love to eat vinegar.",
+    "complex_sentence": "The vinegar is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 80
+  },
+  {
+    "word": "salt",
+    "simple_sentence": "I love to eat salt.",
+    "complex_sentence": "The salt is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 81
+  },
+  {
+    "word": "sugar",
+    "simple_sentence": "I love to eat sugar.",
+    "complex_sentence": "The sugar is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 82
+  },
+  {
+    "word": "honey",
+    "simple_sentence": "I love to eat honey.",
+    "complex_sentence": "The honey is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 83
+  },
+  {
+    "word": "syrup",
+    "simple_sentence": "I love to eat syrup.",
+    "complex_sentence": "The syrup is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 84
+  },
+  {
+    "word": "chocolate",
+    "simple_sentence": "I love to eat chocolate.",
+    "complex_sentence": "The chocolate is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 85
+  },
+  {
+    "word": "candy",
+    "simple_sentence": "I love to eat candy.",
+    "complex_sentence": "The candy is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 86
+  },
+  {
+    "word": "cake",
+    "simple_sentence": "I love to eat cake.",
+    "complex_sentence": "The cake is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 87
+  },
+  {
+    "word": "cookie",
+    "simple_sentence": "I love to eat cookie.",
+    "complex_sentence": "The cookie is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 88
+  },
+  {
+    "word": "pie",
+    "simple_sentence": "I love to eat pie.",
+    "complex_sentence": "The pie is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 89
+  },
+  {
+    "word": "pastry",
+    "simple_sentence": "I love to eat pastry.",
+    "complex_sentence": "The pastry is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 90
+  },
+  {
+    "word": "doughnut",
+    "simple_sentence": "I love to eat doughnut.",
+    "complex_sentence": "The doughnut is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 91
+  },
+  {
+    "word": "pudding",
+    "simple_sentence": "I love to eat pudding.",
+    "complex_sentence": "The pudding is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 92
+  },
+  {
+    "word": "jelly",
+    "simple_sentence": "I love to eat jelly.",
+    "complex_sentence": "The jelly is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 93
+  },
+  {
+    "word": "jam",
+    "simple_sentence": "I love to eat jam.",
+    "complex_sentence": "The jam is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 94
+  },
+  {
+    "word": "sauce",
+    "simple_sentence": "I love to eat sauce.",
+    "complex_sentence": "The sauce is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 95
+  },
+  {
+    "word": "ketchup",
+    "simple_sentence": "I love to eat ketchup.",
+    "complex_sentence": "The ketchup is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 96
+  },
+  {
+    "word": "mustard",
+    "simple_sentence": "I love to eat mustard.",
+    "complex_sentence": "The mustard is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 97
+  },
+  {
+    "word": "soy sauce",
+    "simple_sentence": "I love to eat soy sauce.",
+    "complex_sentence": "The soy sauce is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 98
+  },
+  {
+    "word": "hot sauce",
+    "simple_sentence": "I love to eat hot sauce.",
+    "complex_sentence": "The hot sauce is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 99
+  },
+  {
+    "word": "noodles",
+    "simple_sentence": "I love to eat noodles.",
+    "complex_sentence": "The noodles is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 100
+  },
+  {
+    "word": "pizza",
+    "simple_sentence": "I love to eat pizza.",
+    "complex_sentence": "The pizza is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 101
+  },
+  {
+    "word": "sandwich",
+    "simple_sentence": "I love to eat sandwich.",
+    "complex_sentence": "The sandwich is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 102
+  },
+  {
+    "word": "burger",
+    "simple_sentence": "I love to eat burger.",
+    "complex_sentence": "The burger is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 103
+  },
+  {
+    "word": "taco",
+    "simple_sentence": "I love to eat taco.",
+    "complex_sentence": "The taco is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 104
+  },
+  {
+    "word": "burrito",
+    "simple_sentence": "I love to eat burrito.",
+    "complex_sentence": "The burrito is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 105
+  },
+  {
+    "word": "wrap",
+    "simple_sentence": "I love to eat wrap.",
+    "complex_sentence": "The wrap is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 106
+  },
+  {
+    "word": "salad",
+    "simple_sentence": "I love to eat salad.",
+    "complex_sentence": "The salad is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 107
+  },
+  {
+    "word": "soup",
+    "simple_sentence": "I love to eat soup.",
+    "complex_sentence": "The soup is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 108
+  },
+  {
+    "word": "stew",
+    "simple_sentence": "I love to eat stew.",
+    "complex_sentence": "The stew is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 109
+  },
+  {
+    "word": "curry",
+    "simple_sentence": "I love to eat curry.",
+    "complex_sentence": "The curry is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 110
+  },
+  {
+    "word": "risotto",
+    "simple_sentence": "I love to eat risotto.",
+    "complex_sentence": "The risotto is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 111
+  },
+  {
+    "word": "paella",
+    "simple_sentence": "I love to eat paella.",
+    "complex_sentence": "The paella is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 112
+  },
+  {
+    "word": "sushi",
+    "simple_sentence": "I love to eat sushi.",
+    "complex_sentence": "The sushi is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 113
+  },
+  {
+    "word": "dumpling",
+    "simple_sentence": "I love to eat dumpling.",
+    "complex_sentence": "The dumpling is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 114
+  },
+  {
+    "word": "spring roll",
+    "simple_sentence": "I love to eat spring roll.",
+    "complex_sentence": "The spring roll is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 115
+  },
+  {
+    "word": "wonton",
+    "simple_sentence": "I love to eat wonton.",
+    "complex_sentence": "The wonton is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 116
+  },
+  {
+    "word": "omelette",
+    "simple_sentence": "I love to eat omelette.",
+    "complex_sentence": "The omelette is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 117
+  },
+  {
+    "word": "pancake",
+    "simple_sentence": "I love to eat pancake.",
+    "complex_sentence": "The pancake is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 118
+  },
+  {
+    "word": "waffle",
+    "simple_sentence": "I love to eat waffle.",
+    "complex_sentence": "The waffle is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 119
+  },
+  {
+    "word": "toast",
+    "simple_sentence": "I love to eat toast.",
+    "complex_sentence": "The toast is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 120
+  },
+  {
+    "word": "bagel",
+    "simple_sentence": "I love to eat bagel.",
+    "complex_sentence": "The bagel is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 121
+  },
+  {
+    "word": "croissant",
+    "simple_sentence": "I love to eat croissant.",
+    "complex_sentence": "The croissant is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 122
+  },
+  {
+    "word": "muffin",
+    "simple_sentence": "I love to eat muffin.",
+    "complex_sentence": "The muffin is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 123
+  },
+  {
+    "word": "biscuit",
+    "simple_sentence": "I love to eat biscuit.",
+    "complex_sentence": "The biscuit is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 124
+  },
+  {
+    "word": "crisp",
+    "simple_sentence": "I love to eat crisp.",
+    "complex_sentence": "The crisp is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 125
+  },
+  {
+    "word": "chips",
+    "simple_sentence": "I love to eat chips.",
+    "complex_sentence": "The chips is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 126
+  },
+  {
+    "word": "fries",
+    "simple_sentence": "I love to eat fries.",
+    "complex_sentence": "The fries is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 127
+  },
+  {
+    "word": "popcorn",
+    "simple_sentence": "I love to eat popcorn.",
+    "complex_sentence": "The popcorn is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 128
+  },
+  {
+    "word": "nachos",
+    "simple_sentence": "I love to eat nachos.",
+    "complex_sentence": "The nachos is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 129
+  },
+  {
+    "word": "pretzel",
+    "simple_sentence": "I love to eat pretzel.",
+    "complex_sentence": "The pretzel is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 130
+  },
+  {
+    "word": "sausage",
+    "simple_sentence": "I love to eat sausage.",
+    "complex_sentence": "The sausage is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 131
+  },
+  {
+    "word": "hot dog",
+    "simple_sentence": "I love to eat hot dog.",
+    "complex_sentence": "The hot dog is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 132
+  },
+  {
+    "word": "bacon",
+    "simple_sentence": "I love to eat bacon.",
+    "complex_sentence": "The bacon is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 133
+  },
+  {
+    "word": "ham",
+    "simple_sentence": "I love to eat ham.",
+    "complex_sentence": "The ham is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 134
+  },
+  {
+    "word": "steak",
+    "simple_sentence": "I love to eat steak.",
+    "complex_sentence": "The steak is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 135
+  },
+  {
+    "word": "roast",
+    "simple_sentence": "I love to eat roast.",
+    "complex_sentence": "The roast is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 136
+  },
+  {
+    "word": "grill",
+    "simple_sentence": "I love to eat grill.",
+    "complex_sentence": "The grill is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 137
+  },
+  {
+    "word": "barbecue",
+    "simple_sentence": "I love to eat barbecue.",
+    "complex_sentence": "The barbecue is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 138
+  },
+  {
+    "word": "smoke",
+    "simple_sentence": "I love to eat smoke.",
+    "complex_sentence": "The smoke is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 139
+  },
+  {
+    "word": "fry",
+    "simple_sentence": "I love to eat fry.",
+    "complex_sentence": "The fry is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 140
+  },
+  {
+    "word": "deep fry",
+    "simple_sentence": "I love to eat deep fry.",
+    "complex_sentence": "The deep fry is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 141
+  },
+  {
+    "word": "stir fry",
+    "simple_sentence": "I love to eat stir fry.",
+    "complex_sentence": "The stir fry is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 142
+  },
+  {
+    "word": "boil",
+    "simple_sentence": "I love to eat boil.",
+    "complex_sentence": "The boil is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 143
+  },
+  {
+    "word": "steam",
+    "simple_sentence": "I love to eat steam.",
+    "complex_sentence": "The steam is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 144
+  },
+  {
+    "word": "bake",
+    "simple_sentence": "I love to eat bake.",
+    "complex_sentence": "The bake is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 145
+  },
+  {
+    "word": "broil",
+    "simple_sentence": "I love to eat broil.",
+    "complex_sentence": "The broil is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 146
+  },
+  {
+    "word": "poach",
+    "simple_sentence": "I love to eat poach.",
+    "complex_sentence": "The poach is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 147
+  },
+  {
+    "word": "simmer",
+    "simple_sentence": "I love to eat simmer.",
+    "complex_sentence": "The simmer is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 148
+  },
+  {
+    "word": "blend",
+    "simple_sentence": "I love to eat blend.",
+    "complex_sentence": "The blend is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 149
+  },
+  {
+    "word": "whisk",
+    "simple_sentence": "I love to eat whisk.",
+    "complex_sentence": "The whisk is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 150
+  },
+  {
+    "word": "beat",
+    "simple_sentence": "I love to eat beat.",
+    "complex_sentence": "The beat is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 151
+  },
+  {
+    "word": "knead",
+    "simple_sentence": "I love to eat knead.",
+    "complex_sentence": "The knead is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 152
+  },
+  {
+    "word": "mix",
+    "simple_sentence": "I love to eat mix.",
+    "complex_sentence": "The mix is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 153
+  },
+  {
+    "word": "stir",
+    "simple_sentence": "I love to eat stir.",
+    "complex_sentence": "The stir is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 154
+  },
+  {
+    "word": "chop",
+    "simple_sentence": "I love to eat chop.",
+    "complex_sentence": "The chop is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 155
+  },
+  {
+    "word": "slice",
+    "simple_sentence": "I love to eat slice.",
+    "complex_sentence": "The slice is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 156
+  },
+  {
+    "word": "dice",
+    "simple_sentence": "I love to eat dice.",
+    "complex_sentence": "The dice is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 157
+  },
+  {
+    "word": "grate",
+    "simple_sentence": "I love to eat grate.",
+    "complex_sentence": "The grate is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 158
+  },
+  {
+    "word": "peel",
+    "simple_sentence": "I love to eat peel.",
+    "complex_sentence": "The peel is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 159
+  },
+  {
+    "word": "shave",
+    "simple_sentence": "I love to eat shave.",
+    "complex_sentence": "The shave is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 160
+  },
+  {
+    "word": "mince",
+    "simple_sentence": "I love to eat mince.",
+    "complex_sentence": "The mince is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 161
+  },
+  {
+    "word": "crush",
+    "simple_sentence": "I love to eat crush.",
+    "complex_sentence": "The crush is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 162
+  },
+  {
+    "word": "squeeze",
+    "simple_sentence": "I love to eat squeeze.",
+    "complex_sentence": "The squeeze is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 163
+  },
+  {
+    "word": "drizzle",
+    "simple_sentence": "I love to eat drizzle.",
+    "complex_sentence": "The drizzle is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 164
+  },
+  {
+    "word": "marinate",
+    "simple_sentence": "I love to eat marinate.",
+    "complex_sentence": "The marinate is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 165
+  },
+  {
+    "word": "season",
+    "simple_sentence": "I love to eat season.",
+    "complex_sentence": "The season is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 166
+  },
+  {
+    "word": "garnish",
+    "simple_sentence": "I love to eat garnish.",
+    "complex_sentence": "The garnish is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 167
+  },
+  {
+    "word": "serve",
+    "simple_sentence": "I love to eat serve.",
+    "complex_sentence": "The serve is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 168
+  },
+  {
+    "word": "plate",
+    "simple_sentence": "I love to eat plate.",
+    "complex_sentence": "The plate is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 169
+  },
+  {
+    "word": "taste",
+    "simple_sentence": "I love to eat taste.",
+    "complex_sentence": "The taste is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 170
+  },
+  {
+    "word": "flavor",
+    "simple_sentence": "I love to eat flavor.",
+    "complex_sentence": "The flavor is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 171
+  },
+  {
+    "word": "aroma",
+    "simple_sentence": "I love to eat aroma.",
+    "complex_sentence": "The aroma is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 172
+  },
+  {
+    "word": "texture",
+    "simple_sentence": "I love to eat texture.",
+    "complex_sentence": "The texture is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 173
+  },
+  {
+    "word": "spicy",
+    "simple_sentence": "I love to eat spicy.",
+    "complex_sentence": "The spicy is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 174
+  },
+  {
+    "word": "sweet",
+    "simple_sentence": "I love to eat sweet.",
+    "complex_sentence": "The sweet is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 175
+  },
+  {
+    "word": "savory",
+    "simple_sentence": "I love to eat savory.",
+    "complex_sentence": "The savory is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 176
+  },
+  {
+    "word": "salty",
+    "simple_sentence": "I love to eat salty.",
+    "complex_sentence": "The salty is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 177
+  },
+  {
+    "word": "bitter",
+    "simple_sentence": "I love to eat bitter.",
+    "complex_sentence": "The bitter is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 178
+  },
+  {
+    "word": "sour",
+    "simple_sentence": "I love to eat sour.",
+    "complex_sentence": "The sour is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 179
+  },
+  {
+    "word": "umami",
+    "simple_sentence": "I love to eat umami.",
+    "complex_sentence": "The umami is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 180
+  },
+  {
+    "word": "tangy",
+    "simple_sentence": "I love to eat tangy.",
+    "complex_sentence": "The tangy is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 181
+  },
+  {
+    "word": "juicy",
+    "simple_sentence": "I love to eat juicy.",
+    "complex_sentence": "The juicy is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 182
+  },
+  {
+    "word": "crunchy",
+    "simple_sentence": "I love to eat crunchy.",
+    "complex_sentence": "The crunchy is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 183
+  },
+  {
+    "word": "crispy",
+    "simple_sentence": "I love to eat crispy.",
+    "complex_sentence": "The crispy is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 184
+  },
+  {
+    "word": "chewy",
+    "simple_sentence": "I love to eat chewy.",
+    "complex_sentence": "The chewy is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 185
+  },
+  {
+    "word": "tender",
+    "simple_sentence": "I love to eat tender.",
+    "complex_sentence": "The tender is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 186
+  },
+  {
+    "word": "moist",
+    "simple_sentence": "I love to eat moist.",
+    "complex_sentence": "The moist is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 187
+  },
+  {
+    "word": "dry",
+    "simple_sentence": "I love to eat dry.",
+    "complex_sentence": "The dry is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 188
+  },
+  {
+    "word": "rich",
+    "simple_sentence": "I love to eat rich.",
+    "complex_sentence": "The rich is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 189
+  },
+  {
+    "word": "creamy",
+    "simple_sentence": "I love to eat creamy.",
+    "complex_sentence": "The creamy is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 190
+  },
+  {
+    "word": "buttery",
+    "simple_sentence": "I love to eat buttery.",
+    "complex_sentence": "The buttery is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 191
+  },
+  {
+    "word": "oily",
+    "simple_sentence": "I love to eat oily.",
+    "complex_sentence": "The oily is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 192
+  },
+  {
+    "word": "fatty",
+    "simple_sentence": "I love to eat fatty.",
+    "complex_sentence": "The fatty is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 193
+  },
+  {
+    "word": "lean",
+    "simple_sentence": "I love to eat lean.",
+    "complex_sentence": "The lean is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 194
+  },
+  {
+    "word": "meaty",
+    "simple_sentence": "I love to eat meaty.",
+    "complex_sentence": "The meaty is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 195
+  },
+  {
+    "word": "vegan",
+    "simple_sentence": "I love to eat vegan.",
+    "complex_sentence": "The vegan is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 196
+  },
+  {
+    "word": "vegetarian",
+    "simple_sentence": "I love to eat vegetarian.",
+    "complex_sentence": "The vegetarian is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 197
+  },
+  {
+    "word": "gluten-free",
+    "simple_sentence": "I love to eat gluten-free.",
+    "complex_sentence": "The gluten-free is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 198
+  },
+  {
+    "word": "dairy-free",
+    "simple_sentence": "I love to eat dairy-free.",
+    "complex_sentence": "The dairy-free is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 199
+  },
+  {
+    "word": "nut-free",
+    "simple_sentence": "I love to eat nut-free.",
+    "complex_sentence": "The nut-free is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 200
+  },
+  {
+    "word": "organic",
+    "simple_sentence": "I love to eat organic.",
+    "complex_sentence": "The organic is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 201
+  },
+  {
+    "word": "local",
+    "simple_sentence": "I love to eat local.",
+    "complex_sentence": "The local is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 202
+  },
+  {
+    "word": "sustainable",
+    "simple_sentence": "I love to eat sustainable.",
+    "complex_sentence": "The sustainable is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 203
+  },
+  {
+    "word": "farm-to-table",
+    "simple_sentence": "I love to eat farm-to-table.",
+    "complex_sentence": "The farm-to-table is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 204
+  },
+  {
+    "word": "seasonal",
+    "simple_sentence": "I love to eat seasonal.",
+    "complex_sentence": "The seasonal is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 205
+  },
+  {
+    "word": "fresh",
+    "simple_sentence": "I love to eat fresh.",
+    "complex_sentence": "The fresh is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 206
+  },
+  {
+    "word": "frozen",
+    "simple_sentence": "I love to eat frozen.",
+    "complex_sentence": "The frozen is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 207
+  },
+  {
+    "word": "canned",
+    "simple_sentence": "I love to eat canned.",
+    "complex_sentence": "The canned is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 208
+  },
+  {
+    "word": "packaged",
+    "simple_sentence": "I love to eat packaged.",
+    "complex_sentence": "The packaged is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 209
+  },
+  {
+    "word": "processed",
+    "simple_sentence": "I love to eat processed.",
+    "complex_sentence": "The processed is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 210
+  },
+  {
+    "word": "whole grain",
+    "simple_sentence": "I love to eat whole grain.",
+    "complex_sentence": "The whole grain is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 211
+  },
+  {
+    "word": "refined",
+    "simple_sentence": "I love to eat refined.",
+    "complex_sentence": "The refined is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 212
+  },
+  {
+    "word": "raw",
+    "simple_sentence": "I love to eat raw.",
+    "complex_sentence": "The raw is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 213
+  },
+  {
+    "word": "cooked",
+    "simple_sentence": "I love to eat cooked.",
+    "complex_sentence": "The cooked is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 214
+  },
+  {
+    "word": "grilled",
+    "simple_sentence": "I love to eat grilled.",
+    "complex_sentence": "The grilled is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 215
+  },
+  {
+    "word": "roasted",
+    "simple_sentence": "I love to eat roasted.",
+    "complex_sentence": "The roasted is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 216
+  },
+  {
+    "word": "fried",
+    "simple_sentence": "I love to eat fried.",
+    "complex_sentence": "The fried is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 217
+  },
+  {
+    "word": "steamed",
+    "simple_sentence": "I love to eat steamed.",
+    "complex_sentence": "The steamed is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 218
+  },
+  {
+    "word": "boiled",
+    "simple_sentence": "I love to eat boiled.",
+    "complex_sentence": "The boiled is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 219
+  },
+  {
+    "word": "baked",
+    "simple_sentence": "I love to eat baked.",
+    "complex_sentence": "The baked is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 220
+  },
+  {
+    "word": "smoked",
+    "simple_sentence": "I love to eat smoked.",
+    "complex_sentence": "The smoked is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 221
+  },
+  {
+    "word": "broiled",
+    "simple_sentence": "I love to eat broiled.",
+    "complex_sentence": "The broiled is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 222
+  },
+  {
+    "word": "poached",
+    "simple_sentence": "I love to eat poached.",
+    "complex_sentence": "The poached is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 223
+  },
+  {
+    "word": "blanched",
+    "simple_sentence": "I love to eat blanched.",
+    "complex_sentence": "The blanched is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 224
+  },
+  {
+    "word": "sauteed",
+    "simple_sentence": "I love to eat sauteed.",
+    "complex_sentence": "The sauteed is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 225
+  },
+  {
+    "word": "braised",
+    "simple_sentence": "I love to eat braised.",
+    "complex_sentence": "The braised is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 226
+  },
+  {
+    "word": "stewed",
+    "simple_sentence": "I love to eat stewed.",
+    "complex_sentence": "The stewed is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 227
+  },
+  {
+    "word": "seared",
+    "simple_sentence": "I love to eat seared.",
+    "complex_sentence": "The seared is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 228
+  },
+  {
+    "word": "charred",
+    "simple_sentence": "I love to eat charred.",
+    "complex_sentence": "The charred is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 229
+  },
+  {
+    "word": "glazed",
+    "simple_sentence": "I love to eat glazed.",
+    "complex_sentence": "The glazed is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 230
+  },
+  {
+    "word": "caramelized",
+    "simple_sentence": "I love to eat caramelized.",
+    "complex_sentence": "The caramelized is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 231
+  },
+  {
+    "word": "barbecued",
+    "simple_sentence": "I love to eat barbecued.",
+    "complex_sentence": "The barbecued is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 232
+  },
+  {
+    "word": "skewered",
+    "simple_sentence": "I love to eat skewered.",
+    "complex_sentence": "The skewered is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 233
+  },
+  {
+    "word": "spit-roasted",
+    "simple_sentence": "I love to eat spit-roasted.",
+    "complex_sentence": "The spit-roasted is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 234
+  },
+  {
+    "word": "slow-cooked",
+    "simple_sentence": "I love to eat slow-cooked.",
+    "complex_sentence": "The slow-cooked is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 235
+  },
+  {
+    "word": "pressure-cooked",
+    "simple_sentence": "I love to eat pressure-cooked.",
+    "complex_sentence": "The pressure-cooked is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 236
+  },
+  {
+    "word": "microwaved",
+    "simple_sentence": "I love to eat microwaved.",
+    "complex_sentence": "The microwaved is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 237
+  },
+  {
+    "word": "sous-vide",
+    "simple_sentence": "I love to eat sous-vide.",
+    "complex_sentence": "The sous-vide is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 238
+  },
+  {
+    "word": "dehydrated",
+    "simple_sentence": "I love to eat dehydrated.",
+    "complex_sentence": "The dehydrated is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 239
+  },
+  {
+    "word": "freeze-dried",
+    "simple_sentence": "I love to eat freeze-dried.",
+    "complex_sentence": "The freeze-dried is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 240
+  },
+  {
+    "word": "fermented",
+    "simple_sentence": "I love to eat fermented.",
+    "complex_sentence": "The fermented is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 241
+  },
+  {
+    "word": "pickled",
+    "simple_sentence": "I love to eat pickled.",
+    "complex_sentence": "The pickled is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 242
+  },
+  {
+    "word": "cured",
+    "simple_sentence": "I love to eat cured.",
+    "complex_sentence": "The cured is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 243
+  },
+  {
+    "word": "aged",
+    "simple_sentence": "I love to eat aged.",
+    "complex_sentence": "The aged is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 244
+  },
+  {
+    "word": "seasoned",
+    "simple_sentence": "I love to eat seasoned.",
+    "complex_sentence": "The seasoned is prepared in various ways, making it a versatile ingredient in many dishes.",
+    "pronunciation": "/ˈæp.l̩/",
+    "spanish": "traducción",
+    "id": 245
+  }
+]
