@@ -1,1890 +1,1673 @@
 [
   {
-    "word": "school",
-    "simple_sentence": "I study school at school.",
-    "complex_sentence": "The school plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 1
-  },
-  {
-    "word": "university",
-    "simple_sentence": "I study university at school.",
-    "complex_sentence": "The university plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 2
-  },
-  {
-    "word": "college",
-    "simple_sentence": "I study college at school.",
-    "complex_sentence": "The college plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 3
-  },
-  {
-    "word": "classroom",
-    "simple_sentence": "I study classroom at school.",
-    "complex_sentence": "The classroom plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 4
-  },
-  {
-    "word": "lecture hall",
-    "simple_sentence": "I study lecture hall at school.",
-    "complex_sentence": "The lecture hall plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 5
-  },
-  {
-    "word": "library",
-    "simple_sentence": "I study library at school.",
-    "complex_sentence": "The library plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 6
-  },
-  {
-    "word": "lab",
-    "simple_sentence": "I study lab at school.",
-    "complex_sentence": "The lab plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 7
-  },
-  {
-    "word": "campus",
-    "simple_sentence": "I study campus at school.",
-    "complex_sentence": "The campus plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 8
-  },
-  {
-    "word": "dormitory",
-    "simple_sentence": "I study dormitory at school.",
-    "complex_sentence": "The dormitory plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 9
-  },
-  {
-    "word": "cafeteria",
-    "simple_sentence": "I study cafeteria at school.",
-    "complex_sentence": "The cafeteria plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 10
-  },
-  {
-    "word": "teacher",
-    "simple_sentence": "I study teacher at school.",
-    "complex_sentence": "The teacher plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 11
-  },
-  {
-    "word": "professor",
-    "simple_sentence": "I study professor at school.",
-    "complex_sentence": "The professor plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 12
-  },
-  {
-    "word": "instructor",
-    "simple_sentence": "I study instructor at school.",
-    "complex_sentence": "The instructor plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 13
-  },
-  {
-    "word": "tutor",
-    "simple_sentence": "I study tutor at school.",
-    "complex_sentence": "The tutor plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 14
-  },
-  {
-    "word": "student",
-    "simple_sentence": "I study student at school.",
-    "complex_sentence": "The student plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 15
-  },
-  {
-    "word": "classmate",
-    "simple_sentence": "I study classmate at school.",
-    "complex_sentence": "The classmate plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 16
-  },
-  {
-    "word": "principal",
-    "simple_sentence": "I study principal at school.",
-    "complex_sentence": "The principal plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 17
-  },
-  {
-    "word": "dean",
-    "simple_sentence": "I study dean at school.",
-    "complex_sentence": "The dean plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 18
-  },
-  {
-    "word": "counselor",
-    "simple_sentence": "I study counselor at school.",
-    "complex_sentence": "The counselor plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 19
-  },
-  {
-    "word": "advisor",
-    "simple_sentence": "I study advisor at school.",
-    "complex_sentence": "The advisor plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 20
-  },
-  {
-    "word": "lesson",
-    "simple_sentence": "I study lesson at school.",
-    "complex_sentence": "The lesson plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 21
-  },
-  {
-    "word": "lecture",
-    "simple_sentence": "I study lecture at school.",
-    "complex_sentence": "The lecture plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 22
-  },
-  {
-    "word": "seminar",
-    "simple_sentence": "I study seminar at school.",
-    "complex_sentence": "The seminar plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 23
-  },
-  {
-    "word": "workshop",
-    "simple_sentence": "I study workshop at school.",
-    "complex_sentence": "The workshop plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 24
-  },
-  {
-    "word": "course",
-    "simple_sentence": "I study course at school.",
-    "complex_sentence": "The course plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 25
-  },
-  {
-    "word": "curriculum",
-    "simple_sentence": "I study curriculum at school.",
-    "complex_sentence": "The curriculum plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 26
-  },
-  {
-    "word": "syllabus",
-    "simple_sentence": "I study syllabus at school.",
-    "complex_sentence": "The syllabus plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 27
-  },
-  {
-    "word": "assignment",
-    "simple_sentence": "I study assignment at school.",
-    "complex_sentence": "The assignment plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 28
-  },
-  {
-    "word": "homework",
-    "simple_sentence": "I study homework at school.",
-    "complex_sentence": "The homework plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 29
-  },
-  {
-    "word": "project",
-    "simple_sentence": "I study project at school.",
-    "complex_sentence": "The project plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 30
-  },
-  {
-    "word": "exam",
-    "simple_sentence": "I study exam at school.",
-    "complex_sentence": "The exam plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 31
-  },
-  {
-    "word": "test",
-    "simple_sentence": "I study test at school.",
-    "complex_sentence": "The test plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 32
-  },
-  {
-    "word": "quiz",
-    "simple_sentence": "I study quiz at school.",
-    "complex_sentence": "The quiz plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 33
-  },
-  {
-    "word": "assessment",
-    "simple_sentence": "I study assessment at school.",
-    "complex_sentence": "The assessment plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 34
-  },
-  {
-    "word": "grade",
-    "simple_sentence": "I study grade at school.",
-    "complex_sentence": "The grade plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 35
-  },
-  {
-    "word": "report card",
-    "simple_sentence": "I study report card at school.",
-    "complex_sentence": "The report card plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 36
-  },
-  {
-    "word": "transcript",
-    "simple_sentence": "I study transcript at school.",
-    "complex_sentence": "The transcript plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 37
-  },
-  {
-    "word": "diploma",
-    "simple_sentence": "I study diploma at school.",
-    "complex_sentence": "The diploma plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 38
-  },
-  {
-    "word": "degree",
-    "simple_sentence": "I study degree at school.",
-    "complex_sentence": "The degree plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 39
-  },
-  {
-    "word": "certificate",
-    "simple_sentence": "I study certificate at school.",
-    "complex_sentence": "The certificate plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 40
-  },
-  {
-    "word": "bachelor's degree",
-    "simple_sentence": "I study bachelor's degree at school.",
-    "complex_sentence": "The bachelor's degree plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 41
-  },
-  {
-    "word": "master's degree",
-    "simple_sentence": "I study master's degree at school.",
-    "complex_sentence": "The master's degree plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 42
-  },
-  {
-    "word": "PhD",
-    "simple_sentence": "I study PhD at school.",
-    "complex_sentence": "The PhD plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 43
-  },
-  {
-    "word": "doctorate",
-    "simple_sentence": "I study doctorate at school.",
-    "complex_sentence": "The doctorate plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 44
-  },
-  {
-    "word": "scholarship",
-    "simple_sentence": "I study scholarship at school.",
-    "complex_sentence": "The scholarship plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 45
-  },
-  {
-    "word": "grant",
-    "simple_sentence": "I study grant at school.",
-    "complex_sentence": "The grant plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 46
-  },
-  {
-    "word": "financial aid",
-    "simple_sentence": "I study financial aid at school.",
-    "complex_sentence": "The financial aid plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 47
-  },
-  {
-    "word": "loan",
-    "simple_sentence": "I study loan at school.",
-    "complex_sentence": "The loan plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 48
-  },
-  {
-    "word": "tuition",
-    "simple_sentence": "I study tuition at school.",
-    "complex_sentence": "The tuition plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 49
-  },
-  {
-    "word": "fees",
-    "simple_sentence": "I study fees at school.",
-    "complex_sentence": "The fees plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 50
-  },
-  {
-    "word": "admission",
-    "simple_sentence": "I study admission at school.",
-    "complex_sentence": "The admission plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 51
-  },
-  {
-    "word": "enrollment",
-    "simple_sentence": "I study enrollment at school.",
-    "complex_sentence": "The enrollment plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 52
-  },
-  {
-    "word": "registration",
-    "simple_sentence": "I study registration at school.",
-    "complex_sentence": "The registration plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 53
-  },
-  {
-    "word": "dropout",
-    "simple_sentence": "I study dropout at school.",
-    "complex_sentence": "The dropout plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 54
-  },
-  {
-    "word": "graduation",
-    "simple_sentence": "I study graduation at school.",
-    "complex_sentence": "The graduation plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 55
-  },
-  {
-    "word": "commencement",
-    "simple_sentence": "I study commencement at school.",
-    "complex_sentence": "The commencement plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 56
-  },
-  {
-    "word": "valedictorian",
-    "simple_sentence": "I study valedictorian at school.",
-    "complex_sentence": "The valedictorian plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 57
-  },
-  {
-    "word": "study",
-    "simple_sentence": "I study study at school.",
-    "complex_sentence": "The study plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 58
-  },
-  {
-    "word": "research",
-    "simple_sentence": "I study research at school.",
-    "complex_sentence": "The research plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 59
-  },
-  {
-    "word": "experiment",
-    "simple_sentence": "I study experiment at school.",
-    "complex_sentence": "The experiment plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 60
-  },
-  {
-    "word": "data",
-    "simple_sentence": "I study data at school.",
-    "complex_sentence": "The data plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 61
-  },
-  {
-    "word": "hypothesis",
-    "simple_sentence": "I study hypothesis at school.",
-    "complex_sentence": "The hypothesis plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 62
-  },
-  {
-    "word": "thesis",
-    "simple_sentence": "I study thesis at school.",
-    "complex_sentence": "The thesis plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 63
-  },
-  {
-    "word": "dissertation",
-    "simple_sentence": "I study dissertation at school.",
-    "complex_sentence": "The dissertation plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 64
-  },
-  {
-    "word": "paper",
-    "simple_sentence": "I study paper at school.",
-    "complex_sentence": "The paper plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 65
-  },
-  {
-    "word": "presentation",
-    "simple_sentence": "I study presentation at school.",
-    "complex_sentence": "The presentation plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 66
-  },
-  {
-    "word": "lecture notes",
-    "simple_sentence": "I study lecture notes at school.",
-    "complex_sentence": "The lecture notes plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 67
-  },
-  {
-    "word": "textbook",
-    "simple_sentence": "I study textbook at school.",
-    "complex_sentence": "The textbook plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 68
-  },
-  {
-    "word": "notebook",
-    "simple_sentence": "I study notebook at school.",
-    "complex_sentence": "The notebook plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 69
-  },
-  {
-    "word": "journal",
-    "simple_sentence": "I study journal at school.",
-    "complex_sentence": "The journal plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 70
-  },
-  {
-    "word": "article",
-    "simple_sentence": "I study article at school.",
-    "complex_sentence": "The article plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 71
-  },
-  {
-    "word": "chapter",
-    "simple_sentence": "I study chapter at school.",
-    "complex_sentence": "The chapter plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 72
-  },
-  {
-    "word": "paragraph",
-    "simple_sentence": "I study paragraph at school.",
-    "complex_sentence": "The paragraph plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 73
-  },
-  {
-    "word": "sentence",
-    "simple_sentence": "I study sentence at school.",
-    "complex_sentence": "The sentence plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 74
-  },
-  {
-    "word": "word",
-    "simple_sentence": "I study word at school.",
-    "complex_sentence": "The word plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 75
-  },
-  {
-    "word": "definition",
-    "simple_sentence": "I study definition at school.",
-    "complex_sentence": "The definition plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 76
-  },
-  {
-    "word": "term",
-    "simple_sentence": "I study term at school.",
-    "complex_sentence": "The term plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 77
-  },
-  {
-    "word": "concept",
-    "simple_sentence": "I study concept at school.",
-    "complex_sentence": "The concept plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 78
-  },
-  {
-    "word": "idea",
-    "simple_sentence": "I study idea at school.",
-    "complex_sentence": "The idea plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 79
-  },
-  {
-    "word": "theory",
-    "simple_sentence": "I study theory at school.",
-    "complex_sentence": "The theory plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 80
-  },
-  {
-    "word": "principle",
-    "simple_sentence": "I study principle at school.",
-    "complex_sentence": "The principle plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 81
-  },
-  {
-    "word": "formula",
-    "simple_sentence": "I study formula at school.",
-    "complex_sentence": "The formula plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 82
-  },
-  {
-    "word": "equation",
-    "simple_sentence": "I study equation at school.",
-    "complex_sentence": "The equation plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 83
-  },
-  {
-    "word": "diagram",
-    "simple_sentence": "I study diagram at school.",
-    "complex_sentence": "The diagram plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 84
-  },
-  {
-    "word": "chart",
-    "simple_sentence": "I study chart at school.",
-    "complex_sentence": "The chart plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 85
-  },
-  {
-    "word": "graph",
-    "simple_sentence": "I study graph at school.",
-    "complex_sentence": "The graph plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 86
-  },
-  {
-    "word": "map",
-    "simple_sentence": "I study map at school.",
-    "complex_sentence": "The map plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 87
-  },
-  {
-    "word": "visual aid",
-    "simple_sentence": "I study visual aid at school.",
-    "complex_sentence": "The visual aid plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 88
-  },
-  {
-    "word": "powerpoint",
-    "simple_sentence": "I study powerpoint at school.",
-    "complex_sentence": "The powerpoint plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 89
-  },
-  {
-    "word": "whiteboard",
-    "simple_sentence": "I study whiteboard at school.",
-    "complex_sentence": "The whiteboard plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 90
-  },
-  {
-    "word": "blackboard",
-    "simple_sentence": "I study blackboard at school.",
-    "complex_sentence": "The blackboard plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 91
-  },
-  {
-    "word": "marker",
-    "simple_sentence": "I study marker at school.",
-    "complex_sentence": "The marker plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 92
-  },
-  {
-    "word": "chalk",
-    "simple_sentence": "I study chalk at school.",
-    "complex_sentence": "The chalk plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 93
-  },
-  {
-    "word": "eraser",
-    "simple_sentence": "I study eraser at school.",
-    "complex_sentence": "The eraser plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 94
-  },
-  {
-    "word": "pen",
-    "simple_sentence": "I study pen at school.",
-    "complex_sentence": "The pen plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 95
-  },
-  {
-    "word": "pencil",
-    "simple_sentence": "I study pencil at school.",
-    "complex_sentence": "The pencil plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 96
-  },
-  {
-    "word": "highlighter",
-    "simple_sentence": "I study highlighter at school.",
-    "complex_sentence": "The highlighter plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 97
-  },
-  {
-    "word": "ruler",
-    "simple_sentence": "I study ruler at school.",
-    "complex_sentence": "The ruler plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 98
-  },
-  {
-    "word": "compass",
-    "simple_sentence": "I study compass at school.",
-    "complex_sentence": "The compass plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 99
-  },
-  {
-    "word": "protractor",
-    "simple_sentence": "I study protractor at school.",
-    "complex_sentence": "The protractor plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 100
-  },
-  {
-    "word": "calculator",
-    "simple_sentence": "I study calculator at school.",
-    "complex_sentence": "The calculator plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 101
-  },
-  {
-    "word": "laptop",
-    "simple_sentence": "I study laptop at school.",
-    "complex_sentence": "The laptop plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 102
-  },
-  {
-    "word": "tablet",
-    "simple_sentence": "I study tablet at school.",
-    "complex_sentence": "The tablet plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 103
-  },
-  {
-    "word": "smartboard",
-    "simple_sentence": "I study smartboard at school.",
-    "complex_sentence": "The smartboard plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 104
-  },
-  {
-    "word": "projector",
-    "simple_sentence": "I study projector at school.",
-    "complex_sentence": "The projector plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 105
-  },
-  {
-    "word": "headphones",
-    "simple_sentence": "I study headphones at school.",
-    "complex_sentence": "The headphones plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 106
-  },
-  {
-    "word": "microphone",
-    "simple_sentence": "I study microphone at school.",
-    "complex_sentence": "The microphone plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 107
-  },
-  {
-    "word": "midterm",
-    "simple_sentence": "I study midterm at school.",
-    "complex_sentence": "The midterm plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 108
-  },
-  {
-    "word": "final exam",
-    "simple_sentence": "I study final exam at school.",
-    "complex_sentence": "The final exam plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 109
-  },
-  {
-    "word": "study guide",
-    "simple_sentence": "I study study guide at school.",
-    "complex_sentence": "The study guide plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 110
-  },
-  {
-    "word": "revision",
-    "simple_sentence": "I study revision at school.",
-    "complex_sentence": "The revision plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 111
-  },
-  {
-    "word": "practice",
-    "simple_sentence": "I study practice at school.",
-    "complex_sentence": "The practice plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 112
-  },
-  {
-    "word": "group study",
-    "simple_sentence": "I study group study at school.",
-    "complex_sentence": "The group study plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 113
-  },
-  {
-    "word": "tutoring",
-    "simple_sentence": "I study tutoring at school.",
-    "complex_sentence": "The tutoring plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 114
-  },
-  {
-    "word": "mentoring",
-    "simple_sentence": "I study mentoring at school.",
-    "complex_sentence": "The mentoring plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 115
-  },
-  {
-    "word": "debate",
-    "simple_sentence": "I study debate at school.",
-    "complex_sentence": "The debate plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 116
-  },
-  {
-    "word": "discussion",
-    "simple_sentence": "I study discussion at school.",
-    "complex_sentence": "The discussion plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 117
-  },
-  {
-    "word": "brainstorming",
-    "simple_sentence": "I study brainstorming at school.",
-    "complex_sentence": "The brainstorming plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 118
-  },
-  {
-    "word": "critical thinking",
-    "simple_sentence": "I study critical thinking at school.",
-    "complex_sentence": "The critical thinking plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 119
-  },
-  {
-    "word": "problem-solving",
-    "simple_sentence": "I study problem-solving at school.",
-    "complex_sentence": "The problem-solving plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 120
-  },
-  {
-    "word": "memorization",
-    "simple_sentence": "I study memorization at school.",
-    "complex_sentence": "The memorization plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 121
-  },
-  {
-    "word": "note-taking",
-    "simple_sentence": "I study note-taking at school.",
-    "complex_sentence": "The note-taking plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 122
-  },
-  {
-    "word": "time management",
-    "simple_sentence": "I study time management at school.",
-    "complex_sentence": "The time management plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 123
-  },
-  {
-    "word": "goal-setting",
-    "simple_sentence": "I study goal-setting at school.",
-    "complex_sentence": "The goal-setting plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 124
-  },
-  {
-    "word": "prioritization",
-    "simple_sentence": "I study prioritization at school.",
-    "complex_sentence": "The prioritization plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 125
-  },
-  {
-    "word": "motivation",
-    "simple_sentence": "I study motivation at school.",
-    "complex_sentence": "The motivation plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 126
-  },
-  {
-    "word": "focus",
-    "simple_sentence": "I study focus at school.",
-    "complex_sentence": "The focus plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 127
-  },
-  {
-    "word": "concentration",
-    "simple_sentence": "I study concentration at school.",
-    "complex_sentence": "The concentration plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 128
-  },
-  {
-    "word": "creativity",
-    "simple_sentence": "I study creativity at school.",
-    "complex_sentence": "The creativity plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 129
-  },
-  {
-    "word": "innovation",
-    "simple_sentence": "I study innovation at school.",
-    "complex_sentence": "The innovation plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 130
-  },
-  {
-    "word": "collaboration",
-    "simple_sentence": "I study collaboration at school.",
-    "complex_sentence": "The collaboration plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 131
-  },
-  {
-    "word": "teamwork",
-    "simple_sentence": "I study teamwork at school.",
-    "complex_sentence": "The teamwork plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 132
-  },
-  {
-    "word": "leadership",
-    "simple_sentence": "I study leadership at school.",
-    "complex_sentence": "The leadership plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 133
-  },
-  {
-    "word": "communication",
-    "simple_sentence": "I study communication at school.",
-    "complex_sentence": "The communication plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 134
-  },
-  {
-    "word": "public speaking",
-    "simple_sentence": "I study public speaking at school.",
-    "complex_sentence": "The public speaking plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 135
-  },
-  {
-    "word": "writing skills",
-    "simple_sentence": "I study writing skills at school.",
-    "complex_sentence": "The writing skills plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 136
-  },
-  {
-    "word": "reading skills",
-    "simple_sentence": "I study reading skills at school.",
-    "complex_sentence": "The reading skills plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 137
-  },
-  {
-    "word": "math skills",
-    "simple_sentence": "I study math skills at school.",
-    "complex_sentence": "The math skills plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 138
-  },
-  {
-    "word": "science skills",
-    "simple_sentence": "I study science skills at school.",
-    "complex_sentence": "The science skills plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 139
-  },
-  {
-    "word": "technology skills",
-    "simple_sentence": "I study technology skills at school.",
-    "complex_sentence": "The technology skills plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 140
-  },
-  {
-    "word": "research skills",
-    "simple_sentence": "I study research skills at school.",
-    "complex_sentence": "The research skills plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 141
-  },
-  {
-    "word": "analytical skills",
-    "simple_sentence": "I study analytical skills at school.",
-    "complex_sentence": "The analytical skills plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 142
-  },
-  {
-    "word": "logical reasoning",
-    "simple_sentence": "I study logical reasoning at school.",
-    "complex_sentence": "The logical reasoning plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 143
-  },
-  {
-    "word": "decision-making",
-    "simple_sentence": "I study decision-making at school.",
-    "complex_sentence": "The decision-making plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 144
-  },
-  {
-    "word": "evaluation",
-    "simple_sentence": "I study evaluation at school.",
-    "complex_sentence": "The evaluation plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 145
-  },
-  {
-    "word": "self-assessment",
-    "simple_sentence": "I study self-assessment at school.",
-    "complex_sentence": "The self-assessment plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 146
-  },
-  {
-    "word": "reflection",
-    "simple_sentence": "I study reflection at school.",
-    "complex_sentence": "The reflection plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 147
-  },
-  {
-    "word": "feedback",
-    "simple_sentence": "I study feedback at school.",
-    "complex_sentence": "The feedback plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 148
-  },
-  {
-    "word": "peer review",
-    "simple_sentence": "I study peer review at school.",
-    "complex_sentence": "The peer review plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 149
-  },
-  {
-    "word": "editing",
-    "simple_sentence": "I study editing at school.",
-    "complex_sentence": "The editing plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 150
-  },
-  {
-    "word": "proofreading",
-    "simple_sentence": "I study proofreading at school.",
-    "complex_sentence": "The proofreading plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 151
-  },
-  {
-    "word": "rewriting",
-    "simple_sentence": "I study rewriting at school.",
-    "complex_sentence": "The rewriting plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 152
-  },
-  {
-    "word": "presentation skills",
-    "simple_sentence": "I study presentation skills at school.",
-    "complex_sentence": "The presentation skills plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 153
-  },
-  {
-    "word": "argumentation",
-    "simple_sentence": "I study argumentation at school.",
-    "complex_sentence": "The argumentation plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 154
-  },
-  {
-    "word": "persuasion",
-    "simple_sentence": "I study persuasion at school.",
-    "complex_sentence": "The persuasion plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 155
-  },
-  {
-    "word": "questioning",
-    "simple_sentence": "I study questioning at school.",
-    "complex_sentence": "The questioning plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 156
-  },
-  {
-    "word": "listening",
-    "simple_sentence": "I study listening at school.",
-    "complex_sentence": "The listening plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 157
-  },
-  {
-    "word": "comprehension",
-    "simple_sentence": "I study comprehension at school.",
-    "complex_sentence": "The comprehension plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 158
-  },
-  {
-    "word": "vocabulary",
-    "simple_sentence": "I study vocabulary at school.",
-    "complex_sentence": "The vocabulary plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 159
-  },
-  {
-    "word": "grammar",
-    "simple_sentence": "I study grammar at school.",
-    "complex_sentence": "The grammar plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 160
-  },
-  {
-    "word": "syntax",
-    "simple_sentence": "I study syntax at school.",
-    "complex_sentence": "The syntax plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 161
-  },
-  {
-    "word": "punctuation",
-    "simple_sentence": "I study punctuation at school.",
-    "complex_sentence": "The punctuation plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 162
-  },
-  {
-    "word": "spelling",
-    "simple_sentence": "I study spelling at school.",
-    "complex_sentence": "The spelling plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 163
-  },
-  {
-    "word": "literature",
-    "simple_sentence": "I study literature at school.",
-    "complex_sentence": "The literature plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 164
-  },
-  {
-    "word": "fiction",
-    "simple_sentence": "I study fiction at school.",
-    "complex_sentence": "The fiction plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 165
-  },
-  {
-    "word": "non-fiction",
-    "simple_sentence": "I study non-fiction at school.",
-    "complex_sentence": "The non-fiction plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 166
-  },
-  {
-    "word": "poetry",
-    "simple_sentence": "I study poetry at school.",
-    "complex_sentence": "The poetry plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 167
-  },
-  {
-    "word": "prose",
-    "simple_sentence": "I study prose at school.",
-    "complex_sentence": "The prose plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 168
-  },
-  {
-    "word": "drama",
-    "simple_sentence": "I study drama at school.",
-    "complex_sentence": "The drama plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 169
-  },
-  {
-    "word": "history",
-    "simple_sentence": "I study history at school.",
-    "complex_sentence": "The history plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 170
-  },
-  {
-    "word": "geography",
-    "simple_sentence": "I study geography at school.",
-    "complex_sentence": "The geography plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 171
-  },
-  {
-    "word": "social studies",
-    "simple_sentence": "I study social studies at school.",
-    "complex_sentence": "The social studies plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 172
-  },
-  {
-    "word": "civics",
-    "simple_sentence": "I study civics at school.",
-    "complex_sentence": "The civics plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 173
-  },
-  {
-    "word": "government",
-    "simple_sentence": "I study government at school.",
-    "complex_sentence": "The government plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 174
-  },
-  {
-    "word": "economics",
-    "simple_sentence": "I study economics at school.",
-    "complex_sentence": "The economics plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 175
-  },
-  {
-    "word": "political science",
-    "simple_sentence": "I study political science at school.",
-    "complex_sentence": "The political science plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 176
-  },
-  {
-    "word": "philosophy",
-    "simple_sentence": "I study philosophy at school.",
-    "complex_sentence": "The philosophy plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 177
-  },
-  {
-    "word": "psychology",
-    "simple_sentence": "I study psychology at school.",
-    "complex_sentence": "The psychology plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 178
-  },
-  {
-    "word": "sociology",
-    "simple_sentence": "I study sociology at school.",
-    "complex_sentence": "The sociology plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 179
-  },
-  {
-    "word": "anthropology",
-    "simple_sentence": "I study anthropology at school.",
-    "complex_sentence": "The anthropology plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 180
-  },
-  {
-    "word": "archaeology",
-    "simple_sentence": "I study archaeology at school.",
-    "complex_sentence": "The archaeology plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 181
-  },
-  {
-    "word": "biology",
-    "simple_sentence": "I study biology at school.",
-    "complex_sentence": "The biology plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 182
-  },
-  {
-    "word": "chemistry",
-    "simple_sentence": "I study chemistry at school.",
-    "complex_sentence": "The chemistry plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 183
-  },
-  {
-    "word": "physics",
-    "simple_sentence": "I study physics at school.",
-    "complex_sentence": "The physics plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 184
-  },
-  {
-    "word": "mathematics",
-    "simple_sentence": "I study mathematics at school.",
-    "complex_sentence": "The mathematics plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 185
-  },
-  {
-    "word": "algebra",
-    "simple_sentence": "I study algebra at school.",
-    "complex_sentence": "The algebra plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 186
-  },
-  {
-    "word": "geometry",
-    "simple_sentence": "I study geometry at school.",
-    "complex_sentence": "The geometry plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 187
-  },
-  {
-    "word": "trigonometry",
-    "simple_sentence": "I study trigonometry at school.",
-    "complex_sentence": "The trigonometry plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 188
-  },
-  {
-    "word": "calculus",
-    "simple_sentence": "I study calculus at school.",
-    "complex_sentence": "The calculus plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 189
-  },
-  {
-    "word": "statistics",
-    "simple_sentence": "I study statistics at school.",
-    "complex_sentence": "The statistics plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 190
-  },
-  {
-    "word": "computer science",
-    "simple_sentence": "I study computer science at school.",
-    "complex_sentence": "The computer science plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 191
-  },
-  {
-    "word": "information technology",
-    "simple_sentence": "I study information technology at school.",
-    "complex_sentence": "The information technology plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 192
-  },
-  {
-    "word": "programming",
-    "simple_sentence": "I study programming at school.",
-    "complex_sentence": "The programming plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 193
-  },
-  {
-    "word": "coding",
-    "simple_sentence": "I study coding at school.",
-    "complex_sentence": "The coding plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 194
-  },
-  {
-    "word": "engineering",
-    "simple_sentence": "I study engineering at school.",
-    "complex_sentence": "The engineering plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 195
-  },
-  {
-    "word": "architecture",
-    "simple_sentence": "I study architecture at school.",
-    "complex_sentence": "The architecture plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 196
-  },
-  {
-    "word": "medicine",
-    "simple_sentence": "I study medicine at school.",
-    "complex_sentence": "The medicine plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 197
-  },
-  {
-    "word": "nursing",
-    "simple_sentence": "I study nursing at school.",
-    "complex_sentence": "The nursing plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 198
-  },
-  {
-    "word": "law",
-    "simple_sentence": "I study law at school.",
-    "complex_sentence": "The law plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 199
-  },
-  {
-    "word": "business",
-    "simple_sentence": "I study business at school.",
-    "complex_sentence": "The business plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 200
-  },
-  {
-    "word": "accounting",
-    "simple_sentence": "I study accounting at school.",
-    "complex_sentence": "The accounting plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 201
-  },
-  {
-    "word": "finance",
-    "simple_sentence": "I study finance at school.",
-    "complex_sentence": "The finance plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 202
-  },
-  {
-    "word": "marketing",
-    "simple_sentence": "I study marketing at school.",
-    "complex_sentence": "The marketing plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 203
-  },
-  {
-    "word": "management",
-    "simple_sentence": "I study management at school.",
-    "complex_sentence": "The management plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 204
-  },
-  {
-    "word": "entrepreneurship",
-    "simple_sentence": "I study entrepreneurship at school.",
-    "complex_sentence": "The entrepreneurship plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 205
-  },
-  {
-    "word": "ethics",
-    "simple_sentence": "I study ethics at school.",
-    "complex_sentence": "The ethics plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 206
-  },
-  {
-    "word": "environmental science",
-    "simple_sentence": "I study environmental science at school.",
-    "complex_sentence": "The environmental science plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 207
-  },
-  {
-    "word": "sustainability",
-    "simple_sentence": "I study sustainability at school.",
-    "complex_sentence": "The sustainability plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 208
-  },
-  {
-    "word": "foreign languages",
-    "simple_sentence": "I study foreign languages at school.",
-    "complex_sentence": "The foreign languages plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 209
-  },
-  {
-    "word": "translation",
-    "simple_sentence": "I study translation at school.",
-    "complex_sentence": "The translation plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 210
-  },
-  {
-    "word": "interpretation",
-    "simple_sentence": "I study interpretation at school.",
-    "complex_sentence": "The interpretation plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 211
-  },
-  {
-    "word": "linguistics",
-    "simple_sentence": "I study linguistics at school.",
-    "complex_sentence": "The linguistics plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 212
-  },
-  {
-    "word": "semantics",
-    "simple_sentence": "I study semantics at school.",
-    "complex_sentence": "The semantics plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 213
-  },
-  {
-    "word": "phonetics",
-    "simple_sentence": "I study phonetics at school.",
-    "complex_sentence": "The phonetics plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 214
-  },
-  {
-    "word": "phonology",
-    "simple_sentence": "I study phonology at school.",
-    "complex_sentence": "The phonology plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 215
-  },
-  {
-    "word": "morphology",
-    "simple_sentence": "I study morphology at school.",
-    "complex_sentence": "The morphology plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 216
-  },
-  {
-    "word": "sociolinguistics",
-    "simple_sentence": "I study sociolinguistics at school.",
-    "complex_sentence": "The sociolinguistics plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 217
-  },
-  {
-    "word": "psycholinguistics",
-    "simple_sentence": "I study psycholinguistics at school.",
-    "complex_sentence": "The psycholinguistics plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 218
-  },
-  {
-    "word": "language acquisition",
-    "simple_sentence": "I study language acquisition at school.",
-    "complex_sentence": "The language acquisition plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 219
-  },
-  {
-    "word": "second language",
-    "simple_sentence": "I study second language at school.",
-    "complex_sentence": "The second language plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 220
-  },
-  {
-    "word": "bilingualism",
-    "simple_sentence": "I study bilingualism at school.",
-    "complex_sentence": "The bilingualism plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 221
-  },
-  {
-    "word": "multilingualism",
-    "simple_sentence": "I study multilingualism at school.",
-    "complex_sentence": "The multilingualism plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 222
-  },
-  {
-    "word": "cultural studies",
-    "simple_sentence": "I study cultural studies at school.",
-    "complex_sentence": "The cultural studies plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 223
-  },
-  {
-    "word": "intercultural communication",
-    "simple_sentence": "I study intercultural communication at school.",
-    "complex_sentence": "The intercultural communication plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 224
-  },
-  {
-    "word": "globalization",
-    "simple_sentence": "I study globalization at school.",
-    "complex_sentence": "The globalization plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 225
-  },
-  {
-    "word": "diversity",
-    "simple_sentence": "I study diversity at school.",
-    "complex_sentence": "The diversity plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 226
-  },
-  {
-    "word": "inclusion",
-    "simple_sentence": "I study inclusion at school.",
-    "complex_sentence": "The inclusion plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 227
-  },
-  {
-    "word": "equity",
-    "simple_sentence": "I study equity at school.",
-    "complex_sentence": "The equity plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 228
-  },
-  {
-    "word": "accessibility",
-    "simple_sentence": "I study accessibility at school.",
-    "complex_sentence": "The accessibility plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 229
-  },
-  {
-    "word": "special education",
-    "simple_sentence": "I study special education at school.",
-    "complex_sentence": "The special education plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 230
-  },
-  {
-    "word": "learning disabilities",
-    "simple_sentence": "I study learning disabilities at school.",
-    "complex_sentence": "The learning disabilities plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 231
-  },
-  {
-    "word": "ADHD",
-    "simple_sentence": "I study ADHD at school.",
-    "complex_sentence": "The ADHD plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 232
-  },
-  {
-    "word": "dyslexia",
-    "simple_sentence": "I study dyslexia at school.",
-    "complex_sentence": "The dyslexia plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 233
-  },
-  {
-    "word": "autism",
-    "simple_sentence": "I study autism at school.",
-    "complex_sentence": "The autism plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 234
-  },
-  {
-    "word": "gifted education",
-    "simple_sentence": "I study gifted education at school.",
-    "complex_sentence": "The gifted education plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 235
-  },
-  {
-    "word": "individualized education program",
-    "simple_sentence": "I study individualized education program at school.",
-    "complex_sentence": "The individualized education program plays a fundamental role in the process of acquiring new knowledge and skills.",
-    "pronunciation": "/ˈæp.l̩/",
-    "spanish": "traducción",
-    "id": 236
-  }
+		"word": "school",
+		"simple_sentence": "I study at school.",
+		"complex_sentence": "The school plays a fundamental role in the process of acquiring new knowledge and skills.",
+		"pronunciation": "/skuːl/",
+		"spanish": "escuela",
+		"id": 1
+	},
+	{
+		"word": "university",
+		"simple_sentence": "I study at university.",
+		"complex_sentence": "The university plays a fundamental role in the process of acquiring new knowledge and skills.",
+		"pronunciation": "/ˌjuː.nɪˈvɜː.sɪ.ti/",
+		"spanish": "universidad",
+		"id": 2
+	},
+	{
+		"word": "college",
+		"simple_sentence": "I study at college.",
+		"complex_sentence": "The college plays a fundamental role in the process of acquiring new knowledge and skills.",
+		"pronunciation": "/ˈkɒl.ɪdʒ/",
+		"spanish": "colegio (universidad en algunos países)",
+		"id": 3
+	},
+	{
+		"word": "classroom",
+		"simple_sentence": "I study in the classroom.",
+		"complex_sentence": "The classroom plays a fundamental role in the process of acquiring new knowledge and skills.",
+		"pronunciation": "/ˈklɑːs.ruːm/",
+		"spanish": "aula",
+		"id": 4
+	},
+	{
+		"word": "lecture hall",
+		"simple_sentence": "I attend lectures in the lecture hall.",
+		"complex_sentence": "The lecture hall plays a fundamental role in the process of acquiring new knowledge and skills.",
+		"pronunciation": "/ˈlɛk.tʃər hɔːl/",
+		"spanish": "anfiteatro",
+		"id": 5
+	},
+	{
+		"word": "library",
+		"simple_sentence": "I study in the library.",
+		"complex_sentence": "The library plays a fundamental role in the process of acquiring new knowledge and skills.",
+		"pronunciation": "/ˈlaɪ.brər.i/",
+		"spanish": "biblioteca",
+		"id": 6
+	},
+	{
+		"word": "lab",
+		"simple_sentence": "I conduct experiments in the lab.",
+		"complex_sentence": "The lab plays a fundamental role in the process of acquiring new knowledge and skills.",
+		"pronunciation": "/læb/",
+		"spanish": "laboratorio",
+		"id": 7
+	},
+	{
+		"word": "campus",
+		"simple_sentence": "I live on campus.",
+		"complex_sentence": "The campus plays a fundamental role in the process of acquiring new knowledge and skills.",
+		"pronunciation": "/ˈkæm.pəs/",
+		"spanish": "campus",
+		"id": 8
+	},
+	{
+		"word": "dormitory",
+		"simple_sentence": "I live in a dormitory.",
+		"complex_sentence": "The dormitory provides accommodation to students, offering them a space to live and study.",
+		"pronunciation": "/ˈdɔː.mɪ.tər.i/",
+		"spanish": "dormitorio (residencia estudiantil)",
+		"id": 9
+	},
+	{
+		"word": "cafeteria",
+		"simple_sentence": "I eat in the cafeteria.",
+		"complex_sentence": "The cafeteria provides food and beverages to students and staff, making it a central part of the campus.",
+		"pronunciation": "/ˌkæf.ɪˈtɪə.ri.ə/",
+		"spanish": "cafetería",
+		"id": 10
+	},
+	{
+		"word": "teacher",
+		"simple_sentence": "My teacher helps me learn.",
+		"complex_sentence": "The teacher plays a fundamental role in guiding students through their academic journey.",
+		"pronunciation": "/ˈtiː.tʃər/",
+		"spanish": "profesor",
+		"id": 11
+	},
+	{
+		"word": "professor",
+		"simple_sentence": "My professor teaches at the university.",
+		"complex_sentence": "The professor imparts advanced knowledge and fosters critical thinking in students.",
+		"pronunciation": "/prəˈfɛs.ər/",
+		"spanish": "profesor (universitario)",
+		"id": 12
+	},
+	{
+		"word": "instructor",
+		"simple_sentence": "The instructor teaches us new skills.",
+		"complex_sentence": "The instructor provides hands-on training, ensuring students master practical applications of their studies.",
+		"pronunciation": "/ɪnˈstrʌk.tər/",
+		"spanish": "instructor",
+		"id": 13
+	},
+	{
+		"word": "tutor",
+		"simple_sentence": "My tutor helps me with my assignments.",
+		"complex_sentence": "The tutor offers personalized academic support, helping students understand complex topics more deeply.",
+		"pronunciation": "/ˈtjuː.tər/",
+		"spanish": "tutor",
+		"id": 14
+	},
+	{
+		"word": "student",
+		"simple_sentence": "I am a student at the university.",
+		"complex_sentence": "The student plays an active role in their learning, taking responsibility for acquiring new knowledge and skills.",
+		"pronunciation": "/ˈstjuː.dənt/",
+		"spanish": "estudiante",
+		"id": 15
+	},
+	{
+		"word": "classmate",
+		"simple_sentence": "My classmate helps me study.",
+		"complex_sentence": "A classmate can be a valuable partner in learning, providing support and collaboration during projects and assignments.",
+		"pronunciation": "/ˈklɑːs.meɪt/",
+		"spanish": "compañero de clase",
+		"id": 16
+	},
+	{
+		"word": "principal",
+		"simple_sentence": "The principal runs the school.",
+		"complex_sentence": "The principal manages the school's operations, ensuring that all students receive a high-quality education.",
+		"pronunciation": "/ˈprɪn.sə.pəl/",
+		"spanish": "director",
+		"id": 17
+	},
+	{
+		"word": "dean",
+		"simple_sentence": "The dean oversees the faculty.",
+		"complex_sentence": "The dean is responsible for overseeing the academic integrity and performance of the faculty within their department.",
+		"pronunciation": "/diːn/",
+		"spanish": "decano",
+		"id": 18
+	},
+	{
+		"word": "counselor",
+		"simple_sentence": "I talk to my counselor for advice.",
+		"complex_sentence": "The counselor provides guidance and emotional support, helping students navigate academic and personal challenges.",
+		"pronunciation": "/ˈkaʊn.səl.ər/",
+		"spanish": "consejero",
+		"id": 19
+	},
+	{
+		"word": "advisor",
+		"simple_sentence": "My advisor helps me choose my courses.",
+		"complex_sentence": "An academic advisor provides critical advice and support to students in selecting courses that align with their career goals.",
+		"pronunciation": "/ədˈvaɪ.zər/",
+		"spanish": "asesor",
+		"id": 20
+	},
+	{
+		"word": "lesson",
+		"simple_sentence": "I attend the lesson on Mondays.",
+		"complex_sentence": "Each lesson provides structured instruction, allowing students to build on their existing knowledge.",
+		"pronunciation": "/ˈlɛs.ən/",
+		"spanish": "lección",
+		"id": 21
+	},
+	{
+		"word": "lecture",
+		"simple_sentence": "I listen to the lecture carefully.",
+		"complex_sentence": "The lecture provides an opportunity for students to engage with complex subjects and ask questions.",
+		"pronunciation": "/ˈlɛk.tʃər/",
+		"spanish": "clase magistral",
+		"id": 22
+	},
+	{
+		"word": "seminar",
+		"simple_sentence": "I participate in the seminar every week.",
+		"complex_sentence": "Seminars encourage active discussion and critical thinking among students and instructors.",
+		"pronunciation": "/ˈsɛm.ɪ.nɑːr/",
+		"spanish": "seminario",
+		"id": 23
+	},
+	{
+		"word": "workshop",
+		"simple_sentence": "I attended the workshop on Saturday.",
+		"complex_sentence": "The workshop provides hands-on learning and practical experience in a specific field.",
+		"pronunciation": "/ˈwɜːk.ʃɒp/",
+		"spanish": "taller",
+		"id": 24
+	},
+	{
+		"word": "course",
+		"simple_sentence": "I'm taking a new course in math.",
+		"complex_sentence": "The course consists of various lessons and assessments designed to help students grasp the subject matter.",
+		"pronunciation": "/kɔːs/",
+		"spanish": "curso",
+		"id": 25
+	},
+	{
+		"word": "curriculum",
+		"simple_sentence": "The curriculum is designed to meet students' educational needs.",
+		"complex_sentence": "The curriculum outlines the subjects and materials that students are expected to study throughout the academic year.",
+		"pronunciation": "/kəˈrɪkjʊləm/",
+		"spanish": "plan de estudios",
+		"id": 26
+	},
+	{
+		"word": "syllabus",
+		"simple_sentence": "The syllabus outlines all the topics we will cover this semester.",
+		"complex_sentence": "A syllabus provides students with an overview of the course, including key topics, assignments, and deadlines.",
+		"pronunciation": "/ˈsɪl.ə.bəs/",
+		"spanish": "síntesis de curso",
+		"id": 27
+	},
+	{
+		"word": "assignment",
+		"simple_sentence": "I completed my assignment on time.",
+		"complex_sentence": "Assignments are an essential part of the learning process, helping students apply the knowledge they've gained.",
+		"pronunciation": "/əˈsaɪn.mənt/",
+		"spanish": "tarea",
+		"id": 28
+	},
+	{
+		"word": "homework",
+		"simple_sentence": "I always do my homework before bed.",
+		"complex_sentence": "Homework assignments reinforce classroom learning and help students practice new skills.",
+		"pronunciation": "/ˈhoʊm.wɜːk/",
+		"spanish": "deberes",
+		"id": 29
+	},
+	{
+		"word": "project",
+		"simple_sentence": "Our group is working on a project for science class.",
+		"complex_sentence": "Projects encourage teamwork and allow students to explore topics in greater depth.",
+		"pronunciation": "/ˈprɒdʒ.ɪkt/",
+		"spanish": "proyecto",
+		"id": 30
+	},
+	{
+		"word": "exam",
+		"simple_sentence": "I'm preparing for my final exam.",
+		"complex_sentence": "Exams are a crucial part of assessing students' understanding and retention of course material.",
+		"pronunciation": "/ɪɡˈzæm/",
+		"spanish": "examen",
+		"id": 31
+	},
+	{
+		"word": "test",
+		"simple_sentence": "I took a math test today.",
+		"complex_sentence": "Tests help teachers gauge the students' comprehension of the subject matter.",
+		"pronunciation": "/tɛst/",
+		"spanish": "prueba",
+		"id": 32
+	},
+	{
+		"word": "quiz",
+		"simple_sentence": "We had a pop quiz in class.",
+		"complex_sentence": "Quizzes offer a quick assessment of students' knowledge and often cover smaller portions of the curriculum.",
+		"pronunciation": "/kwɪz/",
+		"spanish": "cuestionario",
+		"id": 33
+	},
+	{
+		"word": "assessment",
+		"simple_sentence": "The assessment will cover all the topics from this semester.",
+		"complex_sentence": "Assessments allow teachers to evaluate the academic progress of their students in a structured way.",
+		"pronunciation": "/əˈsɛs.mənt/",
+		"spanish": "evaluación",
+		"id": 34
+	},
+	{
+		"word": "grade",
+		"simple_sentence": "I received a good grade on my exam.",
+		"complex_sentence": "Grades provide a measure of academic achievement and indicate how well students understand the material.",
+		"pronunciation": "/ɡreɪd/",
+		"spanish": "calificación",
+		"id": 35
+	},
+	{
+		"word": "report card",
+		"simple_sentence": "I received my report card today.",
+		"complex_sentence": "The report card provides a summary of a student's academic performance over a period of time.",
+		"pronunciation": "/rɪˈpɔːt kɑːd/",
+		"spanish": "boletín de calificaciones",
+		"id": 36
+	},
+	{
+		"word": "transcript",
+		"simple_sentence": "I requested a copy of my academic transcript.",
+		"complex_sentence": "The transcript is an official document that details a student's academic record.",
+		"pronunciation": "/ˈtræn.skrɪpt/",
+		"spanish": "expediente académico",
+		"id": 37
+	},
+	{
+		"word": "diploma",
+		"simple_sentence": "I received my diploma after graduation.",
+		"complex_sentence": "The diploma signifies the successful completion of an academic program.",
+		"pronunciation": "/dɪˈploʊ.mə/",
+		"spanish": "diploma",
+		"id": 38
+	},
+	{
+		"word": "degree",
+		"simple_sentence": "She earned a degree in biology.",
+		"complex_sentence": "A degree represents the culmination of years of study in a particular academic field.",
+		"pronunciation": "/dɪˈɡriː/",
+		"spanish": "título",
+		"id": 39
+	},
+	{
+		"word": "certificate",
+		"simple_sentence": "I received a certificate for completing the course.",
+		"complex_sentence": "A certificate verifies that an individual has completed a particular course or program of study.",
+		"pronunciation": "/səˈtɪf.ɪ.kət/",
+		"spanish": "certificado",
+		"id": 40
+	},
+  {
+		"word": "textbook",
+		"simple_sentence": "I bought a new textbook for my biology class.",
+		"complex_sentence": "Textbooks provide students with in-depth explanations of the course material.",
+		"pronunciation": "/ˈtɛkst.bʊk/",
+		"spanish": "libro de texto",
+		"id": 68
+	},
+	{
+		"word": "notebook",
+		"simple_sentence": "I always carry a notebook to take notes in class.",
+		"complex_sentence": "A well-organized notebook can greatly aid in studying for exams.",
+		"pronunciation": "/ˈnəʊt.bʊk/",
+		"spanish": "cuaderno",
+		"id": 69
+	},
+	{
+		"word": "journal",
+		"simple_sentence": "She keeps a journal to document her research.",
+		"complex_sentence": "A research journal is essential for keeping track of observations and findings during the study process.",
+		"pronunciation": "/ˈdʒɜː.nəl/",
+		"spanish": "diario / revista académica",
+		"id": 70
+	},
+	{
+		"word": "article",
+		"simple_sentence": "I read an interesting article on climate change.",
+		"complex_sentence": "Articles in academic journals provide detailed insights into current research and developments.",
+		"pronunciation": "/ˈɑː.tɪ.kəl/",
+		"spanish": "artículo",
+		"id": 71
+	},
+	{
+		"word": "chapter",
+		"simple_sentence": "We are studying the first chapter of the textbook.",
+		"complex_sentence": "Each chapter of the textbook builds on previous concepts to develop a deeper understanding of the subject.",
+		"pronunciation": "/ˈtʃæp.tər/",
+		"spanish": "capítulo",
+		"id": 72
+	},
+	{
+		"word": "paragraph",
+		"simple_sentence": "The paragraph explains the causes of global warming.",
+		"complex_sentence": "A well-structured paragraph should contain a topic sentence, supporting details, and a conclusion.",
+		"pronunciation": "/ˈpær.ə.ɡrɑːf/",
+		"spanish": "párrafo",
+		"id": 73
+	},
+	{
+		"word": "sentence",
+		"simple_sentence": "The sentence explains the concept clearly.",
+		"complex_sentence": "Sentences are the building blocks of written communication, each conveying a complete idea.",
+		"pronunciation": "/ˈsen.təns/",
+		"spanish": "oración",
+		"id": 74
+	},
+	{
+		"word": "word",
+		"simple_sentence": "She looked up the meaning of a difficult word.",
+		"complex_sentence": "Words are the fundamental units of language, allowing us to convey ideas and emotions.",
+		"pronunciation": "/wɜːd/",
+		"spanish": "palabra",
+		"id": 75
+	},
+	{
+		"word": "definition",
+		"simple_sentence": "I learned the definition of a new term today.",
+		"complex_sentence": "Clear definitions are essential for understanding complex academic concepts.",
+		"pronunciation": "/ˌdɛf.ɪˈnɪʃ.ən/",
+		"spanish": "definición",
+		"id": 76
+	},
+	{
+		"word": "term",
+		"simple_sentence": "She is learning new scientific terms in her biology class.",
+		"complex_sentence": "Each academic discipline has its own specialized terms that students must master.",
+		"pronunciation": "/tɜːm/",
+		"spanish": "término",
+		"id": 77
+	},
+	{
+		"word": "concept",
+		"simple_sentence": "The professor explained a complex mathematical concept.",
+		"complex_sentence": "Understanding key concepts is fundamental to grasping the principles of any academic subject.",
+		"pronunciation": "/ˈkɒn.sɛpt/",
+		"spanish": "concepto",
+		"id": 78
+	},
+	{
+		"word": "idea",
+		"simple_sentence": "She presented a new idea during the group discussion.",
+		"complex_sentence": "An idea can be the starting point for innovation, leading to breakthroughs in science and technology.",
+		"pronunciation": "/aɪˈdɪə/",
+		"spanish": "idea",
+		"id": 79
+	},
+	{
+		"word": "theory",
+		"simple_sentence": "Einstein's theory of relativity changed the way we understand the universe.",
+		"complex_sentence": "Scientific theories are based on evidence and explain how different aspects of the world work.",
+		"pronunciation": "/ˈθɪə.ri/",
+		"spanish": "teoría",
+		"id": 80
+	},
+  {
+		"word": "principle",
+		"simple_sentence": "The principle of honesty is important in life.",
+		"complex_sentence": "The principle of equality plays a fundamental role in promoting justice in society.",
+		"pronunciation": "/ˈprɪn.sə.pəl/",
+		"spanish": "principio",
+		"id": 81
+	},
+	{
+		"word": "formula",
+		"simple_sentence": "We use a mathematical formula to solve the problem.",
+		"complex_sentence": "The chemical formula for water, H2O, is essential in understanding its molecular composition.",
+		"pronunciation": "/ˈfɔː.mjʊ.lə/",
+		"spanish": "fórmula",
+		"id": 82
+	},
+	{
+		"word": "equation",
+		"simple_sentence": "Solving this equation is part of the math exam.",
+		"complex_sentence": "Understanding how to balance an equation is critical in algebra.",
+		"pronunciation": "/ɪˈkweɪ.ʒən/",
+		"spanish": "ecuación",
+		"id": 83
+	},
+	{
+		"word": "diagram",
+		"simple_sentence": "The teacher drew a diagram on the board.",
+		"complex_sentence": "The diagram illustrates the different phases of the water cycle.",
+		"pronunciation": "/ˈdaɪ.ə.ɡræm/",
+		"spanish": "diagrama",
+		"id": 84
+	},
+	{
+		"word": "chart",
+		"simple_sentence": "I created a chart to display the data.",
+		"complex_sentence": "The chart shows the company's sales growth over the past five years.",
+		"pronunciation": "/tʃɑːt/",
+		"spanish": "gráfico",
+		"id": 85
+	},
+	{
+		"word": "graph",
+		"simple_sentence": "The graph shows the population growth.",
+		"complex_sentence": "A line graph can effectively represent changes in temperature over time.",
+		"pronunciation": "/ɡræf/",
+		"spanish": "gráfico",
+		"id": 86
+	},
+	{
+		"word": "map",
+		"simple_sentence": "He used a map to find the restaurant.",
+		"complex_sentence": "The map of the city shows all the main tourist attractions.",
+		"pronunciation": "/mæp/",
+		"spanish": "mapa",
+		"id": 87
+	},
+	{
+		"word": "visual aid",
+		"simple_sentence": "She used visual aids during her presentation.",
+		"complex_sentence": "Visual aids such as graphs and charts make complex information easier to understand.",
+		"pronunciation": "/ˈvɪʒ.u.əl eɪd/",
+		"spanish": "ayuda visual",
+		"id": 88
+	},
+	{
+		"word": "powerpoint",
+		"simple_sentence": "I created a PowerPoint for the class.",
+		"complex_sentence": "PowerPoint presentations are commonly used in business meetings to convey ideas effectively.",
+		"pronunciation": "/ˈpaʊərˌpɔɪnt/",
+		"spanish": "PowerPoint",
+		"id": 89
+	},
+	{
+		"word": "whiteboard",
+		"simple_sentence": "The teacher wrote the lesson on the whiteboard.",
+		"complex_sentence": "The whiteboard allows for quick changes during classroom discussions.",
+		"pronunciation": "/ˈwaɪt.bɔːd/",
+		"spanish": "pizarra blanca",
+		"id": 90
+	},
+	{
+		"word": "blackboard",
+		"simple_sentence": "The math teacher drew a diagram on the blackboard.",
+		"complex_sentence": "Traditional blackboards are still used in many classrooms for teaching purposes.",
+		"pronunciation": "/ˈblæk.bɔːd/",
+		"spanish": "pizarra",
+		"id": 91
+	},
+	{
+		"word": "marker",
+		"simple_sentence": "I used a red marker to highlight important information.",
+		"complex_sentence": "The marker is essential for writing clearly on whiteboards during presentations.",
+		"pronunciation": "/ˈmɑː.kər/",
+		"spanish": "marcador",
+		"id": 92
+	},
+	{
+		"word": "chalk",
+		"simple_sentence": "The teacher used chalk to write on the blackboard.",
+		"complex_sentence": "Chalk is commonly used in classrooms, although whiteboards and markers are becoming more prevalent.",
+		"pronunciation": "/tʃɔːk/",
+		"spanish": "tiza",
+		"id": 93
+	},
+	{
+		"word": "eraser",
+		"simple_sentence": "I used an eraser to correct my mistake.",
+		"complex_sentence": "An eraser is a handy tool for removing pencil marks from paper.",
+		"pronunciation": "/ɪˈreɪ.zər/",
+		"spanish": "borrador",
+		"id": 94
+	},
+	{
+		"word": "pen",
+		"simple_sentence": "I wrote the essay with a blue pen.",
+		"complex_sentence": "A pen is often preferred for official documents due to its permanence.",
+		"pronunciation": "/pɛn/",
+		"spanish": "bolígrafo",
+		"id": 95
+	},
+	{
+		"word": "pencil",
+		"simple_sentence": "I prefer using a pencil for sketching.",
+		"complex_sentence": "A pencil allows for easy corrections, making it ideal for drafting and drawing.",
+		"pronunciation": "/ˈpɛn.sɪl/",
+		"spanish": "lápiz",
+		"id": 96
+	},
+	{
+		"word": "highlighter",
+		"simple_sentence": "I used a yellow highlighter to mark important sections.",
+		"complex_sentence": "Highlighters are useful for emphasizing key points in a text.",
+		"pronunciation": "/ˈhaɪ.laɪ.tər/",
+		"spanish": "resaltador",
+		"id": 97
+	},
+	{
+		"word": "ruler",
+		"simple_sentence": "I measured the lines with a ruler.",
+		"complex_sentence": "A ruler is essential for creating straight lines and measuring distances accurately.",
+		"pronunciation": "/ˈruː.lər/",
+		"spanish": "regla",
+		"id": 98
+	},
+	{
+		"word": "compass",
+		"simple_sentence": "We used a compass to draw a circle.",
+		"complex_sentence": "In geometry class, a compass is used to draw accurate circles and arcs.",
+		"pronunciation": "/ˈkʌm.pəs/",
+		"spanish": "compás",
+		"id": 99
+	},
+	{
+		"word": "protractor",
+		"simple_sentence": "The protractor helped me measure the angle.",
+		"complex_sentence": "A protractor is an important tool in geometry for measuring angles precisely.",
+		"pronunciation": "/prəˈtræk.tər/",
+		"spanish": "transportador",
+		"id": 100
+	},
+	{
+		"word": "calculator",
+		"simple_sentence": "I use a calculator to solve math problems.",
+		"complex_sentence": "A scientific calculator is often necessary for solving advanced equations.",
+		"pronunciation": "/ˈkæl.kjʊ.leɪ.tər/",
+		"spanish": "calculadora",
+		"id": 101
+	},
+	{
+		"word": "laptop",
+		"simple_sentence": "I use a laptop to take notes in class.",
+		"complex_sentence": "A laptop is a versatile tool for both studying and entertainment.",
+		"pronunciation": "/ˈlæp.tɒp/",
+		"spanish": "ordenador portátil",
+		"id": 102
+	},{
+		"word": "tablet",
+		"simple_sentence": "I use a tablet to read books.",
+		"complex_sentence": "Tablets are convenient for reading and browsing the internet on the go.",
+		"pronunciation": "/ˈtæb.lət/",
+		"spanish": "tableta",
+		"id": 103
+	},
+	{
+		"word": "smartboard",
+		"simple_sentence": "The teacher used a smartboard for the lesson.",
+		"complex_sentence": "Smartboards have revolutionized the way interactive lessons are delivered in classrooms.",
+		"pronunciation": "/ˈsmɑːt.bɔːd/",
+		"spanish": "pizarra digital",
+		"id": 104
+	},
+	{
+		"word": "projector",
+		"simple_sentence": "The projector displayed the presentation.",
+		"complex_sentence": "Projectors are essential tools for presenting slides and videos to large audiences.",
+		"pronunciation": "/prəˈdʒek.tər/",
+		"spanish": "proyector",
+		"id": 105
+	},
+	{
+		"word": "headphones",
+		"simple_sentence": "I used headphones to listen to music.",
+		"complex_sentence": "Headphones are essential for listening to audio without disturbing others.",
+		"pronunciation": "/ˈhed.fəʊnz/",
+		"spanish": "auriculares",
+		"id": 106
+	},
+	{
+		"word": "microphone",
+		"simple_sentence": "He used a microphone to give a speech.",
+		"complex_sentence": "A microphone amplifies a speaker's voice, making it audible to a large audience.",
+		"pronunciation": "/ˈmaɪ.krə.fəʊn/",
+		"spanish": "micrófono",
+		"id": 107
+	},
+	{
+		"word": "midterm",
+		"simple_sentence": "We have a midterm exam next week.",
+		"complex_sentence": "Midterm exams are an important measure of student progress halfway through the course.",
+		"pronunciation": "/ˈmɪd.tɜːm/",
+		"spanish": "examen parcial",
+		"id": 108
+	},
+	{
+		"word": "final exam",
+		"simple_sentence": "I studied hard for my final exam.",
+		"complex_sentence": "Final exams often determine a large portion of a student's overall grade.",
+		"pronunciation": "/ˈfaɪ.nəl ɪɡˈzæm/",
+		"spanish": "examen final",
+		"id": 109
+	},
+	{
+		"word": "study guide",
+		"simple_sentence": "I used the study guide to prepare for the test.",
+		"complex_sentence": "A study guide is a valuable resource for reviewing key concepts before an exam.",
+		"pronunciation": "/ˈstʌd.i ɡaɪd/",
+		"spanish": "guía de estudio",
+		"id": 110
+	},
+	{
+		"word": "revision",
+		"simple_sentence": "I revised my notes before the exam.",
+		"complex_sentence": "Revision is crucial for retaining information and ensuring success in exams.",
+		"pronunciation": "/rɪˈvɪʒ.ən/",
+		"spanish": "revisión",
+		"id": 111
+	},
+	{
+		"word": "practice",
+		"simple_sentence": "I practice math problems every day.",
+		"complex_sentence": "Regular practice helps improve skills and understanding in any subject.",
+		"pronunciation": "/ˈpræk.tɪs/",
+		"spanish": "práctica",
+		"id": 112
+	},
+	{
+		"word": "group study",
+		"simple_sentence": "We formed a group study to prepare for the exam.",
+		"complex_sentence": "Group study sessions can be helpful for discussing ideas and clarifying doubts.",
+		"pronunciation": "/ɡruːp ˈstʌd.i/",
+		"spanish": "estudio en grupo",
+		"id": 113
+	},
+	{
+		"word": "tutoring",
+		"simple_sentence": "I attend tutoring sessions every week.",
+		"complex_sentence": "Tutoring provides personalized help for students struggling with certain subjects.",
+		"pronunciation": "/ˈtjuː.tər.ɪŋ/",
+		"spanish": "tutoría",
+		"id": 114
+	},
+	{
+		"word": "mentoring",
+		"simple_sentence": "I have a mentor to guide me through the program.",
+		"complex_sentence": "Mentoring is a valuable process where experienced individuals provide guidance and support to students.",
+		"pronunciation": "/ˈmen.tɔː.rɪŋ/",
+		"spanish": "mentoría",
+		"id": 115
+	},
+	{
+		"word": "debate",
+		"simple_sentence": "We had a debate on climate change in class.",
+		"complex_sentence": "Debates help students develop critical thinking and persuasive communication skills.",
+		"pronunciation": "/dɪˈbeɪt/",
+		"spanish": "debate",
+		"id": 116
+	},
+	{
+		"word": "discussion",
+		"simple_sentence": "We had a class discussion about the book.",
+		"complex_sentence": "Class discussions encourage students to share their perspectives and engage with the material more deeply.",
+		"pronunciation": "/dɪˈskʌʃ.ən/",
+		"spanish": "discusión",
+		"id": 117
+	},
+	{
+		"word": "brainstorming",
+		"simple_sentence": "We did some brainstorming before starting the project.",
+		"complex_sentence": "Brainstorming is an effective method for generating creative ideas and solving problems.",
+		"pronunciation": "/ˈbreɪnˌstɔː.mɪŋ/",
+		"spanish": "lluvia de ideas",
+		"id": 118
+	},
+	{
+		"word": "critical thinking",
+		"simple_sentence": "Critical thinking is essential for solving complex problems.",
+		"complex_sentence": "Developing critical thinking skills helps students analyze situations and make informed decisions.",
+		"pronunciation": "/ˈkrɪt.ɪ.kəl ˈθɪŋ.kɪŋ/",
+		"spanish": "pensamiento crítico",
+		"id": 119
+	},
+	{
+		"word": "problem-solving",
+		"simple_sentence": "Problem-solving is a key skill in mathematics.",
+		"complex_sentence": "Effective problem-solving requires patience and creativity in finding solutions to complex challenges.",
+		"pronunciation": "/ˈprɒb.ləm ˈsɒlv.ɪŋ/",
+		"spanish": "resolución de problemas",
+		"id": 120
+	},
+  {
+		"word": "memorization",
+		"simple_sentence": "I practice memorization at school.",
+		"complex_sentence": "Memorization plays a key role in retaining information for exams and tests.",
+		"pronunciation": "/ˌmem.ə.raɪˈzeɪ.ʃən/",
+		"spanish": "memorización",
+		"id": 121
+	},
+	{
+		"word": "note-taking",
+		"simple_sentence": "I practice note-taking at school.",
+		"complex_sentence": "Note-taking is essential for organizing information and reviewing it later.",
+		"pronunciation": "/ˈnəʊtˌteɪ.kɪŋ/",
+		"spanish": "tomar apuntes",
+		"id": 122
+	},
+	{
+		"word": "time management",
+		"simple_sentence": "I learn time management at school.",
+		"complex_sentence": "Time management is crucial for balancing schoolwork and extracurricular activities.",
+		"pronunciation": "/taɪm ˈmæn.ɪdʒ.mənt/",
+		"spanish": "gestión del tiempo",
+		"id": 123
+	},
+	{
+		"word": "goal-setting",
+		"simple_sentence": "We practice goal-setting in class.",
+		"complex_sentence": "Goal-setting helps students focus on their objectives and track their progress.",
+		"pronunciation": "/ɡəʊl ˈsɛt.ɪŋ/",
+		"spanish": "establecimiento de metas",
+		"id": 124
+	},
+	{
+		"word": "prioritization",
+		"simple_sentence": "I learn about prioritization at school.",
+		"complex_sentence": "Prioritization is vital for organizing tasks and meeting deadlines.",
+		"pronunciation": "/praɪəˌrɪt.aɪˈzeɪ.ʃən/",
+		"spanish": "priorización",
+		"id": 125
+	},
+	{
+		"word": "motivation",
+		"simple_sentence": "Motivation helps students stay focused.",
+		"complex_sentence": "Motivation is the driving force behind achieving academic and personal goals.",
+		"pronunciation": "/ˌməʊ.tɪˈveɪ.ʃən/",
+		"spanish": "motivación",
+		"id": 126
+	},
+	{
+		"word": "focus",
+		"simple_sentence": "Focus is important during exams.",
+		"complex_sentence": "Focus helps students concentrate and avoid distractions while studying.",
+		"pronunciation": "/ˈfəʊ.kəs/",
+		"spanish": "enfoque",
+		"id": 127
+	},
+	{
+		"word": "concentration",
+		"simple_sentence": "Concentration is key for understanding complex topics.",
+		"complex_sentence": "Developing concentration skills improves students' ability to absorb information.",
+		"pronunciation": "/ˌkɒn.sənˈtreɪ.ʃən/",
+		"spanish": "concentración",
+		"id": 128
+	},
+	{
+		"word": "creativity",
+		"simple_sentence": "Creativity is encouraged in art class.",
+		"complex_sentence": "Creativity allows students to explore new ideas and think outside the box.",
+		"pronunciation": "/ˌkriː.eɪˈtɪv.ɪ.ti/",
+		"spanish": "creatividad",
+		"id": 129
+	},
+	{
+		"word": "innovation",
+		"simple_sentence": "Innovation is essential in technology courses.",
+		"complex_sentence": "Innovation drives progress and helps students find novel solutions to problems.",
+		"pronunciation": "/ˌɪn.əˈveɪ.ʃən/",
+		"spanish": "innovación",
+		"id": 130
+	},
+	{
+		"word": "collaboration",
+		"simple_sentence": "Collaboration is encouraged during group projects.",
+		"complex_sentence": "Collaboration helps students learn from each other and work together effectively.",
+		"pronunciation": "/kəˌlæb.əˈreɪ.ʃən/",
+		"spanish": "colaboración",
+		"id": 131
+	},
+	{
+		"word": "teamwork",
+		"simple_sentence": "Teamwork is essential in sports.",
+		"complex_sentence": "Teamwork fosters communication and problem-solving among students.",
+		"pronunciation": "/ˈtiːm.wɜːk/",
+		"spanish": "trabajo en equipo",
+		"id": 132
+	},
+	{
+		"word": "leadership",
+		"simple_sentence": "Leadership skills are taught in business class.",
+		"complex_sentence": "Leadership involves guiding others and making important decisions for a group.",
+		"pronunciation": "/ˈliː.də.ʃɪp/",
+		"spanish": "liderazgo",
+		"id": 133
+	},
+	{
+		"word": "communication",
+		"simple_sentence": "Communication is key in a successful project.",
+		"complex_sentence": "Effective communication helps students express their ideas and collaborate with peers.",
+		"pronunciation": "/kəˌmjuː.nɪˈkeɪ.ʃən/",
+		"spanish": "comunicación",
+		"id": 134
+	},
+	{
+		"word": "public speaking",
+		"simple_sentence": "Public speaking is a valuable skill.",
+		"complex_sentence": "Public speaking helps students build confidence and present their ideas clearly.",
+		"pronunciation": "/ˌpʌb.lɪk ˈspiː.kɪŋ/",
+		"spanish": "hablar en público",
+		"id": 135
+	},
+	{
+		"word": "writing skills",
+		"simple_sentence": "Writing skills are practiced in English class.",
+		"complex_sentence": "Writing skills enable students to communicate their thoughts clearly and effectively.",
+		"pronunciation": "/ˈraɪ.tɪŋ skɪlz/",
+		"spanish": "habilidades de escritura",
+		"id": 136
+	},
+	{
+		"word": "reading skills",
+		"simple_sentence": "Reading skills are essential for all subjects.",
+		"complex_sentence": "Strong reading skills improve comprehension and analytical thinking.",
+		"pronunciation": "/ˈriː.dɪŋ skɪlz/",
+		"spanish": "habilidades de lectura",
+		"id": 137
+	},
+	{
+		"word": "math skills",
+		"simple_sentence": "Math skills are crucial for problem-solving.",
+		"complex_sentence": "Math skills help students develop logical reasoning and numerical fluency.",
+		"pronunciation": "/mæθ skɪlz/",
+		"spanish": "habilidades matemáticas",
+		"id": 138
+	},
+	{
+		"word": "science skills",
+		"simple_sentence": "Science skills are developed in biology and chemistry classes.",
+		"complex_sentence": "Science skills enable students to analyze and understand the natural world.",
+		"pronunciation": "/ˈsaɪəns skɪlz/",
+		"spanish": "habilidades científicas",
+		"id": 139
+	},
+	{
+		"word": "technology skills",
+		"simple_sentence": "Technology skills are vital in today’s world.",
+		"complex_sentence": "Technology skills allow students to navigate digital tools and solve technical problems.",
+		"pronunciation": "/tɛkˈnɒl.ə.dʒi skɪlz/",
+		"spanish": "habilidades tecnológicas",
+		"id": 140
+	},
+  {
+		"word": "research skills",
+		"simple_sentence": "I practice research skills at school.",
+		"complex_sentence": "Research skills play a fundamental role in acquiring and analyzing new information.",
+		"pronunciation": "/rɪˈsɜːtʃ skɪlz/",
+		"spanish": "habilidades de investigación",
+		"id": 141
+	},
+	{
+		"word": "analytical skills",
+		"simple_sentence": "I develop analytical skills at school.",
+		"complex_sentence": "Analytical skills are essential for evaluating information and making informed decisions.",
+		"pronunciation": "/ˌæn.əˈlɪt.ɪ.kəl skɪlz/",
+		"spanish": "habilidades analíticas",
+		"id": 142
+	},
+	{
+		"word": "logical reasoning",
+		"simple_sentence": "I learn logical reasoning at school.",
+		"complex_sentence": "Logical reasoning helps in making structured arguments and solving complex problems.",
+		"pronunciation": "/ˈlɒdʒ.ɪ.kəl ˈriː.zən.ɪŋ/",
+		"spanish": "razonamiento lógico",
+		"id": 143
+	},
+	{
+		"word": "decision-making",
+		"simple_sentence": "I practice decision-making at school.",
+		"complex_sentence": "Effective decision-making is crucial for personal and academic success.",
+		"pronunciation": "/dɪˈsɪʒ.ənˌmeɪ.kɪŋ/",
+		"spanish": "toma de decisiones",
+		"id": 144
+	},
+	{
+		"word": "evaluation",
+		"simple_sentence": "I study evaluation techniques at school.",
+		"complex_sentence": "Evaluation is a key process for assessing the quality and effectiveness of solutions.",
+		"pronunciation": "/ɪˌvæl.juˈeɪ.ʃən/",
+		"spanish": "evaluación",
+		"id": 145
+	},
+	{
+		"word": "self-assessment",
+		"simple_sentence": "Self-assessment is important for personal growth.",
+		"complex_sentence": "Regular self-assessment helps students identify strengths and areas for improvement.",
+		"pronunciation": "/self əˈses.mənt/",
+		"spanish": "autoevaluación",
+		"id": 146
+	},
+	{
+		"word": "reflection",
+		"simple_sentence": "I practice reflection after each lesson.",
+		"complex_sentence": "Reflection allows students to process their learning experiences and improve future performance.",
+		"pronunciation": "/rɪˈflek.ʃən/",
+		"spanish": "reflexión",
+		"id": 147
+	},
+	{
+		"word": "feedback",
+		"simple_sentence": "I give feedback on my classmates' projects.",
+		"complex_sentence": "Constructive feedback is crucial for continuous improvement and learning.",
+		"pronunciation": "/ˈfiːd.bæk/",
+		"spanish": "retroalimentación",
+		"id": 148
+	},
+	{
+		"word": "peer review",
+		"simple_sentence": "We do peer review in our writing class.",
+		"complex_sentence": "Peer review helps students improve their work by receiving input from others.",
+		"pronunciation": "/pɪə rɪˈvjuː/",
+		"spanish": "revisión por pares",
+		"id": 149
+	},
+	{
+		"word": "editing",
+		"simple_sentence": "I edit my essays before submitting them.",
+		"complex_sentence": "Editing helps refine content and ensure clarity in written communication.",
+		"pronunciation": "/ˈed.ɪ.tɪŋ/",
+		"spanish": "edición",
+		"id": 150
+	},
+	{
+		"word": "proofreading",
+		"simple_sentence": "Proofreading helps eliminate errors in writing.",
+		"complex_sentence": "Proofreading ensures that documents are free of grammatical and spelling errors.",
+		"pronunciation": "/ˈpruːfˌriː.dɪŋ/",
+		"spanish": "corrección de pruebas",
+		"id": 151
+	},
+	{
+		"word": "rewriting",
+		"simple_sentence": "I rewrite my draft for clarity.",
+		"complex_sentence": "Rewriting is often necessary to improve the structure and flow of a text.",
+		"pronunciation": "/ˌriːˈraɪ.tɪŋ/",
+		"spanish": "reescritura",
+		"id": 152
+	},
+	{
+		"word": "presentation skills",
+		"simple_sentence": "I practice presentation skills in front of the class.",
+		"complex_sentence": "Presentation skills are vital for effectively communicating ideas to an audience.",
+		"pronunciation": "/ˌprez.ənˈteɪ.ʃən skɪlz/",
+		"spanish": "habilidades de presentación",
+		"id": 153
+	},
+	{
+		"word": "argumentation",
+		"simple_sentence": "We learn argumentation techniques in debate class.",
+		"complex_sentence": "Strong argumentation skills are key for building persuasive and logical arguments.",
+		"pronunciation": "/ˌɑːɡ.jəˈmen.teɪ.ʃən/",
+		"spanish": "argumentación",
+		"id": 154
+	},
+	{
+		"word": "persuasion",
+		"simple_sentence": "Persuasion is an important skill in marketing.",
+		"complex_sentence": "Persuasion involves convincing others to adopt a viewpoint or take action.",
+		"pronunciation": "/pəˈsweɪ.ʒən/",
+		"spanish": "persuasión",
+		"id": 155
+	},
+	{
+		"word": "questioning",
+		"simple_sentence": "I use questioning techniques to learn more.",
+		"complex_sentence": "Effective questioning leads to deeper understanding and critical thinking.",
+		"pronunciation": "/ˈkwes.tʃən.ɪŋ/",
+		"spanish": "cuestionamiento",
+		"id": 156
+	},
+	{
+		"word": "listening",
+		"simple_sentence": "Active listening is important during discussions.",
+		"complex_sentence": "Good listening skills enhance understanding and empathy in communication.",
+		"pronunciation": "/ˈlɪs.ən.ɪŋ/",
+		"spanish": "escucha",
+		"id": 157
+	},
+	{
+		"word": "comprehension",
+		"simple_sentence": "Comprehension is key in language learning.",
+		"complex_sentence": "Reading comprehension skills are essential for understanding complex texts.",
+		"pronunciation": "/ˌkɒm.prɪˈhen.ʃən/",
+		"spanish": "comprensión",
+		"id": 158
+	},
+	{
+		"word": "vocabulary",
+		"simple_sentence": "I expand my vocabulary by reading.",
+		"complex_sentence": "A broad vocabulary allows for more precise and effective communication.",
+		"pronunciation": "/vəˈkæb.jə.lər.i/",
+		"spanish": "vocabulario",
+		"id": 159
+	},
+	{
+		"word": "grammar",
+		"simple_sentence": "I study grammar to improve my writing.",
+		"complex_sentence": "Good grammar ensures that sentences are structured correctly and clearly.",
+		"pronunciation": "/ˈɡræm.ər/",
+		"spanish": "gramática",
+		"id": 160
+	},
+  {
+		"word": "syntax",
+		"simple_sentence": "I study syntax at school.",
+		"complex_sentence": "Syntax plays a fundamental role in structuring sentences and conveying meaning.",
+		"pronunciation": "/ˈsɪn.tæks/",
+		"spanish": "sintaxis",
+		"id": 161
+	},
+	{
+		"word": "punctuation",
+		"simple_sentence": "I study punctuation at school.",
+		"complex_sentence": "Punctuation is crucial for clarifying meaning in written language.",
+		"pronunciation": "/ˌpʌŋk.tʃuˈeɪ.ʃən/",
+		"spanish": "puntuación",
+		"id": 162
+	},
+	{
+		"word": "spelling",
+		"simple_sentence": "I study spelling at school.",
+		"complex_sentence": "Spelling ensures that words are written correctly, which improves communication.",
+		"pronunciation": "/ˈspel.ɪŋ/",
+		"spanish": "ortografía",
+		"id": 163
+	},
+	{
+		"word": "literature",
+		"simple_sentence": "I study literature at school.",
+		"complex_sentence": "Literature provides insights into different cultures and human experiences.",
+		"pronunciation": "/ˈlɪt.ər.ə.tʃər/",
+		"spanish": "literatura",
+		"id": 164
+	},
+	{
+		"word": "fiction",
+		"simple_sentence": "I study fiction at school.",
+		"complex_sentence": "Fiction allows readers to explore imaginative worlds and stories.",
+		"pronunciation": "/ˈfɪk.ʃən/",
+		"spanish": "ficción",
+		"id": 165
+	},
+	{
+		"word": "non-fiction",
+		"simple_sentence": "I study non-fiction at school.",
+		"complex_sentence": "Non-fiction focuses on real events and factual information.",
+		"pronunciation": "/ˌnɒnˈfɪk.ʃən/",
+		"spanish": "no ficción",
+		"id": 166
+	},
+	{
+		"word": "poetry",
+		"simple_sentence": "I study poetry at school.",
+		"complex_sentence": "Poetry uses rhythmic and stylistic elements to express emotions and ideas.",
+		"pronunciation": "/ˈpəʊ.ɪ.tri/",
+		"spanish": "poesía",
+		"id": 167
+	},
+	{
+		"word": "prose",
+		"simple_sentence": "I study prose at school.",
+		"complex_sentence": "Prose is a form of written language that follows the natural flow of speech.",
+		"pronunciation": "/prəʊz/",
+		"spanish": "prosa",
+		"id": 168
+	},
+	{
+		"word": "drama",
+		"simple_sentence": "I study drama at school.",
+		"complex_sentence": "Drama involves the performance of a story, usually through dialogue and action.",
+		"pronunciation": "/ˈdrɑː.mə/",
+		"spanish": "drama",
+		"id": 169
+	},
+	{
+		"word": "history",
+		"simple_sentence": "I study history at school.",
+		"complex_sentence": "History allows us to understand the events that shaped the world we live in.",
+		"pronunciation": "/ˈhɪs.tər.i/",
+		"spanish": "historia",
+		"id": 170
+	},
+	{
+		"word": "geography",
+		"simple_sentence": "I study geography at school.",
+		"complex_sentence": "Geography teaches us about the physical features of the Earth and its inhabitants.",
+		"pronunciation": "/dʒiˈɒɡ.rə.fi/",
+		"spanish": "geografía",
+		"id": 171
+	},
+	{
+		"word": "social studies",
+		"simple_sentence": "I study social studies at school.",
+		"complex_sentence": "Social studies explore the relationships between individuals and their societies.",
+		"pronunciation": "/ˈsəʊ.ʃəl ˈstʌd.iz/",
+		"spanish": "estudios sociales",
+		"id": 172
+	},
+	{
+		"word": "civics",
+		"simple_sentence": "I study civics at school.",
+		"complex_sentence": "Civics teaches the responsibilities and rights of citizens in society.",
+		"pronunciation": "/ˈsɪv.ɪks/",
+		"spanish": "cívica",
+		"id": 173
+	},
+	{
+		"word": "government",
+		"simple_sentence": "I study government at school.",
+		"complex_sentence": "Government plays a key role in organizing and regulating society.",
+		"pronunciation": "/ˈɡʌv.ən.mənt/",
+		"spanish": "gobierno",
+		"id": 174
+	},
+	{
+		"word": "economics",
+		"simple_sentence": "I study economics at school.",
+		"complex_sentence": "Economics helps us understand how resources are distributed and used in societies.",
+		"pronunciation": "/ˌiː.kəˈnɒm.ɪks/",
+		"spanish": "economía",
+		"id": 175
+	},
+	{
+		"word": "political science",
+		"simple_sentence": "I study political science at school.",
+		"complex_sentence": "Political science examines the structure and function of governments and political systems.",
+		"pronunciation": "/pəˈlɪt.ɪ.kəl ˈsaɪ.əns/",
+		"spanish": "ciencia política",
+		"id": 176
+	},
+	{
+		"word": "philosophy",
+		"simple_sentence": "I study philosophy at school.",
+		"complex_sentence": "Philosophy encourages critical thinking and explores fundamental questions about life and existence.",
+		"pronunciation": "/fɪˈlɒs.ə.fi/",
+		"spanish": "filosofía",
+		"id": 177
+	},
+	{
+		"word": "psychology",
+		"simple_sentence": "I study psychology at school.",
+		"complex_sentence": "Psychology helps us understand human behavior and mental processes.",
+		"pronunciation": "/saɪˈkɒl.ə.dʒi/",
+		"spanish": "psicología",
+		"id": 178
+	},
+	{
+		"word": "sociology",
+		"simple_sentence": "I study sociology at school.",
+		"complex_sentence": "Sociology explores how people interact within societies and institutions.",
+		"pronunciation": "/ˌsəʊ.siˈɒl.ə.dʒi/",
+		"spanish": "sociología",
+		"id": 179
+	},
+	{
+		"word": "anthropology",
+		"simple_sentence": "I study anthropology at school.",
+		"complex_sentence": "Anthropology examines human cultures, behaviors, and evolution.",
+		"pronunciation": "/ˌæn.θrəˈpɒl.ə.dʒi/",
+		"spanish": "antropología",
+		"id": 180
+	},
+  {
+		"word": "archaeology",
+		"simple_sentence": "I study archaeology at school.",
+		"complex_sentence": "Archaeology plays a fundamental role in uncovering and understanding past human civilizations.",
+		"pronunciation": "/ˌɑː.kiˈɒl.ə.dʒi/",
+		"spanish": "arqueología",
+		"id": 181
+	},
+	{
+		"word": "biology",
+		"simple_sentence": "I study biology at school.",
+		"complex_sentence": "Biology is essential for understanding the processes of life and living organisms.",
+		"pronunciation": "/baɪˈɒl.ə.dʒi/",
+		"spanish": "biología",
+		"id": 182
+	},
+	{
+		"word": "chemistry",
+		"simple_sentence": "I study chemistry at school.",
+		"complex_sentence": "Chemistry plays a fundamental role in exploring the composition and properties of substances.",
+		"pronunciation": "/ˈkem.ɪ.stri/",
+		"spanish": "química",
+		"id": 183
+	},
+	{
+		"word": "physics",
+		"simple_sentence": "I study physics at school.",
+		"complex_sentence": "Physics helps us understand the laws governing the universe and matter.",
+		"pronunciation": "/ˈfɪz.ɪks/",
+		"spanish": "física",
+		"id": 184
+	},
+	{
+		"word": "mathematics",
+		"simple_sentence": "I study mathematics at school.",
+		"complex_sentence": "Mathematics is key to solving problems in science, engineering, and daily life.",
+		"pronunciation": "/ˌmæθ.əˈmæt.ɪks/",
+		"spanish": "matemáticas",
+		"id": 185
+	},
+	{
+		"word": "algebra",
+		"simple_sentence": "I study algebra at school.",
+		"complex_sentence": "Algebra is fundamental in solving equations and understanding mathematical relationships.",
+		"pronunciation": "/ˈæl.dʒɪ.brə/",
+		"spanish": "álgebra",
+		"id": 186
+	},
+	{
+		"word": "geometry",
+		"simple_sentence": "I study geometry at school.",
+		"complex_sentence": "Geometry is essential for understanding shapes, sizes, and the properties of space.",
+		"pronunciation": "/dʒiˈɒm.ɪ.tri/",
+		"spanish": "geometría",
+		"id": 187
+	},
+	{
+		"word": "trigonometry",
+		"simple_sentence": "I study trigonometry at school.",
+		"complex_sentence": "Trigonometry helps in understanding the relationships between the angles and sides of triangles.",
+		"pronunciation": "/ˌtrɪɡ.əˈnɒm.ɪ.tri/",
+		"spanish": "trigonometría",
+		"id": 188
+	},
+	{
+		"word": "calculus",
+		"simple_sentence": "I study calculus at school.",
+		"complex_sentence": "Calculus plays a fundamental role in analyzing change and motion in various fields.",
+		"pronunciation": "/ˈkæl.kjʊ.ləs/",
+		"spanish": "cálculo",
+		"id": 189
+	},
+	{
+		"word": "statistics",
+		"simple_sentence": "I study statistics at school.",
+		"complex_sentence": "Statistics are key to analyzing data and drawing conclusions in various scientific fields.",
+		"pronunciation": "/stəˈtɪs.tɪks/",
+		"spanish": "estadística",
+		"id": 190
+	},
+	{
+		"word": "computer science",
+		"simple_sentence": "I study computer science at school.",
+		"complex_sentence": "Computer science plays a crucial role in advancing technology and solving complex computational problems.",
+		"pronunciation": "/kəmˈpjuː.tər ˈsaɪ.əns/",
+		"spanish": "ciencias de la computación",
+		"id": 191
+	},
+	{
+		"word": "information technology",
+		"simple_sentence": "I study information technology at school.",
+		"complex_sentence": "Information technology supports the development and management of information systems.",
+		"pronunciation": "/ˌɪn.fəˈmeɪ.ʃən tɛkˈnɒl.ə.dʒi/",
+		"spanish": "tecnología de la información",
+		"id": 192
+	},
+	{
+		"word": "programming",
+		"simple_sentence": "I study programming at school.",
+		"complex_sentence": "Programming allows us to create software and applications that perform specific tasks.",
+		"pronunciation": "/ˈprəʊɡræmɪŋ/",
+		"spanish": "programación",
+		"id": 193
+	},
+	{
+		"word": "coding",
+		"simple_sentence": "I study coding at school.",
+		"complex_sentence": "Coding is an essential skill for building websites, apps, and software programs.",
+		"pronunciation": "/ˈkəʊ.dɪŋ/",
+		"spanish": "codificación",
+		"id": 194
+	},
+	{
+		"word": "engineering",
+		"simple_sentence": "I study engineering at school.",
+		"complex_sentence": "Engineering focuses on designing and building structures, machines, and technologies.",
+		"pronunciation": "/ˌen.dʒɪˈnɪə.rɪŋ/",
+		"spanish": "ingeniería",
+		"id": 195
+	},
+	{
+		"word": "architecture",
+		"simple_sentence": "I study architecture at school.",
+		"complex_sentence": "Architecture involves designing buildings and creating functional, aesthetically pleasing structures.",
+		"pronunciation": "/ˈɑː.kɪ.tek.tʃər/",
+		"spanish": "arquitectura",
+		"id": 196
+	},
+	{
+		"word": "medicine",
+		"simple_sentence": "I study medicine at school.",
+		"complex_sentence": "Medicine is the science of diagnosing and treating diseases to improve health.",
+		"pronunciation": "/ˈmed.ɪ.sɪn/",
+		"spanish": "medicina",
+		"id": 197
+	},
+	{
+		"word": "nursing",
+		"simple_sentence": "I study nursing at school.",
+		"complex_sentence": "Nursing plays a vital role in patient care and health management.",
+		"pronunciation": "/ˈnɜː.sɪŋ/",
+		"spanish": "enfermería",
+		"id": 198
+	},
+	{
+		"word": "law",
+		"simple_sentence": "I study law at school.",
+		"complex_sentence": "Law governs the rules and principles that guide society.",
+		"pronunciation": "/lɔː/",
+		"spanish": "derecho",
+		"id": 199
+	},
+	{
+		"word": "business",
+		"simple_sentence": "I study business at school.",
+		"complex_sentence": "Business focuses on the exchange of goods and services to create value and profit.",
+		"pronunciation": "/ˈbɪz.nɪs/",
+		"spanish": "negocios",
+		"id": 200
+	},
+  {
+		"word": "accounting",
+		"simple_sentence": "I study accounting at school.",
+		"complex_sentence": "Accounting plays a fundamental role in managing and analyzing financial transactions.",
+		"pronunciation": "/əˈkaʊn.tɪŋ/",
+		"spanish": "contabilidad",
+		"id": 201
+	},
+	{
+		"word": "finance",
+		"simple_sentence": "I study finance at school.",
+		"complex_sentence": "Finance is essential for managing resources and investments within a business or organization.",
+		"pronunciation": "/ˈfaɪ.næns/",
+		"spanish": "finanzas",
+		"id": 202
+	},
+	{
+		"word": "marketing",
+		"simple_sentence": "I study marketing at school.",
+		"complex_sentence": "Marketing helps businesses reach their target audience and promote their products or services.",
+		"pronunciation": "/ˈmɑː.kɪ.tɪŋ/",
+		"spanish": "mercadeo",
+		"id": 203
+	},
+	{
+		"word": "management",
+		"simple_sentence": "I study management at school.",
+		"complex_sentence": "Management is key to coordinating people and resources to achieve organizational goals.",
+		"pronunciation": "/ˈmæn.ɪdʒ.mənt/",
+		"spanish": "gestión",
+		"id": 204
+	},
+	{
+		"word": "entrepreneurship",
+		"simple_sentence": "I study entrepreneurship at school.",
+		"complex_sentence": "Entrepreneurship encourages innovation and the creation of new businesses.",
+		"pronunciation": "/ˌɒn.trə.prəˈnɜː.ʃɪp/",
+		"spanish": "emprendimiento",
+		"id": 205
+	},
+	{
+		"word": "ethics",
+		"simple_sentence": "I study ethics at school.",
+		"complex_sentence": "Ethics guide us in making moral decisions and acting with integrity.",
+		"pronunciation": "/ˈeθ.ɪks/",
+		"spanish": "ética",
+		"id": 206
+	},
+	{
+		"word": "environmental science",
+		"simple_sentence": "I study environmental science at school.",
+		"complex_sentence": "Environmental science focuses on the study of how humans interact with the environment.",
+		"pronunciation": "/ɪnˌvaɪə.rənˈmen.təl ˈsaɪəns/",
+		"spanish": "ciencia ambiental",
+		"id": 207
+	},
+	{
+		"word": "sustainability",
+		"simple_sentence": "I study sustainability at school.",
+		"complex_sentence": "Sustainability ensures that resources are used responsibly to protect the environment for future generations.",
+		"pronunciation": "/səˌsteɪ.nəˈbɪl.ɪ.ti/",
+		"spanish": "sostenibilidad",
+		"id": 208
+	},
+	{
+		"word": "foreign languages",
+		"simple_sentence": "I study foreign languages at school.",
+		"complex_sentence": "Learning foreign languages allows us to communicate across cultures and expand our world view.",
+		"pronunciation": "/ˈfɔːr.ɪn ˈlæŋ.ɡwɪdʒz/",
+		"spanish": "idiomas extranjeros",
+		"id": 209
+	},
+	{
+		"word": "translation",
+		"simple_sentence": "I study translation at school.",
+		"complex_sentence": "Translation is essential for enabling communication between speakers of different languages.",
+		"pronunciation": "/trænzˈleɪ.ʃən/",
+		"spanish": "traducción",
+		"id": 210
+	},
+	{
+		"word": "interpretation",
+		"simple_sentence": "I study interpretation at school.",
+		"complex_sentence": "Interpretation helps convey spoken messages in real-time between speakers of different languages.",
+		"pronunciation": "/ɪnˌtɜː.prɪˈteɪ.ʃən/",
+		"spanish": "interpretación",
+		"id": 211
+	},
+	{
+		"word": "linguistics",
+		"simple_sentence": "I study linguistics at school.",
+		"complex_sentence": "Linguistics explores the structure, meaning, and sounds of language.",
+		"pronunciation": "/lɪŋˈɡwɪs.tɪks/",
+		"spanish": "lingüística",
+		"id": 212
+	},
+	{
+		"word": "semantics",
+		"simple_sentence": "I study semantics at school.",
+		"complex_sentence": "Semantics deals with meaning in language and the interpretation of words and sentences.",
+		"pronunciation": "/sɪˈmæn.tɪks/",
+		"spanish": "semántica",
+		"id": 213
+	},
+	{
+		"word": "phonetics",
+		"simple_sentence": "I study phonetics at school.",
+		"complex_sentence": "Phonetics focuses on the sounds of human speech and how they are produced.",
+		"pronunciation": "/fəˈnet.ɪks/",
+		"spanish": "fonética",
+		"id": 214
+	},
+	{
+		"word": "phonology",
+		"simple_sentence": "I study phonology at school.",
+		"complex_sentence": "Phonology examines the way sounds function within a particular language.",
+		"pronunciation": "/fəˈnɒl.ə.dʒi/",
+		"spanish": "fonología",
+		"id": 215
+	},
+	{
+		"word": "morphology",
+		"simple_sentence": "I study morphology at school.",
+		"complex_sentence": "Morphology explores the structure of words and how they are formed.",
+		"pronunciation": "/mɔːˈfɒl.ə.dʒi/",
+		"spanish": "morfología",
+		"id": 216
+	},
+	{
+		"word": "sociolinguistics",
+		"simple_sentence": "I study sociolinguistics at school.",
+		"complex_sentence": "Sociolinguistics investigates how language varies based on social factors like region, class, and ethnicity.",
+		"pronunciation": "/ˌsəʊ.si.oʊ.lɪŋˈɡwɪs.tɪks/",
+		"spanish": "sociolingüística",
+		"id": 217
+	},
+	{
+		"word": "psycholinguistics",
+		"simple_sentence": "I study psycholinguistics at school.",
+		"complex_sentence": "Psycholinguistics focuses on how language is processed in the mind and brain.",
+		"pronunciation": "/ˌsaɪ.kəʊ.lɪŋˈɡwɪs.tɪks/",
+		"spanish": "psicolingüística",
+		"id": 218
+	},
+	{
+		"word": "language acquisition",
+		"simple_sentence": "I study language acquisition at school.",
+		"complex_sentence": "Language acquisition involves how people learn languages naturally and in classrooms.",
+		"pronunciation": "/ˈlæŋ.ɡwɪdʒ ˌækwɪˈzɪʃ.ən/",
+		"spanish": "adquisición de idiomas",
+		"id": 219
+	},
+	{
+		"word": "second language",
+		"simple_sentence": "I study second language at school.",
+		"complex_sentence": "A second language can be essential for communication in an increasingly globalized world.",
+		"pronunciation": "/ˈsek.ənd ˈlæŋ.ɡwɪdʒ/",
+		"spanish": "segundo idioma",
+		"id": 220
+	},
+  {
+		"word": "bilingualism",
+		"simple_sentence": "I study bilingualism at school.",
+		"complex_sentence": "Bilingualism fosters cognitive flexibility and enhances communication in a globalized world.",
+		"pronunciation": "/baɪˈlɪŋ.ɡwə.lɪ.zəm/",
+		"spanish": "bilingüismo",
+		"id": 221
+	},
+	{
+		"word": "multilingualism",
+		"simple_sentence": "I study multilingualism at school.",
+		"complex_sentence": "Multilingualism promotes cultural understanding and broadens educational and professional opportunities.",
+		"pronunciation": "/ˌmʌl.tiˈlɪŋ.ɡwə.lɪ.zəm/",
+		"spanish": "multilingüismo",
+		"id": 222
+	},
+	{
+		"word": "cultural studies",
+		"simple_sentence": "I study cultural studies at school.",
+		"complex_sentence": "Cultural studies explore how societies create and interact with cultural practices and beliefs.",
+		"pronunciation": "/ˈkʌl.tʃər.əl ˈstʌd.iz/",
+		"spanish": "estudios culturales",
+		"id": 223
+	},
+	{
+		"word": "intercultural communication",
+		"simple_sentence": "I study intercultural communication at school.",
+		"complex_sentence": "Intercultural communication plays a key role in fostering understanding between diverse groups.",
+		"pronunciation": "/ˌɪn.tərˈkʌl.tʃər.əl kəˌmjuː.nɪˈkeɪ.ʃən/",
+		"spanish": "comunicación intercultural",
+		"id": 224
+	},
+	{
+		"word": "globalization",
+		"simple_sentence": "I study globalization at school.",
+		"complex_sentence": "Globalization influences economies, cultures, and politics around the world.",
+		"pronunciation": "/ˌɡləʊ.bəl.aɪˈzeɪ.ʃən/",
+		"spanish": "globalización",
+		"id": 225
+	},
+	{
+		"word": "diversity",
+		"simple_sentence": "I study diversity at school.",
+		"complex_sentence": "Diversity enriches communities by bringing different perspectives and ideas.",
+		"pronunciation": "/daɪˈvɜː.sɪ.ti/",
+		"spanish": "diversidad",
+		"id": 226
+	},
+	{
+		"word": "inclusion",
+		"simple_sentence": "I study inclusion at school.",
+		"complex_sentence": "Inclusion ensures that all individuals, regardless of background or ability, have equal access to opportunities.",
+		"pronunciation": "/ɪnˈkluː.ʒən/",
+		"spanish": "inclusión",
+		"id": 227
+	},
+	{
+		"word": "equity",
+		"simple_sentence": "I study equity at school.",
+		"complex_sentence": "Equity focuses on fairness and justice, ensuring everyone receives the resources they need.",
+		"pronunciation": "/ˈek.wɪ.ti/",
+		"spanish": "equidad",
+		"id": 228
+	},
+	{
+		"word": "accessibility",
+		"simple_sentence": "I study accessibility at school.",
+		"complex_sentence": "Accessibility guarantees that spaces, resources, and services are available to everyone, regardless of their abilities.",
+		"pronunciation": "/əkˌses.əˈbɪl.ɪ.ti/",
+		"spanish": "accesibilidad",
+		"id": 229
+	},
+	{
+		"word": "special education",
+		"simple_sentence": "I study special education at school.",
+		"complex_sentence": "Special education tailors learning to meet the needs of students with disabilities.",
+		"pronunciation": "/ˈspeʃ.əl ˌedʒʊˈkeɪ.ʃən/",
+		"spanish": "educación especial",
+		"id": 230
+	},
+	{
+		"word": "learning disabilities",
+		"simple_sentence": "I study learning disabilities at school.",
+		"complex_sentence": "Learning disabilities affect the way a person processes and retains information, requiring specialized educational support.",
+		"pronunciation": "/ˈlɜːn.ɪŋ ˌdɪs.əˈbɪl.ɪ.tiz/",
+		"spanish": "dificultades de aprendizaje",
+		"id": 231
+	},
+	{
+		"word": "ADHD",
+		"simple_sentence": "I study ADHD at school.",
+		"complex_sentence": "ADHD affects concentration and behavior, impacting a student's ability to focus in class.",
+		"pronunciation": "/ˌeɪ.diː.eɪtʃˈdiː/",
+		"spanish": "TDAH (trastorno por déficit de atención e hiperactividad)",
+		"id": 232
+	},
+	{
+		"word": "dyslexia",
+		"simple_sentence": "I study dyslexia at school.",
+		"complex_sentence": "Dyslexia impacts reading and writing skills, often requiring tailored teaching strategies.",
+		"pronunciation": "/dɪˈsleks.i.ə/",
+		"spanish": "dislexia",
+		"id": 233
+	},
+	{
+		"word": "autism",
+		"simple_sentence": "I study autism at school.",
+		"complex_sentence": "Autism spectrum disorder affects social interaction, communication, and behavior, requiring personalized support.",
+		"pronunciation": "/ˈɔː.tɪ.zəm/",
+		"spanish": "autismo",
+		"id": 234
+	},
+	{
+		"word": "gifted education",
+		"simple_sentence": "I study gifted education at school.",
+		"complex_sentence": "Gifted education provides advanced learning opportunities for students with exceptional abilities.",
+		"pronunciation": "/ˈɡɪf.tɪd ˌedʒʊˈkeɪ.ʃən/",
+		"spanish": "educación para estudiantes talentosos",
+		"id": 235
+	},
+	{
+		"word": "individualized education program",
+		"simple_sentence": "I study individualized education program at school.",
+		"complex_sentence": "An individualized education program is designed to meet the unique needs of students with learning disabilities.",
+		"pronunciation": "/ˌɪn.dɪˈvɪdʒ.u.ə.laɪzd ˌedʒʊˈkeɪ.ʃən ˈproʊ.ɡræm/",
+		"spanish": "programa de educación individualizada",
+		"id": 236
+	}
 ]

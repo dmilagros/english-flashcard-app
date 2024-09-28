@@ -1,4 +1,5 @@
-.flashcard-container {
+.wrapper {
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -24,15 +25,17 @@
   text-align: center;
   font-size: 1.5rem;
   margin-bottom: 20px;
-
-  // Estilos generales (por defecto para escritorio grande)
-  width: 600px; // Ancho de escritorio grande
+  width: 600px;
 }
 
 .controls {
   display: flex;
   justify-content: space-between;
   gap: 16px;
+
+  button {
+    min-width: 130px;
+  }
 }
 
 button {
@@ -54,30 +57,63 @@ button {
   font-size: 30px;
   font-weight: 700;
   margin-bottom: 10px;
+  margin: 16px 0 8px 0;
 }
 
 .spanish {
   font-size: 20px;
-  margin-top: 0;
+  margin: 0 0 8px 0;
   color: #ccc;
 }
 
 .pronunciation {
+  margin: 8px 0;
   font-size: 20px;
   color: #007bff;
 }
 
-// Media queries para hacer el diseño responsive
+.simple-sentence,
+.complex-sentence {
+  margin: 12px 0 4px;
+}
 
-// Móviles pequeños (ancho máximo de 600px)
+.simple-sentence-spanish,
+.complex-sentence-spanish {
+  margin: 0;
+}
+
+.complex-sentence,
+.simple-sentence {
+  color: #000000;
+}
+
+.complex-sentence-spanish,
+.simple-sentence-spanish {
+  color: #ccc;
+}
+
 @media (max-width: 600px) {
-  .flashcard {
-    width: 90%; // Ajusta el ancho al 90% de la pantalla
-    font-size: 1.2rem; // Reduce el tamaño de fuente en móviles
+  .container-flashcard {
+    position: relative;
   }
+
+  .flashcard {
+    width: 90%;
+    font-size: 1.2rem;
+  }
+
   .controls {
     width: 100%;
+    /* position: absolute;
+		top: 0;
+		height: 100%;
+		opacity: 0; */
+
+    button {
+      width: 50%;
+    }
   }
+
   .types {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -86,20 +122,29 @@ button {
       font-size: 12px;
     }
   }
+
+  .simple-sentence-spanish,
+  .complex-sentence-spanish {
+    font-size: 14px;
+  }
+
+  .pronunciation {
+    font-size: 14px;
+  }
 }
 
 // Tablets (ancho entre 601px y 900px)
 @media (min-width: 601px) and (max-width: 900px) {
   .flashcard {
-    width: 80%; // Ajusta el ancho al 80% de la pantalla
-    font-size: 1.4rem; // Ajusta el tamaño de fuente para tablets
+    width: 80%;
+    font-size: 1.4rem;
   }
 }
 
 // Escritorio pequeño a grande (más de 900px)
 @media (min-width: 901px) {
   .flashcard {
-    width: 600px; // Ancho fijo para pantallas grandes
+    width: 600px;
     font-size: 1.5rem;
   }
 }

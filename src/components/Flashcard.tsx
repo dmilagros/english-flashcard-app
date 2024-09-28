@@ -5,33 +5,37 @@ interface FlashcardData {
   id: string | number;
   word: string;
   simple_sentence: string;
+  simple_sentence_spanish: string;
   complex_sentence: string;
+  complex_sentence_spanish: string;
   pronunciation: string;
   spanish: string;
 }
 
 const Flashcard: React.FC = () => {
-  const [type, setType] = useState<string>("vocabulary_adjectives_descriptions");
+  const [type, setType] = useState<string>(
+    "vocabulary_adjectives_descriptions"
+  );
   const [cards, setCards] = useState<FlashcardData[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
 
   // Función para cargar las flashcards desde el archivo JSON
-	const fetchFlashcards = async () => {
-		try {
-			const response = await fetch(`/data/${type}.json`);
-			//const response = await fetch(`http://localhost:3001/api/data/${type}.json`);
-			if (!response.ok) {
-				throw new Error(`HTTP error! status: ${response.status}`);
-			}
-			//removeDuplicatesFromFile()
-			const data = await response.json();
-			setCards(data);
-		} catch (error) {
-			console.error("Error al cargar los datos:", error);
-		}
-	};
+  const fetchFlashcards = async () => {
+    try {
+      const response = await fetch(`/data/${type}.json`);
+      //const response = await fetch(`http://localhost:3001/api/data/${type}.json`);
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      //removeDuplicatesFromFile()
+      const data = await response.json();
+      setCards(data);
+    } catch (error) {
+      console.error("Error al cargar los datos:", error);
+    }
+  };
 
-	// Función para eliminar duplicados en el archivo JSON
+  // Función para eliminar duplicados en el archivo JSON
   /* const removeDuplicatesFromFile = async () => {
 		try {
 			//const response = await fetch(`http://localhost:3001/api/remove-duplicates/${type}.json`, {
@@ -51,10 +55,10 @@ const Flashcard: React.FC = () => {
 			console.error("Error al eliminar duplicados:", error);
 		}
 	}; */
-	
-	useEffect(() => {
-		fetchFlashcards();
-	}, [type]);
+
+  useEffect(() => {
+    fetchFlashcards();
+  }, [type]);
 
   const handleNext = () => {
     setCurrentIndex((prevIndex) => (prevIndex + 1) % cards.length);
@@ -85,47 +89,90 @@ const Flashcard: React.FC = () => {
     return <div className="flashcard-container">Cargando tarjetas...</div>;
   }
 
-	const removeDuplicates = (data: FlashcardData[]): FlashcardData[] => {
-		const uniqueWords = new Set();
-		return data.filter((item) => {
-			if (!uniqueWords.has(item.word)) {
-				uniqueWords.add(item.word);
-				return true;
-			}
-			return false;
-		});
-	};
+  const removeDuplicates = (data: FlashcardData[]): FlashcardData[] => {
+    const uniqueWords = new Set();
+    return data.filter((item) => {
+      if (!uniqueWords.has(item.word)) {
+        uniqueWords.add(item.word);
+        return true;
+      }
+      return false;
+    });
+  };
 
   return (
-    <div className="flashcard-container">
-			<div className="types">
-        <button onClick={() => setType("vocabulary_adjectives_descriptions")}>Adjetivos y descripciones</button>
-        <button onClick={() => setType("vocabulary_clothing_accessories")}>Ropa y accesorios</button>
-        <button onClick={() => setType("vocabulary_common_verbs")}>Verbos comunes</button>
-        <button onClick={() => setType("vocabulary_education_learning")}>Educación y aprendizaje</button>
-        <button onClick={() => setType("vocabulary_food_cooking")}>Comida y cocina</button>
-        <button onClick={() => setType("vocabulary_health_wellness")}>Salud y bienestar</button>
-        <button onClick={() => setType("vocabulary_home_furniture")}>Hogar y muebles</button>
-        <button onClick={() => setType("vocabulary_objects")}>Objetos cotidianos</button>
-        <button onClick={() => setType("vocabulary_places_travel")}>Lugares y viajes</button>
-        <button onClick={() => setType("vocabulary_technology")}>Tecnología</button>
-        <button onClick={() => setType("vocabulary_verb_tenses")}>Tiempos verbales</button>
+    <div className="wrapper">
+      <div className="types">
+        <button onClick={() => setType("vocabulary_adjectives_descriptions")}>
+          Adjetivos y descripciones
+        </button>
+        <button onClick={() => setType("vocabulary_clothing_accessories")}>
+          Ropa y accesorios
+        </button>
+        <button onClick={() => setType("vocabulary_common_verbs")}>
+          Verbos comunes
+        </button>
+        <button onClick={() => setType("vocabulary_education_learning")}>
+          Educación y aprendizaje
+        </button>
+        <button onClick={() => setType("vocabulary_food_cooking")}>
+          Comida y cocina
+        </button>
+        <button onClick={() => setType("vocabulary_health_wellness")}>
+          Salud y bienestar
+        </button>
+        <button onClick={() => setType("vocabulary_home_furniture")}>
+          Hogar y muebles
+        </button>
+        <button onClick={() => setType("vocabulary_objects")}>
+          Objetos cotidianos
+        </button>
+        <button onClick={() => setType("vocabulary_places_travel")}>
+          Lugares y viajes
+        </button>
+        <button onClick={() => setType("vocabulary_technology")}>
+          Tecnología
+        </button>
+        <button onClick={() => setType("vocabulary_verb_tenses")}>
+          Tiempos verbales
+        </button>
+        <button onClick={() => setType("vocabulary_phrasal_verbs")}>
+          Phrasal Verbs
+        </button>
       </div>
-      <div className="flashcard">
-        <p className="word">
-          {cards[currentIndex].id}. {cards[currentIndex].word}
-        </p>
-        <p className="spanish">{cards[currentIndex].spanish}</p>
-        <p className="pronunciation">{cards[currentIndex].pronunciation}</p>
-        <p className="simple-sentence">{cards[currentIndex].simple_sentence}</p>
-        <p className="complex-sentence">
-          {cards[currentIndex].complex_sentence}
-        </p>
-      </div>
-      <div className="controls">
-        <button onClick={handlePrev}>Anterior</button>
-        <button onClick={handleNext}>Siguiente</button>
-      </div>
+      <section className="container-flashcard">
+        <div className="flashcard">
+          <p className="word">
+            {cards[currentIndex].id}. {cards[currentIndex].word}
+          </p>
+          <p className="spanish">{cards[currentIndex].spanish}</p>
+          <p className="pronunciation">{cards[currentIndex].pronunciation}</p>
+          {cards[currentIndex].simple_sentence ? (
+            <p className="simple-sentence">
+              {cards[currentIndex].simple_sentence}
+            </p>
+          ) : null}
+          {cards[currentIndex].simple_sentence_spanish ? (
+            <p className="simple-sentence-spanish">
+              {cards[currentIndex].simple_sentence_spanish}
+            </p>
+          ) : null}
+          {cards[currentIndex].complex_sentence ? (
+            <p className="complex-sentence">
+              {cards[currentIndex].complex_sentence}
+            </p>
+          ) : null}
+          {cards[currentIndex].complex_sentence_spanish ? (
+            <p className="complex-sentence-spanish">
+              {cards[currentIndex].complex_sentence_spanish}
+            </p>
+          ) : null}
+        </div>
+        <div className="controls">
+          <button onClick={handlePrev}>Anterior</button>
+          <button onClick={handleNext}>Siguiente</button>
+        </div>
+      </section>
     </div>
   );
 };

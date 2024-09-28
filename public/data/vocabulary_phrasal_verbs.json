@@ -1,0 +1,602 @@
+[
+  {
+    "word": "be about to",
+    "simple_sentence": "I was about to leave when you called.",
+    "complex_sentence": "She was about to make a huge decision that could change her life forever.",
+    "pronunciation": "/bi əˈbaʊt tu/",
+    "spanish": "estar a punto de",
+    "id": 1
+  },
+  {
+    "word": "be after",
+    "simple_sentence": "The police are after the suspect.",
+    "complex_sentence": "The company is after a new manager with extensive experience in sales.",
+    "pronunciation": "/bi ˈæftər/",
+    "spanish": "buscar, perseguir",
+    "id": 2
+  },
+  {
+    "word": "be against",
+    "simple_sentence": "I am against the idea.",
+    "complex_sentence": "The committee is strongly against implementing the new policy due to its potential negative impact.",
+    "pronunciation": "/bi əˈɡeɪnst/",
+    "spanish": "estar en contra de",
+    "id": 3
+  },
+  {
+    "word": "be away",
+    "simple_sentence": "She’s away on a business trip.",
+    "complex_sentence": "The CEO has been away for a month, attending a series of international conferences.",
+    "pronunciation": "/bi əˈweɪ/",
+    "spanish": "estar fuera",
+    "id": 4
+  },
+  {
+    "word": "be back",
+    "simple_sentence": "I'll be back soon.",
+    "complex_sentence": "After months of traveling, she was finally back home and ready to settle down.",
+    "pronunciation": "/bi bæk/",
+    "spanish": "regresar",
+    "id": 5
+  },
+  {
+    "word": "be behind",
+    "simple_sentence": "He is behind on his rent payments.",
+    "complex_sentence": "The project is behind schedule due to unexpected technical difficulties.",
+    "pronunciation": "/bi bɪˈhaɪnd/",
+    "spanish": "estar retrasado",
+    "id": 6
+  },
+  {
+    "word": "be down",
+    "simple_sentence": "The website is down for maintenance.",
+    "complex_sentence": "After the storm, the power was down for several hours, causing major disruptions.",
+    "pronunciation": "/bi daʊn/",
+    "spanish": "estar caído, no funcionar",
+    "id": 7
+  },
+  {
+    "word": "be fed up",
+    "simple_sentence": "I’m fed up with all the noise.",
+    "complex_sentence": "After years of dealing with poor management, the employees were fed up and demanded changes.",
+    "pronunciation": "/bi fɛd ʌp/",
+    "spanish": "estar harto",
+    "id": 8
+  },
+  {
+    "word": "be in",
+    "simple_sentence": "Is the doctor in today?",
+    "complex_sentence": "The manager is in a meeting, but she’ll be available in half an hour.",
+    "pronunciation": "/bi ɪn/",
+    "spanish": "estar presente",
+    "id": 9
+  },
+  {
+    "word": "be into",
+    "simple_sentence": "She’s really into yoga these days.",
+    "complex_sentence": "Lately, he's been deeply into photography, exploring new techniques and styles.",
+    "pronunciation": "/bi ˈɪntuː/",
+    "spanish": "estar interesado en",
+    "id": 10
+  },
+  {
+    "word": "be off",
+    "simple_sentence": "I'm off to the gym.",
+    "complex_sentence": "The meeting is off for today because the speaker is ill.",
+    "pronunciation": "/bi ɒf/",
+    "spanish": "irse, estar cancelado",
+    "id": 11
+  },
+  {
+    "word": "be on",
+    "simple_sentence": "The show is on at 8 PM.",
+    "complex_sentence": "The concert is still on, despite the rainy weather forecast.",
+    "pronunciation": "/bi ɒn/",
+    "spanish": "estar programado",
+    "id": 12
+  },
+  {
+    "word": "be out",
+    "simple_sentence": "He's out at the moment.",
+    "complex_sentence": "The book is out of print, making it difficult to find a copy.",
+    "pronunciation": "/bi aʊt/",
+    "spanish": "estar fuera, estar agotado",
+    "id": 13
+  },
+  {
+    "word": "be over",
+    "simple_sentence": "The match is over.",
+    "complex_sentence": "After years of conflict, the war was finally over, bringing relief to the region.",
+    "pronunciation": "/bi ˈoʊvər/",
+    "spanish": "terminar",
+    "id": 14
+  },
+  {
+    "word": "be up",
+    "simple_sentence": "Prices are up again.",
+    "complex_sentence": "The alarm was set to go off at 6 AM, but she was up even before that.",
+    "pronunciation": "/bi ʌp/",
+    "spanish": "estar levantado, estar subiendo",
+    "id": 15
+  },
+  {
+    "word": "be up to",
+    "simple_sentence": "What are you up to?",
+    "complex_sentence": "He’s up to something suspicious, but I can’t figure out what it is yet.",
+    "pronunciation": "/bi ʌp tu/",
+    "spanish": "tramar, estar haciendo",
+    "id": 16
+  },
+  {
+    "word": "be with",
+    "simple_sentence": "I’m with you on this decision.",
+    "complex_sentence": "Despite the challenges, he assured his team that he was with them every step of the way.",
+    "pronunciation": "/bi wɪθ/",
+    "spanish": "apoyar, estar de acuerdo",
+    "id": 17
+  },
+  {
+    "word": "be away from",
+    "simple_sentence": "She’s away from her desk right now.",
+    "complex_sentence": "Being away from home for so long made him appreciate his family even more.",
+    "pronunciation": "/bi əˈweɪ frəm/",
+    "spanish": "estar lejos de",
+    "id": 18
+  },
+  {
+    "word": "be around",
+    "simple_sentence": "He’ll be around all afternoon.",
+    "complex_sentence": "When things get tough, it's reassuring to know that good friends will always be around.",
+    "pronunciation": "/bi əˈraʊnd/",
+    "spanish": "estar cerca, estar disponible",
+    "id": 19
+  },
+  {
+    "word": "be out of",
+    "simple_sentence": "We are out of milk.",
+    "complex_sentence": "The store was completely out of stock due to the high demand during the holiday season.",
+    "pronunciation": "/bi aʊt əv/",
+    "spanish": "quedarse sin, estar fuera de",
+    "id": 20
+  },
+  {
+    "word": "break down",
+    "simple_sentence": "My car broke down yesterday.",
+    "complex_sentence": "Despite multiple attempts to fix it, the old machine broke down again, causing a lot of frustration.",
+    "pronunciation": "/breɪk daʊn/",
+    "spanish": "averiarse",
+    "id": 21
+  },
+  {
+    "word": "break up",
+    "simple_sentence": "They broke up last year.",
+    "complex_sentence": "After years of turmoil, they decided to break up and go their separate ways.",
+    "pronunciation": "/breɪk ʌp/",
+    "spanish": "romper (una relación)",
+    "id": 22
+  },
+  {
+    "word": "break out",
+    "simple_sentence": "A fire broke out in the building.",
+    "complex_sentence": "Panic ensued when a fire broke out unexpectedly in the crowded theater.",
+    "pronunciation": "/breɪk aʊt/",
+    "spanish": "estallar, escapar",
+    "id": 23
+  },
+  {
+    "word": "break off",
+    "simple_sentence": "They broke off the engagement.",
+    "complex_sentence": "She decided to break off the engagement, realizing they weren't compatible in the long run.",
+    "pronunciation": "/breɪk ɒf/",
+    "spanish": "romper, interrumpir",
+    "id": 24
+  },
+  {
+    "word": "break through",
+    "simple_sentence": "The team broke through the obstacles.",
+    "complex_sentence": "After months of research, the scientists broke through and discovered a groundbreaking solution.",
+    "pronunciation": "/breɪk θruː/",
+    "spanish": "abrirse paso, superar",
+    "id": 25
+  },
+  {
+    "word": "break away",
+    "simple_sentence": "He tried to break away from the group.",
+    "complex_sentence": "She managed to break away from her old habits and adopted a healthier lifestyle.",
+    "pronunciation": "/breɪk əˈweɪ/",
+    "spanish": "desprenderse, separarse",
+    "id": 26
+  },
+  {
+    "word": "break even",
+    "simple_sentence": "The company finally broke even this year.",
+    "complex_sentence": "After years of losses, they were relieved to break even and stabilize their finances.",
+    "pronunciation": "/breɪk ˈiːvən/",
+    "spanish": "cubrir los gastos",
+    "id": 27
+  },
+  {
+    "word": "break into",
+    "simple_sentence": "Someone broke into my car last night.",
+    "complex_sentence": "They broke into the building through the back door, avoiding detection by security cameras.",
+    "pronunciation": "/breɪk ˈɪntuː/",
+    "spanish": "entrar a robar",
+    "id": 28
+  },
+  {
+    "word": "break away from",
+    "simple_sentence": "She broke away from tradition.",
+    "complex_sentence": "He broke away from the restrictive rules of his upbringing to pursue his own path.",
+    "pronunciation": "/breɪk əˈweɪ frəm/",
+    "spanish": "desprenderse de, liberarse de",
+    "id": 29
+  },
+  {
+    "word": "break out in",
+    "simple_sentence": "He broke out in a rash.",
+    "complex_sentence": "After eating shellfish, she broke out in hives and had to be rushed to the hospital.",
+    "pronunciation": "/breɪk aʊt ɪn/",
+    "spanish": "cubrirse de, llenarse de",
+    "id": 30
+  },
+  {
+    "word": "break down into",
+    "simple_sentence": "We need to break the process down into smaller steps.",
+    "complex_sentence": "The project was overwhelming, so they decided to break it down into manageable parts.",
+    "pronunciation": "/breɪk daʊn ˈɪntuː/",
+    "spanish": "descomponer en",
+    "id": 31
+  },
+  {
+    "word": "break for",
+    "simple_sentence": "They broke for lunch at noon.",
+    "complex_sentence": "After a long morning of negotiations, they decided to break for lunch to gather their thoughts.",
+    "pronunciation": "/breɪk fɔr/",
+    "spanish": "hacer un descanso para",
+    "id": 32
+  },
+  {
+    "word": "break out of",
+    "simple_sentence": "He broke out of prison last night.",
+    "complex_sentence": "The prisoner managed to break out of his cell using a makeshift key he had crafted.",
+    "pronunciation": "/breɪk aʊt ʌv/",
+    "spanish": "escapar de",
+    "id": 33
+  },
+  {
+    "word": "break up into",
+    "simple_sentence": "The class broke up into small groups.",
+    "complex_sentence": "To facilitate discussion, the teacher broke the class up into small groups.",
+    "pronunciation": "/breɪk ʌp ˈɪntuː/",
+    "spanish": "dividirse en",
+    "id": 34
+  },
+  {
+    "word": "break down barriers",
+    "simple_sentence": "Music can break down barriers.",
+    "complex_sentence": "The initiative aims to break down barriers and foster understanding between different communities.",
+    "pronunciation": "/breɪk daʊn ˈbæriərz/",
+    "spanish": "romper barreras",
+    "id": 35
+  },
+  {
+    "word": "break off relations",
+    "simple_sentence": "They broke off relations after the disagreement.",
+    "complex_sentence": "The countries broke off diplomatic relations following the controversial election results.",
+    "pronunciation": "/breɪk ɒf rɪˈleɪʃənz/",
+    "spanish": "romper relaciones",
+    "id": 36
+  },
+  {
+    "word": "break the news",
+    "simple_sentence": "He broke the news to his family.",
+    "complex_sentence": "It was difficult for her to break the news of the company's closure to her employees.",
+    "pronunciation": "/breɪk ðə njuːz/",
+    "spanish": "dar la noticia",
+    "id": 37
+  },
+  {
+    "word": "break the silence",
+    "simple_sentence": "She broke the silence with a cough.",
+    "complex_sentence": "He broke the silence by addressing the issue that everyone had been avoiding.",
+    "pronunciation": "/breɪk ðə ˈsaɪləns/",
+    "spanish": "romper el silencio",
+    "id": 38
+  },
+  {
+    "word": "break with tradition",
+    "simple_sentence": "They broke with tradition by celebrating in a new way.",
+    "complex_sentence": "In an effort to modernize, they decided to break with tradition and implement new methods.",
+    "pronunciation": "/breɪk wɪθ trəˈdɪʃən/",
+    "spanish": "romper con la tradición",
+    "id": 39
+  },
+  {
+    "word": "break in",
+    "simple_sentence": "The new shoes need to be broken in.",
+    "complex_sentence": "The director needs time to break in the new team before the project starts.",
+    "pronunciation": "/breɪk ɪn/",
+    "spanish": "domar, amoldar",
+    "id": 40
+  },
+  {
+    "word": "bring about",
+    "simple_sentence": "The new law brought about significant changes.",
+    "complex_sentence": "His innovative approach brought about a shift in the company’s culture and performance.",
+    "pronunciation": "/brɪŋ əˈbaʊt/",
+    "spanish": "provocar, causar",
+    "id": 41
+  },
+  {
+    "word": "bring up",
+    "simple_sentence": "She was brought up by her grandparents.",
+    "complex_sentence": "In the meeting, he brought up an important issue that had been overlooked by everyone else.",
+    "pronunciation": "/brɪŋ ʌp/",
+    "spanish": "criar, mencionar",
+    "id": 42
+  },
+  {
+    "word": "bring back",
+    "simple_sentence": "This song brings back memories.",
+    "complex_sentence": "The old photos brought back a flood of memories from his childhood.",
+    "pronunciation": "/brɪŋ bæk/",
+    "spanish": "devolver, recordar",
+    "id": 43
+  },
+  {
+    "word": "bring out",
+    "simple_sentence": "They are bringing out a new product.",
+    "complex_sentence": "His coaching style really brings out the best in his players.",
+    "pronunciation": "/brɪŋ aʊt/",
+    "spanish": "sacar, resaltar",
+    "id": 44
+  },
+  {
+    "word": "bring down",
+    "simple_sentence": "The measures brought down crime rates.",
+    "complex_sentence": "The government’s efforts to bring down inflation were successful after a series of reforms.",
+    "pronunciation": "/brɪŋ daʊn/",
+    "spanish": "derribar, reducir",
+    "id": 45
+  },
+  {
+    "word": "bring in",
+    "simple_sentence": "The new law will bring in more tourists.",
+    "complex_sentence": "The event was designed to bring in a larger audience and generate more revenue.",
+    "pronunciation": "/brɪŋ ɪn/",
+    "spanish": "atraer, ingresar",
+    "id": 46
+  },
+  {
+    "word": "bring on",
+    "simple_sentence": "The stress brought on his illness.",
+    "complex_sentence": "The harsh conditions brought on a severe drought, affecting the entire region.",
+    "pronunciation": "/brɪŋ ɒn/",
+    "spanish": "provocar, causar",
+    "id": 47
+  },
+  {
+    "word": "bring off",
+    "simple_sentence": "They brought off a surprising victory.",
+    "complex_sentence": "Despite the challenges, the team managed to bring off a successful launch.",
+    "pronunciation": "/brɪŋ ɒf/",
+    "spanish": "llevar a cabo con éxito",
+    "id": 48
+  },
+  {
+    "word": "bring forth",
+    "simple_sentence": "The project brought forth new opportunities.",
+    "complex_sentence": "His speech brought forth a renewed sense of hope and inspiration among the audience.",
+    "pronunciation": "/brɪŋ fɔːrθ/",
+    "spanish": "producir, generar",
+    "id": 49
+  },
+  {
+    "word": "bring forward",
+    "simple_sentence": "They decided to bring the meeting forward.",
+    "complex_sentence": "Due to scheduling conflicts, they brought the event forward by two days.",
+    "pronunciation": "/brɪŋ ˈfɔːrwərd/",
+    "spanish": "adelantar",
+    "id": 50
+  },
+  {
+    "word": "bring to light",
+    "simple_sentence": "The investigation brought to light several new facts.",
+    "complex_sentence": "The report brought to light previously unknown details about the company’s operations.",
+    "pronunciation": "/brɪŋ tə laɪt/",
+    "spanish": "sacar a la luz",
+    "id": 51
+  },
+  {
+    "word": "bring up to date",
+    "simple_sentence": "She brought the team up to date on the project.",
+    "complex_sentence": "He brought the board up to date with the latest figures, detailing the company’s improved performance.",
+    "pronunciation": "/brɪŋ ʌp tə deɪt/",
+    "spanish": "poner al día",
+    "id": 52
+  },
+  {
+    "word": "bring around",
+    "simple_sentence": "She brought around the conversation to the main topic.",
+    "complex_sentence": "After much debate, he finally brought them around to his point of view.",
+    "pronunciation": "/brɪŋ əˈraʊnd/",
+    "spanish": "persuadir, reanimar",
+    "id": 53
+  },
+  {
+    "word": "bring to",
+    "simple_sentence": "The nurse brought him to after he fainted.",
+    "complex_sentence": "It took several minutes for them to bring the injured man to after the accident.",
+    "pronunciation": "/brɪŋ tə/",
+    "spanish": "reanimar",
+    "id": 54
+  },
+  {
+    "word": "bring down the house",
+    "simple_sentence": "The comedian brought down the house.",
+    "complex_sentence": "Her stunning performance brought down the house, earning a standing ovation from the audience.",
+    "pronunciation": "/brɪŋ daʊn ðə haʊs/",
+    "spanish": "poner al público en pie",
+    "id": 55
+  },
+  {
+    "word": "bring home",
+    "simple_sentence": "He brought home the importance of the issue.",
+    "complex_sentence": "The tragedy brought home to everyone the devastating impact of the crisis.",
+    "pronunciation": "/brɪŋ hoʊm/",
+    "spanish": "hacer entender, recalcar",
+    "id": 56
+  },
+  {
+    "word": "bring together",
+    "simple_sentence": "The event brought people together.",
+    "complex_sentence": "The initiative aims to bring together diverse communities and foster mutual understanding.",
+    "pronunciation": "/brɪŋ təˈɡɛðər/",
+    "spanish": "unir",
+    "id": 57
+  },
+  {
+    "word": "bring in line with",
+    "simple_sentence": "They brought the policies in line with regulations.",
+    "complex_sentence": "The company’s policies were brought in line with international standards to ensure compliance.",
+    "pronunciation": "/brɪŋ ɪn laɪn wɪθ/",
+    "spanish": "alinear con",
+    "id": 58
+  },
+  {
+    "word": "bring the curtain down on",
+    "simple_sentence": "The CEO brought the curtain down on the project.",
+    "complex_sentence": "After many setbacks, they decided to bring the curtain down on the initiative and redirect resources elsewhere.",
+    "pronunciation": "/brɪŋ ðə ˈkɜːrtən daʊn ɒn/",
+    "spanish": "poner fin a",
+    "id": 59
+  },
+  {
+    "word": "bring under control",
+    "simple_sentence": "They brought the situation under control.",
+    "complex_sentence": "The firefighters worked tirelessly to bring the blaze under control before it spread to nearby homes.",
+    "pronunciation": "/brɪŋ ˈʌndər kənˈtroʊl/",
+    "spanish": "controlar",
+    "id": 60
+  },
+  {
+    "word": "call back",
+    "simple_sentence": "I’ll call you back later.",
+    "complex_sentence": "He called her back to clarify the details of the meeting.",
+    "pronunciation": "/kɔːl bæk/",
+    "spanish": "devolver la llamada",
+    "id": 61
+  },
+  {
+    "word": "call off",
+    "simple_sentence": "They called off the meeting.",
+    "complex_sentence": "The event was called off due to bad weather, disappointing many attendees.",
+    "pronunciation": "/kɔːl ɒf/",
+    "spanish": "cancelar",
+    "id": 62
+  },
+  {
+    "word": "call out",
+    "simple_sentence": "He called out his name.",
+    "complex_sentence": "She called out to him from across the street, hoping to catch his attention.",
+    "pronunciation": "/kɔːl aʊt/",
+    "spanish": "gritar, convocar",
+    "id": 63
+  },
+  {
+    "word": "call up",
+    "simple_sentence": "He was called up for national service.",
+    "complex_sentence": "The team decided to call up several young players from the academy for the upcoming game.",
+    "pronunciation": "/kɔːl ʌp/",
+    "spanish": "llamar, convocar",
+    "id": 64
+  },
+  {
+    "word": "call in",
+    "simple_sentence": "He called in sick today.",
+    "complex_sentence": "She had to call in a technician to fix the broken system.",
+    "pronunciation": "/kɔːl ɪn/",
+    "spanish": "llamar, hacer venir",
+    "id": 65
+  },
+  {
+    "word": "call for",
+    "simple_sentence": "This calls for immediate action.",
+    "complex_sentence": "The situation calls for drastic measures if we are to avoid disaster.",
+    "pronunciation": "/kɔːl fɔr/",
+    "spanish": "exigir, ameritar",
+    "id": 66
+  },
+  {
+    "word": "call on",
+    "simple_sentence": "The teacher called on him to answer.",
+    "complex_sentence": "In times of need, we often call on our closest friends for support.",
+    "pronunciation": "/kɔːl ɒn/",
+    "spanish": "llamar, recurrir a",
+    "id": 67
+  },
+  {
+    "word": "call away",
+    "simple_sentence": "He was called away from the meeting.",
+    "complex_sentence": "During the presentation, she was called away for an urgent phone call.",
+    "pronunciation": "/kɔːl əˈweɪ/",
+    "spanish": "llamar, hacer salir",
+    "id": 68
+  },
+  {
+    "word": "call into question",
+    "simple_sentence": "His actions called into question his credibility.",
+    "complex_sentence": "The recent allegations have called into question the integrity of the entire organization.",
+    "pronunciation": "/kɔːl ˈɪntuː ˈkwɛsʧən/",
+    "spanish": "poner en duda",
+    "id": 69
+  },
+  {
+    "word": "call by",
+    "simple_sentence": "I’ll call by your office later.",
+    "complex_sentence": "She decided to call by his place after work to drop off the documents.",
+    "pronunciation": "/kɔːl baɪ/",
+    "spanish": "pasar por",
+    "id": 70
+  },
+  {
+    "word": "call at",
+    "simple_sentence": "The train calls at several towns.",
+    "complex_sentence": "The express service will call at major stations only, reducing travel time significantly.",
+    "pronunciation": "/kɔːl æt/",
+    "spanish": "parar en",
+    "id": 71
+  },
+  {
+    "word": "call forth",
+    "simple_sentence": "The speech called forth a strong response.",
+    "complex_sentence": "His leadership in the crisis called forth admiration from his colleagues.",
+    "pronunciation": "/kɔːl fɔrθ/",
+    "spanish": "evocar, provocar",
+    "id": 72
+  },
+  {
+    "word": "call to mind",
+    "simple_sentence": "This calls to mind the issues we faced last year.",
+    "complex_sentence": "The sight of the old house called to mind all the childhood memories they had shared.",
+    "pronunciation": "/kɔːl tə maɪnd/",
+    "spanish": "recordar, evocar",
+    "id": 73
+  },
+  {
+    "word": "call to order",
+    "simple_sentence": "The chairman called the meeting to order.",
+    "complex_sentence": "After a lengthy delay, the judge called the courtroom to order and began the proceedings.",
+    "pronunciation": "/kɔːl tə ˈɔːrdər/",
+    "spanish": "llamar al orden",
+    "id": 74
+  },
+  {
+    "word": "call it a day",
+    "simple_sentence": "Let’s call it a day.",
+    "complex_sentence": "After completing the project, they decided to call it a day and celebrate.",
+    "pronunciation": "/kɔːl ɪt ə deɪ/",
+    "spanish": "dar por terminado",
+    "id": 75
+  }
+]
