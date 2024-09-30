@@ -53,11 +53,19 @@ button {
   }
 }
 
-.word {
+.number, .word {
   font-size: 30px;
   font-weight: 700;
   margin-bottom: 10px;
   margin: 16px 0 8px 0;
+}
+
+.word {
+  text-transform: uppercase;
+}
+
+.number {
+  color: #007bff;
 }
 
 .spanish {
@@ -77,11 +85,6 @@ button {
   margin: 12px 0 4px;
 }
 
-.simple-sentence-spanish,
-.complex-sentence-spanish {
-  margin: 0;
-}
-
 .complex-sentence,
 .simple-sentence {
   color: #000000;
@@ -89,7 +92,25 @@ button {
 
 .complex-sentence-spanish,
 .simple-sentence-spanish {
-  color: #ccc;
+  color: #a6a6a6;
+  margin: 0;
+  font-size: 18px;
+}
+
+.text-to-speech {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.button-speech {
+	width: 24px;
+	min-width: 24px;
+	height: 24px;
+	gap: 4px;
+	img {
+		width: 100%;
+	}
 }
 
 @media (max-width: 600px) {

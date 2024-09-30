@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./Flashcard.scss";
+import { textToSpeech } from "../hooks/textToSpeech";
 
 interface FlashcardData {
   id: string | number;
@@ -12,12 +13,47 @@ interface FlashcardData {
   spanish: string;
 }
 
+interface VocabularyType {
+  label: string;
+  value: string;
+}
+
+/* 
+Phrasal verbs list con Be, Break, Bring, Call
+Phrasal verbs list con Carry, Come, Cut, Do
+Phrasal verbs list con Fall, Get, Give, Go, Keep
+Phrasal verbs list con Look ,Make ,Move ,Pass
+Phrasal verbs list con Pick, Put, Run, Set, See
+Phrasal verbs list con Take, Turn, Work, Give
+Phrasal verbs list con Hold, Check, Take, Bring
+ */
 const Flashcard: React.FC = () => {
   const [type, setType] = useState<string>(
     "vocabulary_adjectives_descriptions"
   );
   const [cards, setCards] = useState<FlashcardData[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
+
+  const typeList: VocabularyType[] = [
+    {
+      label: "Adjetivos y descripciones",
+      value: "vocabulary_adjectives_descriptions",
+    },
+    { label: "Ropa y accesorios", value: "vocabulary_clothing_accessories" },
+    { label: "Verbos comunes", value: "vocabulary_common_verbs" },
+    {
+      label: "Educación y aprendizaje",
+      value: "vocabulary_education_learning",
+    },
+    { label: "Comida y cocina", value: "vocabulary_food_cooking" },
+    { label: "Salud y bienestar", value: "vocabulary_health_wellness" },
+    { label: "Hogar y muebles", value: "vocabulary_home_furniture" },
+    { label: "Objetos cotidianos", value: "vocabulary_objects" },
+    { label: "Lugares y viajes", value: "vocabulary_places_travel" },
+    { label: "Tecnología", value: "vocabulary_technology" },
+    { label: "Tiempos verbales", value: "vocabulary_verb_tenses" },
+    { label: "Phrasal Verbs", value: "vocabulary_phrasal_verbs" },
+  ];
 
   // Función para cargar las flashcards desde el archivo JSON
   const fetchFlashcards = async () => {
@@ -60,6 +96,13 @@ const Flashcard: React.FC = () => {
     fetchFlashcards();
   }, [type]);
 
+  useEffect(() => {
+    window.addEventListener("keydown", handleKeyDown);
+    return () => {
+      window.removeEventListener("keydown", handleKeyDown);
+    };
+  }, [cards]);
+
   const handleNext = () => {
     setCurrentIndex((prevIndex) => (prevIndex + 1) % cards.length);
   };
@@ -78,13 +121,6 @@ const Flashcard: React.FC = () => {
     }
   };
 
-  useEffect(() => {
-    window.addEventListener("keydown", handleKeyDown);
-    return () => {
-      window.removeEventListener("keydown", handleKeyDown);
-    };
-  }, [cards]);
-
   if (cards.length === 0) {
     return <div className="flashcard-container">Cargando tarjetas...</div>;
   }
@@ -100,74 +136,71 @@ const Flashcard: React.FC = () => {
     });
   };
 
+  const renderSentence = (
+    text?: string,
+    className?: string,
+    isClickable = true
+  ) => {
+    return text ? (
+      <div className="text-to-speech">
+        {isClickable ? (
+          <>
+            <div className="button-speech">
+              <img
+                src="/images/normal.png"
+                alt=""
+                onClick={isClickable ? () => textToSpeech(text) : undefined}
+              />
+            </div>
+            <div className="button-speech">
+              <img
+                src="/images/slow.png"
+                alt=""
+                onClick={isClickable ? () => textToSpeech(text) : undefined}
+              />
+            </div>
+          </>
+        ) : null}
+        <p className={className}>{text}</p>
+      </div>
+    ) : null;
+  };
+
   return (
     <div className="wrapper">
       <div className="types">
-        <button onClick={() => setType("vocabulary_adjectives_descriptions")}>
-          Adjetivos y descripciones
-        </button>
-        <button onClick={() => setType("vocabulary_clothing_accessories")}>
-          Ropa y accesorios
-        </button>
-        <button onClick={() => setType("vocabulary_common_verbs")}>
-          Verbos comunes
-        </button>
-        <button onClick={() => setType("vocabulary_education_learning")}>
-          Educación y aprendizaje
-        </button>
-        <button onClick={() => setType("vocabulary_food_cooking")}>
-          Comida y cocina
-        </button>
-        <button onClick={() => setType("vocabulary_health_wellness")}>
-          Salud y bienestar
-        </button>
-        <button onClick={() => setType("vocabulary_home_furniture")}>
-          Hogar y muebles
-        </button>
-        <button onClick={() => setType("vocabulary_objects")}>
-          Objetos cotidianos
-        </button>
-        <button onClick={() => setType("vocabulary_places_travel")}>
-          Lugares y viajes
-        </button>
-        <button onClick={() => setType("vocabulary_technology")}>
-          Tecnología
-        </button>
-        <button onClick={() => setType("vocabulary_verb_tenses")}>
-          Tiempos verbales
-        </button>
-        <button onClick={() => setType("vocabulary_phrasal_verbs")}>
-          Phrasal Verbs
-        </button>
+        {typeList.map((type) => (
+          <button key={type.value} onClick={() => setType(type.value)}>
+            {type.label}
+          </button>
+        ))}
       </div>
       <section className="container-flashcard">
         <div className="flashcard">
-          <p className="word">
-            {cards[currentIndex].id}. {cards[currentIndex].word}
-          </p>
+          <p className="number">{cards[currentIndex].id}</p>
+          {renderSentence(cards[currentIndex].word, "word")}
           <p className="spanish">{cards[currentIndex].spanish}</p>
           <p className="pronunciation">{cards[currentIndex].pronunciation}</p>
-          {cards[currentIndex].simple_sentence ? (
-            <p className="simple-sentence">
-              {cards[currentIndex].simple_sentence}
-            </p>
-          ) : null}
-          {cards[currentIndex].simple_sentence_spanish ? (
-            <p className="simple-sentence-spanish">
-              {cards[currentIndex].simple_sentence_spanish}
-            </p>
-          ) : null}
-          {cards[currentIndex].complex_sentence ? (
-            <p className="complex-sentence">
-              {cards[currentIndex].complex_sentence}
-            </p>
-          ) : null}
-          {cards[currentIndex].complex_sentence_spanish ? (
-            <p className="complex-sentence-spanish">
-              {cards[currentIndex].complex_sentence_spanish}
-            </p>
-          ) : null}
+          {renderSentence(
+            cards[currentIndex].simple_sentence,
+            "simple-sentence"
+          )}
+          {renderSentence(
+            cards[currentIndex].simple_sentence_spanish,
+            "simple-sentence-spanish",
+            false
+          )}
+          {renderSentence(
+            cards[currentIndex].complex_sentence,
+            "complex-sentence"
+          )}
+          {renderSentence(
+            cards[currentIndex].complex_sentence_spanish,
+            "complex-sentence-spanish",
+            false
+          )}
         </div>
+
         <div className="controls">
           <button onClick={handlePrev}>Anterior</button>
           <button onClick={handleNext}>Siguiente</button>
