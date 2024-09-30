@@ -148,15 +148,19 @@ const Flashcard: React.FC = () => {
             <div className="button-speech">
               <img
                 src="/images/normal.png"
-                alt=""
+                alt="icon"
                 onClick={isClickable ? () => textToSpeech(text) : undefined}
               />
             </div>
             <div className="button-speech">
               <img
                 src="/images/slow.png"
-                alt=""
-                onClick={isClickable ? () => textToSpeech(text) : undefined}
+                alt="icon"
+                onClick={
+                  isClickable
+                    ? () => textToSpeech(text, "en-US", 0.05)
+                    : undefined
+                }
               />
             </div>
           </>
