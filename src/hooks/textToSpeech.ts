@@ -3,15 +3,22 @@ export const textToSpeech = (
   lang: string = "en-US",
   rate?: number
 ): void => {
-  // Verifica si el navegador soporta la API de texto a voz
-  if ("speechSynthesis" in window) {
+  if ('speechSynthesis' in window) {
     const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = lang;
+    const voices = window.speechSynthesis.getVoices();
+    
+    // Filtra las voces por idioma
+    const selectedVoice = voices.find((voice) => voice.lang === lang && voice.name.includes("Google"));
+    
+    // Asigna la voz seleccionada, si está disponible
+    if (selectedVoice) {
+      utterance.voice = selectedVoice;
+    }
 
-    // Opcional: Puedes modificar el tono, la velocidad y el volumen
-    utterance.pitch = 1; // Rango entre 0 y 2
-    utterance.rate = rate || 0.8; // Velocidad entre 0.1 y 10
-    utterance.volume = 1; // Volumen entre 0 y 1
+    utterance.lang = lang;
+    utterance.pitch = 1;
+    utterance.rate = rate || 1;
+    utterance.volume = 1;
 
     window.speechSynthesis.speak(utterance);
   } else {

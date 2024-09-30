@@ -174,7 +174,13 @@ const Flashcard: React.FC = () => {
     <div className="wrapper">
       <div className="types">
         {typeList.map((type) => (
-          <button key={type.value} onClick={() => setType(type.value)}>
+          <button
+            key={type.value}
+            onClick={() => {
+              setType(type.value);
+              setCurrentIndex(0);
+            }}
+          >
             {type.label}
           </button>
         ))}
